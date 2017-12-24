@@ -1,0 +1,9 @@
+CycleA,CycleB
+U,D
+R,L
+D,U
+R,L
+R,L
+R,L
+R,L
+R*,L*

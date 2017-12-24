@@ -1,0 +1,20 @@
+use Astar;
+
+package SlidingState;
+
+
+
+
+package SlidingAStar;
+
+sub AStar
+{
+    my($slidinginfo,$doprint) = @_;
+
+    my $initial = new SlidingState($slidinginfo);
+
+    return Astar::Astar($initial,$doprint);
+}
+
+
+    

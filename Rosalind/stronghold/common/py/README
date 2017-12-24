@@ -1,0 +1,46 @@
+
+This program, `py', translates Bison's `*.output' into perl code
+that parses the language specified by the .output file.
+
+If you run
+
+	py bool.output
+
+you get a file, bool.pl, which contains the tables that drive the parser.
+bool.pl will include py-skel.pl, which is the parser itself.  When you
+want to parse an input, call `yyparse'; this function is in
+py-skel.pl.  
+
+`yyparse' expects to call `yylex' to get tokens from the input; you
+need to supply yylex.  yylex works like YACC's yylex: Each time it is
+called, it should read a token from the input, figure out its type and
+value, assign the value to $yylval, and return the type.  
+
+yyparse will also call functions named `rule_1', `rule_2', etc. to
+perform the actions associated with those rules.  If you run `py' with
+the `-r' flag, it will write out a skeleton rules file, with simple
+actions already set up; each rule function will have a comment like
+	# rule 3
+	# bool -> bool '&' bool
+
+so you can tell what it is for.
+
+The arguments to a rule function are the semantic values of its
+components.  The `rule 3' above would get three arguments:  $_[0]
+would be the value of the first `bool' expression, $_[1] would be the
+value of the '&' token, and $_[2] would be the value of the second
+`bool' expression.  
+
+A rule function should return the value of the expression it is parsing.
+(This is the value that you would normally assign to the YACC special
+variable `$$'.)  In the example above, you might write
+
+	rule_3 {
+	  return $_[0] && $_[2];
+	}
+
+.  -r will not overwrite an existing rule file unless you also specify
+`-f'.  
+
+The parser supports a $yydebug variable.  If $yydebug is true, the
+parser will print lots of diagnostic messages to stderr.

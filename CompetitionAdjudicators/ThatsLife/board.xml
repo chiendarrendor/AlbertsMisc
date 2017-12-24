@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<thatslife turn="">
+  <players>
+    <player name="Muggles" lastroll="3">
+      <claimedtile name="minus_7"/>
+      <claimedtile name="negator"/>
+      <claimedtile name="plus_5"/>
+      <claimedtile name="minus_2"/>
+      <claimedtile name="minus_10"/>
+      <claimedtile name="negator"/>
+      <claimedtile name="minus_2"/>
+      <claimedtile name="minus_3"/>
+      <claimedtile name="minus_6"/>
+    </player>
+    <player name="Advertisers" lastroll="5">
+      <claimedtile name="minus_3"/>
+      <claimedtile name="plus_8"/>
+      <claimedtile name="plus_1"/>
+      <claimedtile name="minus_9"/>
+      <claimedtile name="plus_3"/>
+    </player>
+    <player name="GamerGeeks" currentroll="2">
+      <claimedtile name="minus_4"/>
+      <claimedtile name="minus_8"/>
+      <claimedtile name="minus_5"/>
+      <claimedtile name="negator"/>
+      <claimedtile name="plus_7"/>
+      <claimedtile name="plus_2"/>
+    </player>
+    <player name="GoldenDogs" lastroll="5">
+      <claimedtile name="minus_1"/>
+      <claimedtile name="negator"/>
+      <claimedtile name="negator"/>
+      <claimedtile name="minus_8"/>
+      <claimedtile name="minus_5"/>
+    </player>
+    <player name="Pagans" lastroll="5">
+      <claimedtile name="negator"/>
+      <claimedtile name="plus_4"/>
+      <claimedtile name="minus_1"/>
+      <claimedtile name="plus_6"/>
+    </player>
+    <player name="Naughties" lastroll="1">
+      <claimedtile name="minus_6"/>
+      <claimedtile name="minus_4"/>
+    </player>
+  </players>
+  <board>
+    <tile name="start">
+    </tile>
+    <tile name="minus_7">
+      <token owner="GamerGeeks" id="0"/>
+    </tile>
+    <tile name="end">
+      <guardian id="7"/>
+      <guardian id="3"/>
+      <guardian id="5"/>
+      <guardian id="6"/>
+      <guardian id="0"/>
+      <token owner="Pagans" id="1"/>
+      <token owner="Muggles" id="1"/>
+      <token owner="Advertisers" id="0"/>
+      <guardian id="2"/>
+      <token owner="Pagans" id="2"/>
+      <guardian id="1"/>
+      <token owner="Naughties" id="1"/>
+      <token owner="Advertisers" id="1"/>
+      <token owner="Naughties" id="2"/>
+      <token owner="GoldenDogs" id="2"/>
+      <guardian id="4"/>
+      <token owner="Naughties" id="0"/>
+      <token owner="Advertisers" id="2"/>
+      <token owner="GoldenDogs" id="0"/>
+      <token owner="GamerGeeks" id="2"/>
+      <token owner="GoldenDogs" id="1"/>
+      <token owner="Pagans" id="0"/>
+      <token owner="Muggles" id="0"/>
+      <token owner="GamerGeeks" id="1"/>
+      <token owner="Muggles" id="2"/>
+    </tile>
+  </board>
+</thatslife>

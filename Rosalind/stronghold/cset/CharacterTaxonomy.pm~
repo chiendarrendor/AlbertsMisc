@@ -1,0 +1,6 @@
+use TaxaTree;
+
+sub UniqueName
+{
+    return "DUMMY" . $uid++;
+}

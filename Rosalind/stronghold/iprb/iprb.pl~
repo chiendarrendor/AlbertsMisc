@@ -1,0 +1,15 @@
+die("bad command line") unless @ARGV == 3;
+$AAcount = $ARGV[0];
+$Aacount = $ARGV[1];
+$aacount = $ARGV[2];
+
+$tcount = $AAcount + $Aacount + $aacount;
+my $prob = 0;
+
+# a.  prob of choosing AA?
+my $AA1prob = $AAcount / $tcount;
+
+# a-1 prob of choosing AA after choosing AA
+
+
+

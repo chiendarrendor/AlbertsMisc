@@ -1,0 +1,51 @@
+
+%token number
+%token string
+
+%%
+
+Tree: 
+     RootLeaf ';' |
+     RootInternal ';' |
+     Branch ';'
+     ;
+
+RootLeaf:
+     Name |
+     '(' Branch ')' Name
+     ;
+
+RootInternal:
+     '(' BranchSet ',' Branch ')' Name
+     ;
+
+Branch:
+     Subtree Length
+     ;
+
+Length:
+     /* empty */ |
+     ':' number
+     ;
+
+Subtree:
+     Leaf |
+     Internal
+     ;
+
+Leaf:
+     Name
+     ;
+
+Name:
+     /* empty */ |
+     string
+     ;
+
+BranchSet:
+    Branch |
+    BranchSet ',' Branch
+    ;
+
+
+     

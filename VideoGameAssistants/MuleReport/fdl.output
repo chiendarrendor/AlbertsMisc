@@ -1,0 +1,534 @@
+Rules:
+------
+0:	$start -> file $end
+1:	file -> directivelist
+2:	directivelist -> metadirective ';'
+3:	directivelist -> directivelist metadirective ';'
+4:	metadirective -> IF PERLEXP directive
+5:	metadirective -> directive
+6:	bitlist -> bit
+7:	bitlist -> bitlist bit
+8:	bit -> NAME ':' BITNUM ';'
+9:	bit -> NAME ':' BITNUM '(' NAME ')' ';'
+10:	block -> '{' directivelist '}'
+11:	directive -> NAME ':' INT
+12:	directive -> NAME ':' INT '(' NAME ')'
+13:	directive -> NAME ':' BYTE
+14:	directive -> NAME ':' BYTE '(' NAME ')'
+15:	directive -> NAME ':' BYTES '(' NUM ')'
+16:	directive -> NAME ':' SHORT
+17:	directive -> NAME ':' SHORT '(' NAME ')'
+18:	directive -> NAME ':' STRING '(' NUM ')'
+19:	directive -> SKIPBYTES '(' NUM ')'
+20:	directive -> NAME ':' DEFINE block
+21:	directive -> BITS '{' bitlist '}'
+22:	directive -> NAME ':' SUB block
+23:	directive -> NAME ':' SUB block '(' NAME ')'
+24:	directive -> NAME ':' SUB NAME
+25:	directive -> NAME ':' SUB NAME '(' NAME ')'
+
+States:
+-------
+State 0:
+
+	$start -> . file $end	(Rule 0)
+
+	BITS	shift, and go to state 2
+	IF	shift, and go to state 6
+	NAME	shift, and go to state 1
+	SKIPBYTES	shift, and go to state 3
+
+	directivelist	go to state 5
+	file	go to state 4
+	directive	go to state 8
+	metadirective	go to state 7
+
+State 1:
+
+	directive -> NAME . ':' INT	(Rule 11)
+	directive -> NAME . ':' INT '(' NAME ')'	(Rule 12)
+	directive -> NAME . ':' BYTE	(Rule 13)
+	directive -> NAME . ':' BYTE '(' NAME ')'	(Rule 14)
+	directive -> NAME . ':' BYTES '(' NUM ')'	(Rule 15)
+	directive -> NAME . ':' SHORT	(Rule 16)
+	directive -> NAME . ':' SHORT '(' NAME ')'	(Rule 17)
+	directive -> NAME . ':' STRING '(' NUM ')'	(Rule 18)
+	directive -> NAME . ':' DEFINE block	(Rule 20)
+	directive -> NAME . ':' SUB block	(Rule 22)
+	directive -> NAME . ':' SUB block '(' NAME ')'	(Rule 23)
+	directive -> NAME . ':' SUB NAME	(Rule 24)
+	directive -> NAME . ':' SUB NAME '(' NAME ')'	(Rule 25)
+
+	':'	shift, and go to state 9
+
+State 2:
+
+	directive -> BITS . '{' bitlist '}'	(Rule 21)
+
+	'{'	shift, and go to state 10
+
+State 3:
+
+	directive -> SKIPBYTES . '(' NUM ')'	(Rule 19)
+
+	'('	shift, and go to state 11
+
+State 4:
+
+	$start -> file . $end	(Rule 0)
+
+	$end	shift, and go to state 12
+
+State 5:
+
+	file -> directivelist .	(Rule 1)
+	directivelist -> directivelist . metadirective ';'	(Rule 3)
+
+	BITS	shift, and go to state 2
+	IF	shift, and go to state 6
+	NAME	shift, and go to state 1
+	SKIPBYTES	shift, and go to state 3
+
+	$default	reduce using rule 1 (file)
+
+	metadirective	go to state 13
+	directive	go to state 8
+
+State 6:
+
+	metadirective -> IF . PERLEXP directive	(Rule 4)
+
+	PERLEXP	shift, and go to state 14
+
+State 7:
+
+	directivelist -> metadirective . ';'	(Rule 2)
+
+	';'	shift, and go to state 15
+
+State 8:
+
+	metadirective -> directive .	(Rule 5)
+
+	$default	reduce using rule 5 (metadirective)
+
+State 9:
+
+	directive -> NAME ':' . INT	(Rule 11)
+	directive -> NAME ':' . INT '(' NAME ')'	(Rule 12)
+	directive -> NAME ':' . BYTE	(Rule 13)
+	directive -> NAME ':' . BYTE '(' NAME ')'	(Rule 14)
+	directive -> NAME ':' . BYTES '(' NUM ')'	(Rule 15)
+	directive -> NAME ':' . SHORT	(Rule 16)
+	directive -> NAME ':' . SHORT '(' NAME ')'	(Rule 17)
+	directive -> NAME ':' . STRING '(' NUM ')'	(Rule 18)
+	directive -> NAME ':' . DEFINE block	(Rule 20)
+	directive -> NAME ':' . SUB block	(Rule 22)
+	directive -> NAME ':' . SUB block '(' NAME ')'	(Rule 23)
+	directive -> NAME ':' . SUB NAME	(Rule 24)
+	directive -> NAME ':' . SUB NAME '(' NAME ')'	(Rule 25)
+
+	BYTE	shift, and go to state 16
+	BYTES	shift, and go to state 22
+	DEFINE	shift, and go to state 20
+	INT	shift, and go to state 19
+	SHORT	shift, and go to state 18
+	STRING	shift, and go to state 21
+	SUB	shift, and go to state 17
+
+State 10:
+
+	directive -> BITS '{' . bitlist '}'	(Rule 21)
+
+	NAME	shift, and go to state 23
+
+	bit	go to state 24
+	bitlist	go to state 25
+
+State 11:
+
+	directive -> SKIPBYTES '(' . NUM ')'	(Rule 19)
+
+	NUM	shift, and go to state 26
+
+State 12:
+
+	$start -> file $end .	(Rule 0)
+
+	$default	accept
+
+State 13:
+
+	directivelist -> directivelist metadirective . ';'	(Rule 3)
+
+	';'	shift, and go to state 27
+
+State 14:
+
+	metadirective -> IF PERLEXP . directive	(Rule 4)
+
+	BITS	shift, and go to state 2
+	NAME	shift, and go to state 1
+	SKIPBYTES	shift, and go to state 3
+
+	directive	go to state 28
+
+State 15:
+
+	directivelist -> metadirective ';' .	(Rule 2)
+
+	$default	reduce using rule 2 (directivelist)
+
+State 16:
+
+	directive -> NAME ':' BYTE .	(Rule 13)
+	directive -> NAME ':' BYTE . '(' NAME ')'	(Rule 14)
+
+	'('	shift, and go to state 29
+
+	$default	reduce using rule 13 (directive)
+
+State 17:
+
+	directive -> NAME ':' SUB . block	(Rule 22)
+	directive -> NAME ':' SUB . block '(' NAME ')'	(Rule 23)
+	directive -> NAME ':' SUB . NAME	(Rule 24)
+	directive -> NAME ':' SUB . NAME '(' NAME ')'	(Rule 25)
+
+	'{'	shift, and go to state 31
+	NAME	shift, and go to state 30
+
+	block	go to state 32
+
+State 18:
+
+	directive -> NAME ':' SHORT .	(Rule 16)
+	directive -> NAME ':' SHORT . '(' NAME ')'	(Rule 17)
+
+	'('	shift, and go to state 33
+
+	$default	reduce using rule 16 (directive)
+
+State 19:
+
+	directive -> NAME ':' INT .	(Rule 11)
+	directive -> NAME ':' INT . '(' NAME ')'	(Rule 12)
+
+	'('	shift, and go to state 34
+
+	$default	reduce using rule 11 (directive)
+
+State 20:
+
+	directive -> NAME ':' DEFINE . block	(Rule 20)
+
+	'{'	shift, and go to state 31
+
+	block	go to state 35
+
+State 21:
+
+	directive -> NAME ':' STRING . '(' NUM ')'	(Rule 18)
+
+	'('	shift, and go to state 36
+
+State 22:
+
+	directive -> NAME ':' BYTES . '(' NUM ')'	(Rule 15)
+
+	'('	shift, and go to state 37
+
+State 23:
+
+	bit -> NAME . ':' BITNUM ';'	(Rule 8)
+	bit -> NAME . ':' BITNUM '(' NAME ')' ';'	(Rule 9)
+
+	':'	shift, and go to state 38
+
+State 24:
+
+	bitlist -> bit .	(Rule 6)
+
+	$default	reduce using rule 6 (bitlist)
+
+State 25:
+
+	bitlist -> bitlist . bit	(Rule 7)
+	directive -> BITS '{' bitlist . '}'	(Rule 21)
+
+	'}'	shift, and go to state 39
+	NAME	shift, and go to state 23
+
+	bit	go to state 40
+
+State 26:
+
+	directive -> SKIPBYTES '(' NUM . ')'	(Rule 19)
+
+	')'	shift, and go to state 41
+
+State 27:
+
+	directivelist -> directivelist metadirective ';' .	(Rule 3)
+
+	$default	reduce using rule 3 (directivelist)
+
+State 28:
+
+	metadirective -> IF PERLEXP directive .	(Rule 4)
+
+	$default	reduce using rule 4 (metadirective)
+
+State 29:
+
+	directive -> NAME ':' BYTE '(' . NAME ')'	(Rule 14)
+
+	NAME	shift, and go to state 42
+
+State 30:
+
+	directive -> NAME ':' SUB NAME .	(Rule 24)
+	directive -> NAME ':' SUB NAME . '(' NAME ')'	(Rule 25)
+
+	'('	shift, and go to state 43
+
+	$default	reduce using rule 24 (directive)
+
+State 31:
+
+	block -> '{' . directivelist '}'	(Rule 10)
+
+	BITS	shift, and go to state 2
+	IF	shift, and go to state 6
+	NAME	shift, and go to state 1
+	SKIPBYTES	shift, and go to state 3
+
+	directivelist	go to state 44
+	metadirective	go to state 7
+	directive	go to state 8
+
+State 32:
+
+	directive -> NAME ':' SUB block .	(Rule 22)
+	directive -> NAME ':' SUB block . '(' NAME ')'	(Rule 23)
+
+	'('	shift, and go to state 45
+
+	$default	reduce using rule 22 (directive)
+
+State 33:
+
+	directive -> NAME ':' SHORT '(' . NAME ')'	(Rule 17)
+
+	NAME	shift, and go to state 46
+
+State 34:
+
+	directive -> NAME ':' INT '(' . NAME ')'	(Rule 12)
+
+	NAME	shift, and go to state 47
+
+State 35:
+
+	directive -> NAME ':' DEFINE block .	(Rule 20)
+
+	$default	reduce using rule 20 (directive)
+
+State 36:
+
+	directive -> NAME ':' STRING '(' . NUM ')'	(Rule 18)
+
+	NUM	shift, and go to state 48
+
+State 37:
+
+	directive -> NAME ':' BYTES '(' . NUM ')'	(Rule 15)
+
+	NUM	shift, and go to state 49
+
+State 38:
+
+	bit -> NAME ':' . BITNUM ';'	(Rule 8)
+	bit -> NAME ':' . BITNUM '(' NAME ')' ';'	(Rule 9)
+
+	BITNUM	shift, and go to state 50
+
+State 39:
+
+	directive -> BITS '{' bitlist '}' .	(Rule 21)
+
+	$default	reduce using rule 21 (directive)
+
+State 40:
+
+	bitlist -> bitlist bit .	(Rule 7)
+
+	$default	reduce using rule 7 (bitlist)
+
+State 41:
+
+	directive -> SKIPBYTES '(' NUM ')' .	(Rule 19)
+
+	$default	reduce using rule 19 (directive)
+
+State 42:
+
+	directive -> NAME ':' BYTE '(' NAME . ')'	(Rule 14)
+
+	')'	shift, and go to state 51
+
+State 43:
+
+	directive -> NAME ':' SUB NAME '(' . NAME ')'	(Rule 25)
+
+	NAME	shift, and go to state 52
+
+State 44:
+
+	directivelist -> directivelist . metadirective ';'	(Rule 3)
+	block -> '{' directivelist . '}'	(Rule 10)
+
+	'}'	shift, and go to state 53
+	BITS	shift, and go to state 2
+	IF	shift, and go to state 6
+	NAME	shift, and go to state 1
+	SKIPBYTES	shift, and go to state 3
+
+	metadirective	go to state 13
+	directive	go to state 8
+
+State 45:
+
+	directive -> NAME ':' SUB block '(' . NAME ')'	(Rule 23)
+
+	NAME	shift, and go to state 54
+
+State 46:
+
+	directive -> NAME ':' SHORT '(' NAME . ')'	(Rule 17)
+
+	')'	shift, and go to state 55
+
+State 47:
+
+	directive -> NAME ':' INT '(' NAME . ')'	(Rule 12)
+
+	')'	shift, and go to state 56
+
+State 48:
+
+	directive -> NAME ':' STRING '(' NUM . ')'	(Rule 18)
+
+	')'	shift, and go to state 57
+
+State 49:
+
+	directive -> NAME ':' BYTES '(' NUM . ')'	(Rule 15)
+
+	')'	shift, and go to state 58
+
+State 50:
+
+	bit -> NAME ':' BITNUM . ';'	(Rule 8)
+	bit -> NAME ':' BITNUM . '(' NAME ')' ';'	(Rule 9)
+
+	'('	shift, and go to state 60
+	';'	shift, and go to state 59
+
+State 51:
+
+	directive -> NAME ':' BYTE '(' NAME ')' .	(Rule 14)
+
+	$default	reduce using rule 14 (directive)
+
+State 52:
+
+	directive -> NAME ':' SUB NAME '(' NAME . ')'	(Rule 25)
+
+	')'	shift, and go to state 61
+
+State 53:
+
+	block -> '{' directivelist '}' .	(Rule 10)
+
+	$default	reduce using rule 10 (block)
+
+State 54:
+
+	directive -> NAME ':' SUB block '(' NAME . ')'	(Rule 23)
+
+	')'	shift, and go to state 62
+
+State 55:
+
+	directive -> NAME ':' SHORT '(' NAME ')' .	(Rule 17)
+
+	$default	reduce using rule 17 (directive)
+
+State 56:
+
+	directive -> NAME ':' INT '(' NAME ')' .	(Rule 12)
+
+	$default	reduce using rule 12 (directive)
+
+State 57:
+
+	directive -> NAME ':' STRING '(' NUM ')' .	(Rule 18)
+
+	$default	reduce using rule 18 (directive)
+
+State 58:
+
+	directive -> NAME ':' BYTES '(' NUM ')' .	(Rule 15)
+
+	$default	reduce using rule 15 (directive)
+
+State 59:
+
+	bit -> NAME ':' BITNUM ';' .	(Rule 8)
+
+	$default	reduce using rule 8 (bit)
+
+State 60:
+
+	bit -> NAME ':' BITNUM '(' . NAME ')' ';'	(Rule 9)
+
+	NAME	shift, and go to state 63
+
+State 61:
+
+	directive -> NAME ':' SUB NAME '(' NAME ')' .	(Rule 25)
+
+	$default	reduce using rule 25 (directive)
+
+State 62:
+
+	directive -> NAME ':' SUB block '(' NAME ')' .	(Rule 23)
+
+	$default	reduce using rule 23 (directive)
+
+State 63:
+
+	bit -> NAME ':' BITNUM '(' NAME . ')' ';'	(Rule 9)
+
+	')'	shift, and go to state 64
+
+State 64:
+
+	bit -> NAME ':' BITNUM '(' NAME ')' . ';'	(Rule 9)
+
+	';'	shift, and go to state 65
+
+State 65:
+
+	bit -> NAME ':' BITNUM '(' NAME ')' ';' .	(Rule 9)
+
+	$default	reduce using rule 9 (bit)
+
+
+Summary:
+--------
+Number of rules         : 26
+Number of terminals     : 21
+Number of non-terminals : 8
+Number of states        : 66

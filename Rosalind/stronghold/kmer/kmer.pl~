@@ -1,0 +1,22 @@
+BEGIN {push @INC,"../common"; }
+use FASTA;
+
+die("bad command line\n") unless @ARGV == 1;
+my $fname = $ARGV[0];
+
+my $file = new FASTAFILE($fname);
+
+my $width = 4;
+
+my $dna = $file->GetFASTAS()->[0]->GetDNA();
+for ($i = 0 ; $i < length($dna) - $width + 1 ; ++$i)
+{
+    ++$kmers{substr($dna,$i,$width)};
+}
+
+for $kmer (sort keys %kmers)
+{
+    print $kmers{$kmer}," ";
+}
+print "\n";
+

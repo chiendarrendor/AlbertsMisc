@@ -1,0 +1,198 @@
+#!/usr/bin/perl
+# -*- perl -*-
+#
+#    py: Generate tables for YACC parser in Perl
+#    Copyright 1995 Mark-Jason Dominus (mjd@pobox.com)
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#
+
+
+$version = '0.1';
+$date = '25 Aug 1995';
+$time = scalar(localtime);
+
+require 'getopts.pl';
+&Getopts('rf');
+
+$infile = $ARGV[0] || 'y.output';
+$outfile = $infile;
+$outfile =~ s/\.output$//;
+$rulefile = $outfile . '-rules.pl';
+$outfile .= '.pl';
+
+unless (open(Y , "< $infile")) {
+  die "Couldn\'t open input file $infile for reading: $!";
+}
+unless (open(P , "> $outfile")) {
+  die "Couldn\'t open output file $outfile for writing: $!";
+}
+if ($opt_r) {
+  if (-e $rulefile && !$opt_f) {
+    print STDERR "There is already a rule file \`$rulefile\'.\nUse -f option to overwrite it.\n";
+    exit 1;
+  }
+  unless (open(R , "> $rulefile")) {
+    die "Couldn\'t open output file $outfile for writing: $!";
+  }
+}
+while (<Y>) {
+  chop;
+  next unless (/\S/);
+#  next if /^Conflict in state \d+/;
+#  next if /^Grammar/;
+  if (/^rule (\d+)/) {
+    local($ruleno) = $1;
+    s/^rule \d+\s+//;
+    $rule[$ruleno] = $_;	# Remember the rule for later comment
+    # rules and reductions are converses, so the
+    # rule's left side is the reduction's result.
+    # if the rule says
+    #  exp -> exp '+' exp
+    # that means that 
+    #  exp '+' exp
+    # can be reduced to exp.  So the RHS of the reduction
+    # is on the left here.
+    ($rhs, $lhs) = /^(\S+)\s+\-\>\s+(.*)$/;
+    $length[$ruleno] = scalar(split(/\s+/, $lhs));
+    $rhs[$ruleno] = $rhs;
+  } elsif (/^state (\d+)/) {
+    $state = $1;
+    next;
+  } elsif (!defined($state)) {
+    next;
+  }
+
+  # We are reading the list of actions for a certain
+  # state, \`$state\'.  The line is not blank.
+  # Actions come in two kinds: lookahead actions, 
+  # which you perform after reading a token and which say
+  # whether to shift the token or reduce
+  # according to a rule, 
+  # and reduce jumps, which say what state to go into
+  # following a reduce.  The two knids of actions are listed
+  # separately, with a blank line between.
+  next if /\-\>/;		# Skip lines with ->
+  local($lhs, $rhs) = /\s*(\S+)\s+(.*)$/;
+  if ($lhs eq "\$") {		# Special case for EOF symbol 
+    $lhs = 'End_of_Input'; 
+    $rhs =~ /^go to state (\d+)/;
+    $act{$state,$lhs} = "goto $1";
+    next;
+  }
+
+  $lhs =~ s/^\'(\\?.)\'$/$1/;
+  if ($rhs =~ /^shift, and go to state (\d+)$/) {
+    $act{$state,$lhs} = "shift $1";
+  } elsif ($rhs =~ /^reduce using rule (\d+)/) {
+    $act{$state,$lhs} = "reduce $1";
+  } elsif ($rhs =~ /^go to state (\d+)/) {
+    $act{$state,$lhs} = "goto $1";
+  } elsif ($rhs =~ /^accept$/) {
+    $act{$state,$lhs} = "accept";
+  } else {
+    warn "Unrecognized RHS in state $state: $rhs\n$_\n";
+  }
+}
+close Y;
+
+print P "#!/usr/bin/perl
+# parse language described in $infile
+# Perl source code automatically generated at $time by
+# py v.$version $date
+# Source code copyright 1995 M-J. Dominus (mjd\@pobox.com)
+#
+
+require 'py-skel.pl';
+require '$rulefile';
+
+\$; = \"\\034\";
+\%act = (
+";
+
+foreach $k (sort {$a <=> $b} (keys %act)) {
+  local($v) = $act{$k};
+  $k =~ s/([^\020-\176])/sprintf("\\x%x", unpack('c', $1))/ge;
+  $k =~ s/([\$\"])/\\$1/g;
+  print P "\"$k\",\t\'$v\',\n";
+}
+
+print P ");
+
+\@length = (";
+foreach $l (@length) {
+  print P ($l||0), ', ';
+}
+
+print P ");\n\n\@rhs = (";
+foreach $rhs (@rhs) {
+  $rhs =~ s/\'/\\\'/g;
+  print P "\'$rhs\', ";
+}
+print P ");\n\n";
+
+print P "\@rule = (\n";
+for ($r=0; $r <= $#rule; $r++) {
+  local($rule) = $rule[$r];
+  $rule =~ s/\\/\\\\/g;
+  $rule =~ s/\'/\\\'/g;
+  print P "  \'$rule\',\n";
+}
+print P ");\n\n";
+
+close P;
+
+if ($opt_r) {
+  print R <<EOM;
+#
+# Reduction rules for $outfile
+# Perl source code automatically generated at $time by
+# py v.$version $date
+# Source code copyright 1995 M-J. Dominus (mjd\@pobox.com)
+#
+EOM
+  for ($r=1; $r <= $#rule; $r++) {
+    print R "
+# rule $r
+# $rule[$r]
+sub rule_$r {
+  return \$_[0];
+}
+";
+  }
+print R <<EOM;
+
+#
+# Main program
+# (You should replace this)
+#
+yyparse();
+
+#
+# Lexer
+# (You should also replace this)
+#
+sub yylex {
+  # I should read a token from the input stream I should set \$yylval
+  # to its semantic value, and I should return its syntactic class.
+  # This is just like the yylex function that regular YACC uses.
+}
+
+EOM
+
+  close R;
+}
+

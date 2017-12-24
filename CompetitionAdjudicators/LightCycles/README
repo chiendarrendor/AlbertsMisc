@@ -1,0 +1,69 @@
+Contents:
+
+Light Cycles Arbitrator:
+	LightCycles.pl
+	Game.pm
+	
+Light Cycles Game Visualizer:
+	ChainingAnimationElement.java
+	GameInfo.java
+	LightCycleFrame.java
+	LightCyclePanel.java
+	LightCycles.java
+	MyAnimationPanel.java
+	PlayerInfo.java
+	
+Sample Tournament Files:
+	Players.txt
+	executables:
+		Albert.exe
+		AlwaysLeft.pl
+		AlwaysRight.pl
+		ManualSteering.pl
+		
+Player Interface:
+	<program> [extra options] <this player code> <location of board file> <work directory>
+
+	The programmer will generate a program that will take on its command line as the last three 
+	arguments a player code (a single letter representing this player), the location of the current
+	turn's board file, and a working directory that the program can use for run-to-run data storage.
+	
+	This program will be run once to completion every time the adjudicator needs one move from the
+	AI.
+	
+	The board file contains a white-space seperated list of cells.  An empty cell has a single character '.'.
+	The current position of the player in question is the unique cell that contains a single character
+	identical to the player code.   There will be one other space on the board that contains a single non-period
+	character; that is the other player's current location.
+	
+	Prior turns' positions are marked with a number followed by the player code that was there, i.e. '3A' means
+	that the A player was there at the beginning of turn 3 (1-based counting)
+	
+	The output of the program will be a single line of text, containing a single character thus:
+		'U' -- move up
+		'D' -- move down
+		'L' -- move left
+		'R' -- move right
+		'-' -- resign
+		
+Adjudicator Interface:
+	Players.txt contains one or more lines of the following, where each line represents a player:
+		<1-character code>,<player name>,<base command line for AI program>
+		
+	LightCycles.pl takes the following arguments:
+		<Players.txt file> <work dir (must not exist> <game size>
+		
+	LightCycles.pl will then play two games between each pair of players, one with the player starting on the left,
+	and the other with the player starting on the right.   It will then record win/loss/tie status and report
+	that as a final ordered result on the screen.
+	
+	Inside <work dir>/final is a file for each game placed of the form 'AvsB.txt' containing the moves made by
+	the two players in that game.
+	
+Visualizer Interface:
+	java LightCycles <game move file> <game size>
+	<game move file> is one of the files in the 'final' subdirectory of the adjudicator work directory
+	<game size> must be the same size as specified as the argument to LightCycles.pl.
+	
+	
+	

@@ -1,0 +1,42 @@
+BEGIN {push @INC,"../common"; }
+use FASTA;
+
+
+
+die("bad command line\n") unless @ARGV == 1;
+open(FD,$ARGV[0]) || die("Can't open file");
+@prots = <FD>;
+close FD;
+
+@prots = map { $_ =~ s/\r?\n$// } @prots;
+@prots = map { "http://uniprot.org/uniprot" . $_ . ".fasta" } @prots;
+print join(",",@prots),"\n";
+exit(1);
+
+
+
+my $fname = $ARGV[0];
+
+my $file = new FASTAFILE($fname);
+
+my $bestfasta;
+my $bestgc = -1;
+for (my $i = 0 ; $i < @{$file->GetFASTAS()} ; ++$i)
+{
+    my $fasta = $file->GetFASTAS()->[$i];
+    my $ncounts = NucleotideCount($fasta->GetDNA());
+    my $total = $ncounts->{A} + $ncounts->{G} + $ncounts->{T} + $ncounts->{C};
+    my $numer = $ncounts->{G} + $ncounts->{C};
+    my $gccontent = $numer / $total * 100.0;
+
+    if ($gccontent > $bestgc)
+    {
+	$bestfasta = $fasta;
+	$bestgc = $gccontent;
+    }
+}
+
+print $bestfasta->GetName(),"\n";
+printf("%.6f%%\n",$bestgc);
+
+

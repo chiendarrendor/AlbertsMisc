@@ -1,0 +1,36 @@
+TM01 Mega Punch -- 3000 Money
+TM02 Razor Wind -- 2000 Money	x
+TM03 Swords Dance
+TM05 Mega Kick -- 3000 Money	x
+TM07 Horn Drill -- 1000 Money
+TM09 Take Down -- 3000 Money	x
+TM15 Hyper Beam -- 5500 Coins
+TM17 Submission -- 3000 Money	x
+TM18 Counter
+TM21 Mega Drain
+TM23 Dragon Rage -- 3300 Coins
+TM26 Earthquake
+TM27 Fissure
+TM30 Teleport
+TM31 Mimic
+TM32 Double Team -- 1000 Money	x
+TM33 Reflect -- 1000 Money		x
+TM35 Metronome
+TM36 Selfdestruct
+TM37 Egg Bomb -- 2000 Money		x
+TM41 Softboiled
+TM44 Rest
+TM45 Thunder Wave
+TM46 Psywave
+TM47 Explosion
+TM48 Rock Slide
+TM50 Substitute -- 7700 Coins
+HM01 Cut
+HM02 Fly
+HM03 Surf
+HM04 Strength
+HM05 Flash
+
+
+Calcium: +Special
+Carbos: +Speed

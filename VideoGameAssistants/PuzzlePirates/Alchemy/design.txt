@@ -1,0 +1,36 @@
+
+parts:
+
+GA library:
+given a factory for constructing individuals (template?)
+and some additional scalar properties:
+
+1. create a random population of specified size
+2. for the specified number of generations:
+   a. determine the fitness of each current member
+   b. create a new empty population
+   c. as many times as the specified size:
+      1. choose two members of the existing population,
+	 randomly weighted by that member's fitness as
+	 a fraction of the sum total fitness.
+      2. copy one member, cross it over with the other
+      3. if random(0,1) < specified mutation percentage,
+	 mutate the copied and crossovered member.
+      4. insert this new member into the new population
+   d. make the new population the current population
+
+Alchemy board:
+specify colors at the top (Y,R,B,Q) and the bottom 
+(Y,R,B,V,O,G) (special vertical pipes)
+specify pipes in the middle
+
+Individual pipe cells know how many distinct rotations
+they have, and how many different pipes they have.
+
+The individual for the GA library is a specification
+of one distinct rotation for each cell in the board.
+
+
+
+
+      

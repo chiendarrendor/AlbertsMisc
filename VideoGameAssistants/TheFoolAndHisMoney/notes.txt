@@ -1,0 +1,16 @@
+'L' puzzles: l_exchange.pl
+'C' puzzles: l_exchange.pl
+'G' puzzles: grid4.pl
+stained glass puzzles 1: stainedglass.pl
+quintin: look online for hint and then kick yourself
+	 (furthest two in direction fool is looking that are not original pair)
+'H' puzzles: plain old grep
+'T' puzzles: print out 
+hexes: hex.pl is suprisingly unhelpful
+'J' puzzles: plain old grep
+'M' puzzles: m_puzzles.pl (takes arg of specific puzzle)
+voorst: voorst.pl
+vibbard: vibbard.pl
+vranken: vranken.pl
+vanderveer: vanderveer.pl
+'O' puzzles: grid3.pl

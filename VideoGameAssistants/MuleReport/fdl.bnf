@@ -1,0 +1,49 @@
+%%
+
+file:
+	directivelist		{ $_[1] }
+	;
+
+directivelist:
+	metadirective ';' 			{ return [ $_[1] ]; }
+	| directivelist metadirective ';' 	{ [ @{$_[1]} , $_[2] ] }
+	;
+
+metadirective:
+	IF PERLEXP directive	{ $_[1]->{BOOLEAN} = $_[2]; $_[1]; }
+	| directive		{ $_[1] }
+	;
+
+bitlist:
+	bit		{ [ $_[1] ] }
+	| bitlist bit	{ [ @{$_[1]},$_[2] ] }
+	;
+
+bit:
+	NAME ':' BITNUM ';'		{ { NAME=>$_[1],NUM=>$_[3] } }
+	| NAME ':' BITNUM '(' NAME ')' ';' { { NAME=>$_[1],NUM=>$_[3],DECODE=>$_[5] } }
+	;
+
+block: 
+	'{' directivelist '}' { $_[2] }
+	;
+
+directive:
+	NAME ':' INT			{ { TYPE=>'Int',NAME=>$_[1] } }
+	| NAME ':' INT '(' NAME ')'	{ { TYPE=>'Int',NAME=>$_[1],DECODE=>$_[5] } }
+	| NAME ':' BYTE			{ { TYPE=>'Byte',NAME=>$_[1] } }
+	| NAME ':' BYTE '(' NAME ')'	{ { TYPE=>'Byte',NAME=>$_[1],DECODE=>$_[5] } }
+	| NAME ':' BYTES '(' NUM ')'	{ { TYPE=>'Bytes',NAME=>$_[1],LENGTH=>$_[5] } }
+	| NAME ':' SHORT		{ { TYPE=>'Short',NAME=>$_[1] } }
+	| NAME ':' SHORT '(' NAME ')'	{ { TYPE=>'Short',NAME=>$_[1],DECODE=>$_[5] } }
+	| NAME ':' STRING '(' NUM ')'	{ { TYPE=>'String',LENGTH=>$_[5],NAME=>$_[1] } }
+	| SKIPBYTES '(' NUM ')'		{ { TYPE=>'SkipBytes',LENGTH=>$_[3] } }
+	| NAME ':' DEFINE block		{ { TYPE=>'Define',BODY=>$_[4],NAME=>$_[1] } }
+	| BITS '{' bitlist '}'		{ { TYPE=>'Bits',BITS=>$_[3] } }
+	| NAME ':' SUB block		  { { NAME=>$_[1],TYPE=>'Sub',BODY=>$_[4] } }
+	| NAME ':' SUB block '(' NAME ')' { { NAME=>$_[1],TYPE=>'Sub',BODY=>$_[4],DECODE=>$_[6] } }
+	| NAME ':' SUB NAME 		  { { NAME=>$_[1],TYPE=>'Sub',BODYNAME=>$_[4] } }
+	| NAME ':' SUB NAME  '(' NAME ')' { { NAME=>$_[1],TYPE=>'Sub',BODYNAME=>$_[4],DECODE=>$_[6] } }
+	;
+
+%%

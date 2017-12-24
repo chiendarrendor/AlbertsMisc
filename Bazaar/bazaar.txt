@@ -1,0 +1,303 @@
+# given a starting position, consisting 
+# of a string of one or more characters of
+# g (green), y (yellow), v (violet), r (red), and w (white),
+# and four end positions, each consisting of exactly five
+# of those characters, 
+# determine the shortest path to each of the four
+# results.
+
+use Astar;
+
+package Bazaar;
+
+my @xfers;
+
+sub LoadXFers
+{
+    open(XFR,"bazxfr1.txt") || die("Can't open tranfer file\n");
+    
+    while(<XFR>)
+    {
+	chomp;
+	my ($from,$to) = split("/");
+	push @xfers,[$from,$to];
+    }
+    close XFR;
+}
+
+sub OneSuccessor
+{
+    my ($this,$from,$to) = @_;
+
+    my $thismax = length($this->{CURSTATE});
+    my $frmax = length($from);
+
+    if ($frmax > $thismax)
+    {
+	return undef;
+    }
+
+    my @this = split //,$this->{CURSTATE};
+    my @from = split //,$from;
+
+    my $thisi = 0;
+    my $fromi = 0;
+    my $nmatch = 0;
+    my $leftouts = "";
+
+    while($thisi < $thismax && $fromi < $frmax)
+    {
+	if ($this[$thisi] lt $from[$fromi])
+	{
+	    $leftouts .= $this[$thisi];
+	    $thisi++;
+	}
+	elsif ($this[$thisi] gt $from[$fromi])
+	{
+	    $fromi++;
+	}
+	else
+	{
+	    $nmatch++;
+	    $thisi++;
+	    $fromi++;
+	}
+    }
+
+    while($thisi < $thismax)
+    {
+	$leftouts .= $this[$thisi];
+	$thisi++;
+    }
+
+    if ($nmatch < $frmax)
+    {
+	return undef;
+    }
+
+    my $result = new Bazaar($leftouts . $to,$this->{TARGET},$this->{MAXDEPTH});
+    $result->{MOVE} = "$from => $to";
+    $result->{PARENT} = $this->{CURSTATE};
+    $result->{DEPTH} = $this->{DEPTH} + 1;
+
+    return $result;
+}
+    
+
+
+sub Successors
+{
+    my ($this) = @_;
+    my @result;
+
+    my $i;
+
+    if ($this->{DEPTH} > $this->{MAXDEPTH})
+    {
+	return @result;
+    }
+
+    for ($i = 0 ; $i < @xfers ; $i++)
+    {
+	my $to = $xfers[$i]->[0];
+	my $fro = $xfers[$i]->[1];
+
+	my $tr = $this->OneSuccessor($to,$fro);
+	if ($tr)
+	{
+	    push @result,$tr;
+	}
+
+	my $fr = $this->OneSuccessor($fro,$to);
+	if ($fr)
+	{
+	    push @result,$fr;
+	}
+    }
+    return @result;
+}
+
+sub new
+{
+	my ($class,$source,$target,$maxdepth) = @_;
+
+	my $this = {};
+	bless $this,$class;
+	$this->{CURSTATE} = $this->Canonicalize($source);
+	$this->{TARGET} = $this->Canonicalize($target);
+	$this->{DEPTH} = 0;
+	$this->{MAXDEPTH} = $maxdepth;
+	return $this;
+}
+
+sub Canonicalize
+{
+    my ($this,$string) = @_;
+
+    return join("",sort split(//,$string));
+}
+
+
+sub CanonicalKey
+{
+	my ($this) = @_;
+	return $this->{CURSTATE};
+}
+
+sub DisplayString
+{
+	my ($this) = @_;
+	my $result = sprintf("%15s => %5s (%s)\n",
+	       $this->{CURSTATE},
+	       $this->{TARGET},
+	       $this->{MOVE});
+	return $result;
+}
+
+sub Move
+{
+	my ($this) = @_;
+	return $this->{MOVE};
+}
+
+sub Parent
+{
+	my ($this) = @_;
+	return $this->{PARENT};
+}
+
+sub WinGrade
+{
+	return 5;
+}
+
+sub Grade
+{
+    my ($this) = @_;
+    my $grade = 0;	
+
+    my $cmax = length($this->{CURSTATE});
+    my $tmax = length($this->{TARGET});
+
+    if ($cmax > $tmax && !exists($this->{LOOSE}))
+    {
+	$grade = $tmax - $cmax;
+    }
+
+    my @cur = split //,$this->{CURSTATE};
+    my @tar = split //,$this->{TARGET};
+
+    my $ci = 0;
+    my $ti = 0;
+
+    while($ci < $cmax && $ti < $tmax)
+    {
+	if ($cur[$ci] lt $tar[$ti])
+	{
+	    $ci++;
+	}
+	elsif($cur[$ci] gt $tar[$ti])
+	{
+	    $ti++;
+	}
+	else
+	{
+	    # $cur[$ci] eq $tar[$ti];
+	    $grade++;
+	    $ci++;
+	    $ti++;
+	}
+    }
+    return $grade;
+}
+	
+
+package main;
+
+sub StringOk
+{
+    my ($str) = @_;
+    my $ans;
+    $ans = $str =~ /[^gyvrw]/;
+    return length($ans) == 0 ? 1 : 0;
+}
+
+
+if (@ARGV < 3)
+{
+    die("Bad Command Line\n");
+}
+
+$maxdepth = $ARGV[0];
+
+$start = $ARGV[1];
+if (length($start) < 1)
+{
+    die("Bad Initial State, no characters!\n");
+}
+
+if (!StringOk($start))
+{
+    die("Bad Initial State ($start). Illegal Characters\n");
+}
+
+
+
+for ($i = 0 ; $i < scalar(@ARGV) - 2 ; $i++)
+{
+    $target[$i] = $ARGV[$i+2];
+    if (!StringOk($target[$i]))
+    {
+	die("Bad Target State ($target[$i]) Illegal Characters\n");
+    }
+    if (length($target[$i]) != 5)
+    {
+	die("Bad Target State($target[$i]) Not Length 5\n");
+    }
+
+    $targetstate[$i] = new Bazaar($start,$target[$i],$maxdepth);
+}
+
+Bazaar::LoadXFers();
+
+for ($i = 0 ; $i < @targetstate ; $i++)
+{
+    print "For Target $i:\n";
+    my @result;
+
+    @result = Astar::Astar($targetstate[$i],0);
+
+    if (@result == 0)
+    {
+	print "No Solution Found...trying loose\n";
+	$targetstate[$i]->{LOOSE}=1;
+	@result = Astar::Astar($targetstate[$i],0);
+    }
+
+    if (@result == 0)
+    {
+	print "No Loose Solution Found...\n";
+    }
+    else
+    {
+	print scalar(@result) - 1," turns: ";
+	for ($j = 1 ; $j < @result ; $j++)
+	{
+	    if ($j != 1)
+	    {
+		print ", ";
+	    }
+	    print $result[$j]->Move();
+	}
+	print "\n";
+    }
+}
+
+
+    
+
+
+
+
+		
+

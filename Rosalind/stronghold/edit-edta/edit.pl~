@@ -1,0 +1,180 @@
+
+# the output of this is a hashref of two parts:
+# { DISTANCE=>d , DELTAS=>[ <changes> ] }
+# DELTAS consist of:
+# 'S<char>' -- characters are identical in both
+# 'I<char>' -- a character appears in $s2 that is not in $s1
+# 'D<char>' -- a character appears in $s1 that is not in $s2
+# 'T<char1><char2>' char is char 1 in s1, char2 in s2
+sub LevenshteinDistance
+{
+    my ($s1,$s2) = @_;
+    my %ldmemo;
+    return LevenshteinDistanceR(\%ldmemo,$s1,0,$s2,0);
+}
+
+
+sub LevenshteinDistanceR
+{
+    my ($ldmemo,$s1,$s1loc,$s2,$s2loc) = @_;
+
+    if (exists $ldmemo->{$s1loc,$s2loc})
+    {
+	my $result = $ldmemo->{$s1loc,$s2loc};
+
+#	print "$s1 -> $s2 : ",$result->{DISTANCE}," -- ",join(",",@{$result->{DELTAS}}),"\n";
+
+	return $result;
+    }
+
+    my $l1 = length($s1);
+    my $l2 = length($s2);
+
+    if ($l1 == 0)
+    {
+	my $changes = [];
+	for (my $i = 0 ; $i < $l2 ; ++$i)
+	{
+	    push @$changes,"I".substr($s2,$i,1);
+	}
+
+	my $result = { DISTANCE=>$l2,DELTAS=>$changes };
+	$ldmemo->{$s1loc,$s2loc} = $result;
+
+#	print "$s1 -> $s2 : ",$result->{DISTANCE}," -- ",join(",",@{$result->{DELTAS}}),"\n";
+	return $result;
+    }
+
+    if ($l2 == 0)
+    {
+	my $changes = [];
+	for (my $i = 0 ; $i < $l1 ; ++$i)
+	{
+	    push @$changes,"D".substr($s1,$i,1);
+	}
+
+	my $result = { DISTANCE=>$l1,DELTAS=>$changes };
+	$ldmemo->{$s1loc,$s2loc} = $result;
+#	print "$s1 -> $s2 : ",$result->{DISTANCE}," -- ",join(",",@{$result->{DELTAS}}),"\n";
+	return $result;
+    }
+
+    my $c1 = substr($s1,0,1);
+    my $c2 = substr($s2,0,1);
+
+    my $opt1 = LevenshteinDistanceR(
+	$ldmemo,
+	substr($s1,1), $s1loc + 1,
+	$s2 , $s2loc,
+	) ;
+    $opt1->{ND} = $opt1->{DISTANCE}+1;
+    $opt1->{PREFIX} = "D" . $c1;
+
+    my $opt2 = LevenshteinDistanceR(
+	$ldmemo,
+	$s1, $s1loc,
+	substr($s2,1) , $s2loc+1,
+	) ;
+
+    $opt2->{ND} = $opt2->{DISTANCE} + 1;
+    $opt2->{PREFIX} = "I" . $c2;
+
+    my $opt3 = LevenshteinDistanceR(
+	$ldmemo,
+	substr($s1,1), $s1loc+1,
+	substr($s2,1), $s2loc+1,
+	) ;
+
+    if ($c1 eq $c2)
+    {
+	$opt3->{ND} = $opt3->{DISTANCE};
+	$opt3->{PREFIX} = "S" . $c1;
+    }
+    else
+    {
+	$opt3->{ND} = $opt3->{DISTANCE} + 1;
+	$opt3->{PREFIX} = "T" . $c1 . $c2;
+    }
+
+    my @opts = sort { $a->{ND} <=> $b->{ND} } ($opt1,$opt2,$opt3);
+
+    my $changes = [];
+    push @$changes,$opts[0]->{PREFIX};
+    push @$changes,@{$opts[0]->{DELTAS}};
+
+    my $result = {
+	DISTANCE=>$opts[0]->{ND},
+	DELTAS=>$changes
+    };
+
+#    print "  ",$opts[0]->{PREFIX}," + ",join(",",@{$opts[0]->{DELTAS}}), " = ",join(",",@$changes),"\n";
+
+
+
+    $ldmemo->{$s1loc,$s2loc} = $result;
+
+#    print "$s1 -> $s2 : ",$result->{DISTANCE}," -- ",join(",",@{$result->{DELTAS}}),"\n";
+
+    return $result;
+
+}
+
+sub OpDelta
+{
+    my ($ary,$which) = @_;
+    my $result = "";
+
+    for my $i (@$ary)
+    {
+	my $t = substr($i,0,1);
+	if ($t eq 'S') { $result .= substr($i,1,1); }
+	elsif($t eq 'D')
+	{
+	    $result .= "-" if $which == 2;
+	    $result .= substr($i,1,1) if $which == 1;
+	}
+	elsif($t eq 'I')
+	{
+	    $result .= "-" if $which == 1;
+	    $result .= substr($i,1,1) if $which == 2;
+	}
+	else
+	{
+	    $result .= substr($i,1,1) if $which == 1;
+	    $result .= substr($i,2,1) if $which == 2;
+	}
+
+    }
+
+    return $result;
+}
+
+
+    
+
+
+
+# ------------------ main -------------
+
+die("bad command line") unless @ARGV;
+open(FD,$ARGV[0]) || die("can't open file");
+$str1 = <FD>;
+$str1 =~ s/\r?\n$//;
+$str2 = <FD>;
+$str2 =~ s/\r?\n$//;
+close FD;
+
+
+my $ld = LevenshteinDistance($str1,$str2);
+print $ld->{DISTANCE},"\n";
+print OpDelta($ld->{DELTAS},1),"\n";
+print OpDelta($ld->{DELTAS},2),"\n";
+
+
+
+    
+
+
+
+
+	

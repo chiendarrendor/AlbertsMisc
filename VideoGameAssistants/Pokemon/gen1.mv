@@ -1,0 +1,165 @@
+Absorb	grass	special	20	100	0	25	A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+Acid	poison	special	40	100	0	30	The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.
+Acid Armor	poison	other	0	100	0	40	The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.
+Agility	psychic	other	0	100	0	30	The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+Amnesia	psychic	other	0	100	0	20	The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.
+Aurora Beam	ice	special	65	100	10	20	The foe is hit with a rainbow-colored beam. It may also lower the target's Attack stat.
+Barrage	normal	physical	15	85	0	20	Round objects are hurled at the foe to strike two to five times in a row.
+Barrier	psychic	other	0	100	0	30	The user throws up a sturdy wall that sharply raises its Defense stat.
+Bide	normal	physical	1	100	0	10	The user endures attacks for two turns, then strikes back to cause double the damage taken.
+Bind	normal	physical	15	75	0	20	A long body or tentacles are used to bind and squeeze the foe for two to five turns.
+Bite	normal	physical	60	100	30	25	The foe is bitten with viciously sharp fangs. It may make the target flinch.
+Blizzard	ice	special	120	70	10	5	A howling blizzard is summoned to strike the foe. It may also freeze the target solid.
+Body Slam	normal	physical	85	100	30	15	The user drops onto the foe with its full body weight. It may leave the foe Paralyzed.
+Bone Club	ground	physical	65	85	10	20	The user clubs the foe with a bone. It may also make the target flinch.
+Bonemerang	ground	physical	50	90	0	10	The user throws the bone it holds. The bone loops to hit the foe twice, coming and going.
+Bubble	water	special	20	100	10	30	A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.
+BubbleBeam	water	special	65	100	10	20	A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.
+Clamp	water	physical	35	75	0	10	The foe is clamped and squeezed by the user's very thick and sturdy shell for two to five turns.
+Comet Punch	normal	physical	18	85	0	15	The foe is hit with a flurry of punches that strike two to five times in a row.
+Confuse Ray	ghost	other	0	100	0	10	The foe is exposed to a sinister ray that triggers confusion.
+Confusion	psychic	special	50	100	10	25	The foe is hit by a weak telekinetic force. It may also leave the foe confused.
+Constrict	normal	physical	10	100	10	35	The foe is attacked with long, creeping tentacles or vines. It may also lower the target's Speed.
+Conversion	normal	other	0	100	0	30	The user changes its type to become the same type as one of its moves.
+Counter	fighting	physical	1	100	0	20	A retaliation move that counters any physical attack, inflicting double the damage taken.
+Crabhammer	water	physical	90	85	0	10	The foe is hammered with a large pincer. This move has a high critical-hit ratio.
+Cut	normal	physical	50	95	0	30	The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.
+Defense Curl	normal	other	0	100	0	40	The user curls up to conceal weak spots and raise its Defense stat.
+Dig	ground	physical	80	100	0	10	The user burrows, then attacks on the second turn. It can also be used to exit dungeons.
+Disable	normal	other	0	80	0	20	For several turns, this move prevents the foe from using the move it last used.
+Dizzy Punch	normal	physical	70	100	20	10	The foe is hit with a rhythmically launched punch that may also leave it confused.
+Double-Edge	normal	physical	120	100	0	15	A reckless, life-risking tackle. It also damages the user by a fairly large amount, however.
+Double Kick	fighting	physical	30	100	0	30	The foe is quickly kicked twice in succession using both feet.
+DoubleSlap	normal	physical	15	85	0	10	The foe is slapped repeatedly, back and forth, two to five times in a row.
+Double Team	normal	other	0	100	0	15	By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.
+Dragon Rage	dragon	special	1	100	0	10	The foe is stricken by a shock wave. This attack always inflicts 40 HP damage.
+Dream Eater	psychic	special	100	100	0	15	An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.
+Drill Peck	flying	physical	80	100	0	20	A corkscrewing attack with the sharp beak acting as a drill.
+Earthquake	ground	physical	100	100	0	10	The user sets off an earthquake that hits all the Pokémon in the battle.
+Egg Bomb	normal	physical	100	75	0	10	A large egg is hurled with maximum force at the foe to inflict damage.
+Ember	fire	special	40	100	10	25	The foe is attacked with small flames. The target may also be left with a burn.
+Explosion	normal	physical	250	100	0	5	The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.
+Fire Blast	fire	special	120	85	10	5	The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.
+Fire Punch	fire	physical	75	100	10	15	The foe is punched with a fiery fist. It may leave the target with a burn.
+Fire Spin	fire	special	15	70	0	15	The foe becomes trapped within a fierce vortex of fire that rages for two to five turns.
+Fissure	ground	physical	1	30	0	5	The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.
+Flamethrower	fire	special	95	100	10	15	The foe is scorched with an intense blast of fire. The target may also be left with a burn.
+Flash	normal	other	0	100	0	20	The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.
+Fly	flying	physical	90	95	0	15	The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.
+Focus Energy	normal	other	0	100	0	30	The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.
+Fury Attack	normal	physical	15	85	0	20	The foe is jabbed repeatedly with a horn or beak two to five times in a row.
+Fury Swipes	normal	physical	18	80	0	15	The foe is raked with sharp claws or scythes for two to five times in quick succession.
+Glare	normal	other	0	75	0	30	The user intimidates the foe with the pattern on its belly to cause Paralysis.
+Growl	normal	other	0	100	0	40	The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.
+Growth	normal	other	0	100	0	40	The user's body is forced to grow all at once. It raises the Sp. Atk stat.
+Guillotine	normal	physical	1	30	0	5	A vicious, tearing attack with pincers. The foe will faint instantly if this attack hits.
+Gust	normal	special	40	100	0	35	A gust of wind is whipped up by wings and launched at the foe to inflict damage.
+Harden	normal	other	0	100	0	30	The user stiffens all the muscles in its body to raise its Defense stat.
+Haze	ice	other	0	100	0	30	The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.
+Headbutt	normal	physical	70	100	30	15	The user sticks its head out and rams straight forward. It may make the foe flinch.
+Hi Jump Kick	fighting	physical	100	90	0	20	The foe is attacked with a knee kick from a jump. If it misses, the user is hurt instead.
+Horn Attack	normal	physical	65	100	0	25	The foe is jabbed with a sharply pointed horn to inflict damage.
+Horn Drill	normal	physical	1	30	0	5	The foe is stabbed with a horn rotating like a drill. The foe instantly faints if it hits.
+Hydro Pump	water	special	120	80	0	5	The foe is blasted by a huge volume of water launched under great pressure.
+Hyper Beam	normal	special	150	90	0	5	The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.
+Hyper Fang	normal	physical	80	90	10	15	The user bites hard on the foe with its sharp front fangs. It may also make the target flinch.
+Hypnosis	psychic	other	0	60	0	20	The user employs hypnotic suggestion to make the target fall into a deep sleep.
+Ice Beam	ice	special	95	100	10	10	The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.
+Ice Punch	ice	physical	75	100	10	15	The foe is punched with an icy fist. It may leave the target frozen.
+Jump Kick	fighting	physical	85	95	0	25	The user jumps up high, then strikes with a kick. If the kick misses, the user hurts itself.
+Karate Chop	normal	physical	50	100	13	25	The foe is attacked with a sharp chop. It has a high critical-hit ratio.
+Kinesis	psychic	other	0	80	0	15	The user distracts the foe by bending a spoon. It may lower the target's accuracy.
+Leech Life	bug	physical	20	100	0	15	A blood-draining attack. The user's HP is restored by half the damage taken by the target.
+Leech Seed	grass	other	0	90	0	10	A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.
+Leer	normal	other	0	100	0	30	The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.
+Lick	ghost	physical	20	100	30	30	The foe is licked with a long tongue, causing damage. It may also paralyze the target.
+Light Screen	psychic	other	0	100	0	30	A wondrous wall of light is put up to suppress damage from special attacks for five turns.
+Lovely Kiss	normal	other	0	75	0	10	With a scary face, the user forces a kiss on the foe. It may make the target fall asleep.
+Low Kick	fighting	physical	1	100	0	20	A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Meditate	psychic	other	0	100	0	40	The user meditates to awaken the power deep within its body and raise its Attack stat.
+Mega Drain	grass	special	40	100	0	15	A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+Mega Kick	normal	physical	120	75	0	5	The foe is attacked by a kick launched with muscle-packed power.
+Mega Punch	normal	physical	80	85	0	20	The foe is slugged by a punch thrown with muscle-packed power.
+Metronome	normal	other	0	100	0	10	The user waggles a finger and stimulates the brain into randomly using nearly any move.
+Mimic	normal	other	0	100	0	10	The user copies the move last used by the foe. The move can be used for the rest of the battle.
+Minimize	normal	other	0	100	0	20	The user compresses its body to make itself look smaller. The user's evasion stat is boosted.
+Mirror Move	flying	other	0	100	0	20	The user counters the foe by mimicking the move last used by the foe.
+Mist	ice	other	0	100	0	30	The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.
+Night Shade	ghost	special	1	100	0	15	The user makes the foe see a mirage. It inflicts damage matching the user's level.
+Pay Day	normal	physical	40	100	0	20	Numerous coins are hurled at the foe to inflict damage. Money is earned after battle.
+Peck	flying	physical	35	100	0	35	The foe is jabbed with a sharply pointed beak or horn.
+Petal Dance	grass	special	90	100	0	20	The user attacks by scattering petals for two to three turns. The user then becomes confused.
+Pin Missile	bug	physical	14	85	0	20	Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.
+Poison Gas	poison	other	0	55	0	40	A cloud of poison gas is sprayed in the foe's face. It may poison the target.
+Poisonpowder	poison	other	0	75	0	35	A cloud of poisonous dust is scattered on the foe. It may poison the target.
+Poison Sting	poison	physical	15	100	30	35	The foe is stabbed with a poisonous barb of some sort. It may also poison the target.
+Pound	normal	physical	40	100	0	35	The foe is physically pounded with a long tail or a foreleg, etc.
+Psybeam	psychic	special	65	100	10	20	The foe is attacked with a peculiar ray. It may also leave the target confused.
+Psychic	psychic	special	90	100	10	10	The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.
+Psywave	psychic	special	1	80	0	15	The foe is attacked with an odd, hot energy wave. The attack varies in intensity.
+Quick Attack	normal	physical	40	100	0	30	The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.
+Rage	normal	physical	20	100	0	20	While this move is in use, it gains attack power each time the user is hit in battle.
+Razor Leaf	grass	physical	55	95	13	25	A sharp-edged leaf is launched to slash at the foe. It has a high critical-hit ratio.
+Razor Wind	normal	special	80	100	13	10	A two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.
+Recover	normal	other	0	100	0	10	A self-healing move. The user restores its own HP by up to half of its max HP.
+Reflect	psychic	other	0	100	0	20	A wondrous wall of light is put up to suppress damage from physical attacks for five turns.
+Rest	psychic	other	0	100	0	10	The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.
+Roar	normal	other	0	100	0	20	The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.
+Rock Slide	rock	physical	75	90	30	10	Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.
+Rock Throw	rock	physical	50	90	0	15	The user picks up and throws a small rock at the foe to attack.
+Rolling Kick	fighting	physical	60	85	30	15	The user cuts a quick spin and lashes out with a sharp kick.
+Sand-Attack	ground	other	0	100	0	15	Sand is hurled in the foe's face, reducing its accuracy.
+Scratch	normal	physical	40	100	0	35	Hard, pointed, and sharp claws rake the foe to inflict damage.
+Screech	normal	other	0	85	0	40	An earsplitting screech is emitted to sharply reduce the foe's Defense stat.
+Seismic Toss	fighting	physical	1	100	0	20	The foe is thrown using the power of gravity. It inflicts damage equal to the user's level.
+Selfdestruct	normal	physical	200	100	0	5	The user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.
+Sharpen	normal	other	0	100	0	30	The user reduces its polygon count to make itself more jagged, raising the Attack stat.
+Sing	normal	other	0	55	0	15	A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.
+Skull Bash	normal	physical	100	100	0	15	The user tucks in its head to raise its Defense in the first turn, then rams the foe on the next turn.
+Sky Attack	flying	physical	140	90	30	5	A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.
+Slam	normal	physical	80	75	0	20	The foe is slammed with a long tail, vines, etc., to inflict damage.
+Slash	normal	physical	70	100	0	20	The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.
+Sleep Powder	grass	other	0	75	0	15	The user scatters a big cloud of sleep-inducing dust around the foe.
+Sludge	poison	special	65	100	30	20	Unsanitary sludge is hurled at the foe. It may also poison the target.
+Smog	poison	special	20	70	40	20	The foe is attacked with a discharge of filthy gases. It may also poison the target.
+SmokeScreen	normal	other	0	100	0	20	The user releases an obscuring cloud of smoke or ink. It reduces the foe's accuracy.
+Softboiled	normal	other	0	100	0	10	The user restores its own HP by up to half of its max HP. May be used in the field to heal HP.
+Solarbeam	grass	special	120	100	0	10	A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+Sonicboom	normal	special	1	90	0	20	The foe is hit with a destructive shock wave that always inflicts 20 HP damage.
+Spike Cannon	normal	physical	20	100	0	15	Sharp spikes are fired at the foe to strike two to five times in rapid succession.
+Splash	water	other	0	100	0	40	The user just flops and splashes around to no effect at all...
+Spore	grass	other	0	100	0	15	The user scatters bursts of spores that induce sleep.
+Stomp	normal	physical	65	100	30	20	The foe is stomped with a big foot. It may also make the target flinch.
+Strength	normal	physical	80	100	0	15	The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.
+String Shot	bug	other	0	95	0	40	The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Struggle	normal	physical	50	100	0	1	An attack that is used in desperation only if the user has no PP. It also hurts the user slightly.
+Stun Spore	grass	other	0	75	0	30	The user scatters a cloud of paralyzing powder. It may paralyze the target.
+Submission	fighting	physical	80	80	0	25	The user grabs the foe and recklessly dives for the ground. It also hurts the user slightly.
+Substitute	normal	other	0	100	0	10	The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.
+Super Fang	normal	physical	1	90	0	10	The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.
+Supersonic	normal	other	0	55	0	20	The user generates odd sound waves from its body. It may confuse the target.
+Surf	water	special	95	100	0	15	It swamps the entire battlefield with a giant wave. It can also be used for crossing water.
+Swift	normal	special	60	--	0	20	Star-shaped rays are shot at the foe. This attack never misses.
+Swords Dance	normal	other	0	100	0	30	A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.
+Tackle	normal	physical	35	95	0	35	A physical attack in which the user charges and slams into the foe with its whole body.
+Tail Whip	normal	other	0	100	0	30	The user wags its tail cutely, making the foe less wary. The target's Defense stat is lowered.
+Take Down	normal	physical	90	85	0	20	A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.
+Teleport	psychic	other	0	100	0	20	Use it to flee from any wild Pokémon. It may also be used to warp to the last PokéCenter visited.
+Thrash	normal	physical	90	100	0	20	The user rampages and attacks for two to three turns. It then becomes confused, however.
+Thunder	electric	special	120	70	30	10	A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.
+Thunderbolt	electric	special	95	100	10	15	A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.
+ThunderPunch	electric	physical	75	100	10	15	The foe is punched with an electrified fist. It may leave the target with paralysis.
+ThunderShock	electric	special	40	100	10	30	A jolt of electricity is hurled at the foe to inflict damage. It may also leave the foe paralyzed.
+Thunder Wave	electric	other	0	100	0	20	A weak electric charge is launched at the foe. It causes paralysis if it hits.
+Toxic	poison	other	0	85	0	10	A move that leaves the target badly poisoned. Its poison damage worsens every turn.
+Transform	normal	other	0	100	0	10	The user transforms into a copy of the foe right down to having the same move set.
+Tri Attack	normal	special	80	100	20	10	The user strikes with a simultaneous three-beam attack. May also paralyze, burn, or freeze the target.
+Twineedle	bug	physical	25	100	20	20	The foe is stabbed twice by a pair of stingers. It may also poison the target.
+Vicegrip	normal	physical	55	100	0	30	Huge, impressive pincers grip and squeeze the foe.
+Vine Whip	grass	physical	35	100	0	15	The foe is struck with slender, whiplike vines to inflict damage.
+Waterfall	water	physical	80	100	20	15	The user charges the foe at an awesome speed. It can also be used to climb a waterfall.
+Water Gun	water	special	40	100	0	25	The foe is blasted with a forceful shot of water.
+Whirlwind	normal	other	0	100	0	20	The foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.
+Wing Attack	flying	physical	60	100	0	35	The foe is struck with large, imposing wings spread wide to inflict damage.
+Withdraw	water	other	0	100	0	40	The user withdraws its body into its hard shell, raising its Defense stat.
+Wrap	normal	physical	15	85	0	20	A long body or vines are used to wrap and squeeze the foe for two to five turns.

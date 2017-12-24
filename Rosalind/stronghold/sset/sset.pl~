@@ -1,0 +1,7 @@
+
+die("bad command line") unless @ARGV == 1;
+
+$n = $ARGV[0];
+
+print 2**$n;
+print "\n";

@@ -1,0 +1,8 @@
+package Set;
+
+sub
+{
+    my ($class,$str) = @_;
+    my $this = {};
+    bless $this,$class;
+    

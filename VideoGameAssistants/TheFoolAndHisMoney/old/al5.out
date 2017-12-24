@@ -1,0 +1,55 @@
+6919 5-letter words loaded
+11882 10-letter words loaded, 995 after compound filtering
+905 5-letter words are part of a 10-letter word
+tenword: tablecloth/underrates
+  t(2)->table -- d(1)->under -- s(1)->rates -- l(2)->cloth
+  t(2)->table -- d(1)->under -- l(2)->cloth -- s(1)->rates
+  t(2)->table -- s(1)->rates -- d(1)->under -- l(2)->cloth
+  t(2)->table -- s(1)->rates -- l(2)->cloth -- d(1)->under
+  t(2)->table -- l(2)->cloth -- d(1)->under -- s(1)->rates
+  t(2)->table -- l(2)->cloth -- s(1)->rates -- d(1)->under
+  l(2)->cloth -- d(1)->under -- s(1)->rates -- t(2)->table
+  l(2)->cloth -- d(1)->under -- t(2)->table -- s(1)->rates
+  l(2)->cloth -- s(1)->rates -- d(1)->under -- t(2)->table
+  l(2)->cloth -- s(1)->rates -- t(2)->table -- d(1)->under
+  l(2)->cloth -- t(2)->table -- d(1)->under -- s(1)->rates
+  l(2)->cloth -- t(2)->table -- s(1)->rates -- d(1)->under
+tenword: tablecloth/undertaker
+  t(2)->table -- d(1)->under -- k(2)->taker -- l(2)->cloth
+  t(2)->table -- d(1)->under -- l(2)->cloth -- k(2)->taker
+  t(2)->table -- k(2)->taker -- d(1)->under -- l(2)->cloth
+  t(2)->table -- k(2)->taker -- l(2)->cloth -- d(1)->under
+  t(2)->table -- l(2)->cloth -- d(1)->under -- k(2)->taker
+  t(2)->table -- l(2)->cloth -- k(2)->taker -- d(1)->under
+  l(2)->cloth -- d(1)->under -- k(2)->taker -- t(2)->table
+  l(2)->cloth -- d(1)->under -- t(2)->table -- k(2)->taker
+  l(2)->cloth -- k(2)->taker -- d(1)->under -- t(2)->table
+  l(2)->cloth -- k(2)->taker -- t(2)->table -- d(1)->under
+  l(2)->cloth -- t(2)->table -- d(1)->under -- k(2)->taker
+  l(2)->cloth -- t(2)->table -- k(2)->taker -- d(1)->under
+tenword: underrates/tablecloth
+  d(1)->under -- s(1)->rates -- t(2)->table -- l(2)->cloth
+  d(1)->under -- s(1)->rates -- l(2)->cloth -- t(2)->table
+  d(1)->under -- t(2)->table -- s(1)->rates -- l(2)->cloth
+  d(1)->under -- t(2)->table -- l(2)->cloth -- s(1)->rates
+  d(1)->under -- l(2)->cloth -- s(1)->rates -- t(2)->table
+  d(1)->under -- l(2)->cloth -- t(2)->table -- s(1)->rates
+  s(1)->rates -- d(1)->under -- t(2)->table -- l(2)->cloth
+  s(1)->rates -- d(1)->under -- l(2)->cloth -- t(2)->table
+  s(1)->rates -- t(2)->table -- d(1)->under -- l(2)->cloth
+  s(1)->rates -- t(2)->table -- l(2)->cloth -- d(1)->under
+  s(1)->rates -- l(2)->cloth -- d(1)->under -- t(2)->table
+  s(1)->rates -- l(2)->cloth -- t(2)->table -- d(1)->under
+tenword: undertaker/tablecloth
+  d(1)->under -- k(2)->taker -- t(2)->table -- l(2)->cloth
+  d(1)->under -- k(2)->taker -- l(2)->cloth -- t(2)->table
+  d(1)->under -- t(2)->table -- k(2)->taker -- l(2)->cloth
+  d(1)->under -- t(2)->table -- l(2)->cloth -- k(2)->taker
+  d(1)->under -- l(2)->cloth -- k(2)->taker -- t(2)->table
+  d(1)->under -- l(2)->cloth -- t(2)->table -- k(2)->taker
+  k(2)->taker -- d(1)->under -- t(2)->table -- l(2)->cloth
+  k(2)->taker -- d(1)->under -- l(2)->cloth -- t(2)->table
+  k(2)->taker -- t(2)->table -- d(1)->under -- l(2)->cloth
+  k(2)->taker -- t(2)->table -- l(2)->cloth -- d(1)->under
+  k(2)->taker -- l(2)->cloth -- d(1)->under -- t(2)->table
+  k(2)->taker -- l(2)->cloth -- t(2)->table -- d(1)->under

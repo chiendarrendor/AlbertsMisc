@@ -1,0 +1,861 @@
+WS: 76 S: 1001 
+45 of -12,13 of -13,5 of -16,1 of -17,1 of -19,1 of -20,1 of -21,4 of -22,2 of -23,3 of -25
+#L.RRBB.
+#LLDRBB.
+CCDDUU.#
+CC..U..#
+WS: 200 S: 2001 
+101 of -15,86 of -16,1 of -17,1 of -19,1 of -20,1 of -21,4 of -22,2 of -23,3 of -25
+#UU...BB
+#U..D.BB
+LRRDDCC#
+LLR..CC#
+WS: 261 S: 3002 
+1 of -12,1 of -14,3 of -15,107 of -16,137 of -17,1 of -19,1 of -20,1 of -21,4 of -22,2 of -23,3 of -25
+#UUCCRR.
+#U.CC.R.
+.L..DBB#
+.LLDDBB#
+WS: 373 S: 4001 
+39 of -13,63 of -14,4 of -15,94 of -16,161 of -17,1 of -19,1 of -20,1 of -21,4 of -22,2 of -23,3 of -25
+#...DUU.
+#..DDU..
+CCLRRBB#
+CCLLRBB#
+WS: 467 S: 5001 
+11 of -12,11 of -13,6 of -14,14 of -15,210 of -16,203 of -17,1 of -19,1 of -20,1 of -21,4 of -22,2 of -23,3 of -25
+#.UU.DRR
+#.U.DD.R
+L.CCBB.#
+LLCCBB.#
+WS: 399 S: 6002 
+274 of -17,113 of -18,1 of -19,1 of -20,1 of -21,4 of -22,2 of -23,3 of -25
+#.UUCC..
+#.U.CC..
+.DLRRBB#
+DDLLRBB#
+WS: 416 S: 7001 
+2 of -9,3 of -10,2 of -11,2 of -12,3 of -13,16 of -14,2 of -15,2 of -16,275 of -18,98 of -19,1 of -20,1 of -21,4 of -22,2 of -23,3 of -25
+#.RR..BB
+#..RL.BB
+CCUULLD#
+CCU..DD#
+WS: 500 S: 8001 
+18 of -11,16 of -12,1 of -13,1 of -14,1 of -15,2 of -16,33 of -18,417 of -19,1 of -20,1 of -21,4 of -22,2 of -23,3 of -25
+#L.BBRR.
+#LLBB.R.
+CC.UUD.#
+CC.UDD.#
+WS: 577 S: 9001 
+1 of -15,10 of -16,459 of -19,97 of -20,1 of -21,4 of -22,2 of -23,3 of -25
+#BB.DUU.
+#BBDDU..
+CC.L.RR#
+CC.LL.R#
+WS: 528 S: 10001 
+229 of -19,289 of -20,1 of -21,4 of -22,2 of -23,3 of -25
+#LRRBB.D
+#LLRBBDD
+.UU.CC.#
+.U..CC.#
+WS: 533 S: 11001 
+421 of -20,103 of -21,4 of -22,2 of -23,3 of -25
+#RR.UUD.
+#.R.UDD.
+L.BBCC.#
+LLBBCC.#
+Solution Found:
+#.UURRCC
+#.U..RCC
+BBL..D.#
+BBLLDD.#
+Move: DR
+#.UURRCC
+#.U..RCC
+BBL...D#
+BBLL.DD#
+Move: LR
+#.UURRCC
+#.U..RCC
+BB.L..D#
+BB.LLDD#
+Move: BR
+#.UURRCC
+#.U..RCC
+.BBL..D#
+.BBLLDD#
+Move: LU
+#.UURRCC
+#.UL.RCC
+.BBLL.D#
+.BB..DD#
+Move: DL
+#.UURRCC
+#.UL.RCC
+.BBLLD.#
+.BB.DD.#
+Move: UL
+#UU.RRCC
+#U.L.RCC
+.BBLLD.#
+.BB.DD.#
+Move: LU
+#UULRRCC
+#U.LLRCC
+.BB..D.#
+.BB.DD.#
+Move: BR
+#UULRRCC
+#U.LLRCC
+..BB.D.#
+..BBDD.#
+Move: DR
+#UULRRCC
+#U.LLRCC
+..BB..D#
+..BB.DD#
+Move: BR
+#UULRRCC
+#U.LLRCC
+...BB.D#
+...BBDD#
+Move: UD
+#..LRRCC
+#UULLRCC
+.U.BB.D#
+...BBDD#
+Move: UD
+#..LRRCC
+#..LLRCC
+.UUBB.D#
+.U.BBDD#
+Move: LL
+#.L.RRCC
+#.LL.RCC
+.UUBB.D#
+.U.BBDD#
+Move: UL
+#.L.RRCC
+#.LL.RCC
+UU.BB.D#
+U..BBDD#
+Move: BL
+#.L.RRCC
+#.LL.RCC
+UUBB..D#
+U.BB.DD#
+Move: DL
+#.L.RRCC
+#.LL.RCC
+UUBB.D.#
+U.BBDD.#
+Move: RL
+#.LRR.CC
+#.LLR.CC
+UUBB.D.#
+U.BBDD.#
+Move: DU
+#.LRR.CC
+#.LLRDCC
+UUBBDD.#
+U.BB...#
+Move: LL
+#L.RR.CC
+#LL.RDCC
+UUBBDD.#
+U.BB...#
+Move: RL
+#LRR..CC
+#LLR.DCC
+UUBBDD.#
+U.BB...#
+Move: DU
+#LRR.DCC
+#LLRDDCC
+UUBB...#
+U.BB...#
+Move: BR
+#LRR.DCC
+#LLRDDCC
+UU.BB..#
+U..BB..#
+Move: BR
+#LRR.DCC
+#LLRDDCC
+UU..BB.#
+U...BB.#
+Move: BR
+#LRR.DCC
+#LLRDDCC
+UU...BB#
+U....BB#
+Move: UR
+#LRR.DCC
+#LLRDDCC
+.UU..BB#
+.U...BB#
+Move: UR
+#LRR.DCC
+#LLRDDCC
+..UU.BB#
+..U..BB#
+Move: UR
+#LRR.DCC
+#LLRDDCC
+...UUBB#
+...U.BB#
+Move: LD
+#.RR.DCC
+#L.RDDCC
+.LLUUBB#
+...U.BB#
+Move: LD
+#.RR.DCC
+#..RDDCC
+.L.UUBB#
+.LLU.BB#
+Move: RL
+#RR..DCC
+#.R.DDCC
+.L.UUBB#
+.LLU.BB#
+Move: DL
+#RR.D.CC
+#.RDD.CC
+.L.UUBB#
+.LLU.BB#
+Move: CL
+#RR.DCC.
+#.RDDCC.
+.L.UUBB#
+.LLU.BB#
+Move: RD
+#...DCC.
+#RRDDCC.
+.LRUUBB#
+.LLU.BB#
+Move: LL
+#...DCC.
+#RRDDCC.
+L.RUUBB#
+LL.U.BB#
+Move: RD
+#...DCC.
+#..DDCC.
+LRRUUBB#
+LLRU.BB#
+Move: DL
+#..D.CC.
+#.DD.CC.
+LRRUUBB#
+LLRU.BB#
+Move: CL
+#..DCC..
+#.DDCC..
+LRRUUBB#
+LLRU.BB#
+Move: DL
+#.D.CC..
+#DD.CC..
+LRRUUBB#
+LLRU.BB#
+Move: CL
+#.DCC...
+#DDCC...
+LRRUUBB#
+LLRU.BB#
+Move: BU
+#.DCC...
+#DDCCBB.
+LRRUUBB#
+LLRU...#
+Move: BU
+#.DCCBB.
+#DDCCBB.
+LRRUU..#
+LLRU...#
+Move: BR
+#.DCC.BB
+#DDCC.BB
+LRRUU..#
+LLRU...#
+Move: UR
+#.DCC.BB
+#DDCC.BB
+LRR.UU.#
+LLR.U..#
+Move: UR
+#.DCC.BB
+#DDCC.BB
+LRR..UU#
+LLR..U.#
+Move: CD
+#.D...BB
+#DDCC.BB
+LRRCCUU#
+LLR..U.#
+Move: CD
+#.D...BB
+#DD...BB
+LRRCCUU#
+LLRCCU.#
+Move: DR
+#..D..BB
+#.DD..BB
+LRRCCUU#
+LLRCCU.#
+Move: DR
+#...D.BB
+#..DD.BB
+LRRCCUU#
+LLRCCU.#
+Move: DR
+#....DBB
+#...DDBB
+LRRCCUU#
+LLRCCU.#
+Move: RU
+#....DBB
+#RR.DDBB
+L.RCCUU#
+LL.CCU.#
+Move: RU
+#RR..DBB
+#.R.DDBB
+L..CCUU#
+LL.CCU.#
+Move: RR
+#.RR.DBB
+#..RDDBB
+L..CCUU#
+LL.CCU.#
+Move: LR
+#.RR.DBB
+#..RDDBB
+.L.CCUU#
+.LLCCU.#
+Move: LU
+#.RR.DBB
+#L.RDDBB
+.LLCCUU#
+...CCU.#
+Move: LU
+#LRR.DBB
+#LLRDDBB
+...CCUU#
+...CCU.#
+Move: CL
+#LRR.DBB
+#LLRDDBB
+..CC.UU#
+..CC.U.#
+Move: CL
+#LRR.DBB
+#LLRDDBB
+.CC..UU#
+.CC..U.#
+Move: CL
+#LRR.DBB
+#LLRDDBB
+CC...UU#
+CC...U.#
+Move: UL
+#LRR.DBB
+#LLRDDBB
+CC..UU.#
+CC..U..#
+Move: UL
+#LRR.DBB
+#LLRDDBB
+CC.UU..#
+CC.U...#
+Move: UL
+#LRR.DBB
+#LLRDDBB
+CCUU...#
+CCU....#
+Move: DD
+#LRR..BB
+#LLR.DBB
+CCUUDD.#
+CCU....#
+Move: DD
+#LRR..BB
+#LLR..BB
+CCUU.D.#
+CCU.DD.#
+Move: RR
+#L.RR.BB
+#LL.R.BB
+CCUU.D.#
+CCU.DD.#
+Move: RR
+#L..RRBB
+#LL..RBB
+CCUU.D.#
+CCU.DD.#
+Move: LR
+#.L.RRBB
+#.LL.RBB
+CCUU.D.#
+CCU.DD.#
+Move: LR
+#..LRRBB
+#..LLRBB
+CCUU.D.#
+CCU.DD.#
+Move: UR
+#..LRRBB
+#..LLRBB
+CC.UUD.#
+CC.UDD.#
+Move: CR
+#..LRRBB
+#..LLRBB
+.CCUUD.#
+.CCUDD.#
+Move: CU
+#..LRRBB
+#CCLLRBB
+.CCUUD.#
+...UDD.#
+Move: CU
+#CCLRRBB
+#CCLLRBB
+...UUD.#
+...UDD.#
+Move: UL
+#CCLRRBB
+#CCLLRBB
+..UU.D.#
+..U.DD.#
+Move: DL
+#CCLRRBB
+#CCLLRBB
+..UUD..#
+..UDD..#
+Move: UL
+#CCLRRBB
+#CCLLRBB
+.UU.D..#
+.U.DD..#
+Move: DL
+#CCLRRBB
+#CCLLRBB
+.UUD...#
+.UDD...#
+Move: UL
+#CCLRRBB
+#CCLLRBB
+UU.D...#
+U.DD...#
+Move: DL
+#CCLRRBB
+#CCLLRBB
+UUD....#
+UDD....#
+Move: LD
+#CC.RRBB
+#CCL.RBB
+UUDLL..#
+UDD....#
+Move: LD
+#CC.RRBB
+#CC..RBB
+UUDL...#
+UDDLL..#
+Move: RD
+#CC...BB
+#CC.RRBB
+UUDL.R.#
+UDDLL..#
+Move: RD
+#CC...BB
+#CC...BB
+UUDLRR.#
+UDDLLR.#
+Move: RR
+#CC...BB
+#CC...BB
+UUDL.RR#
+UDDLL.R#
+Move: LR
+#CC...BB
+#CC...BB
+UUD.LRR#
+UDD.LLR#
+Move: DR
+#CC...BB
+#CC...BB
+UU.DLRR#
+U.DDLLR#
+Move: UR
+#CC...BB
+#CC...BB
+.UUDLRR#
+.UDDLLR#
+Move: CR
+#.CC..BB
+#.CC..BB
+.UUDLRR#
+.UDDLLR#
+Move: CR
+#..CC.BB
+#..CC.BB
+.UUDLRR#
+.UDDLLR#
+Move: UU
+#..CC.BB
+#UUCC.BB
+.U.DLRR#
+..DDLLR#
+Move: UU
+#UUCC.BB
+#U.CC.BB
+...DLRR#
+..DDLLR#
+Move: DL
+#UUCC.BB
+#U.CC.BB
+..D.LRR#
+.DD.LLR#
+Move: LL
+#UUCC.BB
+#U.CC.BB
+..DL.RR#
+.DDLL.R#
+Move: RL
+#UUCC.BB
+#U.CC.BB
+..DLRR.#
+.DDLLR.#
+Move: CR
+#UU.CCBB
+#U..CCBB
+..DLRR.#
+.DDLLR.#
+Move: UR
+#.UUCCBB
+#.U.CCBB
+..DLRR.#
+.DDLLR.#
+Move: DL
+#.UUCCBB
+#.U.CCBB
+.D.LRR.#
+DD.LLR.#
+Move: RR
+#.UUCCBB
+#.U.CCBB
+.D.L.RR#
+DD.LL.R#
+Move: LR
+#.UUCCBB
+#.U.CCBB
+.D..LRR#
+DD..LLR#
+Move: UD
+#...CCBB
+#.UUCCBB
+.DU.LRR#
+DD..LLR#
+Move: UD
+#...CCBB
+#...CCBB
+.DUULRR#
+DDU.LLR#
+Move: CL
+#..CC.BB
+#..CC.BB
+.DUULRR#
+DDU.LLR#
+Move: CL
+#.CC..BB
+#.CC..BB
+.DUULRR#
+DDU.LLR#
+Move: CL
+#CC...BB
+#CC...BB
+.DUULRR#
+DDU.LLR#
+Move: BL
+#CC..BB.
+#CC..BB.
+.DUULRR#
+DDU.LLR#
+Move: BL
+#CC.BB..
+#CC.BB..
+.DUULRR#
+DDU.LLR#
+Move: BL
+#CCBB...
+#CCBB...
+.DUULRR#
+DDU.LLR#
+Move: RU
+#CCBB...
+#CCBBRR.
+.DUUL.R#
+DDU.LL.#
+Move: RU
+#CCBBRR.
+#CCBB.R.
+.DUUL..#
+DDU.LL.#
+Move: LR
+#CCBBRR.
+#CCBB.R.
+.DUU.L.#
+DDU..LL#
+Move: UR
+#CCBBRR.
+#CCBB.R.
+.D.UUL.#
+DD.U.LL#
+Move: DR
+#CCBBRR.
+#CCBB.R.
+..DUUL.#
+.DDU.LL#
+Move: RR
+#CCBB.RR
+#CCBB..R
+..DUUL.#
+.DDU.LL#
+Move: LU
+#CCBB.RR
+#CCBBL.R
+..DUULL#
+.DDU...#
+Move: LU
+#CCBBLRR
+#CCBBLLR
+..DUU..#
+.DDU...#
+Move: UR
+#CCBBLRR
+#CCBBLLR
+..D.UU.#
+.DD.U..#
+Move: DR
+#CCBBLRR
+#CCBBLLR
+...DUU.#
+..DDU..#
+Move: CD
+#..BBLRR
+#CCBBLLR
+.CCDUU.#
+..DDU..#
+Move: UR
+#..BBLRR
+#CCBBLLR
+.CCD.UU#
+..DD.U.#
+Move: DR
+#..BBLRR
+#CCBBLLR
+.CC.DUU#
+...DDU.#
+Move: CD
+#..BBLRR
+#..BBLLR
+.CC.DUU#
+.CCDDU.#
+Move: CL
+#..BBLRR
+#..BBLLR
+CC..DUU#
+CC.DDU.#
+Move: BL
+#.BB.LRR
+#.BB.LLR
+CC..DUU#
+CC.DDU.#
+Move: DU
+#.BB.LRR
+#.BBDLLR
+CC.DDUU#
+CC...U.#
+Move: BL
+#BB..LRR
+#BB.DLLR
+CC.DDUU#
+CC...U.#
+Move: DU
+#BB.DLRR
+#BBDDLLR
+CC...UU#
+CC...U.#
+Move: UL
+#BB.DLRR
+#BBDDLLR
+CC..UU.#
+CC..U..#
+Move: UL
+#BB.DLRR
+#BBDDLLR
+CC.UU..#
+CC.U...#
+Move: LD
+#BB.D.RR
+#BBDDL.R
+CC.UULL#
+CC.U...#
+Move: RL
+#BB.DRR.
+#BBDDLR.
+CC.UULL#
+CC.U...#
+Move: LD
+#BB.DRR.
+#BBDD.R.
+CC.UUL.#
+CC.U.LL#
+Move: UL
+#BB.DRR.
+#BBDD.R.
+CCUU.L.#
+CCU..LL#
+Move: LL
+#BB.DRR.
+#BBDD.R.
+CCUUL..#
+CCU.LL.#
+Move: RD
+#BB.D...
+#BBDDRR.
+CCUUL.R#
+CCU.LL.#
+Move: RD
+#BB.D...
+#BBDD...
+CCUULRR#
+CCU.LLR#
+Move: DR
+#BB..D..
+#BB.DD..
+CCUULRR#
+CCU.LLR#
+Move: BR
+#.BB.D..
+#.BBDD..
+CCUULRR#
+CCU.LLR#
+Move: DR
+#.BB..D.
+#.BB.DD.
+CCUULRR#
+CCU.LLR#
+Move: BR
+#..BB.D.
+#..BBDD.
+CCUULRR#
+CCU.LLR#
+Move: DR
+#..BB..D
+#..BB.DD
+CCUULRR#
+CCU.LLR#
+Move: BR
+#...BB.D
+#...BBDD
+CCUULRR#
+CCU.LLR#
+Move: UU
+#...BB.D
+#.UUBBDD
+CCU.LRR#
+CC..LLR#
+Move: LL
+#...BB.D
+#.UUBBDD
+CCUL.RR#
+CC.LL.R#
+Move: RL
+#...BB.D
+#.UUBBDD
+CCULRR.#
+CC.LLR.#
+Move: UU
+#.UUBB.D
+#.U.BBDD
+CC.LRR.#
+CC.LLR.#
+Move: LL
+#.UUBB.D
+#.U.BBDD
+CCL.RR.#
+CCLL.R.#
+Move: UL
+#UU.BB.D
+#U..BBDD
+CCL.RR.#
+CCLL.R.#
+Move: BL
+#UUBB..D
+#U.BB.DD
+CCL.RR.#
+CCLL.R.#
+Move: DL
+#UUBB.D.
+#U.BBDD.
+CCL.RR.#
+CCLL.R.#
+Move: RL
+#UUBB.D.
+#U.BBDD.
+CCLRR..#
+CCLLR..#
+Move: DD
+#UUBB...
+#U.BB.D.
+CCLRRDD#
+CCLLR..#
+Move: DD
+#UUBB...
+#U.BB...
+CCLRR.D#
+CCLLRDD#
+Move: BR
+#UU.BB..
+#U..BB..
+CCLRR.D#
+CCLLRDD#
+Move: BR
+#UU..BB.
+#U...BB.
+CCLRR.D#
+CCLLRDD#
+Move: RU
+#UU..BB.
+#U.RRBB.
+CCL.R.D#
+CCLL.DD#
+Move: DL
+#UU..BB.
+#U.RRBB.
+CCL.RD.#
+CCLLDD.#
+Move: RU
+#UURRBB.
+#U..RBB.
+CCL..D.#
+CCLLDD.#
+Move: BR
+#UURR.BB
+#U..R.BB
+CCL..D.#
+CCLLDD.#
+Move: RR
+#UU.RRBB
+#U...RBB
+CCL..D.#
+CCLLDD.#
+Move: UR
+#.UURRBB
+#.U..RBB
+CCL..D.#
+CCLLDD.#

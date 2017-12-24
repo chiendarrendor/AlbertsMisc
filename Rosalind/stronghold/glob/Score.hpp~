@@ -1,0 +1,9 @@
+
+class Score
+{
+public:
+  Score(const char* filename);
+  int GetGapPenalty() const;
+  int GetScore(char from,char to) const;
+};
+

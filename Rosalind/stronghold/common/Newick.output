@@ -1,0 +1,237 @@
+Grammar
+
+    0 $accept: Tree $end
+
+    1 Tree: Branch ';'
+
+    2 Internal: '(' BranchSet ')' Name
+
+    3 Branch: Subtree Length
+
+    4 Length: /* empty */
+    5       | ':' number
+
+    6 Subtree: Leaf
+    7        | Internal
+
+    8 Leaf: Name
+
+    9 Name: /* empty */
+   10     | string
+
+   11 BranchSet: Branch
+   12          | BranchSet ',' Branch
+
+
+Terminals, with rules where they appear
+
+$end (0) 0
+'(' (40) 2
+')' (41) 2
+',' (44) 12
+':' (58) 5
+';' (59) 1
+error (256)
+number (258) 5
+string (259) 10
+
+
+Nonterminals, with rules where they appear
+
+$accept (10)
+    on left: 0
+Tree (11)
+    on left: 1, on right: 0
+Internal (12)
+    on left: 2, on right: 7
+Branch (13)
+    on left: 3, on right: 1 11 12
+Length (14)
+    on left: 4 5, on right: 3
+Subtree (15)
+    on left: 6 7, on right: 3
+Leaf (16)
+    on left: 8, on right: 6
+Name (17)
+    on left: 9 10, on right: 2 8
+BranchSet (18)
+    on left: 11 12, on right: 2 12
+
+
+state 0
+
+    0 $accept: . Tree $end
+
+    string  shift, and go to state 1
+    '('     shift, and go to state 2
+
+    $default  reduce using rule 9 (Name)
+
+    Tree      go to state 3
+    Internal  go to state 4
+    Branch    go to state 5
+    Subtree   go to state 6
+    Leaf      go to state 7
+    Name      go to state 8
+
+
+state 1
+
+   10 Name: string .
+
+    $default  reduce using rule 10 (Name)
+
+
+state 2
+
+    2 Internal: '(' . BranchSet ')' Name
+
+    string  shift, and go to state 1
+    '('     shift, and go to state 2
+
+    $default  reduce using rule 9 (Name)
+
+    Internal   go to state 4
+    Branch     go to state 9
+    Subtree    go to state 6
+    Leaf       go to state 7
+    Name       go to state 8
+    BranchSet  go to state 10
+
+
+state 3
+
+    0 $accept: Tree . $end
+
+    $end  shift, and go to state 11
+
+
+state 4
+
+    7 Subtree: Internal .
+
+    $default  reduce using rule 7 (Subtree)
+
+
+state 5
+
+    1 Tree: Branch . ';'
+
+    ';'  shift, and go to state 12
+
+
+state 6
+
+    3 Branch: Subtree . Length
+
+    ':'  shift, and go to state 13
+
+    $default  reduce using rule 4 (Length)
+
+    Length  go to state 14
+
+
+state 7
+
+    6 Subtree: Leaf .
+
+    $default  reduce using rule 6 (Subtree)
+
+
+state 8
+
+    8 Leaf: Name .
+
+    $default  reduce using rule 8 (Leaf)
+
+
+state 9
+
+   11 BranchSet: Branch .
+
+    $default  reduce using rule 11 (BranchSet)
+
+
+state 10
+
+    2 Internal: '(' BranchSet . ')' Name
+   12 BranchSet: BranchSet . ',' Branch
+
+    ')'  shift, and go to state 15
+    ','  shift, and go to state 16
+
+
+state 11
+
+    0 $accept: Tree $end .
+
+    $default  accept
+
+
+state 12
+
+    1 Tree: Branch ';' .
+
+    $default  reduce using rule 1 (Tree)
+
+
+state 13
+
+    5 Length: ':' . number
+
+    number  shift, and go to state 17
+
+
+state 14
+
+    3 Branch: Subtree Length .
+
+    $default  reduce using rule 3 (Branch)
+
+
+state 15
+
+    2 Internal: '(' BranchSet ')' . Name
+
+    string  shift, and go to state 1
+
+    $default  reduce using rule 9 (Name)
+
+    Name  go to state 18
+
+
+state 16
+
+   12 BranchSet: BranchSet ',' . Branch
+
+    string  shift, and go to state 1
+    '('     shift, and go to state 2
+
+    $default  reduce using rule 9 (Name)
+
+    Internal  go to state 4
+    Branch    go to state 19
+    Subtree   go to state 6
+    Leaf      go to state 7
+    Name      go to state 8
+
+
+state 17
+
+    5 Length: ':' number .
+
+    $default  reduce using rule 5 (Length)
+
+
+state 18
+
+    2 Internal: '(' BranchSet ')' Name .
+
+    $default  reduce using rule 2 (Internal)
+
+
+state 19
+
+   12 BranchSet: BranchSet ',' Branch .
+
+    $default  reduce using rule 12 (BranchSet)

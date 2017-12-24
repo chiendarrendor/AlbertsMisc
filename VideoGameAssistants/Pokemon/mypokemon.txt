@@ -1,0 +1,270 @@
+gen1
+Hitmonlee
+-Pikachu
+Raichu
+	ThunderShock
+	Flash
+	Swift
+	Quick Attack
+-Clefairy
+Clefable
+	Pound
+	Growl
+-Drowzee
+Hypno
+	Headbutt
+	Hypnosis
+	Confusion
+	Dream Eater
+Goldeen
+	Peck
+	Tail Whip
+-Eevee
+Vaporeon
+	Tackle
+	Sand-Attack
+	Ice Beam
+	Quick Attack
+-Meowth
+Persian
+	Scratch
+	Growl
+	Bite
+	Pay Day
+Seaking
+Venonat
+Venomoth
+	Tackle
+	Stun Spore
+	Poisonpowder
+	Leech Life
+Ditto
+-Tentacool
+Tentacruel
+	Acid
+	Water Gun
+	Wrap
+	Poison Sting
+-Sandshrew
+Sandslash
+	Scratch
+	Strength
+	Cut
+	Slash
+-Paras
+Parasect
+	Scratch
+	Stun Spore
+	Leech Life
+-Zubat
+Golbat
+	Leech Life
+	Bide
+	Confuse Ray
+	Bite
+-Geodude
+Graveler
+	Tackle
+	Selfdestruct
+	Rock Throw
+	Dig
+-Rattata
+Raticate
+	Tackle
+	Quick Attack
+	Water Gun
+	Hyper Fang
+-Bellsprout
+-Weepinbell
+Victreebel
+	Vine Whip
+	Sleep Powder
+	Wrap
+	Stun Spore
+-Spearow
+Fearow
+	Peck
+	Growl
+	Leer
+	Fury Attack
+-Machop
+Machoke
+	Karate Chop
+	Low Kick
+	Leer
+-Vulpix
+Ninetales
+	Ember
+	Tail Whip
+	Quick Attack
+-Caterpie
+-Metapod
+Butterfree
+	Tackle
+	String Shot
+	Confusion
+-Weedle
+-Kakuna	
+Beedrill
+	Poison Sting
+	String Shot
+	Fury Attack
+-Jigglypuff
+Wigglytuff
+	Sing
+	Mega Punch
+-Bulbasaur
+-Ivysaur
+Venusaur
+	Razor Leaf
+	Cut
+	Solarbeam
+	Vine Whip
+-Pidgey
+-Pidgeotto	
+*Pidgeot
+	Fly
+	Razor Wind
+	Mirror Move
+	Wing Attack
+-Magikarp
+*Gyarados
+	Hydro Pump
+	Surf
+	Blizzard
+	Hyper Beam
+-Diglett
+Dugtrio
+	Scratch
+	Slash
+	Dig
+	Sand-Attack
+-Voltorb
+Electrode
+	Thunderbolt
+	Light Screen
+	Sonicboom
+	Selfdestruct
+-Gastly
+*Haunter
+	Dream Eater
+	Hypnosis
+	Night Shade
+	Psychic
+NidoranF
+-NidoranM
+Nidorino
+	Tackle
+	Horn Attack
+	Poison Sting
+	Focus Energy
+-Rhyhorn
+*Rhydon
+	Strength
+	Fury Attack
+	Fire Blast
+	Stomp
+-Krabby
+Kingler
+	Bubble
+	Leer
+	Vicegrip
+	Guillotine
+-Slowpoke
+Slowbro
+	Confusion
+	Body Slam
+	Headbutt
+	Water Gun
+-Dratini
+-Dragonair
+*Dragonite
+	Surf
+	Hyper Beam
+	Dragon Rage
+	Slam
+-Exeggcute
+Exeggutor
+Pinsir
+-Poliwag
+-Poliwhirl
+Poliwrath
+	DoubleSlap
+	Skull Bash
+	Hypnosis
+	Water Gun
+-Doduo
+Dodrio
+	Peck
+	Growl
+	Fury Attack
+	Drill Peck
+-Nidorina
+Nidoqueen
+-Psyduck
+Golduck
+	Scratch
+	Seismic Toss
+	Mega Punch
+	Disable
+-Staryu
+Starmie
+Seel
+-Shellder
+Cloyster
+Dewgong
+	Headbutt
+	Growl
+	Aurora Beam
+Grimer
+-Ponyta
+*Rapidash
+	Ember
+	Fire Spin
+	Stomp
+	Swift
+Koffing
+	Tackle
+	Smog
+Magmar
+	Ember
+Snorlax
+	Headbutt
+	Amnesia
+	Rest
+	Body Slam
+Onix
+-Omanyte
+Omastar
+	Water Gun
+	Withdraw
+	Surf
+	Horn Attack
+Muk
+Weezing
+	Tackle
+	Smog
+	Sludge
+	SmokeScreen
+Lapras
+-Abra
+Kadabra
+	Teleport
+	Confusion
+-Magnemite
+Magneton
+	Tackle
+	Sonicboom
+	Thunder
+	ThunderShock
+Marowak
+Articuno
+	Peck
+	Ice Beam
+	Sky Attack
+	Blizzard
+Zapdos
+	ThunderShock
+	Drill Peck
+	Thunder
+Moltres

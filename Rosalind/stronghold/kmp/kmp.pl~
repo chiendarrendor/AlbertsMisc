@@ -1,0 +1,19 @@
+die("bad command line") unless @ARGV;
+open(FD,$ARGV[0]) || die("can't open file");
+$str = <FD>;
+close FD;
+$str =~ s/\r?\n$//;
+
+for (my $i = 0 ; $i < length($str) ; ++$i) { $result[$i] = 0; }
+
+for (my $k = 1 ; $k < length($str) ; ++$k)
+{
+    for (my $j = $k ; $j > 0 ; --$j)
+    {
+	my $prefix = substr($str,0,$k - $j + 1);
+	my $suffix = substr($str,$j,$k - $j + 1);
+	if ($prefix eq $suffix) { $result[$k] = $k - $j + 1 }
+    }
+}
+print join(" ",@result),"\n";
+

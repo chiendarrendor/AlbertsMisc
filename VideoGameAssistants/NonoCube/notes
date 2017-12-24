@@ -1,0 +1,13 @@
+given a box with width w,height h, and depth d:
+1) red face is z = 0 face
+2) LL of red face is 0,0,0
+3) LR of red face is w-1,0,0
+3) UR of red face is w-1,h-1,0
+4) blue face is x=w-1 face
+5) LL of blue face is w-1,0,0
+6) LR of blue face is w-1,0,d-1
+7) UR of blue face is w-1,h-1,d-1 
+8) green face is y=h-1 face
+9) LL of green face is w-1,h-1,0
+10) LR of green face is w-1,h-1,d-1
+11) UR of green face is 0,h-1,d-1

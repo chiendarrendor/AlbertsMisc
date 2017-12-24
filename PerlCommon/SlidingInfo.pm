@@ -1,0 +1,263 @@
+
+# this class represents the static information about a sliding block
+# puzzle, where the goal is to move a set of blocks, or tiles, around on a board,
+# potentially with immovable obstacles, or blockers, until a particular positioning of
+# one or more of the tiles is reached.
+# the following properties are required:
+#
+# a) the width and height of the board (given in constructor)
+# b) the x and y coordinate (0,0 is at upper left) of all blockers on the board
+# c) one or more tiles, with the following properties:
+#    1) a single letter name
+#    2) optionally the key id, if different from name
+#       (every tile should have a unique name, but if two tiles are practicially
+#        indistinguishable, then they should be given the same key id, so that 
+#        two board positions where the only difference is the swapping of two such tiles
+#        can be considered identical)  (see AStar.pm CanonicalKey)
+#    3) the cells of the tile, relative to the command point of the tile (see below)
+# d) the starting location of every tile
+# e) the goal location of at least one tile.
+#
+# this class will determine
+# a) if the given components are valid at the start and destination
+# b) there is at least one goal tile
+# c) for each goal tile, how far each legal position of that tile on the board is
+#    from the goal (for calculating a state's grade)
+
+package SlidingInfo;
+
+sub new
+{
+    my ($class,$width,$height) = @_;
+    my $this = {};
+    bless $this,$class;
+    $this->{WIDTH} = $width;
+    $this->{HEIGHT} = $height;
+    $this->{BLOCKS} = {};
+    $this->{TILES} = {};
+
+    die("bad width") unless $this->{WIDTH} > 0;
+    die("bad height") unless $this->{HEIGHT} > 0;
+
+    return $this;
+}
+
+sub AddBlocker
+{
+    my ($this,$x,$y) = @_;
+    die("bad blocker") if $x < 0 || $y < 0 || $x >= $this->{WIDTH} || $y >= $this->{HEIGHT};
+    $this->{BLOCKS}->{$x,$y} = 1;
+}
+
+# cells should be a arrayref to an array of arrayrefs of length 2 arrays, each 
+# representing the x,y coordinate of one of the cells of the tile relative
+# to the command point of the tile
+# for example:
+# a tile of the form 
+#   oO
+#    o
+#  ooo
+#
+# (The capital O represents the command point, and must be one of the points on the
+#  tile itself (equivalently, cell 0,0 must be one of the cells present)
+# the cell list looks like: [[-1,0],[0,0],[0,1],[0,2],[-1,2],[-2,2]]
+sub AddTile
+{
+    my ($this,$name,$cells,$startx,$starty,$keyid) = @_;
+
+    my $tdata = {
+	NAME => $name,
+	CELLS => $cells,
+	KEYID => (defined $keyid ? $keyid : $name),
+	STARTX => $startx,
+	STARTY => $starty
+    };
+
+    die("bad tile name $name") unless length($name) == 1;
+    die("bad tile keyid " . $tdata->{KEYID} . " on tile $name") unless length($tdata->{KEYID}) == 1;
+
+    my $haszerozero = 0;
+    for (my $i = 0 ; $i < @$cells ; ++$i)
+    {
+	if ($cells->[$i]->[0] == 0 && $cells->[$i]->[1] == 0) {
+	    $haszerozero = 1;
+	}
+    }
+    die("tile $name has no zero-zero cell") unless $haszerozero;
+
+    $this->{TILES}->{$name} = $tdata;
+}
+
+sub AddGoal
+{
+    my ($this,$name,$gx,$gy) = @_;
+    $this->{TILES}->{$name}->{GOALX} = $gx;
+    $this->{TILES}->{$name}->{GOALY} = $gy;
+    $this->{HASGOAL} = 1;
+}
+
+# validate must be called prior to use of a SlidingInfo
+sub Validate
+{
+    my ($this) = @_;
+    die("no goal") unless $this->{HASGOAL} == 1;
+
+    $this->ValidateStartPosition();
+    $this->ValidateGoalPosition();
+    $this->BuildGoalGrades();
+}
+
+################################################################
+#
+# Helper functions below
+#
+################################################################
+# note: a 'position' is a hashref, keyed by tile name,
+# of arrayrefs to length 2 arrays, containing the x,y coordinate of the tiles in question
+#
+
+sub GetStartPosition
+{
+    my ($this) = @_;
+    my %result;
+
+    for my $tkey (keys %{$this->{TILES}}) {
+	$result{$tkey} = [$this->{TILES}->{$tkey}->{STARTX},$this->{TILES}->{$tkey}->{STARTY}];
+    }
+    return \%result;
+}
+
+sub GetGoalPosition
+{
+    my ($this) = @_;
+    my %result;
+
+    for my $tkey (keys %{$this->{TILES}}) {
+	next unless exists $this->{TILES}->{$tkey}->{GOALX};
+	$result{$tkey} = [$this->{TILES}->{$tkey}->{GOALX},$this->{TILES}->{$tkey}->{GOALY}];
+    }
+    return \%result;
+}
+
+sub ValidateStartPosition
+{
+    my ($this) = @_;
+    die("Invalid Start Position") unless $this->ValidatePosition($this->GetStartPosition());
+}
+
+sub ValidateGoalPosition
+{
+    my ($this) = @_;
+    die("Invalid Goal Position")  unless $this->ValidatePosition($this->GetGoalPosition());
+}
+
+
+# determines if, for the specified position:
+# A) for each tile, it is entirely on the board
+# B) it is not standing on any blocks on the board
+# C) it is not overlapping any other tile.
+# returns undef if any of the above are false
+# otherwise, returns a ref to a hash containing,
+# for every cell of the board, either
+# '.' -- empty space
+# '#' -- a block
+# a ref to the tile in the space.
+
+sub ValidatePosition
+{
+    my ($this,$position) = @_;
+    my %usedspaces;
+
+    for my $tkey (keys %{$this->{TILES}}) {
+	next unless exists $position->{$tkey};
+	my $x = $position->{$tkey}->[0];
+	my $y = $position->{$tkey}->[1];
+	my $car = $this->{TILES}->{$tkey}->{CELLS};
+	for my $coff (@$car) {
+	    my $nx = $x + $coff->[0];
+	    my $ny = $y + $coff->[1];
+	    # cell of tile is on board
+	    return undef if $nx < 0;
+	    return undef if $ny < 0;
+	    return undef if $nx >= $this->{WIDTH};
+	    return undef if $ny >= $this->{HEIGHT};
+	    # cell is not on a block
+	    return undef if exists $this->{BLOCKS}->{$nx,$ny};
+	    # cell overlaps no other cell
+	    return undef if exists $usedspaces{$nx,$ny};
+	    $usedspaces{$nx,$ny} = $this->{TILES}->{$tkey};
+	}
+    }
+
+    for (my $x = 0 ; $x < $this->{WIDTH} ; ++$x) {
+	for (my $y = 0 ; $y < $this->{HEIGHT} ; ++$y) {
+	    next if exists $usedspaces{$x,$y};
+	    $usedspaces{$x,$y} = exists $this->{BLOCKS}->{$x,$y} ? '#' : '.';
+	}
+    }
+    return \%usedspaces;
+}
+
+sub BuildGoalGrades
+{
+    my ($this) = @_;
+    
+    for my $tkey (keys %{$this->{TILES}}) {
+	next unless exists $this->{TILES}->{$tkey}->{GOALX};
+	$this->BuildGoalGrade($tkey);
+    }
+}
+
+sub BuildGoalGrade
+{
+    my ($this,$tname) = @_;
+    my $tile = $this->{TILES}->{$tname};
+    $tile->{GRADES} = {};
+    my @queue;
+    # shift, push
+    # queue items: depth, pos object
+    push @queue, { DEPTH=>0, POS=> { $tname => [ $tile->{GOALX} , $tile->{GOALY} ] } };
+    
+    while(@queue) {
+	my $qi = shift @queue;
+
+	next unless $this->ValidatePosition($qi->{POS});
+	next if exists $tile->{GRADES}->{$qi->{POS}->{$tname}->[0],$qi->{POS}->{$tname}->[1]};
+
+	$tile->{GRADES}->{$qi->{POS}->{$tname}->[0],$qi->{POS}->{$tname}->[1]} = $qi->{DEPTH};
+
+	push @queue, { DEPTH=>$qi->{DEPTH} + 1,
+		       POS=> { $tname => [ $qi->{POS}->{$tname}->[0]+1,
+					   $qi->{POS}->{$tname}->[1] ] } };
+
+	push @queue, { DEPTH=>$qi->{DEPTH} + 1,
+		       POS=> { $tname => [ $qi->{POS}->{$tname}->[0]-1,
+					   $qi->{POS}->{$tname}->[1] ] } };
+
+	push @queue, { DEPTH=>$qi->{DEPTH} + 1,
+		       POS=> { $tname => [ $qi->{POS}->{$tname}->[0],
+					   $qi->{POS}->{$tname}->[1]+1 ] } };
+    
+	push @queue, { DEPTH=>$qi->{DEPTH} + 1,
+		       POS=> { $tname => [ $qi->{POS}->{$tname}->[0],
+					   $qi->{POS}->{$tname}->[1]-1 ] } };
+    }
+}
+
+1;
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+	
+

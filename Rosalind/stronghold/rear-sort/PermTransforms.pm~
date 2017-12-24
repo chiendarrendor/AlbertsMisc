@@ -1,0 +1,16 @@
+package PermTransforms;
+
+sub PermToId
+{
+    my ($perm,$p0) = @_;
+    die("what? PTI") unless @perm == @p0;
+    my $blockwidth = $factorial[@$perm - 1];
+
+
+
+
+}
+
+
+
+1;

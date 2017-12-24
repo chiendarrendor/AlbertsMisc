@@ -1,0 +1,6 @@
+die("bad command line") unless @ARGV == 1;
+$size = $ARGV[0];
+
+$np = 1;
+for ($i = 2 ; $i <= $size ; ++$i ) { $np *= $i; }
+print $np;

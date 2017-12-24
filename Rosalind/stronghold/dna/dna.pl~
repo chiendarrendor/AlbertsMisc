@@ -1,0 +1,6 @@
+#! /bin/perl
+
+die("bad command line\n") unless @ARGV == 1;
+my $filename = $ARGV[0];
+
+

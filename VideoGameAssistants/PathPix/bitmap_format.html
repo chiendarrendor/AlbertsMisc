@@ -1,0 +1,131 @@
+<html>
+ <head>
+  <title>Windows Bitmap File Format</title>
+  <style type="text/css">
+   body
+   {
+     background-color: white;
+     font-family: arial;
+    }
+   table
+   {
+      border: 1px solid black;
+   }
+   td
+   {
+     border: 1px solid #b0b0b0;
+   }
+  </style>
+ </head>
+<body>
+<h1>Windows Bitmap File Format</h1>
+<h2>Purpose of Document</h2>
+<ul>
+ <li>Explaining the Windows File Format to sufficient detail for implementation of methods for reading and writing with the format.</li>
+</ul>
+<br />
+<h2>File Header</h2>
+<table>
+ <tr>
+  <th>Offset</th><th>Type</th><th>Description of data</th>
+ </tr>
+ <tr>
+  <td>0</td><td>char *c="BM";</td><td>a 2-byte format signature</td>
+ </tr>
+ <tr>
+  <td>2</td><td>4-byte int</td><td>Number of bytes in the entire file</td>
+ </tr>
+ <tr>
+  <td>6</td><td>4-byte int</td><td>Constant value of 0</td>
+ </tr>
+ <tr>
+  <td>10</td><td>4-byte int</td><td>Number of bytes in file header(pixel data should start at this offset)</td>
+ </tr>
+ <tr>
+  <td>14</td><td>2-byte int</td><td>Value is always 0</td>
+ </tr>
+ <tr>
+  <td>18</td><td>4-byte int</td><td>Width of image</td>
+ </tr>
+ <tr>
+  <td>22</td><td>4-byte int</td><td>Height of image</td>
+ </tr>
+ <tr>
+  <td>26</td><td>2-byte int</td><td>number of colour planes, layers?  This is assumed to be 1 and often ignored in most software.</td>
+ </tr>
+ <tr>
+  <td>28</td><td>2-byte int</td><td>bit depth or colour depth, 24 for 3-bytes per pixel(1,4,8,16,24,32 are all possible.)</td>
+ </tr>
+ <tr>
+  <td>30</td><td>4-byte int</td><td>Almost always 0.  If anything else, it indicates a compression method which means the pixel data must be interpreted differently.</td>
+ </tr>
+ <tr>
+  <td>34</td><td>4-byte int</td><td>Number of bytes in pixel data</td>
+ </tr>
+ <tr>
+  <td>38</td><td>bytes</td><td>Bytes with value 0.  For file reading, use the file header size value given earlier to determine where the pixel data starts.  For file writing, just leave 16 bytes with a value of 0 here.</td>
+ </tr>
+ <tr>
+  <td>54</td><td>4-byte int [] for palettes</td>
+  <td>If colour palettes are used(bit depth 1,4,8), this would be the first entry.  If not, this is the beginning of pixel data.</td>
+ </tr>
+</table>
+<br />
+<h2>Bit Depth</h2>
+<table>
+ <tr>
+  <th>Bit Count</th>
+  <th>Description</th>
+ </tr>
+ <tr>
+  <td>1</td>
+  <td>Each pixel's colour is indicated by a 1-bit index into a colour palette of only 2<sup>1</sup> or 2 colours.  This is also referred to as "monochrome."  Use bit shifting and masking to access each bit efficiently.</td>
+ </tr>
+ <tr>
+  <td>4</td>
+  <td>Each pixel's colour is indicated by a 4-bit index into a colour palette of 2<sup>4</sup> or 16 colours.  Use bit shifting and masking to access each 4-bit index efficiently.</td>
+ </tr>
+ <tr>
+  <td>8</td>
+  <td>Each pixel's colour is indicated by an 8-bit index into a colour palette of 2<sup>8</sup> or 256 colours</td>
+ </tr>
+ <tr>
+  <td>16</td>
+  <td>5 bits for each RGB value.  The 16th bit is unused but should be left 0.</td>
+ </tr>
+ <tr>
+  <td>24</td>
+  <td>8 bits for each RGB value.</td>
+ </tr>
+ <tr>
+  <td>32</td>
+  <td>8 bits for each RGB value.  The extra byte is sometimes used to indicate an alpha blending ratio when drawing the image over another one.</td>
+ </tr>
+</table>
+<br />
+<h2>Colour Palettes</h2>
+<p>Colour palettes are used for bit depths of 1, 4, and 8.  The entries follow a 32-bit format starting 54 bytes into the file or where pixel data usually starts for bit depths above 8.</p>
+<br />
+<h2>Pixel Data Padding</h2>
+<p>
+Each row of pixels must occupy a multiple of 4 bytes.  When this doesn't happen, 1 to 3 extra bytes of unimportant values are appended to the end of each row of pixel data.
+</p>
+<br />
+<h2>Compression</h2>
+<ul>
+ <li>Compression is very rarely used with bitmap files so you don't have to worry much about not supporting any.</li>
+</ul>
+<br />
+<h2>References</h2>
+<ul>
+ <li><a href="http://en.wikipedia.org/wiki/Windows_bitmap">Wikipedia article on Windows Bitmap</a></li>
+</ul>
+<br />
+<h3>Author</h3>
+<ul>
+ <li>Josh Greig</li>
+ <li><a href="mailto:bonecracking@yahoo.com">bonecracking@yahoo.com</a></li>
+</ul>
+
+</body>
+</html>

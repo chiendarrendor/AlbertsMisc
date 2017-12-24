@@ -1,0 +1,18 @@
+package Newick;
+
+# parses a string that corresponds to the following grammar,
+# and builds the tree corresponding to it, returning the 
+# root node as defined by the string.
+# gramar:
+#
+# Tree -> RootLeaf ';' | RootInternal ';' | Branch ';'
+# RootLeaf -> Name | '(' Branch ')' Name
+# RootInternal -> '(' BranchSet ',' Branch ')' Name
+# Branch -> Subtree Length
+# Length -> empty | ':' number
+# Subtree -> Leaf | Internal
+# Leaf -> Name
+# Name -> empty | string
+# BranchSet -> Branch | BranchSet ',' Branch
+#
+# tokens: ';' '(' ')' ',' ':' string number

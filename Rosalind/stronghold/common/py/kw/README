@@ -1,0 +1,30 @@
+py 0.2
+
+Usage: perl -w py2pl.sh <name>
+
+py is yacc for perl (actually not yacc but bison ;-), ie. it reads
+a grammer in yacc format with embedded perl code. To keep parsing
+simple the following layout of the embedded code is used:
+
+1  exprs:    expr
+2       {
+3         return "$_[0]";
+4       } /* py */
+5       | expr exprs
+6       {
+7         return "@_";;
+8       } /* py */
+
+The third and seventh line are embedded perl code, started by the
+curly brace in line two and ended by the one in line four. The comment
+after the closing brace is essential right now (adding a brace counting
+parser is the next step)
+
+py files are converted to y files using py2y.pl. This y file is feed
+to bison, generating an output (I drop the c file in the script), which
+is processed by a hacked py script also reading the py file to generate
+a '$name.pl' and '$name-rules.pl' file.
+
+'$name-main.pl' has to be provided by hand.
+
+I'll hope You'll find this stuff useful and would enjoy hearing from You :-)

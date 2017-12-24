@@ -1,0 +1,476 @@
+Player Pagans rolled 2 and moved Pagans,0
+  source uid is: 0
+  dest uid is: 2
+Player Muggles rolled 5 and moved Muggles,0
+  source uid is: 0
+  dest uid is: 5
+Player Advertisers rolled 3 and moved Advertisers,2
+  source uid is: 0
+  dest uid is: 3
+Player GamerGeeks rolled 2 and moved GamerGeeks,2
+  source uid is: 0
+  dest uid is: 2
+Player GoldenDogs rolled 1 and moved GoldenDogs,0
+  source uid is: 0
+  dest uid is: 1
+Player Naughties rolled 4 and moved Naughties,2
+  source uid is: 0
+  dest uid is: 4
+Player Pagans rolled 3 and moved Pagans,0
+  source uid is: 2
+  dest uid is: 5
+Player Muggles rolled 2 and moved Muggles,0
+  source uid is: 5
+  dest uid is: 7
+Player Advertisers rolled 2 and moved Advertisers,0
+  source uid is: 0
+  dest uid is: 2
+Player GamerGeeks rolled 6 and moved GamerGeeks,1
+  source uid is: 0
+  dest uid is: 6
+Player GoldenDogs rolled 5 and moved GoldenDogs,0
+  source uid is: 1
+  dest uid is: 6
+  *** Tile 1 being taken ***
+Player Naughties rolled 1 and moved Naughties,1
+  source uid is: 0
+  dest uid is: 2
+Player Pagans rolled 6 and moved Pagans,0
+  source uid is: 5
+  dest uid is: 11
+  *** Tile 5 being taken ***
+Player Muggles rolled 5 and moved Muggles,1
+  source uid is: 0
+  dest uid is: 7
+Player Advertisers rolled 3 and moved Advertisers,2
+  source uid is: 3
+  dest uid is: 7
+  *** Tile 3 being taken ***
+Player GamerGeeks rolled 5 and moved GamerGeeks,1
+  source uid is: 6
+  dest uid is: 11
+Player GoldenDogs rolled 5 and moved GoldenDogs,1
+  source uid is: 0
+  dest uid is: 8
+Player Naughties rolled 6 and moved Guardian,2
+  source uid is: 11
+  dest uid is: 17
+Player Pagans rolled 2 and moved Pagans,0
+  source uid is: 11
+  dest uid is: 13
+Player Muggles rolled 6 and moved Muggles,0
+  source uid is: 7
+  dest uid is: 13
+Player Advertisers rolled 3 and moved Advertisers,2
+  source uid is: 7
+  dest uid is: 10
+Player GamerGeeks rolled 6 and moved GamerGeeks,1
+  source uid is: 11
+  dest uid is: 17
+  *** Tile 11 being taken ***
+Player GoldenDogs rolled 1 and moved GoldenDogs,1
+  source uid is: 8
+  dest uid is: 9
+  *** Tile 8 being taken ***
+Player Naughties rolled 2 and moved Naughties,2
+  source uid is: 4
+  dest uid is: 7
+  *** Tile 4 being taken ***
+Player Pagans rolled 2 and moved Guardian,4
+  source uid is: 13
+  dest uid is: 15
+Player Muggles rolled 3 and moved Muggles,1
+  source uid is: 7
+  dest uid is: 12
+Player Advertisers rolled 5 and moved Guardian,3
+  source uid is: 12
+  dest uid is: 17
+Player GamerGeeks rolled 2 and moved Guardian,3
+  source uid is: 17
+  dest uid is: 19
+Player GoldenDogs rolled 4 and moved GoldenDogs,0
+  source uid is: 6
+  dest uid is: 12
+  *** Tile 6 being taken ***
+Player Naughties rolled 6 and moved Guardian,0
+  source uid is: 9
+  dest uid is: 16
+Player Pagans rolled 3 and moved Guardian,2
+  source uid is: 17
+  dest uid is: 20
+Player Muggles rolled 6 and moved Guardian,1
+  source uid is: 10
+  dest uid is: 17
+Player Advertisers rolled 4 and moved Advertisers,0
+  source uid is: 2
+  dest uid is: 12
+Player GamerGeeks rolled 3 and moved Guardian,1
+  source uid is: 17
+  dest uid is: 20
+Player GoldenDogs rolled 1 and moved GoldenDogs,0
+  source uid is: 12
+  dest uid is: 13
+Player Naughties rolled 1 and moved Naughties,2
+  source uid is: 7
+  dest uid is: 9
+  *** Tile 7 being taken ***
+Player Pagans rolled 6 and moved Pagans,0
+  source uid is: 13
+  dest uid is: 19
+Player Muggles rolled 5 and moved Muggles,0
+  source uid is: 13
+  dest uid is: 18
+Player Advertisers rolled 2 and moved Advertisers,2
+  source uid is: 10
+  dest uid is: 13
+  *** Tile 10 being taken ***
+Player GamerGeeks rolled 4 and moved GamerGeeks,0
+  source uid is: 0
+  dest uid is: 13
+Player GoldenDogs rolled 4 and moved GoldenDogs,0
+  source uid is: 13
+  dest uid is: 17
+Player Naughties rolled 2 and moved Guardian,3
+  source uid is: 19
+  dest uid is: 21
+Player Pagans rolled 5 and moved Pagans,0
+  source uid is: 19
+  dest uid is: 24
+  *** Tile 19 being taken ***
+Player Muggles rolled 2 and moved Muggles,1
+  source uid is: 12
+  dest uid is: 14
+Player Advertisers rolled 6 and moved Advertisers,1
+  source uid is: 0
+  dest uid is: 15
+Player GamerGeeks rolled 3 and moved Guardian,5
+  source uid is: 14
+  dest uid is: 17
+Player GoldenDogs rolled 6 and moved Guardian,7
+  source uid is: 15
+  dest uid is: 22
+Player Naughties rolled 3 and moved Naughties,1
+  source uid is: 2
+  dest uid is: 13
+Player Pagans rolled 4 and moved Pagans,1
+  source uid is: 0
+  dest uid is: 13
+Player Muggles rolled 2 and moved Muggles,0
+  source uid is: 18
+  dest uid is: 21
+  *** Tile 18 being taken ***
+Player Advertisers rolled 6 and moved Guardian,4
+  source uid is: 15
+  dest uid is: 23
+Player GamerGeeks rolled 1 and moved Guardian,5
+  source uid is: 17
+  dest uid is: 20
+Player GoldenDogs rolled 2 and moved GoldenDogs,1
+  source uid is: 9
+  dest uid is: 13
+Player Naughties rolled 3 and moved Naughties,0
+  source uid is: 0
+  dest uid is: 12
+Player Pagans rolled 6 and moved Pagans,1
+  source uid is: 13
+  dest uid is: 21
+Player Muggles rolled 5 and moved Muggles,1
+  source uid is: 14
+  dest uid is: 21
+  *** Tile 14 being taken ***
+Player Advertisers rolled 2 and moved Advertisers,1
+  source uid is: 15
+  dest uid is: 17
+  *** Tile 15 being taken ***
+Player GamerGeeks rolled 6 and moved Guardian,3
+  source uid is: 21
+  dest uid is: 27
+Player GoldenDogs rolled 3 and moved GoldenDogs,1
+  source uid is: 13
+  dest uid is: 20
+Player Naughties rolled 4 and moved Guardian,5
+  source uid is: 20
+  dest uid is: 24
+Player Pagans rolled 2 and moved Guardian,1
+  source uid is: 20
+  dest uid is: 22
+Player Muggles rolled 1 and moved Muggles,0
+  source uid is: 21
+  dest uid is: 22
+Player Advertisers rolled 2 and moved Guardian,7
+  source uid is: 22
+  dest uid is: 24
+Player GamerGeeks rolled 3 and moved Guardian,2
+  source uid is: 20
+  dest uid is: 23
+Player GoldenDogs rolled 6 and moved GoldenDogs,0
+  source uid is: 17
+  dest uid is: 25
+Player Naughties rolled 1 and moved Guardian,1
+  source uid is: 22
+  dest uid is: 23
+Player Pagans rolled 4 and moved Pagans,1
+  source uid is: 21
+  dest uid is: 25
+Player Muggles rolled 4 and moved Muggles,1
+  source uid is: 21
+  dest uid is: 25
+  *** Tile 21 being taken ***
+Player Advertisers rolled 3 and moved Advertisers,1
+  source uid is: 17
+  dest uid is: 23
+Player GamerGeeks rolled 2 and moved GamerGeeks,2
+  source uid is: 2
+  dest uid is: 12
+  *** Tile 2 being taken ***
+Player GoldenDogs rolled 2 and moved GoldenDogs,0
+  source uid is: 25
+  dest uid is: 27
+Player Naughties rolled 2 and moved Guardian,4
+  source uid is: 23
+  dest uid is: 25
+Player Pagans rolled 2 and moved Guardian,1
+  source uid is: 23
+  dest uid is: 25
+Player Muggles rolled 5 and moved Muggles,1
+  source uid is: 25
+  dest uid is: 30
+Player Advertisers rolled 3 and moved Guardian,1
+  source uid is: 25
+  dest uid is: 28
+Player GamerGeeks rolled 3 and moved GamerGeeks,2
+  source uid is: 12
+  dest uid is: 17
+Player GoldenDogs rolled 3 and moved Guardian,4
+  source uid is: 25
+  dest uid is: 28
+Player Naughties rolled 3 and moved Guardian,3
+  source uid is: 27
+  dest uid is: 30
+Player Pagans rolled 2 and moved Pagans,2
+  source uid is: 0
+  dest uid is: 12
+Player Muggles rolled 4 and moved Guardian,3
+  source uid is: 30
+  dest uid is: 33
+Player Advertisers rolled 3 and moved Advertisers,0
+  source uid is: 12
+  dest uid is: 17
+Player GamerGeeks rolled 6 and moved Guardian,7
+  source uid is: 24
+  dest uid is: 30
+Player GoldenDogs rolled 3 and moved GoldenDogs,0
+  source uid is: 27
+  dest uid is: 30
+  *** Tile 27 being taken ***
+Player Naughties rolled 1 and moved Guardian,7
+  source uid is: 30
+  dest uid is: 31
+Player Pagans rolled 3 and moved Pagans,1
+  source uid is: 25
+  dest uid is: 29
+  *** Tile 25 being taken ***
+Player Muggles rolled 1 and moved Guardian,5
+  source uid is: 24
+  dest uid is: 26
+Player Advertisers rolled 6 and moved Advertisers,1
+  source uid is: 23
+  dest uid is: 31
+Player GamerGeeks rolled 2 and moved GamerGeeks,0
+  source uid is: 13
+  dest uid is: 17
+Player GoldenDogs rolled 6 and moved GoldenDogs,0
+  source uid is: 30
+  dest uid is: 33
+Player Naughties rolled 1 and moved Naughties,1
+  source uid is: 13
+  dest uid is: 16
+Player Pagans rolled 1 and moved Pagans,1
+  source uid is: 29
+  dest uid is: 30
+  *** Tile 29 being taken ***
+Player Muggles rolled 4 and moved Guardian,7
+  source uid is: 31
+  dest uid is: 33
+Player Advertisers rolled 5 and moved Advertisers,0
+  source uid is: 17
+  dest uid is: 26
+Player GamerGeeks rolled 2 and moved GamerGeeks,2
+  source uid is: 17
+  dest uid is: 22
+Player GoldenDogs rolled 4 and moved Guardian,6
+  source uid is: 16
+  dest uid is: 23
+Player Naughties rolled 2 and moved Naughties,2
+  source uid is: 9
+  dest uid is: 13
+  *** Tile 9 being taken ***
+Player Pagans rolled 4 and moved Guardian,0
+  source uid is: 16
+  dest uid is: 23
+Player Muggles rolled 2 and moved Muggles,1
+  source uid is: 30
+  dest uid is: 32
+Player Advertisers rolled 2 and moved Guardian,5
+  source uid is: 26
+  dest uid is: 30
+Player GamerGeeks rolled 4 and moved GamerGeeks,0
+  source uid is: 17
+  dest uid is: 24
+Player GoldenDogs rolled 2 and moved GoldenDogs,1
+  source uid is: 20
+  dest uid is: 23
+  *** Tile 20 being taken ***
+Player Naughties rolled 5 and moved Naughties,2
+  source uid is: 13
+  dest uid is: 24
+Player Pagans rolled 3 and moved Pagans,2
+  source uid is: 12
+  dest uid is: 17
+Player Muggles rolled 4 and moved Muggles,0
+  source uid is: 22
+  dest uid is: 28
+Player Advertisers rolled 6 and moved Guardian,0
+  source uid is: 23
+  dest uid is: 32
+Player GamerGeeks rolled 6 and moved GamerGeeks,1
+  source uid is: 17
+  dest uid is: 30
+Player GoldenDogs rolled 4 and moved Guardian,2
+  source uid is: 23
+  dest uid is: 30
+Player Naughties rolled 6 and moved Guardian,1
+  source uid is: 28
+  dest uid is: 33
+Player Pagans rolled 4 and moved Guardian,4
+  source uid is: 28
+  dest uid is: 33
+Player Muggles rolled 5 and moved Muggles,2
+  source uid is: 0
+  dest uid is: 22
+Player Advertisers rolled 6 and moved Guardian,2
+  source uid is: 30
+  dest uid is: 33
+Player GamerGeeks rolled 1 and moved GamerGeeks,0
+  source uid is: 24
+  dest uid is: 26
+Player GoldenDogs rolled 6 and moved GoldenDogs,1
+  source uid is: 23
+  dest uid is: 32
+Player Naughties rolled 5 and moved Naughties,0
+  source uid is: 12
+  dest uid is: 23
+  *** Tile 12 being taken ***
+Player Pagans rolled 4 and moved Pagans,0
+  source uid is: 24
+  dest uid is: 31
+Player Muggles rolled 1 and moved Muggles,2
+  source uid is: 22
+  dest uid is: 23
+Player Advertisers rolled 4 and moved Guardian,0
+  source uid is: 32
+  dest uid is: 33
+Player GamerGeeks rolled 5 and moved GamerGeeks,0
+  source uid is: 26
+  dest uid is: 33
+Player GoldenDogs rolled 3 and moved GoldenDogs,2
+  source uid is: 0
+  dest uid is: 17
+Player Naughties rolled 3 and moved Guardian,5
+  source uid is: 30
+  dest uid is: 33
+Player Pagans rolled 5 and moved Guardian,6
+  source uid is: 23
+  dest uid is: 31
+Player Muggles rolled 2 and moved Muggles,2
+  source uid is: 23
+  dest uid is: 26
+Player Advertisers rolled 1 and moved Advertisers,2
+  source uid is: 13
+  dest uid is: 16
+  *** Tile 13 being taken ***
+Player GamerGeeks rolled 2 and moved GamerGeeks,1
+  source uid is: 30
+  dest uid is: 32
+Player GoldenDogs rolled 5 and moved Guardian,6
+  source uid is: 31
+  dest uid is: 33
+Player Naughties rolled 3 and moved Naughties,2
+  source uid is: 24
+  dest uid is: 30
+  *** Tile 24 being taken ***
+Player Pagans rolled 3 and moved Pagans,1
+  source uid is: 30
+  dest uid is: 33
+Player Muggles rolled 3 and moved Muggles,0
+  source uid is: 28
+  dest uid is: 32
+  *** Tile 28 being taken ***
+Player Advertisers rolled 6 and moved Advertisers,0
+  source uid is: 26
+  dest uid is: 33
+Player GamerGeeks rolled 5 and moved GamerGeeks,2
+  source uid is: 22
+  dest uid is: 32
+  *** Tile 22 being taken ***
+Player GoldenDogs rolled 2 and moved GoldenDogs,1
+  source uid is: 32
+  dest uid is: 33
+Player Naughties rolled 3 and moved Naughties,2
+  source uid is: 30
+  dest uid is: 33
+  *** Tile 30 being taken ***
+Player Pagans rolled 6 and moved Pagans,0
+  source uid is: 31
+  dest uid is: 33
+Player Muggles rolled 2 and moved Muggles,1
+  source uid is: 32
+  dest uid is: 33
+Player Advertisers rolled 6 and moved Advertisers,2
+  source uid is: 16
+  dest uid is: 33
+Player GamerGeeks rolled 1 and moved GamerGeeks,2
+  source uid is: 32
+  dest uid is: 33
+Player GoldenDogs rolled 2 and moved GoldenDogs,2
+  source uid is: 17
+  dest uid is: 26
+Player Naughties rolled 2 and moved Naughties,1
+  source uid is: 16
+  dest uid is: 23
+  *** Tile 16 being taken ***
+Player Pagans rolled 1 and moved Pagans,2
+  source uid is: 17
+  dest uid is: 23
+  *** Tile 17 being taken ***
+Player Muggles rolled 2 and moved Muggles,2
+  source uid is: 26
+  dest uid is: 32
+Player Advertisers rolled 5 and moved Advertisers,1
+  source uid is: 31
+  dest uid is: 33
+  *** Tile 31 being taken ***
+Player GamerGeeks rolled 2 and moved GamerGeeks,1
+  source uid is: 32
+  dest uid is: 33
+Player GoldenDogs rolled 6 and moved GoldenDogs,2
+  source uid is: 26
+  dest uid is: 33
+  *** Tile 26 being taken ***
+Player Naughties rolled 4 and moved Naughties,0
+  source uid is: 23
+  dest uid is: 33
+Player Pagans rolled 6 and moved Pagans,2
+  source uid is: 23
+  dest uid is: 33
+Player Muggles rolled 5 and moved Muggles,2
+  source uid is: 32
+  dest uid is: 33
+Player Naughties rolled 5 and moved Naughties,1
+  source uid is: 23
+  dest uid is: 33
+  *** Tile 23 being taken ***
+Player Muggles rolled 6 and moved Muggles,0
+  source uid is: 32
+  dest uid is: 33
+  *** Tile 32 being taken ***

@@ -1,0 +1,1280 @@
+   Y       O       O       O       Y   
+  Y O     Y O     O O     O O     O O  
+ O   O + R   O + O   B + R   O = O   B 
+R O O O R O O O O R O B R R O O R O O B
+
+   Y       O       O       O       Y   
+  Y O     Y O     O O     O O     O O  
+ O   O + R   O + O   B + O   B = R   O 
+R O O O R O O O O R O B O O B B O R B O
+
+   Y       O       O       Y       O   
+  Y O     Y O     O O     Y Y     Y Y  
+ O   O + R   O + O   B + O   O = R   B 
+R O O O R O O O O R O B O O O O O R O B
+
+   Y       O       O       O       Y   
+  Y O     Y O     O O     O O     O O  
+ O   O + R   O + O   B + O   O = R   B 
+R O O O R O O O O R O B O O O O O R O B
+
+   Y       O       O       O       Y   
+  Y O     Y O     O Y     O O     O Y  
+ O   O + R   O + O   O + R   O = O   O 
+R O O O R O O O O O B O R R O O R R B O
+
+   Y       O       O       O       Y   
+  Y O     Y O     O Y     O O     O Y  
+ O   O + R   O + O   O + O   B = R   B 
+R O O O R O O O O O B O O O B B O O O B
+
+   Y       O       O       Y       O   
+  Y O     Y O     O Y     Y Y     Y O  
+ O   O + R   O + O   O + O   O = R   O 
+R O O O R O O O O O B O O O O O O O B O
+
+   Y       O       O       O       Y   
+  Y O     Y O     O Y     O O     O Y  
+ O   O + R   O + O   O + O   O = R   O 
+R O O O R O O O O O B O O O O O O O B O
+
+   Y       O       O       O       Y   
+  Y O     Y O     Y O     O O     Y O  
+ O   O + R   O + O   O + R   O = O   O 
+R O O O R O O O O O O B R R O O R R O B
+
+   Y       O       O       O       Y   
+  Y O     Y O     Y O     O O     Y O  
+ O   O + R   O + O   O + O   B = R   B 
+R O O O R O O O O O O B O O B B O O B O
+
+   Y       O       O       Y       O   
+  Y O     Y O     Y O     Y Y     O Y  
+ O   O + R   O + O   O + O   O = R   O 
+R O O O R O O O O O O B O O O O O O O B
+
+   Y       O       O       O       Y   
+  Y O     Y O     Y O     O O     Y O  
+ O   O + R   O + O   O + O   O = R   O 
+R O O O R O O O O O O B O O O O O O O B
+
+   Y       O       O       O       Y   
+  Y O     Y O     O O     O O     O O  
+ O   O + R   O + O   O + R   O = O   O 
+R O O O R O O O O O O O R R O O R R O O
+
+   Y       O       O       O       Y   
+  Y O     Y O     O O     O O     O O  
+ O   O + R   O + O   O + O   B = R   B 
+R O O O R O O O O O O O O O B B O O B B
+
+   Y       O       O       Y       O   
+  Y O     Y O     O O     Y Y     Y Y  
+ O   O + R   O + O   O + O   O = R   O 
+R O O O R O O O O O O O O O O O O O O O
+
+   Y       O       O       O       Y   
+  Y O     Y O     O O     O O     O O  
+ O   O + R   O + O   O + O   O = R   O 
+R O O O R O O O O O O O O O O O O O O O
+
+   Y       O       O       O       Y   
+  Y O     Y Y     O O     O O     O Y  
+ O   O + O   O + O   B + R   O = R   B 
+R O O O O O O O O R O B R R O O O O O B
+
+   Y       O       O       O       Y   
+  Y O     Y Y     O O     O O     O Y  
+ O   O + O   O + O   B + O   B = O   O 
+R O O O O O O O O R O B O O B B R R B O
+
+   Y       O       O       Y       O   
+  Y O     Y Y     O O     Y Y     Y O  
+ O   O + O   O + O   B + O   O = O   B 
+R O O O O O O O O R O B O O O O R R O B
+
+   Y       O       O       O       Y   
+  Y O     Y Y     O O     O O     O Y  
+ O   O + O   O + O   B + O   O = O   B 
+R O O O O O O O O R O B O O O O R R O B
+
+   Y       O       O       O       Y   
+  Y O     Y Y     O Y     O O     O O  
+ O   O + O   O + O   O + R   O = R   O 
+R O O O O O O O O O B O R R O O O R B O
+
+   Y       O       O       O       Y   
+  Y O     Y Y     O Y     O O     O O  
+ O   O + O   O + O   O + O   B = O   B 
+R O O O O O O O O O B O O O B B R O O B
+
+   Y       O       O       Y       O   
+  Y O     Y Y     O Y     Y Y     Y Y  
+ O   O + O   O + O   O + O   O = O   O 
+R O O O O O O O O O B O O O O O R O B O
+
+   Y       O       O       O       Y   
+  Y O     Y Y     O Y     O O     O O  
+ O   O + O   O + O   O + O   O = O   O 
+R O O O O O O O O O B O O O O O R O B O
+
+   Y       O       O       O       Y   
+  Y O     Y Y     Y O     O O     Y Y  
+ O   O + O   O + O   O + R   O = R   O 
+R O O O O O O O O O O B R R O O O R O B
+
+   Y       O       O       O       Y   
+  Y O     Y Y     Y O     O O     Y Y  
+ O   O + O   O + O   O + O   B = O   B 
+R O O O O O O O O O O B O O B B R O B O
+
+   Y       O       O       Y       O   
+  Y O     Y Y     Y O     Y Y     O O  
+ O   O + O   O + O   O + O   O = O   O 
+R O O O O O O O O O O B O O O O R O O B
+
+   Y       O       O       O       Y   
+  Y O     Y Y     Y O     O O     Y Y  
+ O   O + O   O + O   O + O   O = O   O 
+R O O O O O O O O O O B O O O O R O O B
+
+   Y       O       O       O       Y   
+  Y O     Y Y     O O     O O     O Y  
+ O   O + O   O + O   O + R   O = R   O 
+R O O O O O O O O O O O R R O O O R O O
+
+   Y       O       O       O       Y   
+  Y O     Y Y     O O     O O     O Y  
+ O   O + O   O + O   O + O   B = O   B 
+R O O O O O O O O O O O O O B B R O B B
+
+   Y       O       O       Y       O   
+  Y O     Y Y     O O     Y Y     Y O  
+ O   O + O   O + O   O + O   O = O   O 
+R O O O O O O O O O O O O O O O R O O O
+
+   Y       O       O       O       Y   
+  Y O     Y Y     O O     O O     O Y  
+ O   O + O   O + O   O + O   O = O   O 
+R O O O O O O O O O O O O O O O R O O O
+
+   Y       O       O       O       Y   
+  Y O     O Y     O O     O O     Y Y  
+ O   O + R   O + O   B + R   O = O   B 
+R O O O O O B O O R O B R R O O O O B B
+
+   Y       O       O       O       Y   
+  Y O     O Y     O O     O O     Y Y  
+ O   O + R   O + O   B + O   B = R   O 
+R O O O O O B O O R O B O O B B R R O O
+
+   Y       O       O       Y       O   
+  Y O     O Y     O O     Y Y     O O  
+ O   O + R   O + O   B + O   O = R   B 
+R O O O O O B O O R O B O O O O R R B B
+
+   Y       O       O       O       Y   
+  Y O     O Y     O O     O O     Y Y  
+ O   O + R   O + O   B + O   O = R   B 
+R O O O O O B O O R O B O O O O R R B B
+
+   Y       O       O       O       Y   
+  Y O     O Y     O Y     O O     Y O  
+ O   O + R   O + O   O + R   O = O   O 
+R O O O O O B O O O B O R R O O O R O O
+
+   Y       O       O       O       Y   
+  Y O     O Y     O Y     O O     Y O  
+ O   O + R   O + O   O + O   B = R   B 
+R O O O O O B O O O B O O O B B R O B B
+
+   Y       O       O       Y       O   
+  Y O     O Y     O Y     Y Y     O Y  
+ O   O + R   O + O   O + O   O = R   O 
+R O O O O O B O O O B O O O O O R O O O
+
+   Y       O       O       O       Y   
+  Y O     O Y     O Y     O O     Y O  
+ O   O + R   O + O   O + O   O = R   O 
+R O O O O O B O O O B O O O O O R O O O
+
+   Y       O       O       O       Y   
+  Y O     O Y     Y O     O O     O Y  
+ O   O + R   O + O   O + R   O = O   O 
+R O O O O O B O O O O B R R O O O R B B
+
+   Y       O       O       O       Y   
+  Y O     O Y     Y O     O O     O Y  
+ O   O + R   O + O   O + O   B = R   B 
+R O O O O O B O O O O B O O B B R O O O
+
+   Y       O       O       Y       O   
+  Y O     O Y     Y O     Y Y     Y O  
+ O   O + R   O + O   O + O   O = R   O 
+R O O O O O B O O O O B O O O O R O B B
+
+   Y       O       O       O       Y   
+  Y O     O Y     Y O     O O     O Y  
+ O   O + R   O + O   O + O   O = R   O 
+R O O O O O B O O O O B O O O O R O B B
+
+   Y       O       O       O       Y   
+  Y O     O Y     O O     O O     Y Y  
+ O   O + R   O + O   O + R   O = O   O 
+R O O O O O B O O O O O R R O O O R B O
+
+   Y       O       O       O       Y   
+  Y O     O Y     O O     O O     Y Y  
+ O   O + R   O + O   O + O   B = R   B 
+R O O O O O B O O O O O O O B B R O O B
+
+   Y       O       O       Y       O   
+  Y O     O Y     O O     Y Y     O O  
+ O   O + R   O + O   O + O   O = R   O 
+R O O O O O B O O O O O O O O O R O B O
+
+   Y       O       O       O       Y   
+  Y O     O Y     O O     O O     Y Y  
+ O   O + R   O + O   O + O   O = R   O 
+R O O O O O B O O O O O O O O O R O B O
+
+   Y       O       O       O       Y   
+  Y O     O O     O O     O O     Y O  
+ O   O + O   O + O   B + R   O = R   B 
+R O O O O O O O O R O B R R O O O O O B
+
+   Y       O       O       O       Y   
+  Y O     O O     O O     O O     Y O  
+ O   O + O   O + O   B + O   B = O   O 
+R O O O O O O O O R O B O O B B R R B O
+
+   Y       O       O       Y       O   
+  Y O     O O     O O     Y Y     O Y  
+ O   O + O   O + O   B + O   O = O   B 
+R O O O O O O O O R O B O O O O R R O B
+
+   Y       O       O       O       Y   
+  Y O     O O     O O     O O     Y O  
+ O   O + O   O + O   B + O   O = O   B 
+R O O O O O O O O R O B O O O O R R O B
+
+   Y       O       O       O       Y   
+  Y O     O O     O Y     O O     Y Y  
+ O   O + O   O + O   O + R   O = R   O 
+R O O O O O O O O O B O R R O O O R B O
+
+   Y       O       O       O       Y   
+  Y O     O O     O Y     O O     Y Y  
+ O   O + O   O + O   O + O   B = O   B 
+R O O O O O O O O O B O O O B B R O O B
+
+   Y       O       O       Y       O   
+  Y O     O O     O Y     Y Y     O O  
+ O   O + O   O + O   O + O   O = O   O 
+R O O O O O O O O O B O O O O O R O B O
+
+   Y       O       O       O       Y   
+  Y O     O O     O Y     O O     Y Y  
+ O   O + O   O + O   O + O   O = O   O 
+R O O O O O O O O O B O O O O O R O B O
+
+   Y       O       O       O       Y   
+  Y O     O O     Y O     O O     O O  
+ O   O + O   O + O   O + R   O = R   O 
+R O O O O O O O O O O B R R O O O R O B
+
+   Y       O       O       O       Y   
+  Y O     O O     Y O     O O     O O  
+ O   O + O   O + O   O + O   B = O   B 
+R O O O O O O O O O O B O O B B R O B O
+
+   Y       O       O       Y       O   
+  Y O     O O     Y O     Y Y     Y Y  
+ O   O + O   O + O   O + O   O = O   O 
+R O O O O O O O O O O B O O O O R O O B
+
+   Y       O       O       O       Y   
+  Y O     O O     Y O     O O     O O  
+ O   O + O   O + O   O + O   O = O   O 
+R O O O O O O O O O O B O O O O R O O B
+
+   Y       O       O       O       Y   
+  Y O     O O     O O     O O     Y O  
+ O   O + O   O + O   O + R   O = R   O 
+R O O O O O O O O O O O R R O O O R O O
+
+   Y       O       O       O       Y   
+  Y O     O O     O O     O O     Y O  
+ O   O + O   O + O   O + O   B = O   B 
+R O O O O O O O O O O O O O B B R O B B
+
+   Y       O       O       Y       O   
+  Y O     O O     O O     Y Y     O Y  
+ O   O + O   O + O   O + O   O = O   O 
+R O O O O O O O O O O O O O O O R O O O
+
+   Y       O       O       O       Y   
+  Y O     O O     O O     O O     Y O  
+ O   O + O   O + O   O + O   O = O   O 
+R O O O O O O O O O O O O O O O R O O O
+
+   Y       O       O       O       Y   
+  O O     Y O     O O     O O     Y O  
+ R   B + R   O + O   B + R   O = R   O 
+O O O O R O O O O R O B R R O O O O O B
+
+   Y       O       O       O       Y   
+  O O     Y O     O O     O O     Y O  
+ R   B + R   O + O   B + O   B = O   B 
+O O O O R O O O O R O B O O B B R R B O
+
+   Y       O       O       Y       O   
+  O O     Y O     O O     Y Y     O Y  
+ R   B + R   O + O   B + O   O = O   O 
+O O O O R O O O O R O B O O O O R R O B
+
+   Y       O       O       O       Y   
+  O O     Y O     O O     O O     Y O  
+ R   B + R   O + O   B + O   O = O   O 
+O O O O R O O O O R O B O O O O R R O B
+
+   Y       O       O       O       Y   
+  O O     Y O     O Y     O O     Y Y  
+ R   B + R   O + O   O + R   O = R   B 
+O O O O R O O O O O B O R R O O O R B O
+
+   Y       O       O       O       Y   
+  O O     Y O     O Y     O O     Y Y  
+ R   B + R   O + O   O + O   B = O   O 
+O O O O R O O O O O B O O O B B R O O B
+
+   Y       O       O       Y       O   
+  O O     Y O     O Y     Y Y     O O  
+ R   B + R   O + O   O + O   O = O   B 
+O O O O R O O O O O B O O O O O R O B O
+
+   Y       O       O       O       Y   
+  O O     Y O     O Y     O O     Y Y  
+ R   B + R   O + O   O + O   O = O   B 
+O O O O R O O O O O B O O O O O R O B O
+
+   Y       O       O       O       Y   
+  O O     Y O     Y O     O O     O O  
+ R   B + R   O + O   O + R   O = R   B 
+O O O O R O O O O O O B R R O O O R O B
+
+   Y       O       O       O       Y   
+  O O     Y O     Y O     O O     O O  
+ R   B + R   O + O   O + O   B = O   O 
+O O O O R O O O O O O B O O B B R O B O
+
+   Y       O       O       Y       O   
+  O O     Y O     Y O     Y Y     Y Y  
+ R   B + R   O + O   O + O   O = O   B 
+O O O O R O O O O O O B O O O O R O O B
+
+   Y       O       O       O       Y   
+  O O     Y O     Y O     O O     O O  
+ R   B + R   O + O   O + O   O = O   B 
+O O O O R O O O O O O B O O O O R O O B
+
+   Y       O       O       O       Y   
+  O O     Y O     O O     O O     Y O  
+ R   B + R   O + O   O + R   O = R   B 
+O O O O R O O O O O O O R R O O O R O O
+
+   Y       O       O       O       Y   
+  O O     Y O     O O     O O     Y O  
+ R   B + R   O + O   O + O   B = O   O 
+O O O O R O O O O O O O O O B B R O B B
+
+   Y       O       O       Y       O   
+  O O     Y O     O O     Y Y     O Y  
+ R   B + R   O + O   O + O   O = O   B 
+O O O O R O O O O O O O O O O O R O O O
+
+   Y       O       O       O       Y   
+  O O     Y O     O O     O O     Y O  
+ R   B + R   O + O   O + O   O = O   B 
+O O O O R O O O O O O O O O O O R O O O
+
+   Y       O       O       O       Y   
+  O O     Y Y     O O     O O     Y Y  
+ R   B + O   O + O   B + R   O = O   O 
+O O O O O O O O O R O B R R O O R O O B
+
+   Y       O       O       O       Y   
+  O O     Y Y     O O     O O     Y Y  
+ R   B + O   O + O   B + O   B = R   B 
+O O O O O O O O O R O B O O B B O R B O
+
+   Y       O       O       Y       O   
+  O O     Y Y     O O     Y Y     O O  
+ R   B + O   O + O   B + O   O = R   O 
+O O O O O O O O O R O B O O O O O R O B
+
+   Y       O       O       O       Y   
+  O O     Y Y     O O     O O     Y Y  
+ R   B + O   O + O   B + O   O = R   O 
+O O O O O O O O O R O B O O O O O R O B
+
+   Y       O       O       O       Y   
+  O O     Y Y     O Y     O O     Y O  
+ R   B + O   O + O   O + R   O = O   B 
+O O O O O O O O O O B O R R O O R R B O
+
+   Y       O       O       O       Y   
+  O O     Y Y     O Y     O O     Y O  
+ R   B + O   O + O   O + O   B = R   O 
+O O O O O O O O O O B O O O B B O O O B
+
+   Y       O       O       Y       O   
+  O O     Y Y     O Y     Y Y     O Y  
+ R   B + O   O + O   O + O   O = R   B 
+O O O O O O O O O O B O O O O O O O B O
+
+   Y       O       O       O       Y   
+  O O     Y Y     O Y     O O     Y O  
+ R   B + O   O + O   O + O   O = R   B 
+O O O O O O O O O O B O O O O O O O B O
+
+   Y       O       O       O       Y   
+  O O     Y Y     Y O     O O     O Y  
+ R   B + O   O + O   O + R   O = O   B 
+O O O O O O O O O O O B R R O O R R O B
+
+   Y       O       O       O       Y   
+  O O     Y Y     Y O     O O     O Y  
+ R   B + O   O + O   O + O   B = R   O 
+O O O O O O O O O O O B O O B B O O B O
+
+   Y       O       O       Y       O   
+  O O     Y Y     Y O     Y Y     Y O  
+ R   B + O   O + O   O + O   O = R   B 
+O O O O O O O O O O O B O O O O O O O B
+
+   Y       O       O       O       Y   
+  O O     Y Y     Y O     O O     O Y  
+ R   B + O   O + O   O + O   O = R   B 
+O O O O O O O O O O O B O O O O O O O B
+
+   Y       O       O       O       Y   
+  O O     Y Y     O O     O O     Y Y  
+ R   B + O   O + O   O + R   O = O   B 
+O O O O O O O O O O O O R R O O R R O O
+
+   Y       O       O       O       Y   
+  O O     Y Y     O O     O O     Y Y  
+ R   B + O   O + O   O + O   B = R   O 
+O O O O O O O O O O O O O O B B O O B B
+
+   Y       O       O       Y       O   
+  O O     Y Y     O O     Y Y     O O  
+ R   B + O   O + O   O + O   O = R   B 
+O O O O O O O O O O O O O O O O O O O O
+
+   Y       O       O       O       Y   
+  O O     Y Y     O O     O O     Y Y  
+ R   B + O   O + O   O + O   O = R   B 
+O O O O O O O O O O O O O O O O O O O O
+
+   Y       O       O       O       Y   
+  O O     O Y     O O     O O     O Y  
+ R   B + R   O + O   B + R   O = R   O 
+O O O O O O B O O R O B R R O O R O B B
+
+   Y       O       O       O       Y   
+  O O     O Y     O O     O O     O Y  
+ R   B + R   O + O   B + O   B = O   B 
+O O O O O O B O O R O B O O B B O R O O
+
+   Y       O       O       Y       O   
+  O O     O Y     O O     Y Y     Y O  
+ R   B + R   O + O   B + O   O = O   O 
+O O O O O O B O O R O B O O O O O R B B
+
+   Y       O       O       O       Y   
+  O O     O Y     O O     O O     O Y  
+ R   B + R   O + O   B + O   O = O   O 
+O O O O O O B O O R O B O O O O O R B B
+
+   Y       O       O       O       Y   
+  O O     O Y     O Y     O O     O O  
+ R   B + R   O + O   O + R   O = R   B 
+O O O O O O B O O O B O R R O O R R O O
+
+   Y       O       O       O       Y   
+  O O     O Y     O Y     O O     O O  
+ R   B + R   O + O   O + O   B = O   O 
+O O O O O O B O O O B O O O B B O O B B
+
+   Y       O       O       Y       O   
+  O O     O Y     O Y     Y Y     Y Y  
+ R   B + R   O + O   O + O   O = O   B 
+O O O O O O B O O O B O O O O O O O O O
+
+   Y       O       O       O       Y   
+  O O     O Y     O Y     O O     O O  
+ R   B + R   O + O   O + O   O = O   B 
+O O O O O O B O O O B O O O O O O O O O
+
+   Y       O       O       O       Y   
+  O O     O Y     Y O     O O     Y Y  
+ R   B + R   O + O   O + R   O = R   B 
+O O O O O O B O O O O B R R O O R R B B
+
+   Y       O       O       O       Y   
+  O O     O Y     Y O     O O     Y Y  
+ R   B + R   O + O   O + O   B = O   O 
+O O O O O O B O O O O B O O B B O O O O
+
+   Y       O       O       Y       O   
+  O O     O Y     Y O     Y Y     O O  
+ R   B + R   O + O   O + O   O = O   B 
+O O O O O O B O O O O B O O O O O O B B
+
+   Y       O       O       O       Y   
+  O O     O Y     Y O     O O     Y Y  
+ R   B + R   O + O   O + O   O = O   B 
+O O O O O O B O O O O B O O O O O O B B
+
+   Y       O       O       O       Y   
+  O O     O Y     O O     O O     O Y  
+ R   B + R   O + O   O + R   O = R   B 
+O O O O O O B O O O O O R R O O R R B O
+
+   Y       O       O       O       Y   
+  O O     O Y     O O     O O     O Y  
+ R   B + R   O + O   O + O   B = O   O 
+O O O O O O B O O O O O O O B B O O O B
+
+   Y       O       O       Y       O   
+  O O     O Y     O O     Y Y     Y O  
+ R   B + R   O + O   O + O   O = O   B 
+O O O O O O B O O O O O O O O O O O B O
+
+   Y       O       O       O       Y   
+  O O     O Y     O O     O O     O Y  
+ R   B + R   O + O   O + O   O = O   B 
+O O O O O O B O O O O O O O O O O O B O
+
+   Y       O       O       O       Y   
+  O O     O O     O O     O O     O O  
+ R   B + O   O + O   B + R   O = O   O 
+O O O O O O O O O R O B R R O O R O O B
+
+   Y       O       O       O       Y   
+  O O     O O     O O     O O     O O  
+ R   B + O   O + O   B + O   B = R   B 
+O O O O O O O O O R O B O O B B O R B O
+
+   Y       O       O       Y       O   
+  O O     O O     O O     Y Y     Y Y  
+ R   B + O   O + O   B + O   O = R   O 
+O O O O O O O O O R O B O O O O O R O B
+
+   Y       O       O       O       Y   
+  O O     O O     O O     O O     O O  
+ R   B + O   O + O   B + O   O = R   O 
+O O O O O O O O O R O B O O O O O R O B
+
+   Y       O       O       O       Y   
+  O O     O O     O Y     O O     O Y  
+ R   B + O   O + O   O + R   O = O   B 
+O O O O O O O O O O B O R R O O R R B O
+
+   Y       O       O       O       Y   
+  O O     O O     O Y     O O     O Y  
+ R   B + O   O + O   O + O   B = R   O 
+O O O O O O O O O O B O O O B B O O O B
+
+   Y       O       O       Y       O   
+  O O     O O     O Y     Y Y     Y O  
+ R   B + O   O + O   O + O   O = R   B 
+O O O O O O O O O O B O O O O O O O B O
+
+   Y       O       O       O       Y   
+  O O     O O     O Y     O O     O Y  
+ R   B + O   O + O   O + O   O = R   B 
+O O O O O O O O O O B O O O O O O O B O
+
+   Y       O       O       O       Y   
+  O O     O O     Y O     O O     Y O  
+ R   B + O   O + O   O + R   O = O   B 
+O O O O O O O O O O O B R R O O R R O B
+
+   Y       O       O       O       Y   
+  O O     O O     Y O     O O     Y O  
+ R   B + O   O + O   O + O   B = R   O 
+O O O O O O O O O O O B O O B B O O B O
+
+   Y       O       O       Y       O   
+  O O     O O     Y O     Y Y     O Y  
+ R   B + O   O + O   O + O   O = R   B 
+O O O O O O O O O O O B O O O O O O O B
+
+   Y       O       O       O       Y   
+  O O     O O     Y O     O O     Y O  
+ R   B + O   O + O   O + O   O = R   B 
+O O O O O O O O O O O B O O O O O O O B
+
+   Y       O       O       O       Y   
+  O O     O O     O O     O O     O O  
+ R   B + O   O + O   O + R   O = O   B 
+O O O O O O O O O O O O R R O O R R O O
+
+   Y       O       O       O       Y   
+  O O     O O     O O     O O     O O  
+ R   B + O   O + O   O + O   B = R   O 
+O O O O O O O O O O O O O O B B O O B B
+
+   Y       O       O       Y       O   
+  O O     O O     O O     Y Y     Y Y  
+ R   B + O   O + O   O + O   O = R   B 
+O O O O O O O O O O O O O O O O O O O O
+
+   Y       O       O       O       Y   
+  O O     O O     O O     O O     O O  
+ R   B + O   O + O   O + O   O = R   B 
+O O O O O O O O O O O O O O O O O O O O
+
+   Y       O       O       O       Y   
+  O Y     Y O     O O     O O     Y Y  
+ O   O + R   O + O   B + R   O = O   B 
+O O B O R O O O O R O B R R O O O O B B
+
+   Y       O       O       O       Y   
+  O Y     Y O     O O     O O     Y Y  
+ O   O + R   O + O   B + O   B = R   O 
+O O B O R O O O O R O B O O B B R R O O
+
+   Y       O       O       Y       O   
+  O Y     Y O     O O     Y Y     O O  
+ O   O + R   O + O   B + O   O = R   B 
+O O B O R O O O O R O B O O O O R R B B
+
+   Y       O       O       O       Y   
+  O Y     Y O     O O     O O     Y Y  
+ O   O + R   O + O   B + O   O = R   B 
+O O B O R O O O O R O B O O O O R R B B
+
+   Y       O       O       O       Y   
+  O Y     Y O     O Y     O O     Y O  
+ O   O + R   O + O   O + R   O = O   O 
+O O B O R O O O O O B O R R O O O R O O
+
+   Y       O       O       O       Y   
+  O Y     Y O     O Y     O O     Y O  
+ O   O + R   O + O   O + O   B = R   B 
+O O B O R O O O O O B O O O B B R O B B
+
+   Y       O       O       Y       O   
+  O Y     Y O     O Y     Y Y     O Y  
+ O   O + R   O + O   O + O   O = R   O 
+O O B O R O O O O O B O O O O O R O O O
+
+   Y       O       O       O       Y   
+  O Y     Y O     O Y     O O     Y O  
+ O   O + R   O + O   O + O   O = R   O 
+O O B O R O O O O O B O O O O O R O O O
+
+   Y       O       O       O       Y   
+  O Y     Y O     Y O     O O     O Y  
+ O   O + R   O + O   O + R   O = O   O 
+O O B O R O O O O O O B R R O O O R B B
+
+   Y       O       O       O       Y   
+  O Y     Y O     Y O     O O     O Y  
+ O   O + R   O + O   O + O   B = R   B 
+O O B O R O O O O O O B O O B B R O O O
+
+   Y       O       O       Y       O   
+  O Y     Y O     Y O     Y Y     Y O  
+ O   O + R   O + O   O + O   O = R   O 
+O O B O R O O O O O O B O O O O R O B B
+
+   Y       O       O       O       Y   
+  O Y     Y O     Y O     O O     O Y  
+ O   O + R   O + O   O + O   O = R   O 
+O O B O R O O O O O O B O O O O R O B B
+
+   Y       O       O       O       Y   
+  O Y     Y O     O O     O O     Y Y  
+ O   O + R   O + O   O + R   O = O   O 
+O O B O R O O O O O O O R R O O O R B O
+
+   Y       O       O       O       Y   
+  O Y     Y O     O O     O O     Y Y  
+ O   O + R   O + O   O + O   B = R   B 
+O O B O R O O O O O O O O O B B R O O B
+
+   Y       O       O       Y       O   
+  O Y     Y O     O O     Y Y     O O  
+ O   O + R   O + O   O + O   O = R   O 
+O O B O R O O O O O O O O O O O R O B O
+
+   Y       O       O       O       Y   
+  O Y     Y O     O O     O O     Y Y  
+ O   O + R   O + O   O + O   O = R   O 
+O O B O R O O O O O O O O O O O R O B O
+
+   Y       O       O       O       Y   
+  O Y     Y Y     O O     O O     Y O  
+ O   O + O   O + O   B + R   O = R   B 
+O O B O O O O O O R O B R R O O R O B B
+
+   Y       O       O       O       Y   
+  O Y     Y Y     O O     O O     Y O  
+ O   O + O   O + O   B + O   B = O   O 
+O O B O O O O O O R O B O O B B O R O O
+
+   Y       O       O       Y       O   
+  O Y     Y Y     O O     Y Y     O Y  
+ O   O + O   O + O   B + O   O = O   B 
+O O B O O O O O O R O B O O O O O R B B
+
+   Y       O       O       O       Y   
+  O Y     Y Y     O O     O O     Y O  
+ O   O + O   O + O   B + O   O = O   B 
+O O B O O O O O O R O B O O O O O R B B
+
+   Y       O       O       O       Y   
+  O Y     Y Y     O Y     O O     Y Y  
+ O   O + O   O + O   O + R   O = R   O 
+O O B O O O O O O O B O R R O O R R O O
+
+   Y       O       O       O       Y   
+  O Y     Y Y     O Y     O O     Y Y  
+ O   O + O   O + O   O + O   B = O   B 
+O O B O O O O O O O B O O O B B O O B B
+
+   Y       O       O       Y       O   
+  O Y     Y Y     O Y     Y Y     O O  
+ O   O + O   O + O   O + O   O = O   O 
+O O B O O O O O O O B O O O O O O O O O
+
+   Y       O       O       O       Y   
+  O Y     Y Y     O Y     O O     Y Y  
+ O   O + O   O + O   O + O   O = O   O 
+O O B O O O O O O O B O O O O O O O O O
+
+   Y       O       O       O       Y   
+  O Y     Y Y     Y O     O O     O O  
+ O   O + O   O + O   O + R   O = R   O 
+O O B O O O O O O O O B R R O O R R B B
+
+   Y       O       O       O       Y   
+  O Y     Y Y     Y O     O O     O O  
+ O   O + O   O + O   O + O   B = O   B 
+O O B O O O O O O O O B O O B B O O O O
+
+   Y       O       O       Y       O   
+  O Y     Y Y     Y O     Y Y     Y Y  
+ O   O + O   O + O   O + O   O = O   O 
+O O B O O O O O O O O B O O O O O O B B
+
+   Y       O       O       O       Y   
+  O Y     Y Y     Y O     O O     O O  
+ O   O + O   O + O   O + O   O = O   O 
+O O B O O O O O O O O B O O O O O O B B
+
+   Y       O       O       O       Y   
+  O Y     Y Y     O O     O O     Y O  
+ O   O + O   O + O   O + R   O = R   O 
+O O B O O O O O O O O O R R O O R R B O
+
+   Y       O       O       O       Y   
+  O Y     Y Y     O O     O O     Y O  
+ O   O + O   O + O   O + O   B = O   B 
+O O B O O O O O O O O O O O B B O O O B
+
+   Y       O       O       Y       O   
+  O Y     Y Y     O O     Y Y     O Y  
+ O   O + O   O + O   O + O   O = O   O 
+O O B O O O O O O O O O O O O O O O B O
+
+   Y       O       O       O       Y   
+  O Y     Y Y     O O     O O     Y O  
+ O   O + O   O + O   O + O   O = O   O 
+O O B O O O O O O O O O O O O O O O B O
+
+   Y       O       O       O       Y   
+  O Y     O Y     O O     O O     O O  
+ O   O + R   O + O   B + R   O = O   B 
+O O B O O O B O O R O B R R O O R O O B
+
+   Y       O       O       O       Y   
+  O Y     O Y     O O     O O     O O  
+ O   O + R   O + O   B + O   B = R   O 
+O O B O O O B O O R O B O O B B O R B O
+
+   Y       O       O       Y       O   
+  O Y     O Y     O O     Y Y     Y Y  
+ O   O + R   O + O   B + O   O = R   B 
+O O B O O O B O O R O B O O O O O R O B
+
+   Y       O       O       O       Y   
+  O Y     O Y     O O     O O     O O  
+ O   O + R   O + O   B + O   O = R   B 
+O O B O O O B O O R O B O O O O O R O B
+
+   Y       O       O       O       Y   
+  O Y     O Y     O Y     O O     O Y  
+ O   O + R   O + O   O + R   O = O   O 
+O O B O O O B O O O B O R R O O R R B O
+
+   Y       O       O       O       Y   
+  O Y     O Y     O Y     O O     O Y  
+ O   O + R   O + O   O + O   B = R   B 
+O O B O O O B O O O B O O O B B O O O B
+
+   Y       O       O       Y       O   
+  O Y     O Y     O Y     Y Y     Y O  
+ O   O + R   O + O   O + O   O = R   O 
+O O B O O O B O O O B O O O O O O O B O
+
+   Y       O       O       O       Y   
+  O Y     O Y     O Y     O O     O Y  
+ O   O + R   O + O   O + O   O = R   O 
+O O B O O O B O O O B O O O O O O O B O
+
+   Y       O       O       O       Y   
+  O Y     O Y     Y O     O O     Y O  
+ O   O + R   O + O   O + R   O = O   O 
+O O B O O O B O O O O B R R O O R R O B
+
+   Y       O       O       O       Y   
+  O Y     O Y     Y O     O O     Y O  
+ O   O + R   O + O   O + O   B = R   B 
+O O B O O O B O O O O B O O B B O O B O
+
+   Y       O       O       Y       O   
+  O Y     O Y     Y O     Y Y     O Y  
+ O   O + R   O + O   O + O   O = R   O 
+O O B O O O B O O O O B O O O O O O O B
+
+   Y       O       O       O       Y   
+  O Y     O Y     Y O     O O     Y O  
+ O   O + R   O + O   O + O   O = R   O 
+O O B O O O B O O O O B O O O O O O O B
+
+   Y       O       O       O       Y   
+  O Y     O Y     O O     O O     O O  
+ O   O + R   O + O   O + R   O = O   O 
+O O B O O O B O O O O O R R O O R R O O
+
+   Y       O       O       O       Y   
+  O Y     O Y     O O     O O     O O  
+ O   O + R   O + O   O + O   B = R   B 
+O O B O O O B O O O O O O O B B O O B B
+
+   Y       O       O       Y       O   
+  O Y     O Y     O O     Y Y     Y Y  
+ O   O + R   O + O   O + O   O = R   O 
+O O B O O O B O O O O O O O O O O O O O
+
+   Y       O       O       O       Y   
+  O Y     O Y     O O     O O     O O  
+ O   O + R   O + O   O + O   O = R   O 
+O O B O O O B O O O O O O O O O O O O O
+
+   Y       O       O       O       Y   
+  O Y     O O     O O     O O     O Y  
+ O   O + O   O + O   B + R   O = R   B 
+O O B O O O O O O R O B R R O O R O B B
+
+   Y       O       O       O       Y   
+  O Y     O O     O O     O O     O Y  
+ O   O + O   O + O   B + O   B = O   O 
+O O B O O O O O O R O B O O B B O R O O
+
+   Y       O       O       Y       O   
+  O Y     O O     O O     Y Y     Y O  
+ O   O + O   O + O   B + O   O = O   B 
+O O B O O O O O O R O B O O O O O R B B
+
+   Y       O       O       O       Y   
+  O Y     O O     O O     O O     O Y  
+ O   O + O   O + O   B + O   O = O   B 
+O O B O O O O O O R O B O O O O O R B B
+
+   Y       O       O       O       Y   
+  O Y     O O     O Y     O O     O O  
+ O   O + O   O + O   O + R   O = R   O 
+O O B O O O O O O O B O R R O O R R O O
+
+   Y       O       O       O       Y   
+  O Y     O O     O Y     O O     O O  
+ O   O + O   O + O   O + O   B = O   B 
+O O B O O O O O O O B O O O B B O O B B
+
+   Y       O       O       Y       O   
+  O Y     O O     O Y     Y Y     Y Y  
+ O   O + O   O + O   O + O   O = O   O 
+O O B O O O O O O O B O O O O O O O O O
+
+   Y       O       O       O       Y   
+  O Y     O O     O Y     O O     O O  
+ O   O + O   O + O   O + O   O = O   O 
+O O B O O O O O O O B O O O O O O O O O
+
+   Y       O       O       O       Y   
+  O Y     O O     Y O     O O     Y Y  
+ O   O + O   O + O   O + R   O = R   O 
+O O B O O O O O O O O B R R O O R R B B
+
+   Y       O       O       O       Y   
+  O Y     O O     Y O     O O     Y Y  
+ O   O + O   O + O   O + O   B = O   B 
+O O B O O O O O O O O B O O B B O O O O
+
+   Y       O       O       Y       O   
+  O Y     O O     Y O     Y Y     O O  
+ O   O + O   O + O   O + O   O = O   O 
+O O B O O O O O O O O B O O O O O O B B
+
+   Y       O       O       O       Y   
+  O Y     O O     Y O     O O     Y Y  
+ O   O + O   O + O   O + O   O = O   O 
+O O B O O O O O O O O B O O O O O O B B
+
+   Y       O       O       O       Y   
+  O Y     O O     O O     O O     O Y  
+ O   O + O   O + O   O + R   O = R   O 
+O O B O O O O O O O O O R R O O R R B O
+
+   Y       O       O       O       Y   
+  O Y     O O     O O     O O     O Y  
+ O   O + O   O + O   O + O   B = O   B 
+O O B O O O O O O O O O O O B B O O O B
+
+   Y       O       O       Y       O   
+  O Y     O O     O O     Y Y     Y O  
+ O   O + O   O + O   O + O   O = O   O 
+O O B O O O O O O O O O O O O O O O B O
+
+   Y       O       O       O       Y   
+  O Y     O O     O O     O O     O Y  
+ O   O + O   O + O   O + O   O = O   O 
+O O B O O O O O O O O O O O O O O O B O
+
+   O       O       O       O       O   
+  O O     Y O     O O     O O     Y O  
+ O   O + R   O + O   B + R   O = O   B 
+O O O O R O O O O R O B R R O O O O O B
+
+   O       O       O       O       O   
+  O O     Y O     O O     O O     Y O  
+ O   O + R   O + O   B + O   B = R   O 
+O O O O R O O O O R O B O O B B R R B O
+
+   O       O       O       Y       Y   
+  O O     Y O     O O     Y Y     O Y  
+ O   O + R   O + O   B + O   O = R   B 
+O O O O R O O O O R O B O O O O R R O B
+
+   O       O       O       O       O   
+  O O     Y O     O O     O O     Y O  
+ O   O + R   O + O   B + O   O = R   B 
+O O O O R O O O O R O B O O O O R R O B
+
+   O       O       O       O       O   
+  O O     Y O     O Y     O O     Y Y  
+ O   O + R   O + O   O + R   O = O   O 
+O O O O R O O O O O B O R R O O O R B O
+
+   O       O       O       O       O   
+  O O     Y O     O Y     O O     Y Y  
+ O   O + R   O + O   O + O   B = R   B 
+O O O O R O O O O O B O O O B B R O O B
+
+   O       O       O       Y       Y   
+  O O     Y O     O Y     Y Y     O O  
+ O   O + R   O + O   O + O   O = R   O 
+O O O O R O O O O O B O O O O O R O B O
+
+   O       O       O       O       O   
+  O O     Y O     O Y     O O     Y Y  
+ O   O + R   O + O   O + O   O = R   O 
+O O O O R O O O O O B O O O O O R O B O
+
+   O       O       O       O       O   
+  O O     Y O     Y O     O O     O O  
+ O   O + R   O + O   O + R   O = O   O 
+O O O O R O O O O O O B R R O O O R O B
+
+   O       O       O       O       O   
+  O O     Y O     Y O     O O     O O  
+ O   O + R   O + O   O + O   B = R   B 
+O O O O R O O O O O O B O O B B R O B O
+
+   O       O       O       Y       Y   
+  O O     Y O     Y O     Y Y     Y Y  
+ O   O + R   O + O   O + O   O = R   O 
+O O O O R O O O O O O B O O O O R O O B
+
+   O       O       O       O       O   
+  O O     Y O     Y O     O O     O O  
+ O   O + R   O + O   O + O   O = R   O 
+O O O O R O O O O O O B O O O O R O O B
+
+   O       O       O       O       O   
+  O O     Y O     O O     O O     Y O  
+ O   O + R   O + O   O + R   O = O   O 
+O O O O R O O O O O O O R R O O O R O O
+
+   O       O       O       O       O   
+  O O     Y O     O O     O O     Y O  
+ O   O + R   O + O   O + O   B = R   B 
+O O O O R O O O O O O O O O B B R O B B
+
+   O       O       O       Y       Y   
+  O O     Y O     O O     Y Y     O Y  
+ O   O + R   O + O   O + O   O = R   O 
+O O O O R O O O O O O O O O O O R O O O
+
+   O       O       O       O       O   
+  O O     Y O     O O     O O     Y O  
+ O   O + R   O + O   O + O   O = R   O 
+O O O O R O O O O O O O O O O O R O O O
+
+   O       O       O       O       O   
+  O O     Y Y     O O     O O     Y Y  
+ O   O + O   O + O   B + R   O = R   B 
+O O O O O O O O O R O B R R O O R O O B
+
+   O       O       O       O       O   
+  O O     Y Y     O O     O O     Y Y  
+ O   O + O   O + O   B + O   B = O   O 
+O O O O O O O O O R O B O O B B O R B O
+
+   O       O       O       Y       Y   
+  O O     Y Y     O O     Y Y     O O  
+ O   O + O   O + O   B + O   O = O   B 
+O O O O O O O O O R O B O O O O O R O B
+
+   O       O       O       O       O   
+  O O     Y Y     O O     O O     Y Y  
+ O   O + O   O + O   B + O   O = O   B 
+O O O O O O O O O R O B O O O O O R O B
+
+   O       O       O       O       O   
+  O O     Y Y     O Y     O O     Y O  
+ O   O + O   O + O   O + R   O = R   O 
+O O O O O O O O O O B O R R O O R R B O
+
+   O       O       O       O       O   
+  O O     Y Y     O Y     O O     Y O  
+ O   O + O   O + O   O + O   B = O   B 
+O O O O O O O O O O B O O O B B O O O B
+
+   O       O       O       Y       Y   
+  O O     Y Y     O Y     Y Y     O Y  
+ O   O + O   O + O   O + O   O = O   O 
+O O O O O O O O O O B O O O O O O O B O
+
+   O       O       O       O       O   
+  O O     Y Y     O Y     O O     Y O  
+ O   O + O   O + O   O + O   O = O   O 
+O O O O O O O O O O B O O O O O O O B O
+
+   O       O       O       O       O   
+  O O     Y Y     Y O     O O     O Y  
+ O   O + O   O + O   O + R   O = R   O 
+O O O O O O O O O O O B R R O O R R O B
+
+   O       O       O       O       O   
+  O O     Y Y     Y O     O O     O Y  
+ O   O + O   O + O   O + O   B = O   B 
+O O O O O O O O O O O B O O B B O O B O
+
+   O       O       O       Y       Y   
+  O O     Y Y     Y O     Y Y     Y O  
+ O   O + O   O + O   O + O   O = O   O 
+O O O O O O O O O O O B O O O O O O O B
+
+   O       O       O       O       O   
+  O O     Y Y     Y O     O O     O Y  
+ O   O + O   O + O   O + O   O = O   O 
+O O O O O O O O O O O B O O O O O O O B
+
+   O       O       O       O       O   
+  O O     Y Y     O O     O O     Y Y  
+ O   O + O   O + O   O + R   O = R   O 
+O O O O O O O O O O O O R R O O R R O O
+
+   O       O       O       O       O   
+  O O     Y Y     O O     O O     Y Y  
+ O   O + O   O + O   O + O   B = O   B 
+O O O O O O O O O O O O O O B B O O B B
+
+   O       O       O       Y       Y   
+  O O     Y Y     O O     Y Y     O O  
+ O   O + O   O + O   O + O   O = O   O 
+O O O O O O O O O O O O O O O O O O O O
+
+   O       O       O       O       O   
+  O O     Y Y     O O     O O     Y Y  
+ O   O + O   O + O   O + O   O = O   O 
+O O O O O O O O O O O O O O O O O O O O
+
+   O       O       O       O       O   
+  O O     O Y     O O     O O     O Y  
+ O   O + R   O + O   B + R   O = O   B 
+O O O O O O B O O R O B R R O O R O B B
+
+   O       O       O       O       O   
+  O O     O Y     O O     O O     O Y  
+ O   O + R   O + O   B + O   B = R   O 
+O O O O O O B O O R O B O O B B O R O O
+
+   O       O       O       Y       Y   
+  O O     O Y     O O     Y Y     Y O  
+ O   O + R   O + O   B + O   O = R   B 
+O O O O O O B O O R O B O O O O O R B B
+
+   O       O       O       O       O   
+  O O     O Y     O O     O O     O Y  
+ O   O + R   O + O   B + O   O = R   B 
+O O O O O O B O O R O B O O O O O R B B
+
+   O       O       O       O       O   
+  O O     O Y     O Y     O O     O O  
+ O   O + R   O + O   O + R   O = O   O 
+O O O O O O B O O O B O R R O O R R O O
+
+   O       O       O       O       O   
+  O O     O Y     O Y     O O     O O  
+ O   O + R   O + O   O + O   B = R   B 
+O O O O O O B O O O B O O O B B O O B B
+
+   O       O       O       Y       Y   
+  O O     O Y     O Y     Y Y     Y Y  
+ O   O + R   O + O   O + O   O = R   O 
+O O O O O O B O O O B O O O O O O O O O
+
+   O       O       O       O       O   
+  O O     O Y     O Y     O O     O O  
+ O   O + R   O + O   O + O   O = R   O 
+O O O O O O B O O O B O O O O O O O O O
+
+   O       O       O       O       O   
+  O O     O Y     Y O     O O     Y Y  
+ O   O + R   O + O   O + R   O = O   O 
+O O O O O O B O O O O B R R O O R R B B
+
+   O       O       O       O       O   
+  O O     O Y     Y O     O O     Y Y  
+ O   O + R   O + O   O + O   B = R   B 
+O O O O O O B O O O O B O O B B O O O O
+
+   O       O       O       Y       Y   
+  O O     O Y     Y O     Y Y     O O  
+ O   O + R   O + O   O + O   O = R   O 
+O O O O O O B O O O O B O O O O O O B B
+
+   O       O       O       O       O   
+  O O     O Y     Y O     O O     Y Y  
+ O   O + R   O + O   O + O   O = R   O 
+O O O O O O B O O O O B O O O O O O B B
+
+   O       O       O       O       O   
+  O O     O Y     O O     O O     O Y  
+ O   O + R   O + O   O + R   O = O   O 
+O O O O O O B O O O O O R R O O R R B O
+
+   O       O       O       O       O   
+  O O     O Y     O O     O O     O Y  
+ O   O + R   O + O   O + O   B = R   B 
+O O O O O O B O O O O O O O B B O O O B
+
+   O       O       O       Y       Y   
+  O O     O Y     O O     Y Y     Y O  
+ O   O + R   O + O   O + O   O = R   O 
+O O O O O O B O O O O O O O O O O O B O
+
+   O       O       O       O       O   
+  O O     O Y     O O     O O     O Y  
+ O   O + R   O + O   O + O   O = R   O 
+O O O O O O B O O O O O O O O O O O B O
+
+   O       O       O       O       O   
+  O O     O O     O O     O O     O O  
+ O   O + O   O + O   B + R   O = R   B 
+O O O O O O O O O R O B R R O O R O O B
+
+   O       O       O       O       O   
+  O O     O O     O O     O O     O O  
+ O   O + O   O + O   B + O   B = O   O 
+O O O O O O O O O R O B O O B B O R B O
+
+   O       O       O       Y       Y   
+  O O     O O     O O     Y Y     Y Y  
+ O   O + O   O + O   B + O   O = O   B 
+O O O O O O O O O R O B O O O O O R O B
+
+   O       O       O       O       O   
+  O O     O O     O O     O O     O O  
+ O   O + O   O + O   B + O   O = O   B 
+O O O O O O O O O R O B O O O O O R O B
+
+   O       O       O       O       O   
+  O O     O O     O Y     O O     O Y  
+ O   O + O   O + O   O + R   O = R   O 
+O O O O O O O O O O B O R R O O R R B O
+
+   O       O       O       O       O   
+  O O     O O     O Y     O O     O Y  
+ O   O + O   O + O   O + O   B = O   B 
+O O O O O O O O O O B O O O B B O O O B
+
+   O       O       O       Y       Y   
+  O O     O O     O Y     Y Y     Y O  
+ O   O + O   O + O   O + O   O = O   O 
+O O O O O O O O O O B O O O O O O O B O
+
+   O       O       O       O       O   
+  O O     O O     O Y     O O     O Y  
+ O   O + O   O + O   O + O   O = O   O 
+O O O O O O O O O O B O O O O O O O B O
+
+   O       O       O       O       O   
+  O O     O O     Y O     O O     Y O  
+ O   O + O   O + O   O + R   O = R   O 
+O O O O O O O O O O O B R R O O R R O B
+
+   O       O       O       O       O   
+  O O     O O     Y O     O O     Y O  
+ O   O + O   O + O   O + O   B = O   B 
+O O O O O O O O O O O B O O B B O O B O
+
+   O       O       O       Y       Y   
+  O O     O O     Y O     Y Y     O Y  
+ O   O + O   O + O   O + O   O = O   O 
+O O O O O O O O O O O B O O O O O O O B
+
+   O       O       O       O       O   
+  O O     O O     Y O     O O     Y O  
+ O   O + O   O + O   O + O   O = O   O 
+O O O O O O O O O O O B O O O O O O O B
+
+   O       O       O       O       O   
+  O O     O O     O O     O O     O O  
+ O   O + O   O + O   O + R   O = R   O 
+O O O O O O O O O O O O R R O O R R O O
+
+   O       O       O       O       O   
+  O O     O O     O O     O O     O O  
+ O   O + O   O + O   O + O   B = O   B 
+O O O O O O O O O O O O O O B B O O B B
+
+   O       O       O       Y       Y   
+  O O     O O     O O     Y Y     Y Y  
+ O   O + O   O + O   O + O   O = O   O 
+O O O O O O O O O O O O O O O O O O O O
+
+   O       O       O       O       O   
+  O O     O O     O O     O O     O O  
+ O   O + O   O + O   O + O   O = O   O 
+O O O O O O O O O O O O O O O O O O O O
+

@@ -1,0 +1,58 @@
+HEADER:  Int;
+VERSION: Int;
+SIZE:    Int;
+CHECKSUM: Int;
+SkipBytes(4);
+NAME: String(16);
+Bits 
+{
+	ISEXPANSION:b5;
+	HASDIED:b3;
+	ISHARDCORE:b1;
+};
+PROGRESSION: Byte(DecodeProgression);
+SkipBytes(2);
+CLASS: Byte(DecodeClass);
+SkipBytes(2);
+LEVEL: Byte;
+SkipBytes(4);
+TIMESTAMP: Int (localtime);
+SkipBytes(116);
+DIFFPARSER : Define
+{
+	Bits
+	{
+		ACTIVE:b7;
+		ACT:b210(DecodeAct);
+	};
+};
+
+NORMALDIFFICULTY : Sub DIFFPARSER;
+NIGHTMAREDIFFICULTY : Sub DIFFPARSER;
+HELLDIFFICULTY : Sub DIFFPARSER;
+SkipBytes(6);
+MERCENARY : Sub 
+	{
+		DIED: Short;
+		UID: Int;
+		NAME: Short;
+		CLASS: Short;
+		XP: Int;
+	} (DecodeMercenary);
+SkipBytes(574);
+STATMARKER:String(2);
+Bits
+{
+	STATBYTE1:b01234567;
+};
+Bits
+{
+	STATBYTE2:b01234567;
+};
+STRENGTH:Int;
+ENERGY:Int;
+DEXTERITY:Int;
+VITALITY:Int;
+
+
+STATAFTER:Bytes(100);

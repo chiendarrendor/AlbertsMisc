@@ -1,0 +1,38 @@
+BEGIN { push @INC,"../common"; }
+use codon;
+use DNA;
+
+sub Process
+{
+    my ($str) = @_;
+
+    while(1)
+    {
+	my $res = codon::Translate($str);
+	last unless $res;
+	$orf{$res->[1]} = 1;
+	$str = substr($str,$res->[0]);
+    }
+}
+
+
+
+
+die("bad command line") unless @ARGV;
+open(FD,$ARGV[0]) || die("can't open file");
+$str = <FD>;
+close FD;
+$str =~ s/\r?\n$//;
+
+$rna = DNA::Transcribe($str);
+Process($rna);
+$rc = DNA::ReverseComplement($str);
+$rna = DNA::Transcribe($rc);
+Process($rna);
+
+print join("\n",keys %orf),"\n";
+
+
+
+
+

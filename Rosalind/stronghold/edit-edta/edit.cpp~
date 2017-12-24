@@ -1,0 +1,23 @@
+#include <fstream>
+
+int main(int argc,char **argv)
+{
+  if (argc != 2)
+  {
+    std::cerr << "bad command line" << std:::endl;
+    exit(1);
+  }
+
+  std::ifstream ifs(argv[1]);
+
+  std::string str1,str2;
+  std::getline(ifs,str1);
+  std::getline(ifs,str2);
+  close(ifs);
+
+  std::cout << "str1: " << str1 << std::endl;
+  std::cout << "str2: " << str2 << std::endl;
+
+
+}
+

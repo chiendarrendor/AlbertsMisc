@@ -1,0 +1,6 @@
+A,Albert's,perl executables/ManualSteering.pl URRRRRRRR
+M,Mikey Likes It,perl executables/Mikey.pl
+L,Leftists,perl executables/AlwaysLeft.pl
+R,Rightists,perl executables/AlwaysRight.pl
+G,Lazarus,perl executables/ManualSteering.pl UUURRRRDLLLDRRRRR
+H,Holders,perl executables/ManualSteering.pl DDDLLLLLURRRRRRUL

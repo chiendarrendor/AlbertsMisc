@@ -1,0 +1,119 @@
+AuctionFinder.pl
+	My original idea for the Auctions was that there was a mechanistic
+	way to determine what order to do the letters in, that each letter was
+	affected by others in a mechanistic way, which turns out not to be true.
+	this is obsolete.
+AuctionFinder2.pl
+	given a file with one line: <c>-<la>/<c>-<lb>
+	where c is the count of letters in a column, and la and lb are the
+	letters in that column, ordered such that the first 5 are the ones that
+	are available (as they are in the (A) Auctions).  This program will
+	determine all possible paths, and walk you through them.  
+	Specifying no word when requested will invalidate that path, as will
+	answering 'n'.  After each loop, will save the state back in the
+	given file.
+Connection.pl
+	This is to assist in the solving of the 'connection'
+	puzzles (third level puzzles for the stained glass windows).
+	input:  an Array of strings representing a hex grid of letters:
+	 . . . . .
+        . . . . . .
+         . . . . . 
+	 (note that the upper left hand corner relative to the next line down)
+	 cells are space separated, and each cell is either '.' (nothing)
+	 or a letter, with an optional number, and an optional parenthesized
+	 string.   The letter is the 'name' of the node, and by default
+	 the letter produced by pressing it.  the count, which defaults
+	 to '1' if not present, determines the number of times it can
+	 be used before being used up, and the parenthesized string is the
+	 string actually produced by the node, if it is not the labelled letter.
+	 the other input is a ConnectionGuesser object, which is 
+	 instanciated with two refs to arrays, the first is an array
+	 of the length of each word in the sentence to be determined,
+	 and the second is an array of a likely candidate for that word.
+	 This program will work through all possibilities, finding words that
+	 are in the dictionary and if not in the candidate list, will ask
+	 the user if they think this word is workable)
+PermuteString.pl
+	Given a string on the command line, will return a list of
+	all possible permutations of that string.
+ThirdGateway.pl
+	given the string in $letters, will take a word on the command line
+	and determine if the word can be removed from $letters.
+	If so, it prints out what's left.
+aldridgehelper.pl
+	given the data in the Aldrige Auction, goes through all possible
+	5-letter words available to each 'person' given the current letter
+	set and determines if any of those 4 5-letter words make pairs
+	of valid 10-letter compound words
+anagram.pl
+	given its first argument of an crypto'ed string, will repeatedly
+	prompt the user for a pair of letters.  It will print the result of
+	swapping them, assisting in decrypting.
+bidding.pl
+	another obsolete approach to the (A) auction puzzles.
+conklin.pl
+	an attempt to solve the conklin map puzzle.  Prints
+	the crossing word for all permutations of the words in the
+	matrix.
+deanagram.pl
+	given a string on the command line, will find all words in
+	the dictionary that are anagrams of that string.
+grid3.pl
+	solves the puzzle with the form:
+	###   ###
+	###   ###
+	#########
+	   ###
+	   ###
+grid4.pl
+	solves the puzzle with the form
+	   ###
+	   ###
+	#########
+	###   ###
+	###   ###
+hex.pl
+	an earlier attempt to solve the 'connection' puzzles?
+highpriestess.pl
+	A* algorithm for solving the high priestess card puzzle.
+	$initial is the initial state (0 is towards center, 1 is towards edge)
+	$goal is the final state (same use of 0 and 1)
+	and xforms is, for each card (as documented), what _other_ cards
+	it affects.
+horton.pl
+	given the 'horton' puzzle on the map (7 bewitchments with three
+	letters each, choosing 1 letter from each three to form a name)
+	prints all permutations of possible words.
+lydia.pl
+	do not remember what the lydia puzzle was 
+mcgucken.pl
+	mcgucken is an A* solution to the mcgucken problem, of 
+	each letter rotating through three possibilities, and each
+	button rotates several letters
+	@letters are the letters and their rotations
+	@initial is the indices into each string in letters for initial state
+	@goal is the indices for goal state
+	@actors is what letters (index into letters) that each actor rotates.
+moxley.pl
+	Same as mcgucken, but for moxley.
+percy.pl
+	solution to the percy post-map puzzle
+stainedglass.pl
+	takes three arguments, a set of letters, L or R, and a
+	length of common characters.  will find a 5-letter, a
+	6-letter, and a 7-letter word containing the given letters,
+	such that all three words share the (L/R) most length characters.
+sub.pl
+	takes two words.  returns the result of subtracting the letters
+	in the second, from the first.
+ursula.pl
+	funtionally equivalent to mcgucken.
+vandermeer.pl
+	finds words where the nth letter has the same letter
+vibbard.pl
+	finds words that share triplets of letters
+vranken.pl
+	finds words that share triplets of letters
+wordrot.pl
+	A* algorithm for finding rotating triplets (mcgucken-ish?)

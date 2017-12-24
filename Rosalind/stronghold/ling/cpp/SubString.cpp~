@@ -1,0 +1,25 @@
+#include "SubString.hpp"
+
+SubString::SubString(const std::string &i_string,size_t first,size_t length) :
+  m_string(&i_string),
+  m_first(first),
+  m_length(length)
+{
+}
+
+SubString::SubString(const SubString& i_right)
+{
+  *this = i_right;
+}
+
+SubString& SubString::operator=(const SubString& i_right)
+{
+
+
+
+int SubString::GetLength() const;
+int SubString::GetCharAt(size_t index) const;
+SubString SubString::SubSubString(size_t first,size_t length) const;
+SubString SubString::SubStringToEnd(size_t first) const;
+
+std::string SubString::ToString() const;

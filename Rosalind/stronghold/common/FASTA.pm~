@@ -1,0 +1,74 @@
+package FASTA;
+
+sub new
+{
+    my ($class,$name) = @_;
+    my $this = {};
+    bless $this,$class;
+    $this->{NAME} = $name;
+    $this->{DNA} = "";
+    return $this;
+}
+
+sub AddDNA
+{
+    my ($this,$strand) = @_;
+    $this->{DNA} .= $strand;
+}
+
+sub GetName
+{
+    my ($this) = @_;
+    return $this->{NAME};
+}
+
+sub GetDNA
+{
+    my ($this) = @_;
+    return $this->{DNA};
+}
+
+package FASTAFILE;
+
+sub new
+{
+    my ($class,$filename) = @_;
+    my $this = {};
+    $this->{FASTAS} = [];
+    bless $this,$class;
+
+    open(FSFD,$filename) || die("can't open $filename\n");
+    
+    my $curfasta;
+    while(<FSFD>)
+    {
+	$_ =~ s/\r?\n$//;
+	next if length($_) == 0;
+	if (substr($_,0,1) eq '>')
+	{
+	    $curfasta = new FASTA(substr($_,1));
+	    push @{$this->{FASTAS}},$curfasta;
+	}
+	else
+	{
+	    $curfasta->AddDNA($_);
+	}
+    }
+
+    close FSFD;
+    return $this;
+}
+
+sub GetFASTAS
+{
+    my ($this) = @_;
+    return $this->{FASTAS};
+}
+
+
+
+
+
+1;
+
+

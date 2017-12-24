@@ -1,0 +1,1076 @@
+Another step closer: 1
+xAABBCCx
+xADBBECx
+xDDFFEEx
+.GGFF...
+xGGxx..x
+x..xx..x
+Another step closer: 2
+xAABBCCx
+xA.BB.Cx
+xGG.DFFx
+.GGDDFF.
+x..xxE.x
+x..xxEEx
+Another step closer: 3
+xFF.DBBx
+xFFDDBBx
+x.GGAA.x
+..GGACC.
+x..xxECx
+x..xxEEx
+WS: 110 S: 1002 
+5 of 1,105 of 0
+xFF.DBBx
+xFFDDBBx
+x..AACCx
+.GGA..C.
+xGGxxE.x
+x..xxEEx
+WS: 227 S: 2002 
+227 of 0
+x.BB.CCx
+x.BB..Cx
+xD.AAFFx
+DD.A.FF.
+xGGxxE.x
+xGGxxEEx
+WS: 338 S: 3001 
+338 of 0
+x.DFFBBx
+xDDFFBBx
+x.AA...x
+..A..CC.
+xGGxxECx
+xGGxxEEx
+WS: 463 S: 4001 
+463 of 0
+x.CCAA.x
+xBBCA..x
+xBB.DFFx
+...DDFF.
+xGGxxE.x
+xGGxxEEx
+Another step closer: 4
+xFFBBAAx
+xFFBBADx
+x..GGDDx
+...GGCC.
+x..xxECx
+x..xxEEx
+Another step closer: 5
+x.AAD..x
+x.ADDCCx
+xBB.GGCx
+.BB.GG..
+xFFxxE.x
+xFFxxEEx
+Another step closer: 6
+x.AADCCx
+x.ADD.Cx
+xBB..GGx
+.BB..GG.
+xFFxxE.x
+xFFxxEEx
+WS: 664 S: 5001 
+86 of 4,86 of 3,1 of 2,23 of 1,468 of 0
+xBBCCGGx
+xBB.CGGx
+x.DAA.Ex
+.DDA..EE
+xFFxx..x
+xFFxx..x
+WS: 801 S: 6003 
+122 of 4,187 of 3,1 of 2,23 of 1,468 of 0
+xAABB..x
+xA.BBCCx
+x.DGG.Cx
+.DDGGE..
+xFFxxEEx
+xFFxx..x
+WS: 1022 S: 7001 
+9 of 5,175 of 4,346 of 3,1 of 2,23 of 1,468 of 0
+x..AA..x
+xBBA.GGx
+xBBD.GGx
+..DD.CC.
+xFFxxECx
+xFFxxEEx
+WS: 1183 S: 8001 
+276 of 4,415 of 3,1 of 2,23 of 1,468 of 0
+xAA..GGx
+xA.BBGGx
+x.DBB.Ex
+.DD.CCEE
+xFFxxC.x
+xFFxx..x
+WS: 1177 S: 9003 
+49 of 4,636 of 3,1 of 2,23 of 1,468 of 0
+xCCBBAAx
+x.CBBADx
+x..GGDDx
+...GGE..
+xFFxxEEx
+xFFxx..x
+WS: 956 S: 10001 
+1 of 3,441 of 2,46 of 1,468 of 0
+x.BB.D.x
+x.BBDD.x
+x.GGAA.x
+..GGACC.
+xFFxxECx
+xFFxxEEx
+WS: 1152 S: 11001 
+92 of 4,96 of 3,447 of 2,49 of 1,468 of 0
+x.FF...x
+x.FF.AAx
+xD.GGA.x
+DD.GGCC.
+xBBxxECx
+xBBxxEEx
+WS: 1281 S: 12002 
+122 of 4,195 of 3,447 of 2,49 of 1,468 of 0
+x..DAA.x
+x.DDACCx
+xFFGG.Cx
+.FFGG...
+xBBxxE.x
+xBBxxEEx
+WS: 1517 S: 13002 
+4 of 5,203 of 4,346 of 3,447 of 2,49 of 1,468 of 0
+xAA....x
+xA...GGx
+xFF.DGGx
+.FFDDCC.
+xBBxxECx
+xBBxxEEx
+WS: 1654 S: 14001 
+259 of 4,431 of 3,447 of 2,49 of 1,468 of 0
+xCCFFGGx
+x.CFFGGx
+x.D.AA.x
+.DD.AE..
+xBBxxEEx
+xBBxx..x
+WS: 1638 S: 15001 
+22 of 4,652 of 3,447 of 2,49 of 1,468 of 0
+xFFAAGGx
+xFFADGGx
+x..DD.Ex
+....CCEE
+xBBxxC.x
+xBBxx..x
+WS: 1398 S: 16002 
+1 of 3,866 of 2,63 of 1,468 of 0
+xBB..CCx
+xBB...Cx
+x.GGAADx
+..GGADD.
+xFFxxE.x
+xFFxxEEx
+WS: 1400 S: 17001 
+767 of 2,165 of 1,468 of 0
+x.AABB.x
+x.A.BB.x
+xGG.DCCx
+.GGDDEC.
+xFFxxEEx
+xFFxx..x
+WS: 1345 S: 18001 
+610 of 2,267 of 1,468 of 0
+xAAGGFFx
+xA.GGFFx
+x.D.CC.x
+.DD..C..
+xBBxxE.x
+xBBxxEEx
+WS: 1315 S: 19002 
+17 of 6,9 of 5,7 of 4,1 of 3,463 of 2,350 of 1,468 of 0
+xAA..BBx
+xA.E.BBx
+x.DEEGGx
+.DD..GG.
+xFFxxCCx
+xFFxx.Cx
+Another step closer: 7
+xAABB..x
+xA.BB..x
+xDECC..x
+DDEECGG.
+xFFxxGGx
+xFFxx..x
+Solution Found:
+xAABBCCx
+xADBBECx
+xDDFFEEx
+...FF...
+xGGxx..x
+xGGxx..x
+Move: DD
+xAABBCCx
+xA.BBECx
+x.DFFEEx
+.DDFF...
+xGGxx..x
+xGGxx..x
+Move: AD
+x..BBCCx
+xAABBECx
+xADFFEEx
+.DDFF...
+xGGxx..x
+xGGxx..x
+Move: ED
+x..BBCCx
+xAABB.Cx
+xADFFE.x
+.DDFFEE.
+xGGxx..x
+xGGxx..x
+Move: ED
+x..BBCCx
+xAABB.Cx
+xADFF..x
+.DDFFE..
+xGGxxEEx
+xGGxx..x
+Move: ED
+x..BBCCx
+xAABB.Cx
+xADFF..x
+.DDFF...
+xGGxxE.x
+xGGxxEEx
+Move: FR
+x..BBCCx
+xAABB.Cx
+xAD.FF.x
+.DD.FF..
+xGGxxE.x
+xGGxxEEx
+Move: DR
+x..BBCCx
+xAABB.Cx
+xA.DFF.x
+..DDFF..
+xGGxxE.x
+xGGxxEEx
+Move: AD
+x..BBCCx
+x..BB.Cx
+xAADFF.x
+.ADDFF..
+xGGxxE.x
+xGGxxEEx
+Move: BL
+x.BB.CCx
+x.BB..Cx
+xAADFF.x
+.ADDFF..
+xGGxxE.x
+xGGxxEEx
+Move: BL
+xBB..CCx
+xBB...Cx
+xAADFF.x
+.ADDFF..
+xGGxxE.x
+xGGxxEEx
+Move: FR
+xBB..CCx
+xBB...Cx
+xAAD.FFx
+.ADD.FF.
+xGGxxE.x
+xGGxxEEx
+Move: DR
+xBB..CCx
+xBB...Cx
+xAA.DFFx
+.A.DDFF.
+xGGxxE.x
+xGGxxEEx
+Move: DU
+xBB..CCx
+xBB.D.Cx
+xAADDFFx
+.A...FF.
+xGGxxE.x
+xGGxxEEx
+Move: DU
+xBB.DCCx
+xBBDD.Cx
+xAA..FFx
+.A...FF.
+xGGxxE.x
+xGGxxEEx
+Move: FL
+xBB.DCCx
+xBBDD.Cx
+xAA.FF.x
+.A..FF..
+xGGxxE.x
+xGGxxEEx
+Move: CD
+xBB.D..x
+xBBDDCCx
+xAA.FFCx
+.A..FF..
+xGGxxE.x
+xGGxxEEx
+Move: FL
+xBB.D..x
+xBBDDCCx
+xAAFF.Cx
+.A.FF...
+xGGxxE.x
+xGGxxEEx
+Move: CD
+xBB.D..x
+xBBDD..x
+xAAFFCCx
+.A.FF.C.
+xGGxxE.x
+xGGxxEEx
+Move: DR
+xBB..D.x
+xBB.DD.x
+xAAFFCCx
+.A.FF.C.
+xGGxxE.x
+xGGxxEEx
+Move: BR
+x.BB.D.x
+x.BBDD.x
+xAAFFCCx
+.A.FF.C.
+xGGxxE.x
+xGGxxEEx
+Move: DR
+x.BB..Dx
+x.BB.DDx
+xAAFFCCx
+.A.FF.C.
+xGGxxE.x
+xGGxxEEx
+Move: BR
+x..BB.Dx
+x..BBDDx
+xAAFFCCx
+.A.FF.C.
+xGGxxE.x
+xGGxxEEx
+Move: AU
+x..BB.Dx
+xAABBDDx
+xA.FFCCx
+...FF.C.
+xGGxxE.x
+xGGxxEEx
+Move: AU
+xAABB.Dx
+xA.BBDDx
+x..FFCCx
+...FF.C.
+xGGxxE.x
+xGGxxEEx
+Move: FL
+xAABB.Dx
+xA.BBDDx
+x.FF.CCx
+..FF..C.
+xGGxxE.x
+xGGxxEEx
+Move: FL
+xAABB.Dx
+xA.BBDDx
+xFF..CCx
+.FF...C.
+xGGxxE.x
+xGGxxEEx
+Move: BD
+xAA...Dx
+xA.BBDDx
+xFFBBCCx
+.FF...C.
+xGGxxE.x
+xGGxxEEx
+Move: AR
+x.AA..Dx
+x.ABBDDx
+xFFBBCCx
+.FF...C.
+xGGxxE.x
+xGGxxEEx
+Move: BD
+x.AA..Dx
+x.A..DDx
+xFFBBCCx
+.FFBB.C.
+xGGxxE.x
+xGGxxEEx
+Move: AR
+x..AA.Dx
+x..A.DDx
+xFFBBCCx
+.FFBB.C.
+xGGxxE.x
+xGGxxEEx
+Move: FU
+x..AA.Dx
+xFFA.DDx
+xFFBBCCx
+...BB.C.
+xGGxxE.x
+xGGxxEEx
+Move: GU
+x..AA.Dx
+xFFA.DDx
+xFFBBCCx
+.GGBB.C.
+xGGxxE.x
+x..xxEEx
+Move: FU
+xFFAA.Dx
+xFFA.DDx
+x..BBCCx
+.GGBB.C.
+xGGxxE.x
+x..xxEEx
+Move: GU
+xFFAA.Dx
+xFFA.DDx
+xGGBBCCx
+.GGBB.C.
+x..xxE.x
+x..xxEEx
+Move: AR
+xFF.AADx
+xFF.ADDx
+xGGBBCCx
+.GGBB.C.
+x..xxE.x
+x..xxEEx
+Move: CD
+xFF.AADx
+xFF.ADDx
+xGGBB..x
+.GGBBCC.
+x..xxECx
+x..xxEEx
+Move: DD
+xFF.AA.x
+xFF.A.Dx
+xGGBBDDx
+.GGBBCC.
+x..xxECx
+x..xxEEx
+Move: AR
+xFF..AAx
+xFF..ADx
+xGGBBDDx
+.GGBBCC.
+x..xxECx
+x..xxEEx
+Move: BU
+xFF..AAx
+xFFBBADx
+xGGBBDDx
+.GG..CC.
+x..xxECx
+x..xxEEx
+Move: BU
+xFFBBAAx
+xFFBBADx
+xGG..DDx
+.GG..CC.
+x..xxECx
+x..xxEEx
+Move: GR
+xFFBBAAx
+xFFBBADx
+x.GG.DDx
+..GG.CC.
+x..xxECx
+x..xxEEx
+Move: GR
+xFFBBAAx
+xFFBBADx
+x..GGDDx
+...GGCC.
+x..xxECx
+x..xxEEx
+Move: FD
+x..BBAAx
+xFFBBADx
+xFFGGDDx
+...GGCC.
+x..xxECx
+x..xxEEx
+Move: FD
+x..BBAAx
+x..BBADx
+xFFGGDDx
+.FFGGCC.
+x..xxECx
+x..xxEEx
+Move: BL
+x.BB.AAx
+x.BB.ADx
+xFFGGDDx
+.FFGGCC.
+x..xxECx
+x..xxEEx
+Move: AL
+x.BBAA.x
+x.BBA.Dx
+xFFGGDDx
+.FFGGCC.
+x..xxECx
+x..xxEEx
+Move: BL
+xBB.AA.x
+xBB.A.Dx
+xFFGGDDx
+.FFGGCC.
+x..xxECx
+x..xxEEx
+Move: AL
+xBBAA..x
+xBBA..Dx
+xFFGGDDx
+.FFGGCC.
+x..xxECx
+x..xxEEx
+Move: DU
+xBBAA.Dx
+xBBA.DDx
+xFFGG..x
+.FFGGCC.
+x..xxECx
+x..xxEEx
+Move: CU
+xBBAA.Dx
+xBBA.DDx
+xFFGGCCx
+.FFGG.C.
+x..xxE.x
+x..xxEEx
+Move: DL
+xBBAAD.x
+xBBADD.x
+xFFGGCCx
+.FFGG.C.
+x..xxE.x
+x..xxEEx
+Move: FD
+xBBAAD.x
+xBBADD.x
+x..GGCCx
+.FFGG.C.
+xFFxxE.x
+x..xxEEx
+Move: BD
+x..AAD.x
+xBBADD.x
+xBBGGCCx
+.FFGG.C.
+xFFxxE.x
+x..xxEEx
+Move: FD
+x..AAD.x
+xBBADD.x
+xBBGGCCx
+...GG.C.
+xFFxxE.x
+xFFxxEEx
+Move: BD
+x..AAD.x
+x..ADD.x
+xBBGGCCx
+.BBGG.C.
+xFFxxE.x
+xFFxxEEx
+Move: AL
+x.AA.D.x
+x.A.DD.x
+xBBGGCCx
+.BBGG.C.
+xFFxxE.x
+xFFxxEEx
+Move: DL
+x.AAD..x
+x.ADD..x
+xBBGGCCx
+.BBGG.C.
+xFFxxE.x
+xFFxxEEx
+Move: CU
+x.AAD..x
+x.ADDCCx
+xBBGG.Cx
+.BBGG...
+xFFxxE.x
+xFFxxEEx
+Move: GR
+x.AAD..x
+x.ADDCCx
+xBB.GGCx
+.BB.GG..
+xFFxxE.x
+xFFxxEEx
+Move: CU
+x.AADCCx
+x.ADD.Cx
+xBB.GG.x
+.BB.GG..
+xFFxxE.x
+xFFxxEEx
+Move: GR
+x.AADCCx
+x.ADD.Cx
+xBB..GGx
+.BB..GG.
+xFFxxE.x
+xFFxxEEx
+Move: AL
+xAA.DCCx
+xA.DD.Cx
+xBB..GGx
+.BB..GG.
+xFFxxE.x
+xFFxxEEx
+Move: DD
+xAA..CCx
+xA..D.Cx
+xBBDDGGx
+.BB..GG.
+xFFxxE.x
+xFFxxEEx
+Move: CL
+xAA.CC.x
+xA..DC.x
+xBBDDGGx
+.BB..GG.
+xFFxxE.x
+xFFxxEEx
+Move: DD
+xAA.CC.x
+xA...C.x
+xBB.DGGx
+.BBDDGG.
+xFFxxE.x
+xFFxxEEx
+Move: CL
+xAACC..x
+xA..C..x
+xBB.DGGx
+.BBDDGG.
+xFFxxE.x
+xFFxxEEx
+Move: GU
+xAACC..x
+xA..CGGx
+xBB.DGGx
+.BBDD...
+xFFxxE.x
+xFFxxEEx
+Move: GU
+xAACCGGx
+xA..CGGx
+xBB.D..x
+.BBDD...
+xFFxxE.x
+xFFxxEEx
+Move: DR
+xAACCGGx
+xA..CGGx
+xBB..D.x
+.BB.DD..
+xFFxxE.x
+xFFxxEEx
+Move: BR
+xAACCGGx
+xA..CGGx
+x.BB.D.x
+..BBDD..
+xFFxxE.x
+xFFxxEEx
+Move: AD
+x..CCGGx
+xAA.CGGx
+xABB.D.x
+..BBDD..
+xFFxxE.x
+xFFxxEEx
+Move: CL
+x.CC.GGx
+xAAC.GGx
+xABB.D.x
+..BBDD..
+xFFxxE.x
+xFFxxEEx
+Move: DR
+x.CC.GGx
+xAAC.GGx
+xABB..Dx
+..BB.DD.
+xFFxxE.x
+xFFxxEEx
+Move: BR
+x.CC.GGx
+xAAC.GGx
+xA.BB.Dx
+...BBDD.
+xFFxxE.x
+xFFxxEEx
+Move: AD
+x.CC.GGx
+x..C.GGx
+xAABB.Dx
+.A.BBDD.
+xFFxxE.x
+xFFxxEEx
+Move: CL
+xCC..GGx
+x.C..GGx
+xAABB.Dx
+.A.BBDD.
+xFFxxE.x
+xFFxxEEx
+Move: BU
+xCC..GGx
+x.CBBGGx
+xAABB.Dx
+.A...DD.
+xFFxxE.x
+xFFxxEEx
+Move: BU
+xCCBBGGx
+x.CBBGGx
+xAA...Dx
+.A...DD.
+xFFxxE.x
+xFFxxEEx
+Move: DL
+xCCBBGGx
+x.CBBGGx
+xAA..D.x
+.A..DD..
+xFFxxE.x
+xFFxxEEx
+Move: DL
+xCCBBGGx
+x.CBBGGx
+xAA.D..x
+.A.DD...
+xFFxxE.x
+xFFxxEEx
+Move: GD
+xCCBB..x
+x.CBBGGx
+xAA.DGGx
+.A.DD...
+xFFxxE.x
+xFFxxEEx
+Move: GD
+xCCBB..x
+x.CBB..x
+xAA.DGGx
+.A.DDGG.
+xFFxxE.x
+xFFxxEEx
+Move: BR
+xCC.BB.x
+x.C.BB.x
+xAA.DGGx
+.A.DDGG.
+xFFxxE.x
+xFFxxEEx
+Move: BR
+xCC..BBx
+x.C..BBx
+xAA.DGGx
+.A.DDGG.
+xFFxxE.x
+xFFxxEEx
+Move: CR
+x.CC.BBx
+x..C.BBx
+xAA.DGGx
+.A.DDGG.
+xFFxxE.x
+xFFxxEEx
+Move: AU
+x.CC.BBx
+xAAC.BBx
+xA..DGGx
+...DDGG.
+xFFxxE.x
+xFFxxEEx
+Move: CR
+x..CCBBx
+xAA.CBBx
+xA..DGGx
+...DDGG.
+xFFxxE.x
+xFFxxEEx
+Move: DL
+x..CCBBx
+xAA.CBBx
+xA.D.GGx
+..DD.GG.
+xFFxxE.x
+xFFxxEEx
+Move: CD
+x....BBx
+xAACCBBx
+xA.DCGGx
+..DD.GG.
+xFFxxE.x
+xFFxxEEx
+Move: DL
+x....BBx
+xAACCBBx
+xAD.CGGx
+.DD..GG.
+xFFxxE.x
+xFFxxEEx
+Move: CD
+x....BBx
+xAA..BBx
+xADCCGGx
+.DD.CGG.
+xFFxxE.x
+xFFxxEEx
+Move: BL
+x...BB.x
+xAA.BB.x
+xADCCGGx
+.DD.CGG.
+xFFxxE.x
+xFFxxEEx
+Move: BL
+x..BB..x
+xAABB..x
+xADCCGGx
+.DD.CGG.
+xFFxxE.x
+xFFxxEEx
+Move: GU
+x..BB..x
+xAABBGGx
+xADCCGGx
+.DD.C...
+xFFxxE.x
+xFFxxEEx
+Move: GU
+x..BBGGx
+xAABBGGx
+xADCC..x
+.DD.C...
+xFFxxE.x
+xFFxxEEx
+Move: CR
+x..BBGGx
+xAABBGGx
+xAD.CC.x
+.DD..C..
+xFFxxE.x
+xFFxxEEx
+Move: CR
+x..BBGGx
+xAABBGGx
+xAD..CCx
+.DD...C.
+xFFxxE.x
+xFFxxEEx
+Move: DR
+x..BBGGx
+xAABBGGx
+xA.D.CCx
+..DD..C.
+xFFxxE.x
+xFFxxEEx
+Move: AD
+x..BBGGx
+x..BBGGx
+xAAD.CCx
+.ADD..C.
+xFFxxE.x
+xFFxxEEx
+Move: BL
+x.BB.GGx
+x.BB.GGx
+xAAD.CCx
+.ADD..C.
+xFFxxE.x
+xFFxxEEx
+Move: BL
+xBB..GGx
+xBB..GGx
+xAAD.CCx
+.ADD..C.
+xFFxxE.x
+xFFxxEEx
+Move: EU
+xBB..GGx
+xBB..GGx
+xAAD.CCx
+.ADD.EC.
+xFFxxEEx
+xFFxx..x
+Move: GL
+xBB.GG.x
+xBB.GG.x
+xAAD.CCx
+.ADD.EC.
+xFFxxEEx
+xFFxx..x
+Move: GL
+xBBGG..x
+xBBGG..x
+xAAD.CCx
+.ADD.EC.
+xFFxxEEx
+xFFxx..x
+Move: CU
+xBBGG..x
+xBBGGCCx
+xAAD..Cx
+.ADD.E..
+xFFxxEEx
+xFFxx..x
+Move: EU
+xBBGG..x
+xBBGGCCx
+xAAD.ECx
+.ADD.EE.
+xFFxx..x
+xFFxx..x
+Move: EL
+xBBGG..x
+xBBGGCCx
+xAADE.Cx
+.ADDEE..
+xFFxx..x
+xFFxx..x
+Move: CD
+xBBGG..x
+xBBGG..x
+xAADECCx
+.ADDEEC.
+xFFxx..x
+xFFxx..x
+Move: GR
+xBB.GG.x
+xBB.GG.x
+xAADECCx
+.ADDEEC.
+xFFxx..x
+xFFxx..x
+Move: GR
+xBB..GGx
+xBB..GGx
+xAADECCx
+.ADDEEC.
+xFFxx..x
+xFFxx..x
+Move: BR
+x.BB.GGx
+x.BB.GGx
+xAADECCx
+.ADDEEC.
+xFFxx..x
+xFFxx..x
+Move: BR
+x..BBGGx
+x..BBGGx
+xAADECCx
+.ADDEEC.
+xFFxx..x
+xFFxx..x
+Move: AU
+x..BBGGx
+xAABBGGx
+xA.DECCx
+..DDEEC.
+xFFxx..x
+xFFxx..x
+Move: AU
+xAABBGGx
+xA.BBGGx
+x..DECCx
+..DDEEC.
+xFFxx..x
+xFFxx..x
+Move: DL
+xAABBGGx
+xA.BBGGx
+x.D.ECCx
+.DD.EEC.
+xFFxx..x
+xFFxx..x
+Move: DL
+xAABBGGx
+xA.BBGGx
+xD..ECCx
+DD..EEC.
+xFFxx..x
+xFFxx..x
+Move: EL
+xAABBGGx
+xA.BBGGx
+xD.E.CCx
+DD.EE.C.
+xFFxx..x
+xFFxx..x
+Move: CL
+xAABBGGx
+xA.BBGGx
+xD.ECC.x
+DD.EEC..
+xFFxx..x
+xFFxx..x
+Move: EL
+xAABBGGx
+xA.BBGGx
+xDE.CC.x
+DDEE.C..
+xFFxx..x
+xFFxx..x
+Move: CL
+xAABBGGx
+xA.BBGGx
+xDECC..x
+DDEEC...
+xFFxx..x
+xFFxx..x
+Move: GD
+xAABB..x
+xA.BBGGx
+xDECCGGx
+DDEEC...
+xFFxx..x
+xFFxx..x
+Move: GD
+xAABB..x
+xA.BB..x
+xDECCGGx
+DDEECGG.
+xFFxx..x
+xFFxx..x
+Move: GD
+xAABB..x
+xA.BB..x
+xDECC..x
+DDEECGG.
+xFFxxGGx
+xFFxx..x
+Move: GD
+xAABB..x
+xA.BB..x
+xDECC..x
+DDEEC...
+xFFxxGGx
+xFFxxGGx
