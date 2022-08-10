@@ -1,0 +1,49 @@
+1 Ultimate Fluid Tank 2.0972MB
+# Uncraftable in Age 4
+-> 8 Hyper Fluid Tank 262.14 kB
+1 Hyper Fluid Tank 262.14 kB
+# Uncraftable in Age 4
+-> 4 Eye of Ender
+-> 2 Nether Star
+-> 2 End Stone
+-> 1 Extreme Fluid Tank 32.768 kB
+1 Extreme Fluid Tank 32.768 kB
+-> 1 Huge Fluid Tank 4.096 kB
+-> 8 Platinum Plate
+1 Huge Fluid Tank 4.096 kB
+-> 2 Block of Biotite
+-> 2 Purpur Block
+-> 1 Large Fluid Tank 512B
+1 Block of Biotite
+-> 4 Ender Biotite
+1 Large Fluid Tank 512B
+-> 8 Gold Plate
+-> 1 Normal Fluid Tank 64B
+1 Normal Fluid Tank 64B
+-> 8 Small Fluid Tank 8B
+1 Small Fluid Tank 8B
+-> 1 Iron Plate
+-> 4 Block Glass
+1 Entity Interface
+-> 4 Iron Ingot
+-> 1 
+-> 1 Remote Access Pipe
+1 Remote Access Pipe
+-> 6 extreme-L Item Buffer
+-> 2 Aluminum Plate
+-> 1 Eye of Ender
+1 extreme-L Item Buffer
+-> 2 extreme-M Item Buffer
+1 extreme-M Item Buffer
+-> 5 Gold Plate
+-> 3 Gold Gear
+-> 1 advanced-M Item Buffer
+1 advanced-M Item Buffer
+-> 5 Iron Plate
+-> 5 Iron Gear
+-> 1 normal-M Item Buffer
+1 normal-M Item Buffer
+-> 4 Plank Siding
+-> 4 Iron Bars
+-> 1 Chest
+

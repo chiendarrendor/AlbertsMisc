@@ -1,0 +1,108 @@
+1 1k Storage Disk
+-> 1 Storage Housing
+-> 1 1k Storage Part
+1 4k Storage Disk
+-> 1 Storage Housing
+-> 1 4k Storage Part
+1 16k Storage Disk
+-> 1 Storage Housing
+-> 1 16k Storage Part
+1 64k Storage Disk
+-> 1 Storage Housing
+-> 1 64k Storage Part
+1 Storage Housing
+-> 2 Block Glass
+-> 3 Redstone
+-> 3 Quartz Enriched Iron
+1 1k Storage Part
+-> 4 Silicon
+-> 3 Block Glass
+-> 1 Redstone
+-> 1 Quartz Enriched Iron
+1 4k Storage Part
+-> 4 Basic Processor
+-> 3 1k Storage Part
+-> 1 Redstone
+-> 1 Quartz Enriched Iron
+1 16k Storage Part
+-> 1 Quartz Enriched Iron
+-> 1 Redstone
+-> 3 4k Storage Part
+-> 4 Improved Processor
+1 64k Storage Part
+-> 1 Quartz Enriched Iron
+-> 1 Redstone
+-> 3 16k Storage Part
+-> 4 Advanced Processor
+1 Basic Processor
+# Smelter
+-> 1 Raw Basic Processor
+1 Raw Basic Processor
+-> 1 Processor Binding
+-> 1 Iron Ingot
+-> 1 Silicon
+-> 1 Redstone
+8 Processor Binding
+-> 2 String
+-> 1 Slimeball
+1 Improved Processor
+# Smelter
+-> 1 Raw Improved Processor
+1 Raw Improved Processor
+-> 1 Processor Binding
+-> 1 Gold Ingot
+-> 1 Silicon
+-> 1 Redstone
+1 Advanced Processor
+# Smelter
+-> 1 Raw Advanced Processor
+1 Raw Advanced Processor
+-> 1 Processor Binding
+-> 1 Diamond
+-> 1 Silicon
+-> 1 Redstone
+1 Silicon
+# Alloy Smelter
+-> 1 Clay Block
+-> 2 Rubber
+1 Clay Block
+# Compressor
+-> 4 Clay Clump
+14 Rubber
+# Industrial Centrifuge
+-> 4 Sap
+1 64k Fluid Storage Disk
+-> 1 Storage Housing
+-> 1 64k Fluid Storage Part
+1 256k Fluid Storage Disk
+-> 1 Storage Housing
+-> 1 256k Fluid Storage Part
+1 1024k Fluid Storage Disk
+-> 1 Storage Housing
+-> 1 1024k Fluid Storage Part
+1 4096k Fluid Storage Disk
+-> 1 Storage Housing
+-> 1 4096k Fluid Storage Part
+1 64k Fluid Storage Part
+-> 4 Silicon
+-> 1 Quartz Enriched Iron
+-> 3 Block Glass
+-> 1 Bucket
+1 256k Fluid Storage Part
+-> 4 Basic Processor
+-> 3 64k Fluid Storage Part
+-> 1 Quartz Enriched Iron
+-> 1 Bucket
+1 1024k Fluid Storage Part
+-> 4 Improved Processor
+-> 3 256k Fluid Storage Part
+-> 1 Quartz Enriched Iron
+-> 1 Bucket
+1 4096k Fluid Storage Part
+-> 4 Advanced Processor
+-> 3 1024k Fluid Storage Part
+-> 1 Quartz Enriched Iron
+-> 1 Bucket
+
+
+

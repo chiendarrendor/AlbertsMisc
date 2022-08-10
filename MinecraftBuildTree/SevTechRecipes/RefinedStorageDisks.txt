@@ -1,0 +1,39 @@
+1 64k Storage Disk
+-> 1 Storage Housing
+-> 1 64k Storage Part
+1 64k Storage Part
+-> 4 Engineering Processor
+-> 3 16k Storage Part
+-> 1 Redstone Dust
+-> 1 Quartz Enriched Iron
+1 16k Storage Part
+-> 4 Logic Processor
+-> 3 4k Storage Part
+-> 1 Redstone Dust
+-> 1 Quartz Enriched Iron
+1 4k Storage Part
+-> 4 Calculation Processor
+-> 3 1k Storage Part
+-> 1 Redstone Dust
+-> 1 Quartz Enriched Iron
+1 1k Storage Part
+-> 4 Raw Silicon
+-> 3 Block Glass
+-> 1 Redstone Dust
+-> 1 Quartz Enriched Iron
+1 Logic Processor
+-> 1 Raw Silicon
+-> 1 Redstone Dust
+-> 1 Gold Ingot
+1 Engineering Processor
+-> 1 Raw Silicon
+-> 1 Redstone Dust
+-> 1 Diamond
+1 Calculation Processor
+-> 1 Pure Certus Quartz Crystal
+-> 1 Raw Silicon
+-> 1 Redstone Dust
+1 Storage Housing
+-> 2 Block Glass
+-> 3 Redstone Dust
+-> 3 Quartz Enriched Iron

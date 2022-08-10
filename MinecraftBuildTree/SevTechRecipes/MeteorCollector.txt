@@ -1,0 +1,24 @@
+1 Meteor Collector Rig
+    -> 1 Chest
+    -> 1 pickaxe
+    -> 1 Programmed Drone
+    -> 1 Charging Station
+    -> 1 Dispenser Upgrade
+    -> 15 Speed Upgrade
+    -> 5 Volume Upgrade
+    -> 2 Dispenser Upgrade
+    -> 8 Advanced Pressure Tube
+    -> Pressure Gauge Tube Module
+    -> 1 Advanced PCB
+    -> 1 Advanced Air Compressor
+    -> 1 Hopper (for coal into compressor)
+    -> 5 stacks coal
+    -> 1 Redstone Reader
+    -> 1 Redstone Writer
+    -> 6 Logic Cable
+    -> 1 Variable Store
+    -> 2 Variable Card
+-> 1 Wierding Gadget
+    -> 1 Totemic Carving Knife
+    -> 10 Logs
+-> 20 Glowstone Torches

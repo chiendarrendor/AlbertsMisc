@@ -1,0 +1,85 @@
+1 Solar Crystals
+-> 42 Solar Array Controller Tier 6
+1 Solar Array Controller Tier 6
+-> 1 Solar Array Controller Tier 5
+-> 4 Aethium Block
+-> 4 Aethium Solar Cell
+1 Solar Array Controller Tier 5
+-> 1 Solar Array Controller Tier 4
+-> 4 Ionite Block
+-> 4 Ionite Solar Cell
+1 Solar Array Controller Tier 4
+-> 1 Solar Array Controller Tier 3
+-> 4 Pladium Block
+-> 4 Pladium Solar Cell
+1 Solar Array Controller Tier 3
+-> 1 Solar Array Controller Tier 2
+-> 4 Kyronite Block
+-> 4 Kyronite Solar Cell
+1 Solar Array Controller Tier 2
+-> 1 Solar Array Controller Tier 1
+-> 4 Erodium Block
+-> 4 Erodium Solar Cell
+1 Solar Array Controller Tier 1
+-> 1 Litherite Solar Cell
+-> 4 Litherite Block
+-> 4 Lapis Lazuli Block
+1 Litherite Block
+-> 9 Litherite
+1 Lapis Lazuli Block
+-> 9 Lapis Lazuli
+1 Erodium Block
+-> 9 Erodium
+1 Kyronite Block
+-> 9 Kyronite
+1 Pladium Block
+-> 9 Pladium
+1 Ionite Block
+-> 9 Ionite
+1 Aethium Block
+-> 9 Aethium
+1 Aethium Solar Cell
+-> 3 Aethium
+-> 2 Photovoltaic Cell
+-> 1 Ionite Solar Cell
+1 Ionite Solar Cell
+-> 3 Ionite
+-> 2 Photovoltaic Cell
+-> 1 Pladium Solar Cell
+1 Pladium Solar Cell
+-> 3 Pladium
+-> 2 Photovoltaic Cell
+-> 1 Kyronite Solar Cell
+1 Kyronite Solar Cell
+-> 3 Kyronite
+-> 2 Photovoltaic Cell
+-> 1 Erodium Solar Cell
+1 Erodium Solar Cell
+-> 3 Erodium
+-> 2 Photovoltaic Cell
+-> 1 Litherite Solar Cell
+1 Litherite Solar Cell
+-> 3 Litherite
+-> 3 Photovoltaic Cell
+-> 2 Redstone
+-> 1 Interconnect
+1 Interconnect
+-> 4 Connector
+-> 1 Black Concrete
+4 Connector
+-> 4 Iron Ingot
+-> 5 Redstone
+1 Black Concrete
+# Fluid Infuser -- Water
+-> 1 Black Concrete Powder
+8 Black Concrete Powder
+-> 1 Organic Black Dye
+-> 4 Sand
+-> 4 Gravel
+2 Organic Black Dye
+# Alloy Smelter
+-> 6 Crushed Coal
+-> 1 Slimeball
+1 Photovoltaic Cell
+-> 4 Lapis Lazuli
+-> 1 Nether Quartz

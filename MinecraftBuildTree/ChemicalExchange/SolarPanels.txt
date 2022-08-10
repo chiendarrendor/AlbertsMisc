@@ -1,0 +1,48 @@
+1 Advanced Solar Panel
+-> 4 Advanced Plating
+-> 1 Graphite Dust
+-> 3 Basic Solar Panel
+-> 1 Copper Solenoid
+1 Advanced Plating
+-> 4 Redstone
+-> 4 Tough Alloy
+-> 1 Basic Plating
+2 Basic Plating
+-> 2 Lead Ingot
+-> 2 Graphite Dust
+1 Graphite Dust
+# Manufactory
+-> 1 Crushed Coal
+1 Crushed Coal
+# Manufactory
+-> 1 Coal
+1 Coal
+# Combiner (TCenter)
+-> 8 Carbon
+2 Tough Alloy
+# Alloy Smelter
+-> 1 Ferroboron Alloy
+-> 1 Lithium Ingot
+2 Ferroboron Alloy
+# Alloy Smelter
+-> 1 Steel Ingot
+-> 1 Boron Ingot
+1 Steel Ingot
+# Alloy Smelter
+-> 1 Iron Ingot
+-> 4 Crushed Coal
+2 Copper Solenoid
+-> 4 Copper Ingot
+-> 2 Iron Ingot
+1 Basic Solar Panel
+-> 2 Graphite Dust
+-> 1 Crushed Quartz
+-> 3 Weighted Pressure Plate (Heavy)
+-> 2 Copper Solenoid
+-> 1 Lapis Lazuli
+1 Weighted Pressure Plate (Heavy)
+-> 2 Iron Ingot
+
+
+
+

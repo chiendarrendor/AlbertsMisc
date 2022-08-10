@@ -1,0 +1,108 @@
+
+# This recipe requires a stupid amount of Saturn Slime Ore, over 3600 units.
+# However, there are intimations that this tech is all based on growing special seeds
+# ... the Inferium Seed Tier 1 requires 8 Saturn Slime Ore and a (wheat) seed...
+# still requires a trip to Saturn
+# as well as a trip to Neptune and Jupiter
+# but this has to start with trips to the moon to get the blueprints, as well as the moon dungeon brick.
+
+1 Ultimate Set
+-> 1 Insanium Ingot
+-> 1 Base Essence Ingot
+-> 1 Inferium Ingot
+-> 1 Prudentium Ingot
+-> 1 Intermedium Ingot
+-> 1 Superium Ingot
+-> 1 Supremium Ingot
+-> 1 Soulium Ingot
+1 Soulium Ingot
+# Smelter
+-> 1 Soulium Dust
+1 Soulium Dust
+-> 5 Soul Dust
+-> 4 Prudentium Essence
+1 Soul Dust
+# Smelter
+-> 1 Soulstone
+8 Soulstone
+-> 5 Stone
+-> 4 Soul Sand
+1 Base Essence Ingot
+-> 1 Iron Ingot
+-> 4 Prosperity Shard
+4 Prosperity Shard
+# Actually Additions Empowerer
+-> 1 Jupiter Tin Ore
+-> 1 Eye of Galgador
+-> 1 Prismarine Shard
+-> 1 Inferium Essence
+-> 1 Neptune Zinc Ore
+1 Inferium Essence
+# Atomic Reconstructor
+-> 1 Saturn Slime Ore
+1 Insanium Ingot
+-> 1 Supremium Ingot
+-> 2 Insanium Essence
+1 Insanium Essence
+-> 0 Infusion Crystal
+-> 4 Supremium Essence
+1 Supremium Ingot
+-> 1 Superium Ingot
+-> 2 Supremium Essence
+1 Superium Ingot
+-> 1 Intermedium Ingot
+-> 2 Superium Essence
+1 Intermedium Ingot
+-> 1 Prudentium Ingot
+-> 2 Intermedium Essence
+1 Prudentium Ingot
+-> 1 Inferium Ingot
+-> 2 Prudentium Essence
+1 Inferium Ingot
+-> 1 Base Essence Ingot
+-> 2 Inferium Essence
+1 Prudentium Essence
+-> 0 Infusion Crystal
+-> 4 Inferium Essence
+1 Intermedium Essence
+-> 0 Infusion Crystal
+-> 4 Prudentium Essence
+1 Superium Essence
+-> 0 Infusion Crystal
+-> 4 Intermedium Essence
+1 Supremium Essence
+-> 0 Infusion Crystal
+-> 4 Superium Essence
+1 Seed Reprocessor
+-> 6 Iron Ingot
+-> 1 Tier 2 Inferium Seed
+-> 1 Mystical Machine Frame
+-> 1 Soulium Block
+1 Soulium Block
+-> 9 Soulium Ingot
+4 Mystical Machine Frame
+-> 4 Base Essence Ingot
+-> 4 Stone
+1 Eye of Galgador
+-> 4 Magma Cream
+-> 1 Eye of Ender
+-> 2 Ghast Tear
+-> 2 Fermented Spider Eye
+1 Magma Cream
+# Starlight Infusion Altar
+-> 1 Slimeball
+1 Eye of Ender
+# Starlight Infusion Altar
+-> 1 Ender Pearl
+1 Fermented Spider Eye
+-> 1 Spider Eye
+-> 1 Mushroom
+-> 1 Sugar
+1 Tier 2 Inferium Seed
+-> 1 Tier 1 Inferium Seed
+-> 8 Prudentium Essence
+1 Tier 1 Inferium Seed
+-> 1 Seed
+-> 8 Inferium Essence
+
+

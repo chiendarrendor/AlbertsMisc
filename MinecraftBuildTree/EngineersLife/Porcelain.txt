@@ -1,0 +1,34 @@
+1 Porcelain Set
+-> 1 Porcelain Melter
+-> 1 Porcelain Heater
+-> 1 Porcelain Faucet
+-> 1 Porcelain Casting Table
+1 Porcelain Melter
+-> 6 Porcelain Brick
+-> 3 Loam
+1 Porcelain Heater
+-> 6 Porcelain Brick
+-> 1 Furnace
+1 Porcelain Faucet
+# Smelter
+-> 1 Unfired Porcelain Faucet
+1 Porcelain Casting Table
+-> 7 Porcelain Brick
+1 Porcelain Brick
+# Cauldron
+-> 1 Unfired Porcelain
+1 Unfired Porcelain
+-> 1 Clay Blob
+-> 1 Bone Meal
+1 Unfired Porcelain Faucet
+-> 3 Unfired Porcelain
+4 Loam
+-> 5 Clay Blob
+-> 2 Sand
+-> 2 Compost
+1 Compost
+-> 4 Ash
+-> 1 Dirt
+6 Bone Meal
+# Millstone
+-> 1 Bone

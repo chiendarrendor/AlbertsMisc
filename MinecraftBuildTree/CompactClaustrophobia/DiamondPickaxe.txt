@@ -1,0 +1,23 @@
+1 Diamond Pickaxe
+-> 3 Diamond
+-> 2 Stick
+1 Diamond
+-> 9 Diamond Nugget
+1 Diamond Nugget
+# TNT Explosion
+-> 5 HOP Graphite Ingot
+1 HOP Graphite Ingot
+# Smelting
+-> 1 HOP Graphite Dust
+1 HOP Graphite Dust
+# Industrial Squeezer
+-> 8 Coke Dust
+1 Coke Dust
+# IE Crusher
+-> 1 Coal Coke
+1 Coal Coke
+# Coke Oven
+-> 1 Charcoal
+1 Charcoal
+# Smelting
+-> 1 Wood

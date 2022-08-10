@@ -1,0 +1,201 @@
+1 Thermoelectric Generator
+-> 3 Steel Ingot
+-> 5 Constantan Plate
+-> 1 Copper Coil Block
+1 Copper Coil Block
+-> 1 Iron Ingot
+-> 8 LV Wire Coil
+4 LV Wire Coil
+-> 1 Stick
+-> 4 Copper Wire
+2 Copper Wire
+# Metal Press
+-> 1 Copper Ingot
+1 Constantan Plate
+# Engineers Hammer
+-> 1 Constantan Ingot
+1 Copper Plate
+# Engineers Hammer
+-> 1 Copper Ingot
+2 Constantan Ingot
+# Alloy Kiln
+-> 1 Copper Dust
+-> 1 Nickel Dust
+1 Crusher
+-> 10 Steel Scaffolding
+-> 1 Redstone Engineering Block
+-> 10 Light Engineering Block
+-> 8 Steel Fence
+-> 9 Hopper
+6 Steel Scaffolding
+-> 3 Steel Ingot
+-> 3 Steel Rod
+3 Steel Fence
+-> 4 Steel Ingot
+-> 2 Steel Rod
+4 Steel Rod
+-> 2 Steel Ingot
+2 Redstone Engineering Block
+-> 4 Iron Ingot
+-> 1 Copper Ingot
+-> 4 Redstone
+2 Light Engineering Block
+-> 4 Iron Ingot
+-> 3 Copper Ingot
+-> 2 Iron Mechanical Component
+1 Iron Mechanical Component
+# Engineers Workbench
+-> 2 Iron Plate
+-> 1 Copper Ingot
+1 Iron Plate
+# Engineers Hammer
+-> 1 Iron Ingot
+1 Hopper
+-> 1 Chest
+-> 5 Iron Ingot
+1 Chest
+-> 8 Wood Planks
+1 Coke Oven
+-> 27 Coke Brick
+3 Coke Brick
+-> 4 Clay
+-> 4 Brick
+-> 1 Sandstone
+4 Clay
+-> 1 Clay Block
+1 Clay Block
+# Water Infuser
+-> 1 Dirt
+1 Sandstone
+-> 4 Sand
+1 Dust
+# Hammer
+-> 1 Sand
+1 Sand
+# Hammer
+-> 1 Gravel
+1 Brick
+# Smelting
+-> 1 Clay
+1 Industrial Squeezer
+-> 6 Steel Scaffolding
+-> 2 Fluid Pipe
+-> 1 Redstone Engineering Block
+-> 2 Light Engineering Block
+-> 4 Wooden Barrel
+-> 1 Piston
+-> 3 Steel Fence
+1 Wooden Barrel
+-> 5 Treated Wood Planks
+-> 3 Treated Wood Slab
+6 Treated Wood Slab
+-> 3 Treated Wood Planks
+1 Railgun Kit
+-> 1 Capacitor Backpack
+-> 1 Precision Scope
+-> 1 Additional Capacitors
+-> 1 Charging Station
+-> 64 Steel Rod
+1 Charging Station
+-> 2 Iron Ingot
+-> 1 MV Wire Connector
+-> 3 Glass
+-> 2 Treated Wood Planks
+-> 1 Copper Coil Block
+1 Capacitor Backpack
+-> 2 Leather
+-> 1 LV Capacitor
+-> 2 LV Wire Coil
+-> 1 LV Wire Connector
+1 Precision Scope
+-> 2 Glass Pane
+-> 4 Copper Ingot
+1 Additional Capacitors
+-> 3 HV Wire Coil
+-> 3 HV Capacitor
+1 LV Capacitor
+-> 3 Iron Ingot
+-> 2 Copper Ingot
+-> 1 Lead Ingot
+-> 2 Treated Wood Planks
+-> 1 Redstone
+1 HV Capacitor
+-> 3 Steel Ingot
+-> 2 Aluminum Ingot
+-> 1 Lead Block
+-> 2 Treated Wood Planks
+-> 1 Redstone Block
+4 LV Wire Connector
+-> 3 Copper Ingot
+-> 4 Terracotta
+1 Terracotta
+# Smelter
+-> 1 Clay Block
+4 MV Wire Connector
+-> 3 Iron Ingot
+-> 4 Terracotta
+4 HV Wire Coil
+-> 2 Aluminum Wire
+-> 2 Steel Wire
+-> 1 Stick
+2 Aluminum Wire
+# Metal Press
+-> 1 Aluminum Ingot
+2 Steel Wire
+# Metal Press
+-> 1 Steel Ingot
+1 Lead Block
+-> 9 Lead Ingot
+1 Redstone Block
+-> 9 Redstone
+1 Basic Blast Furnace
+-> 27 Blast Brick
+3 Blast Brick
+-> 4 Brick
+-> 4 Nether Brick
+-> 1 Blaze Powder
+1 Nether Brick
+# Smelter
+-> 1 Netherrack
+1 Netherrack
+# Barrel
+-> 1 Lava Bucket
+-> 1 Redstone
+1 Arc Furnace
+-> 1 Cauldron
+-> 14 Steel Sheetmetal Slab
+-> 8 Steel Sheetmetal
+-> 6 Block of Steel
+-> 5 Steel Scaffolding
+-> 1 Redstone Engineering Block
+-> 10 Light Engineering Block
+-> 5 Heavy Engineering Block
+-> 27 Reinforced Blast Brick
+4 Steel Sheetmetal
+-> 4 Steel Plate
+6 Steel Sheetmetal Slab
+-> 3 Steel Sheetmetal
+1 Block of Steel
+-> 9 Steel Ingot
+2 Heavy Engineering Block
+-> 4 Steel Ingot
+-> 2 Piston
+-> 1 Electrum Ingot
+-> 2 Steel Mechanical Component
+1 Cauldron
+-> 7 Iron Ingot
+1 Piston
+-> 3 Wood Plank
+-> 4 Cobblestone
+-> 1 Iron Ingot
+-> 1 Redstone
+1 Steel Mechanical Component
+# Workbench
+-> 2 Steel Plate
+-> 1 Copper Ingot
+1 Steel Plate
+# Metal Press
+-> 1 Steel Ingot
+1 Reinforced Blast Brick
+-> 1 Blast Brick Made
+-> 1 Steel Plate

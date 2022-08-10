@@ -1,0 +1,51 @@
+1 Pigiron Ingot
+-> 144 Molten Pigiron
+144 Molten Pigiron
+# Alloy Smelt
+-> 144 Molten Iron
+-> 40 Blood
+-> 72 Molten Clay
+144 Molten Iron
+# Smelt
+-> 1 Iron Ingot
+40 Blood
+# Smelt
+-> 1 Rotten Flesh
+144 Molten Clay
+# Smelter
+-> 1 Clay Clump
+1 Knightslime Ingot
+# Pourer
+-> 144 Molten Knightslime
+72 Molten Knightslime
+# Alloy Smelter
+-> 72 Molten Iron
+-> 125 Liquid Purple Slime
+-> 144 Seared Stone
+72 Seared Stone
+# Smelter
+-> 1 Grout
+2 Grout
+# Mill Stone
+-> 1 Sand
+-> 1 Clay Clump
+-> 1 Gravel
+500 Liquid Purple Slime
+# Mixer
+-> 500 Liquid Slime
+-> 1 Purple Dye Powder
+-> 1 Nether Amethyst Crystal
+500 Liquid Slime
+# Mixer
+-> 1 Wheat
+-> 1 Clay Clump
+-> 500 Water
+1 HOP Graphite Ingot
+# Smelter
+-> 1 HOP Graphite Dust
+1 HOP Graphite Dust
+# Industrial Squeezer
+-> 8 Coke Dust
+
+
+

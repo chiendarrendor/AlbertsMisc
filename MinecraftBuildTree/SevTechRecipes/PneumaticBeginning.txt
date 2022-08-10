@@ -1,0 +1,43 @@
+1 Pneumatic Beginning
+-> 1 Pressure Chamber
+-> 1 Pressure Tube
+-> 1 Air Compressor
+1 Plastic Mixer Setup
+-> 1 Plastic Mixer
+-> 64 Red Dye Powder
+-> 64 Green Dye Powder
+-> 64 Blue Dye Powder
+1 Plastic Mixer
+-> 3 Glass Block
+-> 5 Compressed Iron Ingot
+1 Pressure Chamber
+-> 23 Pressure Chamber Wall
+-> 1 Pressure Chamber Glass
+-> 1 Pressure Chamber Valve
+-> 2 Pressure Chamber Interface
+8 Pressure Chamber Wall
+-> 8 Compressed Iron Ingot
+8 Pressure Chamber Glass
+-> 8 Compressed Iron Ingot
+-> 1 Glass Block
+1 Pressure Chamber Valve
+-> 1 Pressure Tube
+-> 1 Pressure Chamber Wall
+8 Pressure Tube
+-> 2 Compressed Iron Ingot
+-> 1 Glass Block
+1 Air Compressor
+-> 1 Pressure Tube
+-> 1 Furnace
+-> 6 Compressed Iron Ingot
+1 Furnace
+-> 8 Cobblestone
+1 Pressure Chamber Interface
+-> 1 Pressure Chamber Wall
+-> 1 Hopper
+
+4 Compressed Iron Ingot
+# Metal Press 2x2 Packing
+-> 1 Iron Block
+1 Iron Block
+-> 9 Iron Ingot

@@ -1,0 +1,23 @@
+1 Ender Alloys
+-> 4 End Crystal
+-> 1 Advanced Ender Alloy
+-> 1 Enhanced Ender Alloy
+-> 1 Ender Alloy
+1 End Crystal
+-> 7 Glass Block
+-> 1 Ghast Tear
+-> 1 Eye of Ender
+1 Eye of Ender
+-> 1 Ender Pearl
+1 Ender Pearl
+-> 1 Ender Dust
+4 Ender Alloy
+-> 1 Ender Pearl
+-> 8 Ender Biotite
+4 Enhanced Ender Alloy
+-> 1 Eye of Ender
+-> 8 Chorus Fruit
+2 Advanced Ender Alloy
+-> 2 End Rod
+-> 4 Purpur Block
+-> 1 Shulker Shell

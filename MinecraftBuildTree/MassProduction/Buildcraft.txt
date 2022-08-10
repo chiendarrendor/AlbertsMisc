@@ -1,0 +1,18 @@
+1 Quarry
+-> 1 Redstone
+-> 3 Iron Gear
+-> 2 Gold Gear
+-> 2 Diamond Gear
+-> 1 Diamond Pickaxe
+1 Diamond Gear
+-> 4 Diamond
+-> 1 Gold Gear
+1 Gold Gear
+-> 4 Gold Ingot
+-> 1 Iron Gear
+1 Iron Gear
+-> 1 Stone Gear
+-> 4 Iron
+1 Stone Gear
+-> 4 Stick
+-> 4 Cobblestone

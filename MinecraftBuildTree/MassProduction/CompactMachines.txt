@@ -1,0 +1,16 @@
+1 Honey I Shrunk Everyone
+-> 64 Maximum Compact Machine
+1 Maximum Compact Machine
+# Miniaturization Field
+-> 1 Emerald Block
+-> 98 Compact Machine Wall
+-> 1 Ender Pearl
+1 Emerald Block
+-> 9 Emerald
+16 Compact Machine Wall
+# Miniaturization Field
+-> 2 Redstone
+-> 1 Iron Block
+1 Iron Block
+-> 9 Iron Ingot
+

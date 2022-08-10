@@ -1,0 +1,369 @@
+1 Diesel Rig
+-> 1 Diesel Generator
+-> 1 Industrial Fermenter
+-> 1 Industrial Squeezer
+-> 1 Refinery
+-> 8 Garden Cloche
+1 Garden Cloche
+-> 4 Glass Block
+-> 1 Vacuum Tube
+-> 2 Treated Wood Planks
+-> 1 Iron Mechanical Component
+1 Diesel Generator
+-> 6 Steel Scaffolding
+-> 5 Fluid Pipe
+-> 1 Redstone Engineering Block
+-> 13 Heavy Engineering Block
+-> 4 Generator Block
+-> 9 Radiator Block
+1 Excavator Rig
+-> 1 Excavator
+-> 1 Excavator Wheel
+1 Excavator
+-> 6 Steel Scaffolding
+-> 15 Steel Sheetmetal
+-> 1 Redstone Engineering Block
+-> 9 Light Engineering Block
+-> 5 Heavy Engineering Block
+-> 3 Radiator Block
+1 Excavator Wheel
+-> 9 Block of Steel
+-> 20 Steel Scaffolding
+1 Industrial Fermenter
+-> 6 Steel Scaffolding
+-> 2 Fluid Pipe
+-> 1 Redstone Engineering Block
+-> 2 Light Engineering Block
+-> 4 Minecraft Cauldron
+-> 4 Iron Sheetmetal
+1 Industrial Squeezer
+-> 6 Steel Scaffolding
+-> 2 Fluid Pipe
+-> 1 Redstone Engineering Block
+-> 2 Light Engineering Block
+-> 4 Wooden Barrel
+-> 1 Piston
+-> 3 Steel Fence
+1 Refinery
+-> 8 Steel Scaffolding
+-> 5 Fluid Pipe
+-> 1 Redstone Engineering Block
+-> 2 Light Engineering Block
+-> 2 Heavy Engineering Block
+-> 16 Iron Sheetmetal
+1 Solar Rig
+-> 1 Solar Tower
+-> 3 Solar Reflector
+# -> 1 Solar Reflector
+1 Solar Reflector
+-> 2 Light Engineering Block
+-> 4 Steel Scaffolding
+-> 1 Block of Silver
+-> 6 Treated Wood Fence
+1 Solar Tower
+-> 14 Steel Scaffolding
+-> 4 Fluid Pipe
+-> 1 Redstone Engineering Block
+-> 5 Heavy Engineering Block
+-> 20 Steel Fence
+-> 16 Steel Sheetmetal
+1 Alternator
+-> 4 Heavy Engineering Block
+-> 8 Generator Block
+-> 6 High-Voltage Coil Block
+-> 5 HV Capacitor
+-> 8 Steel Sheetmetal
+-> 2 Block of Steel
+1 Steam Turbine
+-> 3 Steel Scaffolding
+-> 6 Fluid Pipe
+-> 1 Redstone Engineering Block
+-> 24 Heavy Engineering Block
+-> 4 Radiator Block
+-> 27 Steel Sheetmetal
+-> 10 Block of Steel
+6 Steel Scaffolding
+-> 3 Steel Ingot
+-> 3 Steel Rod
+4 Steel Rod
+-> 2 Steel Ingot
+4 Steel Sheetmetal
+-> 4 Steel Plate
+1 Steel Plate
+# Metal Press
+-> 1 Steel Ingot
+1 Block of Steel
+-> 9 Steel Ingot
+2 Radiator Block
+-> 4 Steel Plate
+-> 4 Constantan Plate
+-> 1 Packed Ice (made)
+1 Constantan Plate
+# Metal Press
+-> 1 Constantan Ingot
+2 Constantan Ingot
+# Alloy Kiln
+-> 1 Copper Ingot
+-> 1 Nickel Ingot
+2 Redstone Engineering Block
+-> 4 Redstone
+-> 2 Copper Plate
+-> 1 Block of Redstone
+-> 2 Circuit Board
+2 Light Engineering Block
+-> 4 Iron Plate
+-> 3 Copper Plate
+-> 2 Iron Mechanical Component
+2 Heavy Engineering Block
+-> 4 Block of Steel
+-> 2 Piston
+-> 2 Steel Mechanical Component
+-> 1 Block of Electrum
+1 Copper Plate
+# Metal Press
+-> 1 Copper Ingot
+1 Circuit Board
+# Engineer's Workbench
+-> 1 Insulating Glass (made)
+-> 2 Vacuum Tube (made)
+-> 1 Copper Plate
+1 Iron Mechanical Component
+-> 2 Iron Plate
+-> 1 Copper Ingot
+1 Steel Mechanical Component
+-> 2 Steel Plate
+-> 1 Copper Ingot
+1 Block of Redstone
+-> 9 Redstone
+2 Insulating Glass
+-> 2 Glass Block
+-> 1 Cactus Green
+-> 2 Iron Grit
+1 Iron Grit
+# Mill Stone
+-> 1 Iron Ore
+3 Vacuum Tube
+# Engineer's Workbench
+-> 1 Glass Block
+-> 1 Nickel Plate
+-> 1 Copper Wire
+-> 1 Redstone
+1 Block of Electrum
+-> 9 Electrum Ingot
+1 Nickel Plate
+# Metal Press
+-> 1 Nickel Ingot
+2 Copper Wire
+# Metal Press
+-> 1 Copper Ingot
+1 Iron Plate
+# Metal Press
+-> 1 Iron Ingot
+1 Packed Ice
+-> 1 Heavy Weight
+-> 1 Bit o' Water
+-> 4 Ice (Silk-touch to mine)
+1 Heavy Weight
+-> 1 Cobblestone
+-> 1 Cobblestone Slab
+-> 2 Glass Pane
+32 Bit o' Water
+-> 1 Bucket of Water
+8 Fluid Pipe
+-> 6 Iron Plate
+1 Generator Block
+-> 4 Steel Ingot
+-> 4 Constantan Plate
+-> 1 Kinetic Dynamo
+1 Kinetic Dynamo
+-> 2 Redstone
+-> 3 Iron Plate
+-> 1 Copper Coil Block
+1 Copper Coil Block
+-> 1 Iron Ingot
+-> 8 LV Wire Coil
+4 LV Wire Coil
+-> 1 Stick
+-> 4 Copper Wire
+4 Iron Sheetmetal
+-> 4 Iron Plate
+1 Wooden Barrel
+-> 5 Treated Wood Planks
+-> 2 Treated Wood Slabs
+6 Treated Wood Slabs
+-> 3 Treated Wood Planks
+3 Steel Fence
+-> 4 Steel Ingot
+-> 2 Steel Rod
+1 Minecraft Cauldron
+-> 7 Iron Lump
+1 Iron Lump
+-> 9 Iron Nugget
+9 Iron Nugget
+-> 1 Iron Ingot
+2 Electrum Ingot (old)
+# Alloying
+-> 1 Gold Ingot
+-> 1 Silver Ingot
+6 Cobblestone Slab
+-> 3 Cobblestone
+1 Block of Silver
+-> 9 Silver Ingot
+1 High-Voltage Coil Block
+-> 1 Iron Ingot
+-> 8 HV Wire Coil
+4 HV Wire Coil
+-> 1 Stick
+-> 2 Aluminum Wire
+-> 2 Steel Wire
+2 Aluminum Wire
+# Metal Press
+-> 1 Aluminum Ingot
+2 Steel Wire
+# Metal Press
+-> 1 Steel Ingot
+3 Treated Wood Fence
+-> 4 Treated Wood Planks
+-> 2 Treated Wood Stick
+4 Treated Wood Stick
+-> 2 Treated Wood Planks
+1 HV Capacitor
+-> 3 Steel Plate
+-> 2 Aluminum Plate
+-> 1 Block of Lead
+-> 1 Block of Redstone
+-> 2 Treated Wood Planks
+1 Aluminum Plate
+# Metal Press
+-> 1 Aluminum Ingot
+1 Block of Lead
+-> 9 Lead Ingot
+1 Core Sample Drill
+1 Crusher
+-> 10 Steel Scaffolding
+-> 1 Redstone Engineering Block
+-> 10 Light Engineering Block
+-> 8 Steel Fence
+-> 9 Hopper
+1 Hopper
+-> 5 Iron
+-> 1 Chest
+1 Chest
+-> 8 Wood Planks
+1 Solar Downstairs
+-> 1 Alternator
+-> 1 Steam Turbine
+1 Railgun Rig
+-> 1 Railgun
+-> 1 Precision Scope
+-> 1 Additional Capacitors
+-> 1 Capacitor Backpack
+-> 128 Steel Rod
+1 Capacitor Backpack
+-> 2 Leather
+-> 1 LV Capacitor
+-> 2 LV Wire Coil
+-> 1 LV Wire Connector
+1 Railgun
+-> 1 Wooden Grip
+-> 2 HV Capacitor
+-> 2 Electrum Coil Block
+-> 2 Revolver Barrel
+1 Revolver Barrel
+-> 2 Steel Rod
+1 Precision Scope
+-> 4 Copper Ingot
+-> 2 Glass Plate
+1 Additional Capacitors
+-> 3 HV Capacitor
+-> 3 HV Wire Coil
+1 Wooden Grip
+-> 1 Copper Ingot
+-> 5 Treated Stick
+1 Electrum Coil Block
+-> 8 MV Wire Coil
+-> 1 Iron Ingot
+4 MV Wire Coil
+-> 4 Electrum Wire
+-> 1 Stick
+1 LV Capacitor
+-> 3 Iron Plate
+-> 2 Copper Plate
+-> 1 Lead Plate
+-> 2 Treated Wood Planks
+-> 1 Redstone
+4 LV Wire Connector
+-> 3 Copper Ingot
+-> 4 Terracotta
+2 Electrum Wire
+# Metal Press
+-> 1 Electrum Ingot
+1 Lead Plate
+# Metal Press
+-> 1 Lead Ingot
+1 Piston
+-> 3 Wood Planks
+-> 4 Cobblestone
+-> 1 Iron Ingot
+-> 1 Redstone
+8 Treated Wood Planks
+-> 8 Wood Planks
+-> 1 Creosote Bucket
+1 Arc Furnace
+-> 1 Minecraft Cauldron
+-> 14 Steel Sheetmetal Slab
+-> 8 Steel Sheetmetal
+-> 6 Block of Steel
+-> 5 Steel Scaffolding
+-> 1 Redstone Engineering Block
+-> 10 Light Engineering Block
+-> 5 Heavy Engineering Block
+-> 27 Reinforced Blast Brick
+6 Steel Sheetmetal Slab
+-> 3 Steel Sheetmetal
+1 Reinforced Blast Brick
+-> 1 Blast Brick
+-> 1 Steel Plate
+3 Blast Brick
+-> 4 Hardened Nether Sludge
+-> 4 Bricks
+-> 1 Heating Element
+1 Bricks
+-> 4 Brick
+1 Brick
+# Smelter
+-> 1 Clay Blob
+1 Heating Elemment
+-> 1 Redstone
+-> 1 Blaze Powder
+-> 1 String
+1 Hardened Nether Sludge
+# Stoked Kiln
+-> 1 Nether Sludge Block
+1 Nether Sludge Block
+-> 4 Nether Sludge
+8 Nether Sludge
+# Cauldron
+-> 1 Potash
+-> 4 Hellfire Dust
+1 Hellfire Dust
+# Filtered Hopper
+-> 1 Ground Netherrack
+1 Ground Netherrack
+# Mill Stone
+-> 1 Netherrack
+1 Portable Generator
+-> 7 Iron Plate
+-> 1 LV Capacitor
+-> 1 Generator Block
+
+
+
+
+
+
+
+
+
+
+

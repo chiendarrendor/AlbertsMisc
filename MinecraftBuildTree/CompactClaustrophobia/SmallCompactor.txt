@@ -1,0 +1,68 @@
+1 Small Compactor
+-> 1 Machine Controller
+-> 1 Tiny Energy Input Hatch
+-> 3 Bricks
+-> 1 Glass Pane
+-> 1 Upper
+-> 1 Hopper
+-> 2 Stone Bricks Slab
+-> 1 Tiny Item Input
+-> 1 Tiny Item Output
+1 Machine Controller
+-> 2 Redstone
+-> 1 Redstone Reception Coil
+-> 2 Copper Solenoid
+-> 1 Machine Casing
+1 Tiny Energy Input Hatch
+-> 3 Redstone
+-> 1 Machine Casing
+-> 1 Redstone Block
+-> 2 Redstone Repeater
+1 Tiny Item Input
+-> 1 Hopper
+-> 1 Machine Casing
+-> 1 Chest
+1 Tiny Item Output
+-> 1 Chest
+-> 1 Machine Casing
+-> 1 Hopper
+1 Redstone Reception Coil
+-> 2 Redstone
+-> 1 Gold Ingot
+2 Copper Solenoid
+-> 4 Copper Ingot
+-> 2 Iron Ingot
+2 Machine Casing
+-> 4 Modularium
+-> 1 Redstone Block
+1 Redstone Block
+-> 9 Redstone
+1 Redstone Repeater
+-> 2 Redstone Torch
+-> 1 Redstone
+-> 3 Stone
+1 Redstone Torch
+-> 1 Redstone
+-> 1 Stick
+1 Chest
+-> 8 Wood Plank
+1 Hopper
+-> 1 Chest
+-> 5 Iron Ingot
+1 Modularium
+# Smelter
+-> 1 Modularium Blend
+1 Modularium Blend
+-> 4 Uranium Dust
+-> 4 Iron Dust
+-> 1 Redstone
+6 Stone Bricks Slab
+-> 3 Stone Bricks
+4 Stone Bricks
+-> 4 Stone
+1 Stone
+# Smelter
+-> 1 Cobblestone
+1 Compact Machine Wall
+# Small Compactor
+-> 4 Modularium

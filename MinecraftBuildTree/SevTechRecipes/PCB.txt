@@ -1,0 +1,21 @@
+1 Printed Circuit Board
+-> 3 Transistor
+-> 3 Capacitor
+-> 2 Certus Quartz Crystal
+-> 1 Unassembled PCB
+1 Unassembled PCB
+-> 1 Empty PCB: unexposed
+1 Empty PCB: unexposed
+# Pressure Chamber at 1.6 Bar
+-> 1 Green Plastic
+-> 1 Compressed Iron Ingot
+1 Transistor
+# Pressure Chamber at 1 bar
+-> 1 Black Plastic
+-> 1 Compressed Iron Ingot
+-> 1 Redstone Dust
+1 Capacitor
+# Pressure Chamber at 1 bar
+-> 1 Cyan Plastic
+-> 1 Compressed Iron Ingot
+-> 1 Redstone Dust

@@ -1,0 +1,122 @@
+1 Three Run
+-> 1 Stars
+-> 1 Conduits
+1 Tubes
+-> 200 Copper Electron Tube
+4 Copper Electron Tube
+# Thermionic Fabricator
+-> 5 Copper Ingot
+-> 2 Redstone
+-> 1 Sand
+1 Scaffolding
+-> 600 Aluminum Scaffolding
+6 Aluminum Scaffolding
+-> 3 Aluminum Ingot
+-> 3 Aluminum Rod
+4 Aluminum Rod
+-> 2 Aluminum Ingot
+1 Rope
+-> 1280 Hemp Rope Coil
+4 Hemp Rope Coil
+-> 1 Stick
+-> 4 Industrial Hemp Fiber
+1 Insulation
+-> 400 Insulating Glass
+1 Batteries
+-> 50 Simple Powercell
+1 Stars
+-> 64 Nether Star
+1 Sunshine
+-> 60000 Liquid Sunshine
+1 Dark Bars
+-> 400 Dark Iron Bars
+1 Capacitors
+-> 200 Double-Layer Capacitor
+1 Conduits
+-> 600 Item Conduit
+1 Dense Glasses
+-> 64 Dense Glass
+2 Insulating Glass
+-> 2 Glass
+-> 2 Iron Grit
+-> 1 Cactus Green
+4 Dense Glass
+-> 4 Glass
+-> 1 Obsidian
+-> 4 Spent Filter Material
+250 Liquid Sunshine
+# The Vat
+-> 1 Sunflower
+-> 1 Glowstone Dust
+-> 250 Fire Water
+1000 Fire Water
+# The Vat
+-> 1 Redstone
+-> 1 Blaze Powder
+-> 1000 Hootch
+8750 Hootch
+# The Vat
+-> 35 Apple
+-> 10 Sugar
+1 Double-Layer Capacitor
+-> 2 Energetic Alloy Ingot
+-> 2 Basic Capacitor
+-> 1 Coal Powder
+1 Coal Powder
+# IE Crusher
+-> 1 Coal
+1 Energetic Alloy Ingot
+# Arc Furnace
+-> 1 Gold Ingot
+-> 1 Redstone
+-> 1 Glowstone Dust
+1 Basic Capacitor
+-> 4 Gold Nugget
+-> 2 Grains of Infinity
+-> 1 Copper Electron Tube
+8 Item Conduit
+-> 3 Pulsating Iron Nugget
+-> 6 Conduit Binder
+2 Conduit Binder
+# Furnace
+-> 1 Conduit Binder Composite
+8 Conduit Binder Composite
+-> 5 Gravel
+-> 2 Sand
+-> 2 Clay
+1 Simple Powercell
+-> 4 Redstone Block
+-> 2 Nether Quartz
+-> 2 Diamond
+-> 1 Machine Frame
+1 Redstone Block
+-> 9 Redstone
+1 Machine Frame
+-> 4 Iron Plate
+-> 2 Gold Nugget
+-> 2 Lapis Electron Tube
+1 Iron Plate
+-> 1 Iron Ingot
+9 Gold Nugget
+-> 1 Gold Ingot
+4 Lapis Electron Tube
+# Thermionic Fabricator
+-> 5 Lapis
+-> 2 Redstone
+16 Dark Iron Bars
+-> 6 Dark Steel Ingot
+1 Dark Steel Ingot
+# Arc Furnace
+-> 1 Iron Ingot
+-> 1 Coal Powder
+-> 1 Obsidian
+9 Pulsating Iron Nugget
+-> 1 Pulsating Iron Ingot
+1 Pulsating Iron Ingot
+# EnderIO Alloy Smelter
+-> 1 Iron Ingot
+-> 1 Ender Pearl
+1 Reinforced Obsidian
+-> 4 Grains of Infinity
+-> 4 Dark Iron Bars
+-> 1 Obsidian

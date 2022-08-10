@@ -1,0 +1,66 @@
+1 Plastic Generation
+-> 1 Chemical Mixer
+-> 1 Liquid Processor
+1 Chemical Mixer
+-> 1 Machine Controller
+-> 20 Machine Casing
+-> 2 Tiny Fluid Input Hatch
+-> 1 Tiny Fluid Output Hatch
+-> 1 Tiny Energy Input Hatch
+1 Liquid Processor
+-> 1 Machine Controller
+-> 20 Machine Casing
+-> 1 Tiny Fluid Input Hatch
+-> 1 Tiny Fluid Output Hatch
+-> 1 Tiny Energy Input Hatch
+1 Machine Controller
+-> 4 Modularium Plate
+-> 1 Circuit Board
+-> 2 Redstone Alloy Gear
+-> 1 Machine Casing
+-> 1 LV Wire Coil
+2 Machine Casing
+-> 8 Modularium Plate
+1 Tiny Fluid Input Hatch
+-> 4 Modularium Plate
+-> 1 Hopper
+-> 2 Metal Barrel
+1 Tiny Fluid Output Hatch
+-> 1 Bucket
+-> 1 Hopper
+-> 1 Machine Casing
+1 Tiny Energy Input Hatch
+-> 4 Modularium Plate
+-> 4 LV Wire Coil
+-> 1 Redstone Engineering Block
+1 Metal Barrel
+-> 5 Iron Sheetmetal
+-> 3 Iron Sheetmetal Slab
+6 Iron Sheetmetal Slab
+-> 3 Iron Sheetmetal
+4 Iron Sheetmetal
+-> 4 Iron Plate
+4 LV Wire Coil
+-> 4 Copper Wire
+-> 1 Stick
+2 Copper Wire
+-> 1 Copper Plate
+1 Plastic Molder
+-> 14 Machine Casing
+-> 1 Small Item Output
+-> 1 Tiny Fluid Input Hatch
+-> 1 Tiny Energy Input Hatch
+1 Small Item Output
+-> 4 Modularium Plate
+-> 1 Upper
+-> 1 Machine Casing
+1 Upper
+-> 1 Hopper
+1 Redstone Engineering Block
+-> 1 Vacuum Tube
+-> 4 Iron Plate
+-> 4 Redstone Alloy Plate
+1 Hopper
+-> 5 Iron Plate
+-> 1 Chest
+-> 1 Bronze Gear

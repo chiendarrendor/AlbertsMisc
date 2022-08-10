@@ -1,0 +1,44 @@
+1 Hardened Upgrade Kit
+-> 4 Invar Ingot
+-> 1 Bronze Gear
+-> 2 Redstone
+1 Bronze Gear
+-> 4 Bronze Ingot
+4 Bronze Ingot
+# Alloy Kiln
+-> 3 Copper Dust
+-> 1 Tin Dust
+3 Invar Ingot
+-> 2 Iron Grit
+-> 1 Nickel Grit
+1 Reinforced Upgrade Kit
+-> 4 Electrum Ingot
+-> 1 Silver Gear
+-> 2 Hardened Glass
+2 Electrum Ingot
+# Alloy Kiln
+-> 1 Silver Grit
+-> 1 Gold Grit
+1 Silver Gear
+-> 4 Silver Ingot
+1 Silver Ingot
+# Smelter
+-> 1 Silver Grit
+1 Hardened Glass
+-> 1 Lead Grit
+-> 2 Crushed Obsidian
+-> 1 Pyrotheum Dust
+2 Pyrotheum Dust
+-> 2 Blaze Powder
+-> 1 Redstone
+-> 1 Sulfur
+4 Crushed Obsidian
+# IE Crusher
+-> 1 Obsidian
+1 Obsidian
+# Stone Barrel
+-> 1 Lava Bucket
+-> 1 Water Bucket
+1 Lava Bucket
+# Squeezer
+-> 4 Blaze Powder

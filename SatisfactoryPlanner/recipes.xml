@@ -1,0 +1,236 @@
+<recipes>
+    <recipe name="Circuit Board" building = "Assembler" rate="7.5">
+        <input resource="Copper Sheet" amount="2"/>
+        <input resource="Plastic" amount="4"/>
+        <output resource="Circuit Board" amount="1"/>
+    </recipe>
+    <recipe name="Electrode Circuit Board" building = "Assembler" rate="5">
+        <input resource="Rubber" amount="6"/>
+        <input resource="Petroleum Coke" amount="9"/>
+        <output resource="Circuit Board" amount="1"/>
+    </recipe>
+    <recipe name="Silicon Circuit Board" building = "Assembler" rate="12.5">
+        <input resource="Copper Sheet" amount="11"/>
+        <input resource="Silica" amount="11"/>
+        <output resource="Circuit Board" amount="5"/>
+    </recipe>
+    <recipe name="Caterium Circuit Board" building = "Assembler" rate="8.75">
+        <input resource="Plastic" amount="10"/>
+        <input resource="Quickwire" amount="30"/>
+        <output resource="Circuit Board" amount="7"/>
+    </recipe>
+
+    <recipe name="High-Speed Connector" building="Manufacturer" rate="3.75">
+        <input resource="Quickwire" amount="56"/>
+        <input resource="Cable" amount="10"/>
+        <input resource="Circuit Board" amount="1"/>
+        <output resource="High-Speed Connector" amount="1"/>
+    </recipe>
+    <recipe name="Silicon High-Speed Connector" building="Manufacturer" rate="3">
+        <input resource="Quickwire" amount="60"/>
+        <input resource="Silica" amount="25"/>
+        <input resource="Circuit Board" amount="2"/>
+        <output resource="High-Speed Connector" amount="2"/>
+    </recipe>
+
+    <recipe name="AI Limiter" building="Assembler" rate="5">
+        <input resource="Copper Sheet" amount="5"/>
+        <input resource="Quickwire" amount="20"/>
+        <output resource="AI Limiter" amount="1"/>
+    </recipe>
+
+    <recipe name="Heat Sink" building="Assembler" rate="7.5">
+        <input resource="Alclad Aluminum Sheet" amount="5"/>
+        <input resource="Copper Sheet" amount="3"/>
+        <output resource="Heat Sink" amount="1"/>
+    </recipe>
+    <recipe name="Heat Exchanger" building="Assembler" rate="10">
+        <input resource="Aluminum Casing" amount="3"/>
+        <input resource="Rubber" amount="3"/>
+        <output resource="Heat Sink" amount="1"/>
+    </recipe>
+
+    <recipe name="Crystal Oscillator" building="Manufacturer" rate="1">
+        <input resource="Quartz Crystal" amount="36"/>
+        <input resource="Cable" amount="28"/>
+        <input resource="Reinforced Iron Plate" amount="5"/>
+        <output resource="Crystal Oscillator" amount="2"/>
+    </recipe>
+    <recipe name="Insulated Crystal Oscillator" building="Manufacturer" rate="1.875">
+        <input resource="Quartz Crystal" amount="10"/>
+        <input resource="Rubber" amount="7"/>
+        <input resource="AI Limiter" amount="1"/>
+        <output resource="Crystal Oscillator" amount="1"/>
+    </recipe>
+
+    <recipe name="Computer" building="Manufacturer" rate="2.5">
+        <input resource="Circuit Board" amount="10"/>
+        <input resource="Cable" amount="9"/>
+        <input resource="Plastic" amount="18"/>
+        <input resource="Screw" amount="52"/>
+        <output resource="Computer" amount="1"/>
+    </recipe>
+    <recipe name="Crystal Computer" building="Assembler" rate="2.8125">
+        <input resource="Circuit Board" amount="8"/>
+        <input resource="Crystal Oscillator" amount="3"/>
+        <output resource="Computer" amount="3"/>
+    </recipe>
+    <recipe name="Caterium Computer" building="Manufacturer" rate="3.75">
+        <input resource="Circuit Board" amount="7"/>
+        <input resource="Quickwire" amount="28"/>
+        <input resource="Rubber" amount="12"/>
+        <output resource="Computer" amount="1"/>
+    </recipe>
+
+    <recipe name="Electromagnetic Control Rod" building="Assembler" rate="4">
+        <input resource="Stator" amount="3"/>
+        <input resource="AI Limiter" amount="2"/>
+        <output resource="Electromagnetic Control Rod" amount="2"/>
+    </recipe>
+    <recipe name="Electromagnetic Connection Rod" building="Assembler" rate="8">
+        <input resource="Stator" amount="2"/>
+        <input resource="High-Speed Connector" amount="1"/>
+        <output resource="Electromagnetic Control Rod" amount="2"/>
+    </recipe>
+
+    <recipe name="Radio Control Unit" building="Manufacturer" rate="2.5">
+        <input resource="Aluminum Casing" amount="32"/>
+        <input resource="Crystal Oscillator" amount="1"/>
+        <input resource="Computer" amount="1"/>
+        <output resource="Radio Control Unit" amount="2"/>
+    </recipe>
+    <recipe name="Radio Control System" building="Manufacturer" rate="4.5">
+        <input resource="Crystal Oscillator" amount="1"/>
+        <input resource="Circuit Board" amount="10"/>
+        <input resource="Aluminum Casing" amount="60"/>
+        <input resource="Rubber" amount="30"/>
+        <output resource="Radio Control Unit" amount="3"/>
+    </recipe>
+    <recipe name="Radio Connection Unit" building="Manufacturer" rate="3.75">
+        <input resource="Heat Sink" amount="4"/>
+        <input resource="High-Speed Connector" amount="2"/>
+        <input resource="Quartz Crystal" amount="12"/>
+        <output resource="Radio Control Unit" amount="1"/>
+    </recipe>
+
+    <recipe name="Cooling System" building="Blender" rate="6">
+        <input resource="Heat Sink" amount="2"/>
+        <input resource="Rubber" amount="2"/>
+        <input resource="Water" amount="5"/>
+        <input resource="Nitrogen Gas" amount="25"/>
+        <output resource="Cooling System" amount="1"/>
+    </recipe>
+    <recipe name="Cooling Device" building="Blender" rate="3.75">
+        <input resource="Heat Sink" amount="5"/>
+        <input resource="Motor" amount="1"/>
+        <input resource="Nitrogen Gas" amount="24"/>
+        <output resource="Cooling System" amount="2"/>
+    </recipe>
+
+    <recipe name="Supercomputer" building="Manufacturer" rate="1.875">
+        <input resource="Computer" amount="2"/>
+        <input resource="AI Limiter" amount="2"/>
+        <input resource="High-Speed Connector" amount="3"/>
+        <input resource="Plastic" amount="28"/>
+        <output resource="Supercomputer" amount="1"/>
+    </recipe>
+    <recipe name="OC Supercomputer" building="Assembler" rate="3">
+        <input resource="Radio Control Unit" amount="3"/>
+        <input resource="Cooling System" amount="3"/>
+        <output resource="Supercomputer" amount="1"/>
+    </recipe>
+    <recipe name="Super-State Computer" building="Manufacturer" rate="2.4">
+        <input resource="Computer" amount="3"/>
+        <input resource="Electromagnetic Control Rod" amount="2"/>
+        <input resource="Battery" amount="20"/>
+        <input resource="Wire" amount="45"/>
+        <output resource="Supercomputer" amount="2"/>
+    </recipe>
+
+    <recipe name="Turbo Motor" building="Manufacturer" rate="1.875">
+        <input resource="Cooling System" amount="4"/>
+        <input resource="Radio Control Unit" amount="2"/>
+        <input resource="Motor" amount="4"/>
+        <input resource="Rubber" amount="24"/>
+        <output resource="Turbo Motor" amount="1"/>
+    </recipe>
+    <recipe name="Turbo Electric Motor" building="Manufacturer" rate="2.8125">
+        <input resource="Motor" amount="7"/>
+        <input resource="Radio Control Unit" amount="9"/>
+        <input resource="Electromagnetic Control Rod" amount="5"/>
+        <input resource="Rotor" amount="7"/>
+        <output resource="Turbo Motor" amount="3"/>
+    </recipe>
+    <recipe name="Turbo Pressure Motor" building="Manufacturer" rate="3.75">
+        <input resource="Motor" amount="4"/>
+        <input resource="Pressure Conversion Cube" amount="1"/>
+        <input resource="Packaged Nitrogen Gas" amount="24"/>
+        <input resource="Stator" amount="8"/>
+        <output resource="Turbo Motor" amount="2"/>
+    </recipe>
+
+    <recipe name="Water" building="Water Extractor" rate="120">
+        <output resource="Water" amount="1"/>
+    </recipe>
+
+    <recipe name="Quickwire" building="Constructor" rate="60">
+        <input resource="Caterium Ingot" amount="1"/>
+        <output resource="Quickwire" amount="5"/>
+    </recipe>
+
+    <recipe name="Caterium Ingot" building="Smelter" rate="15">
+        <input resource="Caterium Ore" amount="3"/>
+        <output resource="Caterium Ingot" amount="1"/>
+    </recipe>
+    <recipe name="Pure Caterium Ingot" building="Refinery" rate="12">
+        <input resource="Caterium Ore" amount="2"/>
+        <input resource="Water" amount="2"/>
+        <output resource="Caterium Ingot" amount="1"/>
+    </recipe>
+
+    <recipe name="Steel Screw" building="Constructor" rate="260">
+        <input resource="Steel Beam" amount="1"/>
+        <output resource="Screw" amount="52"/>
+    </recipe>
+
+    <recipe name="Steel Beam" building="Constructor" rate="15">
+        <input resource="Steel Ingot" amount="4"/>
+        <output resource="Steel Beam" amount="1"/>
+    </recipe>
+
+    <recipe name="Steel Ingot" building="Foundry" rate="45">
+        <input resource="Iron Ore" amount="3"/>
+        <input resource="Coal" amount="3"/>
+        <output resource="Steel Ingot" amount="3"/>
+    </recipe>
+
+    <recipe name="Steamed Copper Sheet" building="Refinery" rate="22.5">
+        <input resource="Copper Ingot" amount="3"/>
+        <input resource="Water" amount="3"/>
+        <output resource="Copper Sheet" amount="3"/>
+    </recipe>
+
+    <recipe name="Copper Alloy Ingot" building="Foundry" rate="100">
+        <input resource="Copper Ore" amount="10"/>
+        <input resource="Iron Ore" amount="5"/>
+        <output resource="Copper Ingot" amount="20"/>
+    </recipe>
+    <recipe name="Pure Copper Ingot" building="Refinery" rate="37.5">
+        <input resource="Copper Ore" amount="6"/>
+        <input resource="Water" amount="4"/>
+        <output resource="Copper Ingot" amount="15"/>
+    </recipe>
+
+    <recipe name="Cable" building="Constructor" rate="30">
+        <input resource="Wire" amount="2"/>
+        <output resource="Cable" amount="1"/>
+    </recipe>
+
+    <recipe name="Caterium Wire" building="Constructor" rate="120">
+        <input resource="Caterium Ingot" amount="1"/>
+        <output resource="Wire" amount="8"/>
+    </recipe>
+
+
+
+</recipes>

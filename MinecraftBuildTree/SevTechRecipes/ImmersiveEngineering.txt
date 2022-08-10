@@ -1,0 +1,218 @@
+1 Distillation Tower
+-> 25 Steel Scaffolding
+-> 33 Steel Scaffolding Slab
+-> 17 Fluid Pipe
+-> 1 Redstone Engineering Block
+-> 4 Heavy Engineering Block
+-> 60 Iron Sheetmetal
+6 Steel Scaffolding
+-> 3 Steel Ingot
+-> 3 Steel Rod
+2 Steel Rod
+# Metal Press
+-> 1 Steel Ingot
+6 Steel Scaffolding Slab
+-> 3 Steel Scaffolding
+8 Fluid Pipe
+-> 6 Iron Plate
+2 Heavy Engineering Block
+-> 4 Steel Ingot
+-> 2 Piston
+-> 1 Electrum Ingot
+-> 2 Steel Mechanical Component
+1 Steel Mechanical Component
+# Engineer's Workbench
+-> 2 Steel Plate
+-> 1 Copper Ingot
+1 Redstone Engineering Block
+-> 4 Iron Plate
+-> 4 Redstone Alloy Plate
+-> 1 Vacuum Tube
+4 Iron Sheetmetal
+-> 4 Iron Plate
+1 Steel Plate
+# Metal Press
+-> 1 Steel Ingot
+1 Iron Plate
+# Metal Press
+-> 1 Iron Ingot
+1 Coke Oven
+-> 27 Coke Brick
+3 Coke Brick
+-> 4 Clay
+-> 4 Brick
+-> 1 Sandstone
+1 Crude Blast Furnace
+-> 27 Blast Brick
+3 Blast Brick
+-> 4 Brick
+-> 4 Nether Brick
+-> 1 Blaze Powder
+1 Brick
+# Clay Kiln
+-> 1 Clay
+1 Nether Brick
+# Stoked Kiln
+-> 1 Unfired Nether Brick
+1 Unfired Nether Brick
+-> 1 Nether Sludge
+8 Nether Sludge
+# UNSTOKED! Cauldronu
+-> 1 Potash
+-> 4 Hellfire Dust
+1 Hellfire Dust
+# Filtered Hopperuu
+-> 1 Ground Netherrack
+1 Ground Netherrack
+# Crusher
+-> 1 Netherrack
+1 Steam Power
+-> 1 Steam Turbine
+-> 1 Alternator
+1 Steam Turbine
+-> 3 Steel Scaffolding
+-> 6 Fluid Pipe
+-> 1 Redstone Engineering Block
+-> 24 Heavy Engineering Block
+-> 4 Radiator Block
+-> 27 Steel Sheetmetal
+-> 10 Block of Steel
+1 Alternator
+-> 4 Heavy Engineering Block
+-> 8 Generator Block
+-> 6 High-Voltage Coil Block
+-> 5 HV Capacitor
+-> 8 Steel Sheetmetal
+-> 2 Block of Steel
+1 Piston
+-> 4 Cobblestone
+-> 3 Oak Siding
+-> 1 Iron Plate
+-> 1 Redstone
+2 Oak Siding
+# Saw
+-> 1 Oak Planks
+1 Block of Steel
+# Metal Press
+-> 9 Steel Ingot
+2 Generator Block
+-> 6 Steel Ingot
+-> 2 Electrum Ingot
+-> 1 Kinetic Dynamo
+1 Kinetic Dynamo
+-> 2 Redstone
+-> 3 Iron Ingot
+-> 1 Copper Coil Block
+1 Copper Coil Block
+-> 1 Iron Ingot
+-> 8 LV Wire Coil
+4 LV Wire Coil
+-> 1 Stick
+-> 4 Copper Wire
+2 Copper Wire
+# Metal Press
+-> 1 Copper Ingot
+4 Steel Sheetmetal
+-> 4 Steel Plate
+1 High-Voltage Coil Block
+-> 1 Iron Ingot
+-> 8 HV Wire Coil
+4 HV Wire Coil
+-> 1 Stick
+-> 2 Steel Wire
+-> 2 Aluminum Wire
+2 Steel Wire
+# Metal Press
+-> 1 Steel Ingot
+2 Aluminum Wire
+# Metal Press
+-> 1 Aluminum Ingot
+2 Radiator Block
+-> 4 Copper Ingot
+-> 4 Steel Ingot
+-> 1 Bucket of Water
+1 HV Capacitor
+-> 3 Steel Ingot
+-> 2 Aluminum Ingot
+-> 1 Block of Lead
+-> 1 Block of Redstone
+-> 2 Treated Wood Planks
+1 Pumpjack
+-> 11 Steel Scaffolding
+-> 6 Treated Wood Fence
+-> 4 Fluid Pipe
+-> 1 Redstone Engineering Block
+-> 2 Light Engineering Block
+-> 2 Heavy Engineering Block
+-> 2 Block of Steel
+-> 4 Steel Sheetmetal
+2 Light Engineering Block
+-> 4 Iron Ingot
+-> 3 Copper Ingot
+-> 2 Iron Mechanical Component
+1 Iron Mechanical Component
+# Engineer's Workbench
+-> 2 Iron Plate
+-> 1 Copper Ingot
+1 Solar System
+-> 1 Solar Tower
+-> 4 Solar Reflector
+1 Solar Tower
+-> 14 Steel Scaffolding
+-> 4 Fluid Pipe
+-> 1 Redstone Engineering Block
+-> 5 Heavy Engineering Block
+-> 20 Steel Fence
+-> 16 Steel Sheetmetal
+1 Solar Reflector
+-> 2 Light Engineering Block
+-> 4 Steel Scaffolding
+-> 1 Silver Block
+-> 6 Treated Wood Fence
+1 Railgun Set
+-> 1 Railgun
+-> 1 Precision Scope
+-> 1 Additional Capacitors
+-> 1 Capacitor Backpack
+-> 100 Steel Rod
+1 Capacitor Backpack
+-> 2 Leather
+-> 1 LV Capacitor
+-> 2 LV Wire Coil
+-> 1 LV Wire Connector
+1 Railgun
+-> 2 Revolver Barrel
+-> 2 Electrum Coil Block
+-> 2 HV Capacitor
+-> 1 Wooden Grip
+1 Wooden Grip
+-> 1 Copper Ingot
+-> 5 Treated Stick
+1 Revolver Barrel
+-> 3 Steel Ingot
+1 Precision Scope
+-> 4 Copper Ingot
+-> 2 Glass Pane
+1 Additional Capacitors
+-> 3 HV Capacitor
+-> 3 HV Wire Coil
+1 LV Capacitor
+-> 3 Iron Ingot
+-> 2 Copper Ingot
+-> 1 Lead Ingot
+-> 2 Treated Wood Planks
+-> 1 Redstone Dust
+4 LV Wire Connector
+-> 3 Copper Ingot
+-> 4 Terracotta
+1 Electrum Coil Block
+-> 8 MV Wire Coil
+-> 1 Iron Ingot
+4 MV Wire Coil
+-> 4 Electrum Wire
+-> 1 Stick
+2 Electrum Wire
+# Metal Press
+-> 1 Electrum Ingot
+
+

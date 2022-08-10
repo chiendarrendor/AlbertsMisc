@@ -1,0 +1,98 @@
+1 Elite Crafting Table
+-> 4 Elite Component
+-> 1 Elite Catalyst
+-> 2 Block Manyullyn
+-> 1 Advanced Crafting Table
+-> 1 Ender Biotite
+1 Elite Catalyst
+-> 4 Elite Component
+-> 1 Black Iron Ingot
+1 Elite Component
+-> 1 Black Iron Slate
+-> 1 Luminessence
+-> 2 Manyullyn Ingot
+1 Block Manyullyn
+-> 9 Manyullyn Ingot
+1 Manyullyn Ingot
+-> 1 Cobalt Ore
+-> 1 Ardite Ore
+2 Luminessence
+-> 1 Redstone
+-> 1 Glowstone Dust
+-> 1 Gunpowder
+-> 1 Stardust
+1 Black Iron Slate
+-> 1 Black Iron Ingot
+1 Black Iron Ingot
+# Arc Furnace
+-> 1 Iron Ingot
+-> 1 Crushed Black Quartz
+1 Crushed Black Quartz
+# Crusher
+-> 1 Black Quartz
+1 Ultimate Crafting Table
+-> 2 Elite Crafting Table
+-> 4 Ultimate Component
+-> 1 Ultimate Catalyst
+-> 1 Block of Emerald
+-> 1 Black Iron Slate
+1 Block of Emerald
+# Metal Press
+-> 9 Emerald
+1 Ultimate Catalyst
+-> 4 Ultimate Component
+-> 1 Black Iron Ingot
+1 Ultimate Component
+-> 1 Black Iron Slate
+-> 1 Luminessence
+-> 2 Emerald
+1 Advanced Crafting Table
+-> 2 Basic Crafting Table
+-> 4 Advanced Component
+-> 1 Advanced Catalyst
+-> 1 Block of Gold
+-> 1 Black Iron Slate
+1 Advanced Catalyst
+-> 4 Advanced Component
+-> 1 Black Iron Ingot
+1 Advanced Component
+-> 2 Golden Rod
+-> 1 Black Iron Slate
+-> 1 Luminessence
+2 Golden Rod
+# Metal Press
+-> 1 Gold Ingot
+1 Block of Gold
+# Metal Press
+-> 9 Gold Ingot
+1 Basic Crafting Table
+-> 4 Basic Component
+-> 1 Basic Catalyst
+-> 1 Black Iron Slate
+-> 2 Crafting Table
+-> 1 Block of Iron
+1 Basic Component
+-> 2 Iron Rod
+-> 1 Black Iron Slate
+-> 1 Stardust
+2 Iron Rod
+# Metal Press
+-> 1 Iron Ingot
+1 Basic Catalyst
+-> 4 Basic Component
+-> 1 Black Iron Ingot
+1 Crafting Table
+-> 4 Planks
+1 Block of Iron
+# Metal Press
+-> 9 Iron Ingot
+1 Crusher
+-> 4 Compressed Iron Plate
+-> 4 Piston
+-> 1 Machine Case (Tesla Core)
+1 Compressed Iron Plate
+-> 1 Compressed Iron Ingot
+1 Compressed Iron Ingot
+# Compression Chamber
+-> 1 Iron Ingot
+

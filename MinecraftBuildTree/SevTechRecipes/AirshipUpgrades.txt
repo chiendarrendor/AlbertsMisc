@@ -1,0 +1,154 @@
+1 Airship Upgrades
+-> 1 Frame Tier 5
+-> 1 Core Tier 5
+-> 1 Engine Tier 5
+-> 1 Balloon Tier 5
+1 Higher Tier Upgrades
+-> 1 Frame Tier 2
+-> 1 Frame Tier 3
+-> 1 Frame Tier 4
+-> 1 Frame Tier 5
+-> 1 Core Tier 2
+-> 1 Core Tier 3
+-> 1 Core Tier 4
+-> 1 Core Tier 5
+-> 1 Engine Tier 2
+-> 1 Engine Tier 3
+-> 1 Engine Tier 4
+-> 1 Engine Tier 5
+-> 1 Balloon Tier 2
+-> 1 Balloon Tier 3
+-> 1 Balloon Tier 4
+-> 1 Balloon Tier 5
+1 Frame Tier 1
+-> 4 Logic Chip
+-> 4 Core Shard
+-> 1 Airship Frame
+1 Frame Tier 2
+-> 4 Logic Chip
+-> 4 Core Shard
+-> 1 Frame Tier 1
+1 Frame Tier 3
+-> 4 Logic Chip
+-> 4 Core Shard
+-> 1 Frame Tier 2
+1 Frame Tier 4
+-> 4 Logic Chip
+-> 4 Core Shard
+-> 1 Frame Tier 3
+1 Frame Tier 5
+-> 4 Logic Chip
+-> 4 Core Shard
+-> 1 Frame Tier 4
+1 Logic Chip
+-> 3 Gold Plate
+-> 2 Green Dye Powder
+-> 1 Redstone Alloy Plate
+2 Redstone Alloy Plate
+-> 1 Constantan
+-> 1 Glowstone
+-> 1 Redstone
+2 Constantan
+-> 1 Copper
+-> 1 Nickel
+1 Core Shard
+-> 2 Logic Chip
+-> 1 Iron Ingot
+-> 1 Gold Ingot
+-> 3 Glass Block
+1 Core Tier 1
+-> 4 Core Shard
+-> 4 Logic Chip
+-> 1 Coal Engine
+1 Coal Engine
+-> 3 Piston
+-> 5 Iron Plate
+-> 1 Nether Furnace
+1 Nether Furnace
+-> 7 Nether Brick
+-> 1 Furnace
+-> 1 Blaze Powder
+1 Core Tier 2
+-> 4 Core Shard
+-> 4 Logic Chip
+-> 1 Core Tier 1
+1 Core Tier 3
+-> 4 Core Shard
+-> 4 Logic Chip
+-> 1 Core Tier 2
+1 Core Tier 4
+-> 4 Core Shard
+-> 4 Logic Chip
+-> 1 Core Tier 3
+1 Core Tier 5
+-> 4 Core Shard
+-> 4 Logic Chip
+-> 1 Core Tier 4
+1 Engine Tier 1
+-> 4 Logic Chip
+-> 4 Engine Fragment
+-> 1 Coal Engine
+1 Engine Fragment
+-> 1 Logic Chip
+-> 2 Iron Ingot
+-> 1 Gold Ingot
+-> 1 Blaze Rod
+1 Engine Tier 2
+-> 4 Logic Chip
+-> 4 Engine Fragment
+-> 1 Engine Tier 1
+1 Engine Tier 3
+-> 4 Logic Chip
+-> 4 Engine Fragment
+-> 1 Engine Tier 2
+1 Engine Tier 4
+-> 4 Logic Chip
+-> 4 Engine Fragment
+-> 1 Engine Tier 3
+1 Engine Tier 5
+-> 4 Logic Chip
+-> 4 Engine Fragment
+-> 1 Engine Tier 4
+1 Balloon Tier 1
+-> 4 Logic Chip
+-> 4 Balloon Remnant
+-> 1 Airship Balloon
+1 Balloon Remnant
+-> 5 Leather
+-> 2 Logic Chip
+-> 1 Gold Ingot
+-> 1 Iron Ingot
+1 Airship Balloon
+-> 4 Hemp Rope
+-> 8 String
+-> 13 Hemp Cloth
+1 Hemp Cloth
+-> 9 Hemp Fiber
+1 Furnace
+-> 8 Cobblestone
+1 Airship Frame
+-> 4 Iron Ingot
+-> 4 Logic Chip
+-> 1 Mine Cart
+1 Mine Cart
+-> 5 Iron Ingot
+1 Balloon Tier 2
+-> 4 Logic Chip
+-> 4 Balloon Remnant
+-> 1 Balloon Tier 1
+1 Balloon Tier 3
+-> 4 Logic Chip
+-> 4 Balloon Remnant
+-> 1 Balloon Tier 2
+1 Balloon Tier 4
+-> 4 Logic Chip
+-> 4 Balloon Remnant
+-> 1 Balloon Tier 3
+1 Balloon Tier 5
+-> 4 Logic Chip
+-> 4 Balloon Remnant
+-> 1 Balloon Tier 4
+1 Blaze Rod
+-> 4 Blaze Powder
+1 Hemp Rope
+-> 6 Hemp Fiber

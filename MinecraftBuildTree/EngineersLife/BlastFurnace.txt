@@ -1,0 +1,31 @@
+1 Blast Furnace
+-> 27 Blast Brick
+3 Blast Brick
+-> 4 Hardened Nether Sludge
+-> 4 Bricks
+-> 1 Heating Element
+1 Heating Element
+# Cauldron
+-> 1 String
+-> 1 Redstone
+-> 1 Blaze Powder
+1 Bricks
+-> 4 Brick
+1 Brick
+# Smelter
+-> 1 Clay Blob
+1 Hardened Nether Sludge
+# Stoked Kiln
+-> 1 Nether Sludge Block
+1 Nether Sludge Block
+-> 4 Nether Sludge Blob
+8 Nether Sludge Blob
+# Cauldron
+-> 1 Potash
+-> 4 Hellfire Dust
+1 Potash
+# Stoked Cauldron
+-> 1 Special Wood (See List)
+1 Hellfire Dust
+# Filtered Hopper
+-> 1 Ground Netherrack

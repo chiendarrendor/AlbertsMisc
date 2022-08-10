@@ -1,0 +1,166 @@
+1 Final EnderIO Six
+-> 1 Industrial Machine Chassis
+-> 1 Soul Machine Chassis
+-> 1 Wired Charger
+-> 2 SAG Mill
+-> 24 Pulsating Iron Grinding Ball
+-> 1 Crafter
+-> 1 Painting Machine
+1 Industrial Machine Chassis
+-> 1 Simple Machine Chassis
+-> 8 Pulsating Iron Ingot
+1 Simple Machine Chassis
+-> 4 Iron Bars
+-> 4 Iron Ingot
+-> 1 Grains of Infinity
+1 Pulsating Iron Ingot
+# Industrial Blast Furnace @1200
+-> 1 Refined Iron Ingot
+-> 1 Ender Pearl
+1 Refined Iron Ingot
+# Alloy Smelter
+-> 1 Iron Ingot
+-> 1 Quartz Powder
+1 Soul Machine Chassis
+# Alloy Smelter
+-> 1 Industrial Machine Chassis
+-> 8 Soul Attuned Dye Blend
+6 Soul Attuned Dye Blend
+-> 4 Quartz Powder
+-> 2 Organic Brown Dye
+-> 1 Organic Black Dye
+-> 2 Soul Powder
+24 Pulsating Iron Grinding Ball
+-> 5 Pulsating Iron Ingot
+1 Organic Black Dye
+# Chemical Reactor
+-> 6 Coal Dust
+-> 1 Slimeball
+1 Organic Brown Dye
+# Chemical Reactor
+-> 12 Twigs and Prunings
+-> 1 Slimeball
+2 Twigs and Prunings
+# SAG Mill
+-> 1 Shrub
+1 Wired Charger
+-> 1 Industrial Machine Chassis
+-> 8 Electrical Steel Ingot
+1 SAG Mill
+-> 3 Flint
+-> 2 Dark Steel Ingot
+-> 1 Industrial Machine Chassis
+-> 2 Dark Bimetal Gear
+-> 1 Piston
+1 Painting Machine
+-> 2 Nether Quartz
+-> 1 Diamond
+-> 2 Infinity Bimetal Gear
+-> 1 Industrial Machine Chassis
+-> 3 Electrical Steel Ingot
+1 Crafter
+-> 3 Silicon
+-> 2 Iron Ingot
+-> 1 Industrial Machine Chassis
+-> 2 Infinity Bimetal Gear
+-> 1 Crafting Table
+1 Soularium Ingot
+# Arc Furnace
+-> 1 Gold Ingot
+-> 1 Soul Sand
+1 Soul Powder
+# IE Crusher
+-> 1 Soularium Ingot
+1 Dark Steel Ingot
+# Arc Furnace
+-> 1 Iron Ingot
+-> 1 Coal Dust
+-> 1 Obsidian
+1 Infinity Bimetal Gear
+-> 4 Iron Ingot
+-> 4 Iron Nugget
+-> 1 Grains of Infinity
+1 Dark Bimetal Gear
+-> 1 Infinity Bimetal Gear
+-> 8 Dark Steel Nugget
+9 Dark Steel Nugget
+-> 1 Dark Steel Ingot
+9 Iron Nugget
+-> 1 Iron Ingot
+1 Vibrant Capacitor Bank
+-> 2 Electrical Steel Ingot
+-> 4 Octadic Capacitor
+-> 1 Vibrant Crystal
+-> 2 MFE
+1 Vibrant Crystal
+-> 8 Vibrant Alloy Nugget
+-> 1 Emerald
+9 Vibrant Alloy Nugget
+-> 1 Vibrant Alloy Ingot
+1 Vibrant Alloy Ingot
+# Industrial Blast Furnace @2500
+-> 1 Energetic Alloy Ingot
+-> 1 Ender Pearl
+2 Energetic Alloy Ingot
+# Industrial Blast Furnace @1000
+-> 1 Gold Ingot
+-> 1 Redstone
+1 MFE
+-> 4 Insulated Gold Cable
+-> 4 Energy Crystal
+-> 1 Basic Machine Frame
+1 Octadic Capacitor
+-> 2 Vibrant Alloy Ingot
+-> 2 Double-Layer Capacitor
+-> 1 Bronze Plate
+1 Double-Layer Capacitor
+-> 2 Energetic Alloy Ingot
+-> 2 Basic Capacitor
+-> 1 Advanced Electronic Circuit
+1 Basic Capacitor
+-> 2 Grains of Infinity
+-> 4 Gold Nugget
+-> 1 Silicon
+1 Insulated Gold Cable
+-> 1 Rubber
+-> 1 Gold Cable
+2 Gold Cable
+# Engineer's Wire Cutters
+-> 1 Gold Ingot
+1 Basic Machine Frame
+-> 8 Refined Iron Ingot
+1 Advanced Electronic Circuit
+# Assembling Machine
+-> 1 Advanced Circuit Board
+-> 2 Advanced Circuit Parts
+1 Advanced Circuit Board
+# Assembling Machine
+-> 1 Electronic Circuit
+-> 2 Electrum Plate
+2 Advanced Circuit Parts
+# Assembling Machine
+-> 1 Lapis Lazuli
+-> 1 Glowstone
+1 Electronic Circuit
+-> 6 Insulated Copper Cable
+-> 2 Redstone
+-> 1 Refined Iron Ingot
+1 Insulated Copper Cable
+-> 1 Rubber
+-> 1 Copper Cable
+2 Copper Cable
+# Engineer's Wire Cutters
+-> 1 Copper Ingot
+1 Energy Crystal
+-> 8 Redstone Plate
+-> 1 Invar Plate
+1 Redstone Plate
+# Compressor
+-> 1 Redstone
+
+
+
+
+
+
+

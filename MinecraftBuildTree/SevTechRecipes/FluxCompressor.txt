@@ -1,0 +1,55 @@
+1 Flux Compressor
+-> 2 Redstone Dust
+-> 1 Redstone Block
+-> 1 Furnace
+-> 1 Compressed Iron Gear
+-> 1 Turbine Rotor
+-> 2 Printed Circuit Board
+-> 1 Advanced Pressure Tube
+1 Compressed Iron Gear
+-> 4 Compressed Iron Ingot
+1 Turbine Rotor
+-> 3 Turbine Blade
+-> 1 Compressed Iron Ingot
+1 Turbine Blade
+# Pressure Chamber at 1 Bar
+-> 2 Redstone Dust
+-> 1 Gold Ingot
+8 Advanced Pressure Tube
+# Assembly Platform
+# Assembly IO Unit (export)
+# Assembly IO Unit (import)
+# Assembly Laser
+# Assembly Program: Laser
+-> 20 Pressure Chamber Valve
+1 Printed Circuit Board
+-> 1 Unassembled PCB
+-> 3 Transistor
+-> 3 Capacitor
+-> 2 Certus Quartz Crystal
+1 Capacitor
+# Pressure Chamber at 1 Bar
+-> 1 Cyan Plastic
+-> 1 Compressed Iron Ingot
+-> 1 Redstone Dust
+1 Transistor
+# Pressure Chamber at 1 Bar
+-> 1 Black Plastic
+-> 1 Compressed Iron Ingot
+-> 1 Redstone Dust
+1 Unassembled PCB
+# Assembly Platform
+# Assembly IO Unit (export)
+# Assembly IO Unit (import)
+# Assembly Laser
+# Assembly Program: Laser
+-> 1 Empty PCB
+1 Empty PCB
+# Pressure Chamber at 1.6 Bar
+-> 1 Green Plastic
+-> 1 Compressed Iron Ingot
+16 Pressure Chamber Valve
+-> 1 Pressure Tube
+-> 8 Compressed Iron Ingot
+
+

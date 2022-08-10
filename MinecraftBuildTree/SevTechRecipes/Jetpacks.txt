@@ -1,0 +1,122 @@
+1 Electrum Jetpack
+-> 4 Electrum Ingot
+-> 1 Electrum Capacitor
+-> 2 Electrum Thruster
+-> 1 Leather Strap
+1 Electrum Capacitor
+-> 2 Compressed Steel (Galacticraft)
+-> 2 Electrum Plate
+-> 2 Compressed Obsidian
+-> 2 Electrum Energy Cell
+-> 1 Compressed Iron Gear
+1 Electrum Plate
+# Metal Press
+-> 1 Electrum Ingot
+1 Compressed Obsidian
+# Enrichment Chamber
+-> 1 Refined Obsidian Dust
+1 Refined Obsidian Dust
+# Metallurgic Infuser
+-> 1 Diamond Dust
+-> 1 Obsidian Dust
+1 Compressed Iron Gear
+# Metal Press
+-> 4 Compressed Iron (PneumaticCraft)
+1 Electrum Energy Cell
+-> 2 Redstone Dust
+-> 2 Electrum Ingot
+-> 1 Basic Coil
+1 Basic Coil
+-> 3 Redstone Alloy Rod
+-> 2 Redstone Wire Coil
+-> 2 MV Wire Coil
+1 Leather Strap
+-> 3 Leather
+-> 2 Iron Nugget
+1 Electrum Thruster
+-> 4 Electrum Ingot
+-> 3 Basic Coil
+-> 1 Electrum Energy Cell
+-> 1 Furnace
+1 Diamond Jetpack
+-> 4 Diamond
+-> 1 Electrum Jetpack
+-> 1 Diamond Capacitor
+-> 2 Diamond Thruster
+1 Diamond Capacitor
+-> 6 Diamond
+-> 3 Diamond Energy Cell
+1 Diamond Energy Cell
+-> 2 Redstone Dust
+-> 2 Diamond
+-> 1 Advanced Coil
+1 Advanced Coil
+-> 2 Redstone Wire Coil
+-> 2 Steel Cable Coil
+-> 3 Galgadorian Rod
+2 Galgadorian Rod
+# Metal Press
+-> 1 Galgadorian Metal
+1 Galgadorian Metal
+-> 1 Lump of Galgador
+2 Lump of Galgador
+# Arc Furnace
+-> 1 Platinum Block
+-> 3 Glowstone Dust
+-> 3 Eye of Galgador
+-> 2 Stabilized Metal
+1 Diamond Thruster
+-> 4 Diamond
+-> 3 Advanced Coil
+-> 1 Diamond Energy Cell
+-> 1 Furnace
+1 Eye of Galgador
+-> 4 Magma Cream
+-> 2 Ghast Tear
+-> 2 Fermented Spider Eye
+-> 1 Eye of Ender
+2 Stabilized Metal
+# Amadron
+-> 5 Kerosene
+1 Fermented Spider Eye
+-> 1 Spider Eye
+-> 1 Mushroom (Brown)
+-> 1 Sugar
+4 Redstone Wire Coil
+-> 2 Aluminum Wire
+-> 2 Redstone Dust
+-> 1 Stick
+4 Steel Cable Coil
+-> 4 Steel Wire
+-> 1 Stick
+1 Platinum Block
+# Metal Press
+-> 9 Platinum Ingot
+1 Eye of Ender
+# Starlight Infusion
+-> 1 Ender Pearl
+1 Ender Pearl
+# Tinker Smelter
+-> 1 End Dust
+1 Magma Cream
+# Starlight Infusion
+-> 1 Slimeball
+1 Emerald Jetpack
+-> 4 Emerald
+-> 1 Diamond Jetpack
+-> 1 Emerald Capacitor
+-> 2 Emerald Thruster
+1 Emerald Capacitor
+-> 6 Emerald
+-> 3 Emerald Energy Cell
+1 Emerald Thruster
+-> 4 Emerald
+-> 1 Emerald Energy Cell
+-> 1 Furnace
+-> 3 Advanced Coil
+1 Emerald Energy Cell
+-> 2 Emerald
+-> 2 Redstone dust
+-> 1 Advanced Coil
+
+

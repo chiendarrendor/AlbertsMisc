@@ -1,0 +1,32 @@
+1 Vat
+-> 2 Electrical Steel Ingot
+-> 1 Cauldron
+-> 2 Fluid Tank
+-> 1 Industrial Machine Chassis
+-> 2 Dark Steel Ingot
+-> 1 Furnace
+1 Furnace
+-> 8 Cobblestone
+1 Dark Steel Ingot
+-> 1 Iron Ingot
+-> 1 Coal Powder
+-> 1 Obsidian
+1 Fluid Tank
+-> 4 Iron Ingot
+-> 4 Iron Bars
+-> 1 Glass
+16 Iron Bars
+-> 6 Iron Ingot
+1 Industrial Machine Chassis
+# Alloy Smelter
+-> 1 Simple Machine Chassis
+-> 1 Industrial Dye Blend
+1 Cauldron
+-> 7 Iron Ingot
+1 Coal Powder
+# Crusher
+-> 1 Coal
+1 Electrical Steel Ingot
+-> 1 Iron Ingot
+-> 1 Coal Powder
+-> 1 Silicon

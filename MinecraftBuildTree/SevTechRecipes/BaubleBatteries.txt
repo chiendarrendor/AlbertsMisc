@@ -1,0 +1,27 @@
+1 Quintuple Battery
+-> 1 Quadruple Battery
+-> 5 Silver Plate
+-> 1 Advanced Coil
+1 Advanced Coil
+-> 2 Black Quartz
+-> 1 Compressed Iron Rod
+-> 4 MV Wire Coil
+4 MV Wire Coil
+-> 4 Electrum Wire
+-> 1 Stick
+1 Quadruple Battery
+-> 1 Triple Battery
+-> 1 Advanced Coil
+-> 5 Invar Plate
+1 Triple Battery
+-> 1 Double Battery
+-> 1 Advanced Coil
+-> 5 Invar Plate
+1 Double Battery
+-> 1 Single Battery
+-> 5 Nickel Plate
+-> 1 Advanced Coil
+1 Single Battery
+-> 5 Nickel Plate
+-> 1 Advanced Coil
+-> 1 Redstone Wire Coil

@@ -1,0 +1,146 @@
+1 Pneumatic Assembly
+-> 1 Amadron
+-> 1 Squeezer
+-> 1 UV Light Box
+-> 1 Etching Acid
+-> 1 Assembly Program: Drill & Laser
+-> 1 Assembly Controller
+-> 2 Assembly IO Unit
+-> 1 Assembly Laser
+-> 1 Assembly Drill
+-> 1 Assembly Platform
+1 Assembly Program: Drill & Laser
+-> 1 Assembly Program: Drill
+-> 1 Assembly Program: Laser
+1 Assembly Program: Drill
+-> 0 Amadron
+# Amadron
+-> 8 Stabilized Metal
+1 Assembly Program: Laser
+-> 0 Amadron
+# Amadron
+-> 8 Stabilized Metal
+1 Assembly Controller
+-> 3 Compressed Iron Ingot
+-> 1 Pressure Tube
+-> 3 Printed Circuit Board
+1 Assembly IO Unit
+-> 1 Hopper
+-> 3 Pneumatic Cylinder
+-> 2 Compressed Iron Ingot
+-> 1 Printed Circuit Board
+1 Assembly Laser
+-> 2 Compressed Iron Ingot
+-> 3 Pneumatic Cylinder
+-> 1 Printed Circuit Board
+-> 1 Rose Red
+1 Squeezer
+-> 1 Iron Block
+-> 1 Iron Ingot
+-> 4 Stick
+-> 2 Plank
+4 Rose Red
+-> 0 Squeezer
+# Squeezer
+-> 1 <Red Flower>
+1 Assembly Drill
+-> 2 Compressed Iron Ingot
+-> 1 Printed Circuit Board
+-> 3 Pneumatic Cylinder
+-> 1 Drill Core
+1 Drill Core
+-> 1 Steel Drill Head
+-> 4 Copper Wire
+-> 1 LV Capacitor
+-> 1 Steel Scaffolding
+1 Steel Drill Head
+-> 5 Steel Ingot
+-> 2 Steel Block
+1 Steel Block
+-> 9 Steel Ingot
+1 Pneumatic Cylinder
+-> 6 Blue Plastic
+-> 2 Compressed Iron Ingot
+-> 1 Cannon Barrel
+1 Cannon Barrel
+-> 6 Compressed Iron Ingot
+-> 1 Pressure Tube
+2 Stabilized Metal
+-> 0 Amadron
+# Amadron
+-> 5 Kerosene
+1 Amadron
+-> 7 Gray Plastic
+-> 1 GPS Tool
+-> 1 Air Canister
+1 GPS Tool
+-> 1 Redstone Torch
+-> 4 Red Plastic
+-> 1 Pane Glass
+-> 1 Platinum Plate
+1 Air Canister
+-> 1 Pressure Tube
+-> 2 Redstone Dust
+-> 4 Compressed Iron Ingot
+1 Iron Block
+-> 9 Iron Ingot
+1 LV Capacitor
+-> 3 Iron Ingot
+-> 2 Copper Ingot
+-> 1 Lead Ingot
+-> 1 Redstone Dust
+-> 2 Treated Planks
+1 Printed Circuit Board
+-> 3 Transistor
+-> 3 Capacitor
+-> 2 Certus Quartz Crystal
+-> 1 Unassembled PCB
+1 Unassembled PCB
+# Assembler
+-> 1 Empty PCB: unexposed
+1 Empty PCB: unexposed
+# Pressure Chamber at 1.6 Bar
+-> 1 Green Plastic
+-> 1 Compressed Iron Ingot
+1 Transistor
+# Pressure Chamber at 1 bar
+-> 1 Black Plastic
+-> 1 Compressed Iron Ingot
+-> 1 Redstone Dust
+1 Capacitor
+# Pressure Chamber at 1 bar
+-> 1 Cyan Plastic
+-> 1 Compressed Iron Ingot
+-> 1 Redstone Dust
+1 Etching Acid
+# Pressure Chamber at 1 barS
+-> 1 Bucket Water
+-> 2 Spider Eye
+-> 2 Green Plastic
+-> 2 Rotten Flesh
+-> 2 Gunpowder
+1 UV Light Box
+-> 1 Pressure Tube
+-> 4 Compressed Iron Ingot
+-> 3 Redstone Lamp
+-> 1 PCB Blueprint
+1 PCB Blueprint
+-> 6 Plastic
+-> 2 Circuit Board (Immersive)
+-> 1 Blueprint (blank)
+1 Blueprint (blank)
+-> 8 Paper
+-> 1 Lapis Lazuli
+1 Redstone Lamp
+-> 4 Redstone Dust
+-> 1 Glowstone Block
+1 Assembly Platform
+-> 2 Pneumatic Cylinder
+-> 3 Orange Plastic
+-> 2 Compressed Iron Ingot
+-> 1 Printed Circuit Board
+
+
+
+
+

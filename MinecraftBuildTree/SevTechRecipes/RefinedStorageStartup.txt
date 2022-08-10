@@ -1,0 +1,201 @@
+1 Refined Storage
+-> 1 Controller
+-> 1 Grid
+-> 1 Crafting Grid
+-> 1 External Storage
+1 Controller
+-> 4 Quartz Enriched Iron
+-> 3 Raw Silicon
+-> 1 Shulker Pearl
+-> 1 Machine Casing
+1 Machine Casing
+-> 8 Quartz Enriched Iron
+-> 1 Stone
+4 Quartz Enriched Iron
+# Arc Furnace
+-> 3 Iron Ingot
+-> 1 Certus Quartz Crystal
+1 Grid
+-> 3 Quartz Glass
+-> 1 Formation Core
+-> 1 Annihilation Core
+-> 1 Machine Casing
+-> 1 Logic Processor
+-> 2 Luminessence
+4 Quartz Glass
+# Arc Furnace
+-> 4 Glass Block
+-> 5 Quartz Dust
+2 Luminessence
+-> 1 Redstone Dust
+-> 1 Glowstone Dust
+-> 1 Gunpowder
+-> 1 Stardust
+2 Formation Core
+-> 1 Certus Quartz Crystal
+-> 1 Fluix Dust
+-> 1 Logic Processor
+1 Fluix Dust
+# Grinder
+-> 1 Fluix Crystal
+2 Fluix Crystal
+# Puddle
+-> 1 Charged Certus Quartz
+-> 1 Nether Quartz
+-> 1 Redstone Dust
+1 Logic Processor
+# Inscriber
+-> 1 Printed Logic Circuit
+-> 1 Redstone Dust
+-> 1 Printed Silicon
+1 Printed Logic Circuit
+# Inscriber Logic Press
+-> 1 Gold Ingot
+1 Printed Silicon
+# Inscriber Silicon Press
+-> 1 Raw Silicon
+2 Annihilation Core
+-> 1 Nether Quartz
+-> 1 Fluix Dust
+-> 1 Logic Processor
+1 Crafting Grid
+-> 1 Grid
+-> 1 Engineering Processor
+-> 1 Advanced Crafting Table
+1 Advanced Crafting Table
+-> 1 Gold Block
+-> 1 Black Iron Slate
+-> 4 Advanced Component
+-> 1 Advanced Catalyst
+-> 2 Basic Crafting Table
+1 Basic Crafting Table
+-> 4 Basic Component
+-> 1 Basic Catalyst
+-> 1 Black Iron Slate
+-> 2 Crafting Table
+-> 1 Iron Block
+1 Basic Component
+-> 2 Iron Rod
+-> 1 Black Iron Slate
+-> 1 Stardust
+2 Iron Rod
+-> 1 Iron Ingot
+1 Basic Catalyst
+-> 4 Basic Component
+-> 1 Black Iron Ingot
+1 Black Iron Slate
+-> 1 Black Iron Ingot
+1 Black Iron Ingot
+-> 1 Crushed Black Quartz
+-> 1 Iron Ingot
+1 Crafting Table
+-> 4 Planks
+1 Quartz Dust
+# Grinder
+-> 1 Nether Quartz
+1 Engineering Processor
+# Inscriber
+-> 1 Printed Engineering Circuit
+-> 1 Redstone Dust
+-> 1 Printed Silicon
+1 Iron Block
+-> 9 Iron Ingot
+1 Printed Engineering Circuit
+# Inscriber Engineering Press
+-> 0 Inscriber Engineering Press
+-> 1 Heavy-Duty Plate
+2 Heavy-Duty Plate
+-> 0 Compressor
+# Compressor
+-> 2 Compressed Steel
+-> 2 Compressed Aluminum
+-> 2 Compressed Bronze
+1 Compressed Bronze
+# Galacticraft Compressor
+-> 2 Bronze Ingot
+1 Advanced Component
+-> 2 Golden Rod
+-> 1 Black Iron Slate
+-> 1 Luminessence
+1 Advanced Catalyst
+-> 4 Advanced Component
+-> 1 Black Iron Ingot
+2 Golden Rod
+-> 1 Gold Ingot
+1 Crushed Black Quartz
+-> 1 Black Quartz
+1 External Storage
+-> 1 Formation Core
+-> 1 Annihilation Core
+-> 3 Quartz Enriched Iron
+-> 2 Chest
+-> 1 Logic Processor
+-> 1 Cable
+12 Cable
+-> 6 Quartz Enriched Iron
+-> 2 Chest
+-> 1 Redstone Dust
+1 Compressor
+-> 4 Aluminum Plate
+-> 1 Piston
+-> 1 Nether Furnace
+-> 2 Advanced Ender Alloy
+-> 1 Soulforged Steel Anvil
+1 Nether Furnace
+-> 7 Nether Brick
+-> 1 Furnace
+-> 1 Blaze Powder
+2 Advanced Ender Alloy
+# Arc Furnace
+-> 1 Eye Of Ender
+-> 4 Purpur Block
+-> 1 Shulker Shell
+-> 2 End Rod
+1 Soulforged Steel Anvil
+-> 7 Soulforged Steel Ingot
+1 Soulforged Steel Ingot
+# Stoked Crucible
+-> 1 Iron Ingot
+-> 1 Coal Dust
+-> 1 Soul Urn
+1 Refined Second
+-> 1 External Storage
+-> 1 Grid
+1 ME Terminal
+-> 1 Illuminated Terminal
+-> 1 Annihilation Core
+-> 1 Formation Core
+-> 1 Logic Processor
+1 Oxygen Collector
+-> 3 Compressed Steel
+-> 1 Oxygen Fan
+-> 1 Tin Canister
+-> 1 Oxygen Vent
+-> 2 Compressed Aluminum
+-> 1 Oxygen Concentrator
+1 Compressed Steel
+# Galacticraft Compressor
+-> 2 Steel Ingot
+1 Compressed Aluminum
+# Galacticraft Compressor
+-> 2 Aluminum Ingot
+2 Tin Canister
+-> 5 Tin Ingot
+1 Oxygen Fan
+-> 4 Compressed Steel
+-> 1 Invar Gear
+1 Invar Gear
+-> 4 Invar Ingot
+1 Oxygen Vent
+-> 3 Compressed Tin
+-> 1 Compressed Steel
+1 Compressed Tin
+# Galacticraft Compressor
+-> 2 Tin Ingot
+1 Oxygen Concentrator
+-> 4 Compressed Steel
+-> 3 Compressed Tin
+-> 1 Tin Canister
+-> 1 Oxygen Vent
+
+

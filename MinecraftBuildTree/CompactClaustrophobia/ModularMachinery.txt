@@ -1,0 +1,136 @@
+1 Pressure Poop Injector
+-> 1 Machine Controller
+-> 6 Reinforced Machine Casing
+-> 1 Tiny Item Output
+-> 7 Hardened Glass
+-> 1 Steel Sheetmetal
+-> 1 Tiny Energy Input Hatch
+-> 1 Upper
+-> 1 Tiny Item Input
+-> 6 Fluid Pipe
+-> 8 Iron Sheetmetal Slab
+-> 1 Metal Barrel
+-> 9 Iron Sheetmetal
+-> 1 Hopper
+-> 1 Tiny Fluid Input Hatch
+-> 1 Glitched Tiny Machine
+1 Machine Controller
+-> 2 Redstone
+-> 1 Redstone Reception Coil
+-> 2 Copper Solenoid
+-> 1 Machine Casing
+4 Reinforced Machine Casing
+-> 4 Machine Casing
+-> 4 Obsidian
+1 Tiny Item Input
+-> 1 Hopper
+-> 1 Machine Casing
+-> 1 Chest
+1 Tiny Item Output
+-> 1 Hopper
+-> 1 Machine Casing
+-> 1 Chest
+1 Tiny Fluid Input Hatch
+-> 1 Hopper
+-> 1 Machine Casing
+-> 1 Bucket
+1 Tiny Energy Input Hatch
+-> 3 Redstone
+-> 1 Redstone Block
+-> 1 Machine Casing
+-> 2 Redstone Repeater
+1 Redstone Reception Coil
+-> 2 Redstone
+-> 1 Gold Ingot
+2 Copper Solenoid
+-> 4 Copper Ingot
+-> 2 Iron Ingot
+2 Machine Casing
+-> 4 Modularium
+-> 1 Redstone Block
+1 Redstone Block
+-> 9 Redstone
+1 Modularium
+# Smelter
+-> 1 Modularium Blend
+1 Modularium Blend
+-> 4 Uranium Dust
+-> 4 Iron Dust
+-> 1 Redstone
+1 Hopper
+-> 1 Chest
+-> 5 Iron Ingot
+1 Upper
+-> 1 Hopper
+1 Redstone Repeater
+-> 2 Redstone Torch
+-> 1 Redstone
+-> 3 Stone
+1 Redstone Torch
+-> 1 Redstone
+-> 1 Stick
+8 Fluid Pipe
+-> 6 Iron Plate
+1 Iron Plate
+# Metal Press
+-> 1 Iron Ingot
+4 Iron Sheetmetal
+-> 4 Iron Plate
+6 Iron Sheetmetal Slab
+-> 3 Iron Sheetmetal
+1 Bucket
+-> 3 Iron Ingot
+1 Metal Barrel
+-> 5 Iron Sheetmetal
+-> 3 Iron Sheetmetal Slab
+1 Chest
+-> 8 Wood Plank
+1 Hardened Glass
+-> 1 Lead Dust
+-> 2 Crushed Obsidian
+-> 1 Pyrotheum Dust
+4 Crushed Obsidian
+# Crusher
+-> 1 Obsidian
+1 Obsidian
+-> 1 Water Bucket
+-> 1 Lava Bucket
+1 Lava Bucket
+# Squeezer
+-> 4 Blaze Powder
+4 Steel Sheetmetal
+-> 4 Steel Plate
+1 Steel Plate
+# Metal Press
+-> 1 Steel Ingot
+2 Pyrotheum Dust
+-> 2 Blaze Powder
+-> 1 Redstone
+-> 1 Sulfur
+1 Glitched Tiny Machine
+-> 1 Tiny Compact Machine
+-> 1 Sewage
+1 Sewage
+-> 1 Water Bucket
+-> 1 Poop
+1 Tiny Compact Machine
+-> 4 Wood Plank
+-> 1 Machine Casing
+-> 4 Compact Machine Wall
+1 Compact Machine Wall
+# Small Compactor
+-> 4 Modularium
+1 High Impact Compactor (13x13x13)
+-> 1 Machine Controller
+-> 56 Superconducting Electromagnet
+-> 20 Compact Machine Wall
+-> 108 Transparent Fission Reactor Casing
+-> 13 Cryo-Stabilized Fluxduct
+-> 8 Super-Laminar Fluxduct
+-> 8 Tritium Lammp
+-> 1 Ultimate Energy Input Hatch
+-> 2 Vacuum Fluid Input Hatch
+-> 8 Impulse Fluxduct
+-> 1 Tiny Item Output
+-> 1 Maximum Compact Machine
+-> 1 Tiny Item Input

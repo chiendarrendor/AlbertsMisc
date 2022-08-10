@@ -1,0 +1,87 @@
+1 Enhanced Alloy Smelter
+-> 2 End Steel Ingot
+-> 1 Alloy Smelter (have)
+-> 1 Enhanced Machine Chassis
+-> 2 Vibrant Bimetal Gear
+1 Alloy Smelter
+-> 2 Dark Steel Ingot
+-> 1 Simple Alloy Smelter (have)
+-> 1 Industrial Machine Chassis
+-> 1 Simple Powered Furnace
+-> 2 Dark Bimetal Gear
+1 Simple Alloy Smelter
+-> 3 Iron Ingot
+-> 2 Furnace
+-> 1 Simple Machine Chassis
+-> 2 Stone Compound Gear
+-> 1 Bucket
+1 Bucket
+-> 3 Iron Ingot
+1 Furnace
+-> 8 Cobblestone
+1 Stone Compound Gear
+-> 4 Stick
+-> 4 Cobblestone
+1 Simple Machine Chassis
+-> 4 Iron Ingot
+-> 4 Iron Bars
+-> 1 Grains of Infinity
+16 Iron Bars
+-> 6 Iron Ingot
+1 Simple Powered Furnace
+-> 2 Iron Ingot
+-> 1 Furnace
+-> 1 Simple Machine Chassis
+-> 1 Stone Bricks
+-> 2 Stone Compound Gear
+-> 1 Bucket
+4 Stone Bricks
+-> 4 Stone
+1 Industrial Machine Chassis
+# Alloy Smelter
+-> 1 Simple Machine Chassis
+-> 1 Industrial Dye Blend
+1 Dark Steel Ingot
+# Alloy Smelter
+-> 1 Iron Ingot
+-> 1 Crushed Coal
+-> 1 Obsidian
+1 Dark Bimetal Gear
+-> 8 Dark Steel Nugget
+-> 1 Infinity Bimetal Gear
+9 Dark Steel Nugget
+-> 1 Dark Steel Ingot
+1 Infinity Bimetal Gear
+-> 4 Iron Ingot
+-> 4 Iron Nugget
+-> 1 Grains of Infinity
+9 Iron Nugget
+-> 1 Iron Ingot
+1 Vibrant Bimetal Gear
+-> 8 Vibrant Alloy Nugget
+-> 1 Infinity Bimetal Gear
+9 Vibrant Alloy Nugget
+-> 1 Vibrant Alloy Ingot
+1 Vibrant Alloy Ingot
+# Alloy Smelter
+-> 1 Energetic Alloy Ingot
+-> 1 Ender Pearl
+1 Energetic Alloy Ingot
+# Alloy Smelter
+-> 1 Redstone
+-> 1 Glowstone
+-> 1 Gold Ingot
+1 Enhanced Machine Chassis
+# Alloy Smelter
+-> 1 End Steel Chassis
+-> 1 Enhanced Dye Blend
+1 End Steel Chassis
+-> 4 End Steel Ingot
+-> 4 End Steel Bars
+-> 1 Grains of Infinity
+16 End Steel Bars
+-> 6 End Steel Ingot
+1 End Steel Ingot
+-> 1 End Stone
+-> 1 Dark Steel Ingot
+-> 1 Obsidian

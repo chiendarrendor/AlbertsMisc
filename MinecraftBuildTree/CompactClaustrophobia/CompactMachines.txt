@@ -1,0 +1,95 @@
+1 Iron Block
+-> 9 Iron Ingot
+1 Gold Block
+-> 9 Gold Ingot
+16 Compact Machine Wall
+# Miniaturizer
+-> 1 Iron Block
+-> 2 Redstone
+1 Tiny Compact Machine
+# Miniaturizer
+-> 26 Compact Machine Wall
+-> 1 Ender Pearl
+1 Small Compact Machine
+# Miniaturizer
+-> 26 Compact Machine Wall
+-> 1 Iron Block
+-> 1 Ender Pearl
+1 Normal Compact Machine
+-> 26 Compact Machine Wall
+-> 1 Gold Block
+-> 1 Ender Pearl
+1 Tiny Compact Machine - Old
+-> 4 Wood Planks
+-> 4 Compact Machine Wall
+-> 1 Machine Casing
+1 Compact Machine Wall - Old
+# Compactor
+-> 4 Modularium
+1 Modularium
+# Smelter
+-> 1 Modularium Blend
+1 Modularium Blend
+-> 4 Iron Grit
+-> 4 Uranium Grit
+-> 1 Redstone
+2 Machine Casing
+-> 4 Modularium
+-> 1 Redstone Block
+1 Redstone Block
+-> 9 Redstone
+1 Small Compact Machine - Old
+-> 4 Compact Machine Wall
+-> 1 Machine Casing
+-> 4 Tiny Machine Piece
+1 Tiny Machine Piece
+# Metal Press -- Plate
+-> 1 Tiny Compact Machine
+1 Normal Compact Machine - Old
+-> 4 Compact Machine Wall
+-> 4 Small Machine Piece
+-> 1 Machine Casing
+1 Small Machine Piece
+# IE Crusher
+-> 1 Small Compact Machine
+1 Large Compact Machine
+-> 4 Compact Machine Wall
+-> 4 Normal Machine Piece
+-> 1 Machine Casing
+1 Normal Machine Piece
+# Ingot Former
+-> 1000 Compact Fluid
+1000 Compact Fluid
+# NC Melter
+-> 1 Normal Compact Machine
+1 Giant Compact Machine
+# Compression Field
+-> 20 Compact Machine Wall
+-> 6 Glitched Large Machine
+-> 1 Machine Casing
+-> 1 Ender Pearl
+1 Ender Pearl -- not needed
+# Compression Field
+-> 26 Obsidian
+-> 1 Redstone Block
+-> 1 Redstone
+1 Glitched Large Machine
+# Pressure Poop Injector
+-> 1 Large Compact Machine
+-> 32000 Sewage
+1000 Sewage
+-> 1 Water Bucket
+-> 1 Poop
+1 ExpansionSet
+-> 2 Small Compact Machine
+-> 2 Large Compact Machine
+-> 2 Normal Compact Machine
+1 Maximum Compact Machine
+-> 20 Compact Machine Wall
+-> 6 Glitched Giant Machine
+-> 1 Machine Casing
+1 Glitched Giant Machine
+# Pressure Poop Injector
+-> 64000 Sewage
+-> 1 Giant Compact Machine
+

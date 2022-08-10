@@ -1,0 +1,227 @@
+1 Industrial Grinder Multiblock
+-> 9 Standard Machine Casing
+-> 8 Reinforced Machine Casing
+-> 1 Bucket of Water
+-> 9 Standard Machine Casing
+-> 1 Industrial Grinder
+4 Standard Machine Casing
+-> 6 Iron Plate
+-> 1 Basic Machine Frame
+-> 2 Electronic Circuit
+1 Basic Machine Frame
+-> 8 Refined Iron Ingot
+1 Refined Iron Ingot
+# TR Alloy Smelter
+-> 1 Iron Ingot
+-> 1 Quartz Dust
+1 Quartz Dust
+# IE Crusher
+-> 1 Nether Quartz
+1 Reinforced Machine Casing
+-> 6 Steel Plate
+-> 2 Advanced Electronic Circuit
+-> 1 Standard Machine Casing
+1 Advanced Electronic Circuit
+# Assembling Machine
+-> 1 Advanced Circuit Board
+-> 2 Advanced Circuit Parts
+1 Advanced Circuit Board
+# Assembling Machine
+-> 1 Electronic Circuit
+-> 2 Electrum Plate
+1 Electronic Circuit-complex
+# Assembling Machine
+-> 3 Insulated Copper Cable
+-> 1 Basic Circuit Board
+1 Electronic Circuit
+-> 6 Insulated Copper Cable
+-> 2 Redstone
+-> 1 Refined Iron Ingot
+2 Basic Circuit Board
+# Assembling Machine
+-> 1 Refined Iron Plate
+-> 2 Electrum Plate
+1 Insulated Copper Cable
+-> 1 Rubber
+-> 1 Copper Cable
+2 Copper Cable
+-> 0 Engineer's Wire Cutters
+-> 1 Copper Ingot
+14 Rubber
+# Centrifuge
+-> 4 Sap
+1 Energy Flow Circuit
+# Assembling Machine
+-> 1 Processor Circuit Board
+-> 1 Lapotron Crystal
+1 Lapotron Crystal
+-> 6 Lapis Lazuli
+-> 2 Electronic Circuit
+-> 1 Sapphire
+1 Processor Circuit Board
+# Assembling Machine
+-> 1 Platinum Plate
+-> 1 Advanced Electronic Circuit
+2 Advanced Circuit Parts
+# Assembling Machine
+-> 1 Lapis Lazuli
+-> 1 Glowstone
+1 Triple Machine
+-> 1 Implosion Compressor
+-> 1 Industrial Blast Furnace
+-> 1 Industrial Centrifuge
+1 Implosion Compressor
+-> 4 Advanced Alloy Ingot
+-> 2 Advanced Electronic Circuit
+-> 2 Advanced Machine Frame
+-> 1 Compressor
+1 Industrial Blast Furnace
+-> 2 Advanced Electronic Circuit
+-> 4 Cupronickel Heating Coil
+-> 2 Electronic Furnace
+-> 1 Advanced Machine Frame
+1 Industrial Centrifuge
+-> 4 Aluminum Plate
+-> 2 Advanced Electronic Circuit
+-> 2 Advanced Machine Frame
+-> 1 Extractor
+1 Advanced Machine Frame
+# Rolling Machine
+-> 2 Carbon Plate
+-> 2 Refined Iron Plate
+-> 1 Basic Machine Frame
+1 Carbon Plate
+# Compressor
+-> 1 Carbon Mesh
+1 Carbon Mesh
+-> 2 Carbon Fiber
+1 Carbon Fiber
+-> 4 Coal Dust
+1 Advanced Alloy Ingot
+# Smelter
+-> 1 Mixed Metal Ingot
+1 Refined Iron Plate
+# Metal Press
+-> 1 Refined Iron Ingot
+1 Compressor
+-> 6 Stone
+-> 1 Basic Machine Frame
+-> 1 Electronic Circuit
+3 Cupronickel Heating Coil
+# Rolling Machine
+-> 4 Nickel Ingot
+-> 4 Copper Ingot
+1 Electronic Furnace
+-> 2 Redstone Plate
+-> 1 Basic Machine Frame
+-> 1 Electronic Circuit
+1 Extractor
+-> 1 Basic Machine Frame
+-> 1 IE Circuit Board
+-> 4 Treetap
+1 Final Double
+-> 1 Matter Fabricator
+-> 1 Fluid Replicator
+1 Fluid Replicator
+-> 2 Tungstensteel Plate
+-> 3 Energy Flow Circuit
+-> 1 Highly Advanced Machine Frame
+-> 2 Industrial Electrolyzer
+-> 1 Superconductor
+1 Matter Fabricator
+-> 4 Energy Flow Circuit
+-> 2 Highly Advanced Machine Frame
+-> 2 Extractor
+-> 1 Lapotronic Energy Orb
+1 Highly Advanced Machine Frame
+-> 1 Advanced Machine Frame
+-> 4 Titanium Plate
+-> 4 Chrome Plate
+1 Industrial Electrolyzer
+-> 4 Iron Plate
+-> 2 Advanced Electronic Circuit
+-> 1 Advanced Machine Frame
+-> 2 Extractor
+1 Platinum Plate
+# Metal Press
+-> 1 Platinum Ingot
+1 Titanium Plate
+# Metal Press
+-> 1 Titanium Ingot
+1 Titanium Ingot
+# Industrial Blast Furance at 1500
+-> 4 Small Pile of Titanium Dust
+2 Small Pile of Titanium Dust
+# Industrial Electrolyzer
+-> 12 Bauxite Dust
+1 Chrome Plate
+# Metal Press
+-> 1 Chrome Ingot
+1 Chrome Ingot
+# Industrial Blast Furnace at 1700
+-> 1 Chrome Dust
+1 Chrome Dust
+# Industrial Electrolyzer
+-> 9 Ruby Dust
+1 Ruby Dust
+# IE Crusher
+-> 1 Ruby
+1 Iron Plate
+# Metal Press
+-> 1 Iron Ingot
+1 Lapotronic Energy Orb
+-> 8 Lapotron Crystal
+-> 1 Iridium Alloy Plate
+1 Iridium Alloy Plate
+# Metal Press
+-> 1 Iridium Alloy Ingot
+1 Iridium Alloy Ingot
+-> 4 Iridium Ingot
+-> 4 Advanced Alloy Plate
+-> 1 Diamond Dust
+1 Advanced Alloy Plate
+# Metal Press
+-> 1 Advanced Alloy Ingot
+1 Tungstensteel Plate
+# Metal Press
+-> 1 Tungstensteel Ingot
+1 Tungstensteel Ingot
+# Vacuum Freezer
+-> 1 Hot Tungstensteel Ingot
+1 Hot Tungstensteel Ingot
+# Industrial Blast Furnace at 3000
+-> 1 Tungsten Ingot
+-> 1 Steel Ingot
+1 Tungsten Ingot
+# Industrial Blast Furance at 2500
+-> 1 Tungsten Dust
+2 Tungsten Dust
+# TR Grinder
+-> 1 Tungsten Ore
+4 Superconductor
+-> 3 60k Helium Coolant Cell
+-> 2 Tungsten Ingot
+-> 1 Iridium Alloy Plate
+-> 3 Energy Flow Circuit
+1 60k Helium Coolant Cell
+-> 1 Helium Cell
+-> 4 Tin Ingot
+1 Helium Cell
+# Industrial Centrifuge
+-> 16 Glowstone
+1 Chemical Reactor
+-> 4 Invar Plate
+-> 2 Advanced Electronic Circuit
+-> 2 Extractor
+-> 1 Compressor
+
+
+
+
+
+
+
+
+
+
+

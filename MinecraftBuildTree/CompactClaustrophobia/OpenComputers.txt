@@ -1,0 +1,174 @@
+1 Simple Robot
+-> 1 Computer Case Tier 1
+-> 1 CPU Tier 1
+-> 2 Memory Tier 1
+-> 1 Graphics Card Tier 1
+-> 1 Hard Disk Drive Tier 1
+-> 1 Screen Tier 1
+-> 1 EEPROM Lua BIOS
+-> 1 Keyboard
+1 Sub Robot
+-> 1 CPU Tier 1
+-> 2 Memory Tier 1
+-> 1 Hard Disk Drive Tier 1
+-> 1 EEPROM Lua BIOS
+-> 1 Keyboard
+1 Computer Case Tier 1
+-> 4 Iron Ingot
+-> 2 Iron Bars
+-> 1 Chest
+-> 1 Microchip Tier 1
+-> 1 PCB
+1 CPU Tier 1
+-> 4 Iron Nugget
+-> 1 Redstone
+-> 1 CU
+-> 1 ALU
+-> 2 Microchip Tier 1
+1 Memory Tier 1
+-> 2 Microchip Tier 1
+-> 1 Iron Nugget
+-> 1 PCB
+1 Graphics Card Tier 1
+-> 1 Microchip Tier 1
+-> 1 ALU
+-> 1 Memory Tier 1
+-> 1 Card Base
+1 Hard Disk Drive Tier 1
+-> 2 Iron Ingot
+-> 1 Piston
+-> 3 Disk Platter
+-> 2 Microchip Tier 1
+-> 1 PCB
+1 Screen Tier 1
+-> 4 Iron Ingot
+-> 3 Redstone
+-> 1 Glass
+-> 1 Microchip Tier 1
+1 EEPROM Lua BIOS
+-> 1 EEPROM
+-> 1 OpenComputers Manual
+1 EEPROM
+-> 4 Gold Nugget
+-> 2 Paper
+-> 1 Redstone Torch
+-> 1 Microchip Tier 1
+-> 1 Transistor
+1 Keyboard
+-> 4 Button Group
+-> 1 Arrow Keys
+-> 1 Numeric Keypad
+1 Inventory Upgrade
+-> 4 Wood Plank
+-> 1 Piston
+-> 1 Chest
+-> 1 Dropper
+-> 1 Hopper
+-> 1 Microchip Tier 1
+1 Disk Drive
+-> 4 Iron Ingot
+-> 1 Stick
+-> 1 Piston
+-> 1 Microchip Tier 1
+-> 1 PCB
+16 Iron Bars
+-> 6 Iron Ingot
+1 Chest
+-> 8 Wood Plank
+8 Microchip Tier 1
+-> 6 Iron Nugget
+-> 2 Redstone
+-> 1 Transistor
+9 Iron Nugget
+-> 1 Iron Ingot
+8 Transistor
+-> 3 Iron Ingot
+-> 2 Gold Nugget
+-> 1 Paper
+-> 1 Redstone
+9 Gold Nugget
+-> 1 Gold Ingot
+1 PCB
+# Smelter
+-> 1 Raw Circuit Board
+8 Raw Circuit Board
+-> 1 Gold Ingot
+-> 1 Clay Block
+-> 1 Cactus Green
+1 CU
+-> 4 Gold Nugget
+-> 3 Transistor
+-> 1 Redstone
+-> 1 Clock
+1 Clock
+-> 4 Gold Ingot
+-> 1 Redstone
+1 ALU
+-> 4 Iron Nugget
+-> 1 Redstone
+-> 3 Transistor
+-> 1 Microchip Tier 1
+1 Card Base
+-> 3 Iron Nugget
+-> 1 Gold Nugget
+-> 1 PCB
+1 Piston
+-> 3 Wood Plank
+-> 4 Cobblestone
+-> 1 Iron Ingot
+-> 1 Redstone
+1 Disk Platter
+-> 4 Iron Nugget
+1 Redstone Torch
+-> 1 Redstone
+-> 1 Stick
+1 OpenComputers Manual
+-> 1 Book
+-> 1 Microchip Tier 1
+1 Button Group
+-> 6 Button
+1 Numeric Keypad
+-> 9 Button
+1 Arrow Keys
+-> 4 Button
+1 Button
+-> 1 Stone
+1 Dropper
+-> 7 Cobblestone
+-> 1 Redstone
+1 Hopper
+-> 5 Iron Ingot
+-> 1 Chest
+1 Book
+-> 3 Paper
+-> 1 Leather
+1 Stone
+# Smelter
+-> 1 Cobblestone
+1 Robot Equipment
+-> 1 Electronics Assembler
+-> 1 Charger
+1 Electronics Assembler
+-> 2 Piston
+-> 4 Iron Ingot
+-> 1 Crafting Table
+-> 1 Microchip Tier 2
+-> 1 PCB
+1 Charger
+-> 4 Iron Ingot
+-> 1 Gold Ingot
+-> 1 PCB
+-> 1 Microchip Tier 2
+-> 2 Capacitor
+1 Capacitor
+-> 4 Iron Ingot
+-> 2 Gold Nugget
+-> 1 Paper
+-> 1 Transistor
+-> 1 PCB
+4 Microchip Tier 2
+-> 6 Gold Nugget
+-> 2 Redstone
+-> 1 Transistor
+1 Crafting Table
+-> 4 Wood Plank

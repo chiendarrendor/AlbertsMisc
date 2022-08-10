@@ -1,0 +1,155 @@
+1 Digital Miner
+-> 2 Atomic Alloy
+-> 1 Basic Control Circuit
+-> 2 Logistical Sorter
+-> 1 Robit
+-> 2 Teleportation Core
+-> 1 Steel Casing
+1 Atomic Alloy
+# Metallurgic Infuser
+-> 1 Refined Obsidian Dust
+-> 1 Reinforced Alloy
+1 Basic Control Circuit
+# Metallurgic Infuser
+-> 1 Redstone
+-> 1 Osmium Ingot
+1 Logistical Sorter
+-> 7 Iron Ingot
+-> 1 Piston
+-> 1 Basic Control Circuit
+1 Robit
+-> 1 Steel Ingot
+-> 2 Energy Tablet
+-> 1 Atomic Alloy
+-> 2 Refined Obsidian Ingot
+-> 1 Personal Chest
+1 Teleportation Core
+-> 4 Lapis Lazuli
+-> 2 Gold Ingot
+-> 1 Diamond
+-> 2 Atomic Alloy
+1 Steel Casing
+-> 4 Steel Plate
+-> 4 Dark Steel Ingot
+-> 1 Double-Layer Capacitor
+1 Double-Layer Capacitor
+-> 2 Basic Capacitor
+-> 2 Energetic Alloy Ingot
+-> 1 Coal Powder
+1 Energetic Alloy Ingot
+# Arc Furnace
+-> 1 Gold Ingot
+-> 1 Redstone
+-> 1 Glowstone
+1 Basic Capacitor
+-> 2 Grains of Infinity
+-> 4 Gold Nugget
+-> 1 Copper Electron Tube
+1 Steel Plate
+# Metal Press
+-> 1 Steel Ingot
+9 Gold Nugget
+-> 1 Gold Ingot
+1 Energy Tablet
+-> 3 Gold Ingot
+-> 4 Redstone
+-> 2 Enriched Alloy
+1 Enriched Alloy
+# Metallurgic Infuser
+-> 1 Redstone
+-> 1 Iron Ingot
+1 Reinforced Alloy
+# Metallurgic Infuser
+-> 1 Diamond Dust
+-> 1 Enriched Alloy
+1 Diamond Dust
+# Crusher
+-> 1 Diamond
+1 Refined Obsidian Dust
+# Metallurgic Infuser
+-> 1 Diamond Dust
+-> 1 Obsidian Powder
+1 Obsidian Powder
+# Crusher
+-> 1 Obsidian
+1 Refined Obsidian Ingot
+# Arc Furnace
+-> 1 Refined Obsidian Dust
+1 Dark Steel Ingot
+# Arc Furnace
+-> 1 Iron Ingot
+-> 1 Coal Powder
+-> 1 Obsidian
+1 Personal Chest
+-> 5 Steel Ingot
+-> 1 Glass
+-> 2 Chest
+-> 1 Basic Control Circuit
+1 Plastic Machinery
+-> 2 Pressurized Reaction Chamber
+-> 1 Rotary Condensentrator
+-> 1 Electrolytic Separator
+1 HDPE Project
+-> 640 HDPE Sheet
+-> 10 Oxygen
+1 HDPE Sheet
+# Enrichment Chamber
+-> 3 HDPE Pellet
+1 HDPE Pellet
+# PRC Pair + Condensentrator
+-> 10 Water
+-> 100 Hydrogen
+-> 5 Oxygen
+-> 2 Bio Fuel
+4 Bio Fuel
+# Mekanism Crusher
+-> 1 Apple
+1 Pressurized Reaction Chamber
+-> 2 Steel Ingot
+-> 1 Basic Control Circuit
+-> 1 Enriched Alloy
+-> 1 Enrichment Chamber
+-> 2 Basic Gas Tank
+-> 1 Dynamic Tank
+1 Rotary Condensentrator
+-> 4 Glass
+-> 2 Basic Control Circuit
+-> 1 Basic Gas Tank
+-> 1 Energy Tablet
+-> 1 Basic Fluid Tank
+1 Electrolytic Separator
+-> 4 Iron Ingot
+-> 2 Redstone
+-> 2 Enriched Alloy
+-> 1 Electrolytic Core
+1 Enrichment Chamber
+-> 4 Redstone
+-> 2 Iron Ingot
+-> 2 Basic Control Circuit
+-> 1 Steel Casing
+1 Basic Gas Tank
+-> 4 Redstone
+-> 4 Osmium Ingot
+1 Dynamic Tank
+-> 1 Bucket
+-> 4 Steel Ingot
+1 Electrolytic Core
+-> 5 Enriched Alloy
+-> 2 Osmium Dust
+-> 1 Iron Dust
+-> 1 Gold Dust
+1 Basic Fluid Tank
+-> 4 Redstone
+-> 4 Iron Ingot
+1 Ultimate Control Quest
+-> 84 Ultimate Control Circuit
+1 Ultimate Control Circuit
+-> 1 Elite Control Circuit
+-> 2 Atomic Alloy
+1 Elite Control Circuit
+-> 2 Reinforced Alloy
+-> 1 Advanced Control Circuit
+1 Advanced Control Circuit
+-> 1 Basic Control Circuit
+-> 2 Enriched Alloy
+

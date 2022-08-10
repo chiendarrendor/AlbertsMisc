@@ -1,0 +1,107 @@
+4 Advanced Machine Casing
+-> 6 Chrome Plate
+-> 2 Data Control Circuit
+-> 1 Highly Advanced Machine Frame
+1 Chrome Plate
+# Metal Press
+-> 1 Chrome Ingot
+1 Chrome Ingot
+# TR IBF at 1700K
+-> 1 Chrome Dust
+1 Chrome Dust
+# Industrial Electrolyzer
+-> 9 Ruby Dust
+2 Ruby Dust
+# TR Grinder
+-> 1 Ruby Ore
+1 Data Control Circuit
+# Assembling Machine
+-> 1 Processor Circuit Board
+-> 1 Data Storage Circuit
+1 Processor Circuit Board
+# Assembling Machine
+-> 1 Platinum Plate
+-> 1 Advanced Electronic Circuit
+1 Advanced Electronic Circuit
+# Assembling Machine
+-> 1 Advanced Circuit Board
+-> 2 Advanced Circuit Parts
+1 Platinum Plate
+# Metal Press
+-> 1 Platinum Ingot
+4 Data Storage Circuit
+# Assembling Machine
+-> 8 Emerald
+-> 1 Advanced Electronic Circuit
+2 Advanced Circuit Parts
+# Assembling Machine
+-> 1 Lapis Lazuli
+-> 1 Glowstone
+1 Highly Advanced Machine Frame
+-> 4 Chrome Plate
+-> 4 Titanium Plate
+-> 1 Advanced Machine Frame
+1 Titanium Plate
+# Metal Press
+-> 1 Titanium Ingot
+1 Titanium Ingot
+# TR IBF at 1500K
+-> 1 Titanium Dust
+1 Titanium Dust
+-> 4 Small Pile of Titanium Dust
+2 Small Pile of Titanium Dust
+# Industrial Electrolyzer
+-> 12 Bauxite Dust
+2 Bauxite Dust
+# IE Crusher
+-> 1 Bauxite Ore
+1 Advanced Machine Frame
+# Rolling Machine
+-> 2 Carbon Plate
+-> 2 Refined Iron Plate
+-> 1 Basic Machine Frame
+1 Basic Machine Frame
+-> 8 Refined Iron Ingot
+1 Refined Iron Plate
+# Metal Press
+-> 1 Refined Iron Ingot
+2 Advanced Circuit Board
+# Assembling Machine
+-> 1 Silicon Plate
+-> 4 Electrum Plate
+1 Electrum Plate
+# Metal Press
+-> 1 Electrum Ingot
+1 Silicon Plate
+# TR IBF at 1500K
+-> 2 Silicon Cell
+2 Silicon Cell
+# Industrial Electrolyzer
+-> 8 Clay Dust
+1 Clay Dust
+# TR Grinder
+-> 1 Clay Blob
+1 Refined Iron Ingot
+# Alloy Smelter
+-> 1 Iron Ingot
+-> 1 Quartz Powder
+1 Quartz Powder
+# IE Crusher
+-> 1 Nether Quartz
+3 Nether Quartz
+# IE Crusher
+-> 1 Nether Quartz Ore
+1 Carbon Plate
+# TR Compressor
+-> 1 Carbon Mesh
+1 Carbon Mesh
+-> 2 Carbon Fiber
+1 Carbon Fiber
+-> 4 Coal Dust
+1 Coal Dust
+# IE Crusher
+-> 1 Coal
+4 Reinforced Machine Casing
+-> 1 Advanced Machine Frame
+-> 2 Advanced Electronic Circuit
+-> 6 Steel Plate

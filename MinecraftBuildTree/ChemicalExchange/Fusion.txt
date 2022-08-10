@@ -1,0 +1,22 @@
+1 Fusion Multiblock
+-> 98 Fusion Casing
+-> 3 Fusion Core
+-> 1 Fusion Controller
+4 Fusion Casing
+-> 1 Ender Pearl
+-> 4 Neodymium Ingot
+-> 4 Tungsten Ingot
+1 Fusion Core
+-> 6 Thorium Ingot
+-> 2 Fusion Casing
+-> 1 Nether Star
+1 Fusion Controller
+-> 1 Glass
+-> 1 Hassium Ingot
+-> 1 Meitnerium Ingot
+-> 1 Oganesson Ingot
+-> 1 Tennessine Ingot
+-> 1 Titanium Ingot
+-> 1 Stellar Alloy Ingot
+-> 1 Darmstadtium Ingot
+-> 1 Fading Matter

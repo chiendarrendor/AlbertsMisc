@@ -1,0 +1,323 @@
+
+
+
+To attune an item, throw it with 'q' into the center of the alter, back away, and wait for the animation to compplete.
+
+
+
+Mantle of Stars
+    4x resonating gem
+    4x illumination powder
+    4x stardust
+    1x leather tunic
+    1x rock crystal
+
+            feather
+end pearl           starmetal
+            stardust
+
+
+
+Mineralis Attunement of Mantle of Stars
+    4x stardust
+    4x iron cluster
+
+            iron cluster
+gold ingot                  redstone
+            iron ingot
+
+Vicio Attunement of Mantle of Stars
+    4x stardust
+    4x feather
+
+            feather
+sugar                       fish
+            string
+
+Bootes Attunement of Mantle of Stars
+    4x stardust
+    4x Grain
+            grain
+bone                        leather
+            apple
+
+Lucerna Attunement of Mantle of Stars
+    4x stardust
+    4x glowstone
+            glowstone
+torch                       coal
+            redstone
+
+
+
+
+                Seen?   Attune?     Rock?     Refract           Ritual          Cape
+Aevitas         yes     yes?        yes       mending           crop grow       heal/change plants
+Armara          yes     yes?        yes       protect           turn mobs       recharging shield
+Evorsio         yes     no          yes       efficiency        destroy         mine/AOE damage
+Vicio           yes     no          yes       speed/feather     fly             elytra
+Discidia        yes     no          yes       strong/sharp      defense         thorns
+
+Lucerna         yes     n/a         yes       dark vision       destroy mobs    see mobs
+Mineralis       yes     n/a         yes       fortune           spawn ore       see blocks!
+Octans          yee     n/a         yes       water breath      attract fish    water breath/water ease
+Bootes          yes     n/a         yes       no hunger         anim drop       flare combat team
+Fornax          yes     n/a         yes       burn/fire res     smelt           fire protect/smelt
+Pelotrio        yes     n/a         yes       mend/inf ammo     create life     virtual tools?
+
+
+Octans/Lucerna/Aevitas
+
+
+
+Horologium (???? is stage 5 item)
+                                StarDust
+                                StarDust
+                                Feather
+????    StarDust    StarDust    Parchment   StarDust    Stardust    Clock
+                                Black Dye
+                                StarDust
+                                EnderPearl
+
+Atomic Reconstructor
+20 Compressed Iron Plate
+4 Ender Biotite
+1 Triple Battery
+1 Emerald
+2 Steel Casing
+    4 Iron Ingot
+    1 Osmium Ingot
+    4 Block Glass
+4 Obsidian
+2 Lapis Lazuli
+2 Ice Block
+1 Lapis Lazuli Block
+1 Printed Logic Circuit
+1 Printed Engineering Circuit
+1 Printed Calculation Circuit
+4 Redstone Alloy Plate
+2 Compressed Desh
+
+----------------------------------------------------------------------------
+Backpack:
+Portable Crafting Table
+Shears
+Flint and Steel
+Logs and Totem Carving Knife
+Signs
+Fence Posts
+Rowboat
+Work blade
+chisel
+buckets
+Jerrycan
+chests
+Lead
+sleeping mat
+slimesling
+prospector
+mob spawner detector
+sticks
+Atlas #6
+Shield
+Sentient Sword
+Sentient Bow
+Torch Launcher
+Cobblestone
+Stone
+Silktouch Pickaxe
+Cobalt Pickaxe
+Excavator Pickaxe
+Excavator Axe
+Torches
+Mazebreaker
+Heavy Duty Shovel
+Good Boots
+Silktouch Shovel
+Food
+Airship & Fuel
+Flight Goggles (Night Vision Helmet)
+Camping box
+----------------------------Camping Box (Storage Crate)-------------------------------------
+Sleeping mat
+fence posts
+food
+extra iron repair kits
+tipi
+extra pickaxe, axe, sword, bow, armor
+torch launcher
+cobblestone
+
+------------------------------------------------------------------------------------
+To start Mystic Agriculture:
+Any Tier 1 Seed:
+    4 <item>
+    4 inferium Essence
+    1 Tier 1 Crafting Seed
+1 Tier 1 Crafting Seed
+    4 inferium Essence
+    1 Base Crafting Seed
+1 Base Crafting Seed
+    4 Prosperity Shard
+    1 Seeds
+4 Prosperity Shard
+# Empowerer
+    1 Jupiter Tin Ore                                       <----- Jupiter
+    1 Eye of Galgador
+    1 Inferium Essence
+    1 Neptune Zinc Ore                                      <----- Neptune
+Empowerer
+    1 Restonia Crystal
+    1 Double Battery
+    2 Iron Casing
+    1 Display Stand
+Atomic Reconstructor
+1 Inferium Essence
+    1 Saturn Slime Ore                                      <---- Saturn
+
+
+
+Tier 1 Inferium Seed requires Inferium Essence, Seeds
+Tier 2 Inferium Seed requires Prudentium Essence, Tier 1 Inferium Seed
+Tier 3 Inferium Seed requires Intermedium Essence, Tier 2 Inferium Seed
+Tier 4 Inferium Seed requires Superium Essence, Tier 3 Inferium Seed
+Tier 5 Inferium Seed requires Supremium Essence, Tier 4 Inferium Seed
+Tier 6 Inferium Seed requires Insanium Essence, Tier 5 Inferium Seed
+(Higher level seeds produce more Inferium Essence per seed)
+
+
+1000 Use Infusion Crystal -- 4 Prosperity Shard, 4 Inferium Essence, 1 Diamond
+Unlimited Use Infusion Crystal: 4 Prosperity Shard, 4 Supremium Essence, 1 Diamond
+
+(up, 4 makes 1, with infusion crystal)
+(down, 1 makes 4)
+Inferium Essence <- Saturn Slime Ore
+Prudentium Essence <- Inferium Essence
+Intermedium Essence <- Prudentium Essence
+Superium Essence <- Intermedium Essence
+Supremium Essence <- Superium Essence
+Insanium Essence <- Supremium Essence
+
+Base Crafting Seed requires Seeds, 4 Prosperity Shard
+Tier 1 Crafting Seed requires Base Crafting Seed, 4 Inferium Essence
+Tier 2 Crafting Seed requires Tier 1 Crafting Seed, 4 Prudentium Essence
+Tier 3 Crafting Seed requires Tier 2 Crafting Seed, 4 Intermedium Essence
+Tier 4 Crafting Seed requires Tier 3 Crafting Seed, 4 Superium Essence
+Tier 5 Crafting Seed requires Tier 4 Crafting Seed, 4 Supremium Essence
+Tier 6 Crafting Seed requires Tier 5 Crafting Seed, 4 Insanium Essence
+
+
+Tier 1 Seeds Require Inferium,Base Crafting Seed
+    Stone
+    Dirt
+    Nature ?
+    Wood
+    Water
+    Ice
+    Zombie
+
+Tier 2 Seeds require Prudentium, Tier 2 Crafting Seed
+    Lava
+    Dye
+    Nether
+    Coal
+    Pig
+    Chicken
+    Cow
+    Sheep
+    Slime
+    Silicon
+    Aluminum
+    Copper
+    Aluminum Brass
+    Marble
+    Limestone
+    Basalt
+    Menril
+    Slate
+
+Tier 3 Seeds require Intermedium, Tier 3 Crafting Seed
+    iron
+    nether quartz
+    glowstone
+    redstone
+    Obsidian
+    skeleton
+    creeper
+    spider
+    rabbit
+    guardian
+    tin
+    bronze
+    silver
+    lead
+    knightslime
+    ardite
+    steeleaf
+    ironwood
+    black quartz
+    aquamarine
+    ender biotite
+    sky stone
+    certus quartz
+    quartz enriched iron
+
+Tier 4 Seeds require Superium Essence, Tier 4 Crafting Seed
+    Gold
+    Lapis Lazuli
+    Experience
+    End
+    Blaze
+    Ghast
+    Enderman
+    Steel
+    Nickel
+    Constantan
+    Electrum
+    Cobalt
+    Osmium
+    Glowstone Ingot
+    Knightmetal
+    Fiery
+    Meteoric Iron
+    Starmetal
+    Compressed Iron (Pneumaticraft)
+    Fluix
+
+Tier 5 Seeds require Supremium Essence, Tier 5 Crafting Seed
+    Diamond
+    Emerald
+    Wither Skeleton
+    Titanium
+    Uranium
+    Platinum
+    Manyullyn
+    Refined Obsidian
+    Desh
+    Rock Crystal
+
+Tier 6 Seeds require Insanium Essence, Tier 6 Crafting Seed
+    Nether Star
+    Dragon Egg
+
+
+------------------------------------
+Base Notes
+~30 aluminum wire
+~30 galacticraft fluid pipe
+1 oxygen collector
+~320 leaves
+4 airlock controller
+36 airlock frame
+1 cryogenic chamber
+1 oxygen compressor
+1 energy storage cluster
+1 energy storage module
+1 power adapter
+2 oxygen sealer
+1 IE charging station
+4 sealable fluid pipe
+4 sealable aluminum wire
+4 advanced solar panel
+1 Magnetic Crafting table
+

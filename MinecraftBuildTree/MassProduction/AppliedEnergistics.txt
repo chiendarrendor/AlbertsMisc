@@ -1,0 +1,127 @@
+1 64k ME Storage Cell
+-> 2 Quartz Glass
+-> 3 Redstone
+-> 1 64k ME Storage Component
+-> 3 Iron Ingot
+4 Quartz Glass
+-> 4 Glass
+-> 5 Crushed Quartz
+1 64k ME Storage Component
+-> 4 Glowstone
+-> 1 Quartz Glass
+-> 1 Calculation Processor
+-> 3 16k ME Storage Component
+1 16k ME Storage Component
+-> 4 Glowstone
+-> 1 Quartz Glass
+-> 1 Calculation Processor
+-> 3 4k ME Storage Component
+1 4k ME Storage Component
+-> 4 Redstone
+-> 1 Calculation Processor
+-> 1 Quartz Glass
+-> 3 1k ME Storage Component
+1 1k ME Storage Component
+-> 4 Redstone Alloy Ingot
+-> 2 Certus Quartz Crystal
+-> 1 Logic Processor
+-> 2 Basic Capacitor
+1 Pure Certus Quartz Crystal
+# Enrichment Chamber
+-> 1 Certus Quartz Dust
+1 Certus Quartz Dust
+# Mekanism Crusher
+-> 1 Certus Quartz Crystal
+1 Basic Capacitor
+-> 2 Grains of Infinity
+-> 4 Gold Nugget
+-> 1 Copper Electron Tube
+1 Silicon
+# Mekanism Crusher
+-> 1 Sand
+9 Gold Nugget
+-> 1 Gold Ingot
+1 Redstone Alloy Ingot
+# Alloy Smelter
+-> 1 Redstone
+-> 1 Silicon
+1 Crushed Quartz
+# Crusher
+-> 1 Nether Quartz
+1 Digital Cargo Hold Quest
+-> 72 64k ME Storage Component
+8 Copper Electron Tube
+# Thermionic Fabricator
+-> 1 Sand
+-> 4 Redstone
+-> 10 Copper Ingot
+1 Glass
+# Smelter
+-> 1 Sand
+1 Terminals
+-> 1 ME Pattern Terminal
+-> 1 ME Interface Terminal
+1 ME Pattern Terminal
+-> 1 ME Crafting Terminal
+-> 1 Engineering Processor
+1 ME Interface Terminal
+-> 1 Illuminated Panel
+-> 1 Engineering Processor
+-> 1 ME Interface
+1 Engineering Processor
+# Inscriber
+-> 1 Printed Engineering Circuit
+-> 1 Redstone
+-> 1 Printed Silicon
+1 Printed Engineering Circuit
+# Inscriber
+-> 1 Diamond
+1 Printed Silicon
+# Inscriber
+-> 1 Silicon
+1 ME Crafting Terminal
+-> 1 ME Terminal
+-> 1 Crafting Table
+-> 1 Calculation Processor
+1 ME Interface
+-> 4 Iron Ingot
+-> 2 Glass
+-> 1 Annihilation Core
+-> 1 Formation Core
+2 Annihilation Core
+-> 1 Nether Quartz
+-> 1 Fluix Dust
+-> 1 Logic Processor
+2 Formation Core
+-> 1 Certus Quartz Crystal
+-> 1 Fluix Dust
+-> 1 Logic Processor
+1 ME Terminal
+-> 1 Illuminated Panel
+-> 1 Annihilation Core
+-> 1 Formation Core
+-> 1 Logic Processor
+3 Illuminated Panel
+-> 1 Iron Ingot
+-> 2 Glowstone
+-> 1 Redstone
+-> 3 Quartz Glass
+1 Logic Processor
+# Inscriber
+-> 1 Printed Logic Circuit
+-> 1 Redstone
+-> 1 Printed Silicon
+1 Printed Logic Circuit
+# Inscriber
+-> 1 Gold Ingot
+1 Calculation Processor
+# Inscriber
+-> 1 Printed Calculation Circuit
+-> 1 Redstone
+-> 1 Printed Silicon
+1 Printed Calculation Circuit
+# Inscriber
+-> 1 Pure Certus Quartz Crystal
+
+
+

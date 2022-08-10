@@ -1,0 +1,26 @@
+1 Kiln
+-> 8 Kiln Brick
+-> 1 Engineers Hammer
+2 Kiln Brick
+-> 2 Brick
+-> 2 Sandstone
+1 Brick
+# Smelter
+-> 1 Clay Blob
+4 Clay Blob
+-> 1 Clay Block
+1 Clay Block
+# Barrel
+-> 1 Water Bucket
+-> 1 Dust
+1 Dust
+# Hammer
+-> 1 Sand
+1 Sand
+# Hammer
+-> 1 Gravel
+1 Gravel
+-> 4 Gravel Dust
+1 Sandstone
+-> 4 Sand
+

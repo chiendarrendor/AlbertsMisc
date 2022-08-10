@@ -1,0 +1,60 @@
+1 1k Storage Disk
+-> 1 Storage Housing
+-> 1 1k Storage Part
+1 4k Storage Disk
+-> 1 Storage Housing
+-> 1 4k Storage Part
+1 16k Storage Disk
+-> 1 Storage Housing
+-> 1 16k Storage Part
+1 64k Storage Disk
+-> 1 Storage Housing
+-> 1 64k Storage Part
+1 Storage Housing
+-> 2 Glass Block
+-> 3 Redstone Dust
+-> 3 Quartz Enriched Iron
+1 1k Storage Part
+-> 4 Raw Silicon
+-> 3 Glass Block
+-> 1 Redstone Dust
+-> 1 Quartz Enriched Iron
+1 4k Storage Part
+-> 3 1k Storage Part
+-> 1 Quartz Enriched Iron
+-> 1 Redstone Dust
+-> 4 Calculation Processor
+1 Calculation Processor
+# Inscriber
+-> 1 Printed Calculation Circuit
+-> 1 Redstone
+-> 1 Printed Silicon
+1 Printed Calculation Circuit
+# Inscriber
+-> 0 Inscriber Calculation Press
+-> 1 Pure Certus Quartz Crystal
+1 Pure Certus Quartz Crystal
+# Puddle of Water
+-> 1 Certus Quartz Seed
+1 Certus Quartz Seed
+-> 1 Certus Quartz Dust
+-> 1 Sand
+1 Inscriber Calculation Press
+# Assembly
+-> 1 Moon Dungeon Brick
+1 16k Storage Part
+-> 4 Logic Processor
+-> 3 4k Storage Part
+-> 1 Quartz Enriched Iron
+-> 1 Redstone Dust
+1 64k Storage Part
+-> 4 Engineering Processor
+-> 3 16k Storage Part
+-> 1 Quartz Enriched Iron
+-> 1 Redstone Dust
+1 64k Fluid Storage Part
+-> 4 Raw Silicon
+-> 1 Quartz Enriched Iron
+-> 3 Block of Glass
+-> 1 Bucket
+

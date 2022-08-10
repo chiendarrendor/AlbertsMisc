@@ -1,0 +1,26 @@
+1 Calcium Sulfate
+# Crystallizer
+-> 666 Calcium Sulfate Solution
+666 Calcium Sulfate Solution
+# Chemical Reactor (+waste HF)
+-> 666 Fluorite Water
+-> 1000 Sulfuric Acid
+666 Fluorite Water
+# Fluid Enricher
+-> 1000 Water
+-> 1 Crushed Fluorite
+1000 Sulfuric Acid
+# Chemical Reactor
+-> 1000 Sulfur Trioxide
+-> 1000 Water
+1000 Sulfur Trioxide
+# Chemical Reactor
+-> 1000 Sulfur Dioxide
+-> 500 Oxygen
+1000 Sulfur Dioxide
+# Chemical Reactor
+-> 666 Molten Sulfur
+-> 1000 Oxygen
+666 Molten Sulfur
+# Melter
+-> 1 Sulfur

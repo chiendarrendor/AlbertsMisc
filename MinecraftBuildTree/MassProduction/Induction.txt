@@ -1,0 +1,92 @@
+1 Initial Setup
+-> 5 Induction Port
+-> 1 Basic Induction Cell
+-> 1 Basic Induction Provider
+-> 98 Induction Casing
+4 Induction Casing
+-> 4 Steel Ingot
+-> 1 Energy Tablet
+1 Energy Tablet
+-> 4 Redstone
+-> 3 Gold Ingot
+-> 2 Enriched Alloy
+1 Enriched Alloy
+# Metallurgic Infuser
+-> 1 Redstone
+-> 1 Iron Ingot
+2 Induction Port
+-> 4 Induction Casing
+-> 1 Elite Control Circuit
+1 Elite Control Circuit
+-> 2 Reinforced Alloy
+-> 1 Advanced Control Circuit
+1 Basic Induction Cell
+-> 4 Energy Tablet
+-> 4 Lithium Dust
+-> 1 Basic Energy Cube
+1 Basic Induction Provider
+-> 4 Lithium Dust
+-> 4 Basic Control Circuit
+-> 1 Basic Energy Cube
+1 Basic Control Circuit
+# Metallurgic Infuser
+-> 1 Redstone
+-> 1 Osmium Ingot
+1 Advanced Control Circuit
+-> 2 Enriched Alloy
+-> 1 Basic Control Circuit
+1 Reinforced Alloy
+# Metallurgic Infuser
+-> 1 Crushed Diamond
+-> 1 Enriched Alloy
+1 Basic Energy Cube
+-> 4 Redstone
+-> 2 Iron Ingot
+-> 2 Energy Tablet
+-> 1 Steel Casing
+1 Steel Casing
+-> 4 Steel Plate
+-> 4 Dark Steel Ingot
+-> 1 Double-Layer Capacitor
+1 Advanced Induction Cell
+-> 4 Basic Induction Cell
+-> 4 Energy Tablet
+-> 1 Advanced Energy Cube
+1 Elite Induction Cell
+-> 4 Advanced Induction Cell
+-> 4 Energy Tablet
+-> 1 Elite Energy Cube
+1 Ultimate Induction Cell
+-> 4 Elite Induction Cell
+-> 4 Energy Tablet
+-> 1 Ultimate Energy Cube
+1 Advanced Induction Provider
+-> 4 Advanced Control Circuit
+-> 4 Basic Induction Provider
+-> 1 Advanced Energy Cube
+1 Elite Induction Provider
+-> 4 Elite Control Circuit
+-> 4 Advanced Induction Provider
+-> 1 Elite Energy Cube
+1 Ultimate Induction Provider
+-> 4 Ultimate Control Circuit
+-> 4 Elite Induction Provider
+-> 1 Ultimate Energy Cube
+1 Advanced Energy Cube
+-> 4 Enriched Alloy
+-> 2 Energy Tablet
+-> 2 Osmium Ingot
+-> 1 Basic Energy Cube
+1 Elite Energy Cube
+-> 4 Reinforced Alloy
+-> 2 Gold Ingot
+-> 2 Energy Tablet
+-> 1 Advanced Energy Cube
+1 Ultimate Energy Cube
+-> 4 Atomic Alloy
+-> 2 Diamond
+-> 2 Energy Tablet
+-> 1 Elite Energy Cube
+1 Ultimate Control Circuit
+-> 2 Atomic Alloy
+-> 1 Elite Control Circuit

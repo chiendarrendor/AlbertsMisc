@@ -1,0 +1,26 @@
+1 Ray Receiver
+-> 20 Steel
+-> 20 High-Purity Silicon
+-> 10 Photon Combiner
+-> 5 Processor
+-> 20 Super-Magnetic Ring
+1 Super-Magnetic Ring
+-> 2 Electromagnetic Turbine
+-> 3 Magnet
+-> 1 Energetic Graphite
+1 Photon Combiner
+# Assembler
+-> 2 Prism
+-> 1 Circuit Board
+2 Prism
+# Assembler
+-> 3 Glass
+1 Processor
+-> 2 Circuit Board
+-> 2 Microcrystalline Component
+1 Electromagnetic Turbine
+-> 2 Electric Motor
+-> 2 Magnetic Coil
+1 Microcrystalline Component
+-> 2 High-Purity Silicon
+-> 1 Copper Ingot

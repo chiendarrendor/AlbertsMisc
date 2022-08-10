@@ -1,0 +1,66 @@
+1 Cart Assembler
+-> 1 Clock
+-> 1 Basic Catalyst
+-> 1 Circuit Board
+-> 1 Glass Block
+-> 1 Nether Furnace
+-> 2 Lead Plate
+-> 1 Gold Chest
+1 basic component
+-> 2 iron rod
+-> 1 black iron slate
+-> 1 stardust
+1 iron rod
+-> 1 iron plate
+1 Basic Catalyst
+-> 4 basic component
+-> 1 black iron ingot
+1 black iron ingot
+-> 1 crushed black quartz
+-> 1 Iron Ingot
+1 black iron slate
+-> 1 black iron ingot
+1 Gold Chest
+-> 8 Gold Plate
+-> 1 Chest
+1 Clock
+-> 5 Lapis Lazuli
+-> 4 Gold Plate
+1 Nether Furnace
+-> 7 Nether Brick
+-> 1 Furnace
+-> 1 Blaze Powder
+1 Circuit Board
+-> 1 Engineers Workbench
+-> 1 Engineers Blueprint (Crafting Components)
+-> 1 Insulating Glass
+-> 1 Copper Plate
+-> 2 Vacuum Tube
+1 Engineers Workbench
+-> 3 Treated Wood Planks
+-> 1 Crafting Table
+-> 1 Treated Wood Fence
+1 Engineers Blueprint (Crafting Components)
+-> 1 Copper Ingot
+-> 1 Aluminum Ingot
+-> 1 Iron Ingot
+-> 3 Blue Dye Powder
+-> 3 Paper
+8 Treated Wood Planks
+-> 8 Wood Planks
+-> 1 Bucket Creosote
+3 Vacuum Tube
+-> 1 Glass Block
+-> 2 Copper Wire
+-> 1 Redstone
+3 Treated Wood Fence
+-> 4 Treated Wood Planks
+-> 2 Treated Stick
+4 Treated Stick
+-> 2 Treated Wood Planks
+1 Copper Wire
+-> 1 Engineers Wire Cutters
+-> 1 Copper Plate
+1 Engineers Wire Cutters
+-> 2 Treated Wood Stick
+-> 1 Iron Knife Blade

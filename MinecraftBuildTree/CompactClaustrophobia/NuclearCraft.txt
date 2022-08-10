@@ -1,0 +1,238 @@
+1 Speed Upgrade Quest
+-> 64 Speed Upgrade
+1 Speed Upgrade
+-> 4 Redstone
+-> 4 Lapis Lazuli
+-> 1 Weighted Pressure Plate
+1 Weighted Pressure Plate
+-> 2 Iron Ingot
+1 Rock Crusher
+-> 4 Advanced Plating
+-> 2 Linear Actuator
+-> 1 Electric Motor
+-> 1 Machine Chassis
+-> 1 Tough Alloy
+1 Advanced Plating
+-> 4 Redstone
+-> 4 Tough Alloy
+-> 1 Basic Plating
+2 Basic Plating
+-> 2 Lead Ingot
+-> 2 Graphite Dust
+1 Linear Actuator
+-> 1 Steel Ingot
+-> 1 Piston
+-> 2 Ferroboron Alloy
+-> 1 Copper Ingot
+2 Tough Alloy
+# Alloy Furnace
+-> 1 Ferroboron Alloy
+-> 1 Lithium Dust
+2 Ferroboron Alloy
+# Alloy Furnace
+-> 1 Steel Ingot
+-> 1 Boron Dust
+1 Electric Motor
+-> 4 Steel Ingot
+-> 2 Copper Solenoid
+-> 2 Gold Nugget
+-> 1 Iron Ingot
+1 Piston
+-> 3 Wood Plank
+-> 4 Cobblestone
+-> 1 Iron Ingot
+-> 1 Redstone
+1 Machine Chassis
+-> 4 Steel Ingot
+-> 4 Lead Ingot
+-> 1 Tough Alloy
+1 First Fission
+-> 1 Fission Controller
+-> 8 Fission Reactor Casing
+-> 2 Transparent Fission Reactor Casing
+-> 1 Reactor Cell
+-> 1 Empty Cooler
+1 Fission Controller
+-> 4 Advanced Plating
+-> 2 Nuclear Furnace
+-> 2 Magnesium Diboride Solenoid
+-> 1 Machine Chassis
+4 Fission Reactor Casing
+-> 4 Basic Plating
+-> 1 Tough Alloy
+1 Transparent Fission Reactor Casing
+-> 1 Fission Reactor Casing
+-> 1 Glass Block
+1 Reactor Cell
+-> 4 Tough Alloy
+-> 4 Glass Block
+2 Empty Cooler
+-> 4 Tough Alloy
+-> 4 Steel Ingot
+1 Nuclear Furnace
+-> 4 Basic Plating
+-> 4 Tough Alloy
+-> 1 Furnace
+1 Furnace
+-> 8 Cobblestone
+2 Magnesium Diboride Solenoid
+-> 2 Tough Alloy
+-> 4 Magnesium Diboride Alloy
+3 Magnesium Diboride Alloy
+# Alloy Furnace
+-> 1 Magnesium Dust
+-> 2 Boron Dust
+1 Graphite Dust
+# Manufactory
+-> 1 Pulverized Charcoal
+1 Pulverized Charcoal
+# Manufactory
+-> 1 Charcoal
+1 Charcoal
+# Smelter
+-> 1 Wood
+1 Isotope Separator
+-> 2 Redstone
+-> 4 Basic Plating
+-> 2 Electric Motor
+-> 1 Machine Chassis
+2 Copper Solenoid
+-> 4 Copper Ingot
+-> 2 Iron Ingot
+1 Fission Upgrade
+-> 40 Fission Reactor Casing
+-> 9 Reactor Cell
+-> 5 Graphite Block
+-> 5 Lapis Cooler
+1 Graphite Block
+-> 9 Graphite Ingot
+1 Graphite Ingot
+# Smelter
+-> 1 Graphite Dust
+1 Lapis Cooler
+-> 2 Lapis Block
+-> 1 Empty Cooler
+1 Lapis Block
+-> 9 Lapis Lazuli
+1 Cubic Boron Nitride
+# Pressurizer
+-> 1 Hexagonal Boron Nitride
+1 Hexagonal Boron Nitride
+# Crystallizer
+-> 666 Boron Nitride Solution
+666 Boron Nitride Solution
+# Chemical Reactor
+-> 1000 Ammonia
+-> 1000 Boric Acid
+2000 Ammonia
+# Chemical Reactor
+-> 1000 Nitrogen Gas
+-> 3000 Hydrogen Gas
+1000 Boric Acid
+# Chemical Reactor (Also produces 3000 Hydrogen Gas)
+-> 3000 Water
+-> 500 Diborane
+1000 Diborane
+-> 144 Molten Boron
+-> 3000 Hydrogen Gas
+144 Molten Boron
+# Melter
+-> 1 Boron Dust
+1000 Water
+-> 1 Water Bucket
+950 Hydrogen Gas
+# Electrolyzer
+-> 1000 Water
+1 Initial Fusion
+-> 1 Fusion Core
+-> 64 Fusion Electromagnet
+1 Fusion Electromagnet
+-> 4 Copper Solenoid
+-> 4 Advanced Plating
+1 Fusion Core
+-> 4 Elite Plating
+-> 2 Chemical Reactor
+-> 1 Machine Chassis
+-> 2 Magneisum Diboride Solenoid
+1 Elite Plating
+-> 4 Boron Ingot
+-> 1 DU Plating
+-> 4 Crystal Binder
+2 Magneisum Diboride Solenoid
+-> 2 Tough Alloy
+-> 4 Magnesium Diboride Alloy
+1 DU Plating
+-> 4 Sulfur
+-> 4 Uranium-238
+-> 1 Advanced Plating
+1 Chemical Reactor
+-> 4 Advanced Plating
+-> 2 Redstone
+-> 1 Machine Chassis
+-> 1 Electric Motor
+-> 1 Servomechanism
+1 Servomechanism
+-> 2 Ferroboron Alloy
+-> 2 Redstone
+-> 3 Steel Ingot
+-> 1 Copper Ingot
+2 Crystal Binder
+-> 1 Crushed Rhodochrosite
+-> 1 Calcium Sulfate
+-> 1 Crushed Obsidian
+-> 1 Magnesium Dust
+1 Crushed Rhodochrosite
+# Rock Crusher
+-> 2 Granite
+1 Boron Ingot
+# Smelter
+-> 1 Boron Dust
+1 Crushed Fluorite
+# Rock Crusher
+-> 2 Diorite
+1 Calcium Sulfate - Recipe
+# Calcium Sulfate Generator
+-> 1 Crushed Fluorite
+-> 1 Sulfur
+-> 1500 Oxygen
+1 Calcium Sulfate Machinery
+-> 1 Crystallizer
+-> 1 Fluid Enricher
+-> 1 Melter
+-> 2 Infinite Water Source
+-> 4 Chemical Reactor
+1 Crystallizer
+-> 4 Advanced Plating
+-> 3 Copper Solenoid
+-> 1 Machine Chassis
+-> 1 Cauldron
+1 Fluid Enricher
+-> 4 Advanced Plating
+-> 1 Machine Chassis
+-> 1 Hopper
+-> 2 Lapis Lazuli
+-> 1 Electric Motor
+1 Infinite Water Source
+-> 4 Basic Plating
+-> 2 Water Bucket
+-> 2 Tin Ingot
+1 Cauldron
+-> 7 Iron Ingot
+1 Melter
+-> 4 Advanced Plating
+-> 1 Servomechanism
+-> 1 Machine Chassis
+-> 3 Nether Brick
+1 Nether Brick
+# Smelter
+-> 1 Netherrack
+1 Netherrack
+# Stone Barrel
+-> 1 Lava Bucket
+-> 1 Redstone
+1 Hopper
+-> 5 Iron Ingot
+-> 2 Wood
+
+
+

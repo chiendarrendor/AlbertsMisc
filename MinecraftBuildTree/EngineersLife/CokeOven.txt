@@ -1,0 +1,16 @@
+1 Coke Oven
+-> 27 Coke Brick
+3 Coke Brick
+-> 4 Concrete
+-> 4 Bricks
+-> 1 Block Charcoal
+8 Concrete
+-> 4 Sand
+-> 2 Gravel
+-> 2 Clay Blob
+-> 1 Water Clay Bucket
+1 Bricks
+-> 4 Brick
+1 Brick
+# Smelter
+-> 1 Clay Blob

@@ -17,8 +17,8 @@ public class Fractal
     FractalDrawerBase fdb;
     //fdb = new MyFractalDrawer();
     //fdb = new MandelbrotDrawer();
-    fdb = new BurningShipDrawer();
-    //fdb = new MandelbarDrawer();
+    //fdb = new BurningShipDrawer();
+    fdb = new MandelbarDrawer();
     //fdb = new BiomorphDrawer();
     
 

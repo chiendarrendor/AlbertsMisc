@@ -1,0 +1,125 @@
+1 ME Chest
+-> 2 Glass Block
+-> 1 ME Terminal
+-> 2 ME Glass Cable - Fluix
+-> 2 Iron Ingot
+-> 1 Fluix Crystal
+1 ME Terminal
+-> 1 Illuminated Panel
+-> 1 Formation Core
+-> 1 Annihilation Core
+-> 1 Logic Processor
+4 ME Glass Cable - Fluix
+-> 1 Quartz Fiber
+-> 2 Fluix Crystal
+3 Illuminated Panel
+-> 1 Iron Ingot
+-> 2 Glowstone Dust
+-> 1 Redstone
+-> 4 Quartz Glass Block
+2 Formation Core
+-> 1 Certus Quartz Crystal
+-> 1 Fluix Dust
+-> 1 Logic Processor
+2 Annihilation Core
+-> 1 Nether Quartz
+-> 1 Fluix Dust
+-> 1 Logic Processor
+3 Quartz Fiber
+-> 6 Glass Block
+-> 3 Certus Quartz Dust
+1 Certus Quartz Dust
+# Manufactory
+-> 1 Certus Quartz Crystal
+1 Glass Block
+# Smelter
+-> 1 Sand
+1 Logic Processor
+# Inscriber
+-> 1 Printed Logic Circuit
+-> 1 Redstone
+-> 1 Printed Silicon
+1 Printed Logic Circuit
+# Inscriber w/ Logic Press
+-> 1 Gold
+1 Printed Silicon
+# Inscriber w/ Silicon Press
+-> 1 Silicon
+2 Fluix Crystal
+# Puddle
+-> 1 Charged Certus Quartz
+-> 1 Nether Quartz
+-> 1 Redstone
+1 Fluix Dust
+# Manufactory
+-> 1 Fluix Crystal
+1 Charged Certus Quartz
+# Charger
+-> 1 Certus Quartz Crystal
+1 Silicon
+# Chemical Combiner
+-> 16 Si
+4 Quartz Glass Block
+-> 5 Certus Quartz Dust
+-> 4 Glass Block
+1 Big Crafting Storage
+-> 1 Crafting Unit
+-> 1 64k ME Storage Component
+1 64k ME Storage Component
+-> 4 Glowstone
+-> 1 Calculation Processor
+-> 1 Quartz Glass
+-> 3 16k ME Storage Component
+1 16k ME Storage Component
+-> 4 Glowstone
+-> 1 Calculation Processor
+-> 1 Quartz Glass
+-> 3 4k ME Storage Component
+1 4k ME Storage Component
+-> 4 Redstone
+-> 1 Calculation Processor
+-> 1 Quartz Glass
+-> 3 1k ME Storage Component
+1 1k ME Storage Component
+-> 4 Redstone
+-> 4 Certus Quartz Crystal
+-> 1 Logic Processor
+1 Calculation Processor
+# Inscriber
+-> 1 Printed Calculation Circuit
+-> 1 Redstone
+-> 1 Printed Silicon
+1 Printed Calculation Circuit
+# Inscriber w/ Calculation Press
+-> 1 Pure Certus Quartz Crystal
+4 Quartz Glass
+-> 4 Glass
+-> 5 Crushed Quartz
+1 Crafting Unit
+-> 4 Iron Ingot
+-> 2 Calculation Processor
+-> 1 Logic Processor
+-> 2 ME Glass Cable
+1 Crushed Quartz
+# Manufactory
+-> 1 Nether Quartz
+1 Pure Certus Quartz Crystal
+# Special Water
+-> 1 Certus Quartz Seed
+2 Certus Quartz Seed
+-> 1 Sand
+-> 1 Certus Quartz Crystal Dust
+1 Certus Quartz Crystal Dust
+# Manufactory
+-> 1 Certus Quartz Crystal
+1 Glass
+# Furnace
+-> 1 Sand
+
+
+
+
+
+
+
+

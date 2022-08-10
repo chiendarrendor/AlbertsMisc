@@ -1,0 +1,14 @@
+1 Vibrant Capacitor Bank
+-> 4 Electrical Steel Ingot
+-> 4 Octadic Capacitor
+-> 1 Vibrant Crystal
+1 Electrical Steel
+-> 1 Iron Ingot
+-> 1 Crushed Coal
+-> 1 Silicon
+1 Vibrant Crystal
+-> 1 Emerald
+-> 1 Vibrant Alloy Ingot
+1 Vibrant Alloy Ingot
+-> 1 Energetic Alloy Ingot
+-> 1 Ender Pearl

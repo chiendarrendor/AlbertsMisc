@@ -1,0 +1,34 @@
+1 Simulation Chamber
+-> 1 Plate Glass
+-> 2 Ender Pearl
+-> 2 Lapis Lazuli
+-> 1 Soot-covered Machine Casing
+-> 1 Redstone Comparator
+1 Redstone Comparator
+-> 3 Redstone Torch
+-> 1 Nether Quartz
+-> 3 Stone
+1 Soot-covered Machine Casing
+-> 4 Soot-covered Plate
+-> 4 Iron Ingot
+-> 1 Soot-covered Redstone
+1 Soot-covered Redstone
+-> 1 Redstone
+-> 0 Block of Coal
+8 Soot-covered Plate
+-> 3 Obsidian
+-> 1 Soot-covered Redstone
+1 Blank Data Model
+-> 4 Lapis Lazuli
+-> 2 Soot-covered Redstone
+-> 1 Gold Ingot
+-> 1 Redstone Repeater
+-> 1 Stone
+1 Redstone Repeater
+-> 2 Redstone Torch
+-> 1 Redstone
+-> 3 Stone
+1 Redstone Torch
+-> 1 Redstone
+-> 1 Stick
+

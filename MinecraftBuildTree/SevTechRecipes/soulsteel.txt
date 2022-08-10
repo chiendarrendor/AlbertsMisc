@@ -1,0 +1,8 @@
+1 soulforged steel
+# Stoked Crucible
+-> 1 iron ingot
+-> 1 coal dust
+-> 1 soul
+1 soul
+# soul sand filtered hopper
+-> 8 ground netherrack

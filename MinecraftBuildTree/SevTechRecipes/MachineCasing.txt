@@ -1,0 +1,12 @@
+1 Machine Casing
+-> 10 Plastic
+-> 6 Compressed Iron Plate
+-> 1 Printed Circuit Board
+-> 2 Stabilized Metal
+-> 3 Certus Quartz Crystal
+-> 2 Cobalt Plate
+-> 1 Black Iron Frame
+1 Black Item Frame
+-> 4 Glass Block
+-> 4 Black Iron Ingot
+-> 1 Black Iron Slate

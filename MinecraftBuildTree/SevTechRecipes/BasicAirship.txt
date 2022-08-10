@@ -1,0 +1,133 @@
+1 Airship
+-> 1 Airship Balloon
+-> 1 Airship Frame
+-> 1 Airship Igniter
+-> 2 Airship Engine
+-> 4 Lead
+-> 1 Lesser Fuel Efficiency
+1 Lead
+-> 2 String
+-> 1 Leather Cordage
+1 Leather Cordage
+-> 3 Leather Strip
+-> 1 String
+9 Leather Strip
+-> 1 Leather
+1 Airship Balloon
+-> 4 Hemp Rope
+-> 13 Hemp Cloth
+-> 8 String
+1 Hemp Rope
+-> 6 Hemp/Industrial Hemp Fiber
+1 Hemp Cloth
+-> 9 Hemp/Industrial Hemp Fiber
+1 Airship Frame
+-> 4 Iron Ingot
+-> 1 Mine Cart
+-> 4 Logic Chip
+1 Airship Igniter
+-> 12 Iron Plate
+-> 2 Blaze Rod
+-> 2 Iron Rod
+-> 4 Platinum Gear
+-> 1 Coal Engine
+-> 4 Nether Quartz
+1 Airship Engine
+-> 6 Steel Plate
+-> 6 Iron Plate
+-> 3 Piston
+-> 3 Fiery Rod
+-> 2 Steeleaf Gear
+-> 3 Redstone Alloy Plate
+-> 1 Redstone Block
+-> 1 Tiny Coal Engine
+1 Iron Plate
+# Metal Press
+-> 1 Iron Ingot
+1 Blaze Rod
+# Metal Press
+-> 4 Blaze Powder
+1 Iron Rod
+# Metal Press
+-> 1 Iron Plate
+1 Platinum Gear
+# Metal Press
+-> 4 Platinum Ingot
+1 Steeleaf Gear
+# Metal Press
+-> 4 Steeleaf
+1 Tiny Coal Engine
+-> 1 Piston
+-> 1 Furnace
+-> 3 Iron Plate
+1 Steel Plate
+-> 1 Steel Ingot
+1 Furnace
+-> 8 Cobblestone
+1 Coal Engine
+-> 3 Piston
+-> 5 Iron Plate
+-> 1 Nether Furnace
+1 Nether Furnace
+-> 7 Nether Brick
+-> 1 Furnace
+-> 1 Blaze Powder
+1 Lesser Fuel Efficiency
+-> 2 Blaze Powder
+-> 2 Nether Quartz
+-> 1 Stone Pressure Plate
+-> 1 Weighted Pressure Plate
+-> 1 Fire Charge
+-> 2 Module Chip
+1 Stone Pressure Plate
+-> 2 Stone
+1 Weighted Pressure Plate
+-> 2 Iron Plate
+1 Module Chip
+-> 8 Platinum Plate
+-> 1 Logic Chip
+1 Platinum Plate
+-> 1 Platinum Ingot
+3 Fire Charge
+-> 1 Blaze Powder
+-> 1 Gunpowder
+-> 1 Coal
+1 Mine Cart
+-> 5 Iron Ingot
+2 Fiery Rod
+-> 1 Fiery Ingot
+1 Fiery Ingot
+-> 1 Fiery Blood/Tears
+-> 1 Iron Ingot
+1 Logic Chip
+-> 1 Redstone Alloy Plate
+-> 2 Green Dye Powder
+-> 3 Gold Plate
+1 Gold Plate
+-> 1 Gold Ingot
+2 Green Dye Powder
+# IE Crusher
+-> 1 Cactus Green
+6 Cactus Green
+# ID Mechanical Squeezer
+-> 1 Cactus
+1 Redstone Alloy Plate
+# Metal Press
+-> 1 Redstone Alloy Ingot
+3 Redstone Alloy Ingot
+# Smelter
+-> 1 Redstone
+-> 1 Glowstone
+-> 2 Constantan Ingot
+2 Constantan Ingot
+# Smelter
+-> 1 Copper Ingot
+-> 1 Nickel Ingot
+1 Redstone Block
+-> 9 Redstone
+1 Full Airship Set
+-> 14 Lead
+-> 6 Airship Balloon
+-> 8 Airship Engine
+-> 4 Airship Frame
+-> 4 Airship Igniter

@@ -1,0 +1,13 @@
+1 Reinforced Obsidian Box
+-> 100 Reinforced Obsidian
+1 Reinforced Obsidian
+-> 4 Grains of Infinity
+-> 4 Dark Iron Bars
+-> 1 Obsidian
+16 Dark Iron Bars
+-> 6 Dark Iron Ingot
+1 Dark Iron Ingot
+# Arc Furnace
+-> 1 Iron Ingot
+-> 1 dustCoal
+-> 1 Obsidian

@@ -1,0 +1,27 @@
+1 Pressure Chamber
+-> 49 Pressure Chamber Wall
+-> 3 Pressure Chamber Glass
+-> 1 Pressure Chamber Valve
+-> 1 Pressure Chamber Interface
+8 Pressure Chamber Wall
+-> 8 Compressed Iron Ingot
+4 Compressed Iron Ingot
+-> 1 Block of Iron
+1 Block of Iron
+-> 9 Iron Ingot
+16 Pressure Chamber Valve
+-> 1 Pressure Tube
+-> 8 Compressed Iron Ingot
+8 Pressure Tube
+-> 2 Compressed Iron Ingot
+-> 1 Glass Block
+8 Pressure Chamber Glass
+-> 8 Compressed Iron Ingot
+-> 1 Glass Block
+1 Pressure Chamber Interface
+-> 1 Hopper
+-> 1 Pressure Chamber Wall
+1 Hopper
+-> 5 Iron Plate
+-> 1 Chest
+-> 1 Bronze Gear

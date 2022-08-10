@@ -1,0 +1,57 @@
+1 SoulSteel Quests
+-> 1 Soulforged Steel Anvil
+-> 1 Steel Axle
+-> 1 Steel Gearbox
+1 Steel Gearbox
+# Soulforged Steel Anvil
+-> 8 Soulforged Steel Ingot
+-> 8 Soulforged Steel Gear
+-> 2 Redstone Latch
+1 Soulforged Steel Anvil
+-> 7 Soulforged Steel Ingot
+1 Soulforged Steel Gear
+# Soulforged Steel Anvil
+-> 4 Soulforged Steel Ingot
+-> 8 Soulforged Steel Nugget
+2 Steel Axle
+# Soulforged Steel Anvil
+-> 2 Soulforged Steel Gear
+-> 6 Soulforged Steel Nugget
+-> 2 Leather Belt
+1 Redstone Latch
+-> 3 Gold Nugget
+-> 1 Redstone
+9 Soulforged Steel Nugget
+-> 1 Soulforged Steel Ingot
+1 Leather Belt
+-> 4 Leather Strap
+-> 1 Slimeball
+4 Leather Strap
+# Crafting Table w/ Shears
+-> 1 Cut Leather
+2 Cut Leather
+# Crafting Table w/ Shears
+-> 1 Tanned Leather
+1 Soulforged Steel Ingot
+# Stoked Crucible
+-> 1 Soul Urn
+-> 1 Iron Ingot
+-> 1 Coal Dust
+-> 1 Soul Flux
+1 Soul Flux
+# Stoked Crucible
+-> 1 Ender Slag
+1 Ender Slag
+# Stoked Kiln
+-> 1 End Stone
+1 Coal Dust
+# Mill Stone
+-> 1 Coal
+1 Soul Urn
+# Filtered Hopper
+-> 1 Urn
+-> 8 Netherrack Dust
+1 Netherrack Dust
+# TR Grinder
+-> 1 Netherrack
+

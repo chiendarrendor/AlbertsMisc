@@ -1,0 +1,43 @@
+
+
+<jobs>
+	<job type="extract">
+		<name>WN_RADIO backfill extract</name>
+		<id>2707529</id>
+		<db>wnet2na</db>
+		<table>booker.wn_radio</table>
+		<file>radiodata_redshift_backfill_extract_{JOBRUN_DETAILS}.dat</file>
+		<color>green</color>
+	</job>
+	<job type="load">
+		<name>WN_RADIO backfill load</name>
+		<id>155723</id>
+		<db>l-dw-rsg</db>
+		<table>whispernet_ddl.wn_radio</table>
+		<file>radiodata_redshift_backfill_extract_{JOBRUN_DETAILS}.dat</file>
+		<color>green</color>
+	</job>
+	<job type="extract">
+		<name>WN_RADIO extract</name>
+		<id>2511364</id>
+		<db>wnet2na</db>
+		<table>booker.wn_radio</table>
+		<file>radiodata_na_daily_extract_{JOBRUN_DETAILS}.dat</file>
+	</job>
+	<job type="extract">
+		<name>WN_RADIO_ATTRIBUTES extract</name>
+		<id>4179537</id>
+		<db>wnet2na</db>
+		<table>whispernet_ddl.wn_radio_attributes</table>
+		<file>wn_radio_attributes_redshift_na_daily_extract_{JOBRUN_DETAILS}.dat</file>
+		<color>red</color>
+	</job>
+	<job type="load">
+		<name>WN_RADIO_ATTRIBUTES load</name>
+		<id>254193</id>
+		<db>l-dw</db>
+		<table>whispernet_ddl.wn_radio_attributes</table>
+		<file>wn_radio_attributes_redshift_na_daily_extract_{JOBRUN_DETAILS}.dat</file>
+		<color>red</color>
+	</job>
+</jobs>

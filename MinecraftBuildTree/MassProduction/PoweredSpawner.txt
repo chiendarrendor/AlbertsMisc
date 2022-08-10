@@ -1,0 +1,61 @@
+1 Powered Spawner
+-> 4 Electrical Steel Ingot
+-> 1 Skull
+-> 1 Soul Machine Chassis
+-> 2 Vibrant Crystal
+-> 1 Z-Logic Controller
+1 Electrical Steel Ingot
+# Arc Furnace
+-> 1 Iron Ingot
+-> 1 Powdered Coal
+-> 1 Silicon
+1 Silicon
+# Smelter
+-> 1 Crushed Quartz
+1 Crushed Quartz
+# Crusher
+-> 1 Nether Quartz
+1 Soul Machine Chassis
+-> 1 Simple Machine Chassis
+-> 1 Soul Attuned Dye Blend
+1 Simple Machine Chassis
+-> 4 Iron Rod
+-> 4 Iron Plate
+-> 1 Basic Capacitor
+1 Vibrant Crystal
+-> 1 Emerald
+-> 8 Vibrant Alloy Nugget
+9 Vibrant Alloy Nugget
+-> 1 Vibrant Alloy Ingot
+1 Vibrant Alloy Ingot
+# Alloy Smelter
+-> 1 Ender Pearl
+-> 1 Energetic Alloy Ingot
+1 Energetic Alloy Ingot
+# Arc Furnace
+-> 1 Gold Ingot
+-> 1 Redstone
+-> 1 Glowstone
+1 Z-Logic Controller
+# Slice'N'Splice
+-> 2 Solarium Ingot
+-> 1 Zombie Head
+-> 2 Silicon
+-> 1 Redstone
+1 SliceNSplice
+-> 4 Soularium Ingot
+-> 1 Skull
+-> 1 Soul Machine Chassis
+-> 1 Iron Bars
+-> 2 Energized Bimetal Gear
+1 Energized Bimetal Gear
+-> 1 Infinity Bimetal Gear
+-> 8 Energetic Alloy Nugget
+9 Energetic Alloy Nugget
+-> 1 Energetic Alloy Ingot
+1 Infinity Bimetal Gear
+-> 1 Grains of Infinity
+-> 4 Iron Ingot
+-> 4 Iron Nugget
+9 Iron Nugget
+-> 1 Iron Ingot

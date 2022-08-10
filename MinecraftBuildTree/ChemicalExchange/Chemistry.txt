@@ -1,0 +1,162 @@
+1 H
+-> 1 EMC
+1 O
+-> 2 EMC
+1 Si
+-> 8 EMC
+1 C
+-> 8 EMC
+1 Cl
+-> 16 EMC
+1 Hg
+-> 32 EMC
+1 S
+-> 32 EMC
+1 P
+-> 32 EMC
+1 N
+-> 32 EMC
+1 Os
+-> 64 EMC
+1 Nd
+-> 64 EMC
+1 In
+-> 64 EMC
+1 Mn
+-> 64 EMC
+1 Cr
+-> 64 EMC
+1 Ca
+-> 64 EMC
+1 K
+-> 64 EMC
+1 Al
+-> 64 EMC
+1 Mg
+-> 64 EMC
+1 Na
+-> 64 EMC
+1 Li
+-> 64 EMC
+1 Sn
+-> 96 EMC
+1 Fe
+-> 96 EMC
+1 Ra
+-> 128 EMC
+1 Pb
+-> 128 EMC
+1 Tm
+-> 128 EMC
+1 Ba
+-> 128 EMC
+1 I
+-> 128 EMC
+1 Sb
+-> 128 EMC
+1 Cd
+-> 128 EMC
+1 Ag
+-> 128 EMC
+1 Rh
+-> 128 EMC
+1 Ru
+-> 128 EMC
+1 Tc
+-> 128 EMC
+1 Sr
+-> 128 EMC
+1 Br
+-> 128 EMC
+1 Ge
+-> 128 EMC
+1 Ga
+-> 128 EMC
+1 Cu
+-> 128 EMC
+1 Au
+-> 256 EMC
+1 W
+-> 256 EMC
+1 Sm
+-> 256 EMC
+1 Se
+-> 256 EMC
+1 As
+-> 256 EMC
+1 Zn
+-> 256 EMC
+1 Ni
+-> 256 EMC
+1 Ne
+-> 256 EMC
+1 F
+-> 256 EMC
+1 B
+-> 256 EMC
+1 Be
+-> 256 EMC
+1 Dy
+-> 512 EMC
+1 Zr
+-> 512 EMC
+1 Co
+-> 512 EMC
+1 V
+-> 521 EMC
+1 Mt
+-> 1024 EMC
+1 No
+-> 1024 EMC
+1 Fm
+-> 1024 EMC
+1 Es
+-> 1024 EMC
+1 Emerald
+-> 8 Beryl
+-> 8 Cr
+-> 4 V
+1 Beryl
+-> 3 Be
+-> 2 Al
+-> 6 Si
+-> 18 O
+8 End Stone
+-> 2 Sandstone
+-> 1 Ender Pearl
+-> 1 Extraterrestrial Matter
+1 Sandstone
+-> 4 Sand
+1 Sand
+-> 4 Silicon Dioxide
+1 Silicon Dioxide
+-> 1 Si
+-> 2 O
+1 Ender Pearl
+-> 16 Si
+-> 16 Hg
+-> 16 Nd
+1 Redstone
+# Chemical Combiner
+-> 1 Iron Oxide
+-> 1 Strontium Carbonate
+1 Iron Oxide
+-> 2 Fe
+-> 3 O
+1 Strontium Carbonate
+-> 1 Sr
+-> 1 Carbonate
+1 Carbonate
+-> 1 C
+-> 3 O
+1 Energy Condenser
+-> 4 Obsidian
+-> 4 Ender Pearl
+-> 1 Alchemical Chest
+1 Alchemical Chest
+-> 3 Low Covalence Dust
+-> 2 Iron Ingot
+-> 1 Diamond
+-> 2 Stone
+-> 1 Chest
+

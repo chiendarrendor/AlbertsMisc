@@ -1,0 +1,109 @@
+1 Initial Setup
+-> 1 Grid
+-> 1 Disk Drive
+1 Controller
+-> 4 Quartz Enriched Iron
+-> 1 Advanced Processor
+-> 3 Silicon
+-> 1 Machine Casing
+1 Grid
+-> 2 Improved Processor
+-> 1 Quartz Enriched Iron
+-> 1 Machine Casing
+-> 3 Glass
+-> 1 Construction Core
+-> 1 Destruction Core
+1 Disk Drive
+-> 6 Quartz Enriched Iron
+-> 1 Chest
+-> 1 Machine Casing
+-> 1 Advanced Processor
+4 Quartz Enriched Iron
+-> 3 Iron Ingot
+-> 1 Nether Quartz
+1 Chest
+-> 8 Wood Plank
+1 Machine Casing
+-> 8 Quartz Enriched Iron
+-> 1 Stone
+1 Advanced Processor
+# Smelter
+-> 1 Raw Advanced Processor
+1 Raw Advanced Processor
+-> 1 Redstone
+-> 1 Diamond Nugget
+-> 1 Silicon
+-> 1 Processor Binding
+1 Silicon
+# Manufactory
+-> 1 Sand
+1 Glass
+# Smelter
+-> 1 Sand
+1 Processor Binding
+-> 2 String
+-> 1 Porcelain Clay
+1 Porcelain Clay
+-> 1 Clay Blob
+-> 1 Bone Meal
+1 String
+-> 3 Industrial Hemp Fiber
+1 Improved Processor
+# Smelter
+-> 1 Raw Improved Processor
+1 Raw Improved Processor
+-> 1 Gold Ingot
+-> 1 Processor Binding
+-> 1 Silicon
+-> 1 Redstone
+1 Basic Processor
+# Smelter
+-> 1 Raw Basic Processor
+1 Raw Basic Processor
+-> 1 Processor Binding
+-> 1 Iron Ingot
+-> 1 Silicon
+-> 1 Redstone
+1 Temp Modularium Set
+-> 1 Crafter
+-> 3 External Storage
+-> 4 Pattern
+-> 1 4k Storage Disk
+1 Crafter
+-> 4 Quartz Enriched Iron
+-> 1 Construction Core
+-> 1 Destruction Core
+-> 2 Advanced Processor
+-> 1 Machine Casing
+1 Pattern
+-> 3 Glass Block
+-> 3 Redstone
+-> 3 Quartz Enriched Iron
+1 External Storage
+-> 1 Construction Core
+-> 1 Destruction Core
+-> 1 Cable
+-> 2 Chest
+-> 3 Quartz Enriched Iron
+-> 1 Improved Processor
+1 Construction Core
+-> 1 Basic Processor
+-> 1 Diamond Nugget
+1 Destruction Core
+-> 1 Basic Processor
+-> 1 Nether Quartz
+1 4k Storage Disk
+-> 2 Glass Block
+-> 3 Redstone
+-> 3 Quartz Enriched Iron
+-> 1 4k Storage Part
+1 4k Storage Part
+-> 4 Basic Processor
+-> 3 1k Storage Part
+-> 1 Redstone
+-> 1 Quartz Enriched Iron
+1 1k Storage Part
+-> 4 Silicon
+-> 3 Glass Block
+-> 1 Quartz Enriched Iron
+-> 1 Redstone

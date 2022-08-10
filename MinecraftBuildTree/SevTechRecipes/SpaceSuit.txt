@@ -1,0 +1,854 @@
+1 Tier 1 Space Suit
+-> 1 Tier 1 Space Suit Helmet
+-> 1 Tier 1 Space Suit Chestplate
+-> 1 Tier 1 Space Suit Leggings
+-> 1 Tier 1 Space Suit Boots
+1 Tier 1 Space Suit Helmet
+-> 1 Tier 1 Un-Prepared Space Suit Helmet
+-> 1 Tier 1 Radiation Layer
+-> 1 Tier 1 Pressure Layer
+-> 2 Tier 1 Armor Layer
+1 Tier 1 Un-Prepared Space Suit Helmet
+-> 4 Aluminum Plate
+-> 1 IF Plastic
+1 Tier 1 Armor Layer
+# Compressor
+-> 4 Aluminum Ingot
+1 Tier 1 Radiation Layer
+-> 6 Lead Plate
+-> 2 Wool
+1 Tier 1 Pressure Layer
+-> 4 Wool
+-> 2 Oxygen Concentrator
+1 Oxygen Concentrator
+-> 4 Compressed Steel
+-> 3 Compressed Tin
+-> 1 Tin Cannister
+-> 1 Oxygen Vent
+1 Oxygen Vent
+-> 3 Compressed Tin
+-> 1 Compressed Steel
+1 Compressed Steel
+# Compressor
+-> 2 Steel Ingot
+1 Compressed Tin
+# Compressor
+-> 2 Tin Ingot
+2 Tin Cannister
+-> 7 Tin Ingot
+1 Aluminum Plate
+# Metal Press
+-> 1 Aluminum Ingot
+1 Lead Plate
+# Metal Press
+-> 1 Lead Ingot (any)
+1 Tier 1 Space Suit Chestplate
+-> 1 Tier 1 Un-Prepared Space Suit Chestplate
+-> 2 Tier 1 Armor Layer
+-> 1 Tier 1 Radiation Layer
+-> 1 Tier 1 Pressure Layer
+1 Tier 1 Un-Prepared Space Suit Chestplate
+-> 7 Aluminum Plate
+-> 1 IF Plastic
+1 Tier 1 Space Suit Leggings
+-> 1 Tier 1 Un-Prepared Space Suit Leggings
+-> 2 Tier 1 Armor Layer
+-> 1 Tier 1 Radiation Layer
+-> 1 Tier 1 Pressure Layer
+1 Tier 1 Un-Prepared Space Suit Leggings
+-> 6 Aluminum Plate
+-> 1 IF Plastic
+1 Tier 1 Space Suit Boots
+-> 1 Tier 1 Un-Prepared Space Suit Boots
+-> 2 Tier 1 Armor Layer
+-> 1 Tier 1 Radiation Layer
+-> 1 Tier 1 Pressure Layer
+1 Tier 1 Un-Prepared Space Suit Boots
+-> 2 Aluminum Plate
+-> 2 IF Plastic
+1 Tier 1 Rocket
+-> 3 Chest
+-> 1 Nose Cone
+-> 8 Heavy-Duty Plate
+-> 4 Rocket Fins
+-> 1 Tier 1 Rocket Engine
+1 Nose Cone
+-> 1 Redstone Torch
+-> 3 Heavy-Duty Plate
+1 Rocket Fins
+-> 4 Heavy-Duty Plate
+-> 2 Compressed Steel
+1 Tier 1 Rocket Engine
+-> 1 Button
+-> 1 Flint And Steel
+-> 4 Heavy-Duty Plate
+-> 1 Oxygen Vent
+-> 1 Tin Cannister
+2 Heavy-Duty Plate
+# Compressor
+-> 2 Compressed Steel
+-> 2 Compressed Aluminum
+-> 2 Compressed Bronze
+1 Compressed Aluminum
+# Compressor
+-> 2 Aluminum Ingot
+1 Compressed Bronze
+# Compressor
+-> 2 Bronze Ingot
+1 Compressed Copper
+# Compressor
+-> 2 Copper Ingot
+1 Launch Prep
+-> 2 Tin Cannister
+-> 1 Fuel Loader
+-> 1 Energy Storage Module
+-> 2 Battery
+2 Battery
+-> 5 Compressed Tin
+-> 1 Redstone Dust
+-> 1 Coal
+1 Energy Storage Module
+-> 3 Battery
+-> 6 Compressed Steel
+1 Fuel Loader
+-> 3 Compressed Copper
+-> 2 Compressed Tin
+-> 1 Tin Cannister
+-> 1 Logic Processor
+-> 1 Engineering Processor
+-> 1 Printed Circuit Board
+1 Logic Processor
+# Inscriber
+-> 1 Printed Logic Circuit
+-> 1 Redstone Dust
+-> 1 Printed Silicon
+1 Printed Silicon
+# Inscriber
+-> 1 Raw Silicon
+1 Engineering Processor
+# Inscriber
+-> 1 Printed Engineering Circuit
+-> 1 Redstone
+-> 1 Printed Silicon
+1 Printed Engineering Circuit
+# Inscriber
+-> 1 Heavy-Duty Plate
+1 Printed Logic Circuit
+# Inscriber
+-> 1 Gold Ingot
+1 Printed Circuit Board
+# PneumaticCraft
+-> 2 Certus Quartz
+-> 6 Redstone Dust
+-> 7 Compressed Iron Ingot
+-> 1 Green Plastic
+-> 3 Cyan Plastic
+-> 3 Black Plastic
+1 Buggy
+-> 3 Buggy Storage Box
+-> 4 Buggy Wheel
+-> 11 Heavy-Duty Plate
+-> 1 Buggy Seat
+1 Buggy Storage Box
+-> 6 Compressed Steel
+-> 2 Compressed Iron
+-> 1 Chest
+1 Buggy Seat
+-> 5 Compressed Steel
+-> 1 Compressed Iron
+1 Buggy Wheel
+-> 4 Leather
+-> 1 Compressed Steel
+1 Compressed Iron
+# Compressor
+-> 2 Iron Ingot
+1 Advanced Solar Panel
+-> 4 Compressed Steel
+-> 1 Steel Pole
+-> 2 Heavy Aluminum Wire
+-> 1 Advanced Wafer
+-> 1 Full Solar Panel
+1 Hybrid Solar Panel
+-> 5 Compressed Magnesium
+-> 4 Advanced Solar Panel
+1 Ultimate Solar Panel
+-> 4 Hybrid Solar Panel
+-> 5 Compressed Crystal
+2 Steel Pole
+-> 3 Compressed Steel
+1 Heavy Aluminum Wire
+-> 1 Aluminum Ingot
+-> 1 Aluminum Wire
+-> 1 Wool
+1 Full Solar Panel
+-> 6 Single Solar Module
+-> 3 Aluminum Wire
+6 Aluminum Wire
+-> 6 Wool
+-> 3 Aluminum Ingot
+1 Advanced Wafer
+# Circuit Fabricator
+-> 1 Diamond
+-> 2 Raw Silicon
+-> 1 Redstone Dust
+-> 1 Redstone Repeater
+2 Single Solar Module
+-> 3 Glass Block
+-> 3 Blue Solar Wafer
+-> 3 Aluminum Wire
+9 Blue Solar Wafer
+# Circuit Fabricator
+-> 1 Diamond
+-> 2 Raw Silicon
+-> 1 Redstone
+-> 1 Lapis Lazuli
+1 Tier 2 Rocket
+-> 3 Chest
+-> 1 Nose Cone
+-> 10 Tier 2 Heavy-Duty Plate
+-> 4 Rocket Fins
+-> 1 Tier 1 Rocket Engine
+-> 2 Tier 1 Booster
+1 Tier 2 Heavy-Duty Plate
+# Compressor
+-> 1 Heavy-Duty Plate
+-> 1 Compressed Meteoric Iron
+1 Compressed Meteoric Iron
+# Compressor
+-> 1 Meteoroic Iron Ingot
+1 Tier 1 Booster
+-> 4 Compressed Meteoric Iron
+-> 1 Yellow Wool
+-> 1 Filled Fuel Canister
+-> 2 Heavy-Duty Plate
+-> 1 Oxygen Vent
+1 Fuel Machinery
+-> 1 Gas Liquifier
+-> 1 Methane Synthesizer
+1 Gas Liquifier
+-> 1 Heavy Oxygen Tank
+-> 2 Medium Oxygen Tank
+-> 1 Oxygen Vent
+-> 1 Galacticraft Fluid Pipe
+-> 1 Fluid Manipulator
+-> 1 Oxygen Decompressor
+-> 1 Oxygen Compressor
+-> 1 Compressed Bronze
+1 Methane Synthesizer
+-> 2 Heavy Oxygen Tank
+-> 1 Oxygen Vent
+-> 2 Galacticraft Fluid Pipe
+-> 1 Fluid Manipulator
+-> 1 Electric Furnace
+-> 1 Oxygen Compressor
+-> 1 Compressed Bronze
+1 Heavy Oxygen Tank
+-> 3 Red Wool
+-> 3 Tin Canister
+-> 3 Compressed Steel
+1 Medium Oxygen Tank
+-> 2 Orange Wool
+-> 2 Tin Canister
+-> 2 Compressed Tin
+2 Tin Canister
+-> 7 Tin Ingot
+1 Fluid Manipulator
+-> 4 Meteoric Iron Ingot
+-> 2 Oxygen Fan
+-> 1 Advanced Wafer
+-> 2 Slimeball
+1 Oxygen Decompressor
+-> 4 Compressed Steel
+-> 2 Compressed Aluminum
+-> 1 Oxygen Fan
+-> 1 Redstone Torch
+-> 1 Oxygen Concentrator
+1 Oxygen Compressor
+-> 4 Compressed Steel
+-> 3 Compressed Aluminum
+-> 1 Compressed Bronze
+-> 1 Oxygen Concentrator
+1 Electric Furnace
+-> 5 Compressed Steel
+-> 2 Compressed Aluminum
+-> 1 Basic Wafer
+-> 1 Furnace
+3 Basic Wafer
+# Circuit Fabricator
+-> 1 Diamond
+-> 2 Raw Silicon
+-> 1 Redstone Dust
+-> 1 Redstone Torch
+1 Oxygen Fan
+-> 4 Compressed Steel
+-> 1 Invar Gear
+1 Water Electrolyzer
+-> 2 Heavy Oxygen Tank
+-> 1 Oxygen Vent
+-> 2 Galacticraft Fluid Pipe
+-> 1 Fluid Manipulator
+-> 2 Compressed Copper
+-> 1 Compressed Bronze
+1 Empty Canister
+-> 6 Compressed Tin
+-> 1 Compressed Steel
+-> 1 Glass Block
+-> 1 Tin Canister
+1 Martian Thermals
+-> 24 Thermal Cloth
+1 Thermal Cloth
+-> 4 Wool Raw
+-> 1 Redstone
+1 Wicker Block
+-> 4 Wicker
+1 Wicker
+-> 4 Sugar Cane
+1 Tier 3 Rocket
+-> 1 Heavy Nose Cone
+-> 3 Chest
+-> 10 Tier 3 Heavy-Duty Plate
+-> 2 Tier 1 Booster
+-> 4 Heavy Rocket Fin
+-> 1 Heavy Rocket Engine
+1 Heavy Nose Cone
+-> 1 Redstone Torch
+-> 3 Tier 3 Heavy-Duty Plate
+1 Heavy Rocket Fin
+-> 2 Tier 2 Heavy-Duty Plate
+-> 4 Tier 3 Heavy-Duty Plate
+1 Heavy Rocket Engine
+-> 1 Button
+-> 1 Flint and Steel
+-> 4 Tier 3 Heavy-Duty Plate
+-> 1 Tin Canister
+-> 1 Oxygen Vent
+1 Filled Fuel Canister
+# Rocket Fuel Storage
+-> 1 Empty Canister
+-> 1000 Fuel
+1 Tier 3 Heavy-Duty Plate
+# Compressor
+-> 1 Tier 2 Heavy-Duty Plate
+-> 1 Compressed Desh
+1 Compressed Desh
+# Compressor
+-> 1 Desh Ingot
+1 Thermal Tier 3
+-> 1 Tier 3 Thermal Padding Helm
+-> 1 Tier 3 Thermal Padding Chestplate
+-> 1 Tier 3 Thermal Padding Leggings
+-> 1 Tier 3 Thermal Padding Boots
+1 Tier 3 Thermal Cloth
+-> 5 Thermal Cloth
+-> 1 Compressed Desh
+1 Tier 3 Thermal Padding Helm
+-> 5 Tier 3 Thermal Cloth
+-> 1 Compressed Desh
+1 Tier 3 Thermal Padding Chestplate
+-> 8 Tier 3 Thermal Cloth
+-> 1 Compressed Desh
+1 Tier 3 Thermal Padding Leggings
+-> 7 Tier 3 Thermal Cloth
+-> 1 Compressed Desh
+1 Tier 3 Thermal Padding Boots
+-> 4 Tier 3 Thermal Cloth
+-> 1 Compressed Desh
+1 Tier 4 Rocket
+-> 3 Chest
+-> 1 Tier 4 Nose Cone
+-> 10 Tier 4 Heavy-Duty Plate
+-> 2 Tier 4 Booster
+-> 4 Tier 4 Rocket Fins
+-> 1 Tier 4 Rocket Engine
+1 Tier 4 Nose Cone
+-> 1 Redstone Torch
+-> 3 Tier 4 Heavy-Duty Plate
+1 Tier 4 Heavy-Duty Plate
+# Compressor
+-> 1 Tier 3 Heavy-Duty Plate
+-> 1 Compressed Carbon
+-> 4 Compressed Mercury
+1 Tier 4 Booster
+-> 1 Orange Wool
+-> 4 Compressed Carbon
+-> 2 Tier 4 Heavy-Duty Plate
+-> 1 Filled Fuel Canister
+-> 1 Oxygen Vent
+1 Tier 4 Rocket Fins
+-> 2 Titanium Ingot
+-> 4 Tier 4 Heavy-Duty Plate
+1 Tier 4 Rocket Engine
+-> 1 Flint and Steel
+-> 1 Button
+-> 4 Tier 4 Heavy-Duty Plate
+-> 1 Tin Canister
+-> 1 Oxygen Vent
+1 Compressed Carbon
+# Compressor
+-> 2 Carbon Ingot
+1 Compressed Mercury
+# Compressor
+-> 2 Mercury Ingot
+1 Astro Miner
+-> 2 Chest
+-> 4 Heavy-Duty Plate
+-> 5 Orion Drive
+-> 1 Advanced Wafer
+-> 1 Steel Pole
+-> 1 Beam Core
+1 Orion Drive
+-> 1 Diamond Ore
+-> 1 Lapis Lazuli Ore
+-> 1 Gold Ore
+-> 1 Redstone Ore
+-> 1 Coal Ore
+-> 1 Cheese Ore
+-> 1 Desh Ore
+-> 1 Ilmenite Ore
+-> 1 Beam Core
+1 Beam Core
+-> 4 Redstone Dust
+-> 4 Compressed Iron
+-> 1 Glass Pane
+1 Thermal Tier 4
+-> 1 Tier 4 Thermal Padding Helm
+-> 1 Tier 4 Thermal Padding Chestpiece
+-> 1 Tier 4 Thermal Padding Leggings
+-> 1 Tier 4 Thermal Padding Boots
+1 Tier 4 Thermal Padding Helm
+-> 5 Tier 4 Thermal Cloth
+-> 1 Compressed Carbon
+1 Tier 4 Thermal Padding Chestpiece
+-> 8 Tier 4 Thermal Cloth
+-> 1 Compressed Carbon
+1 Tier 4 Thermal Padding Leggings
+-> 7 Tier 4 Thermal Cloth
+-> 1 Compressed Carbon
+1 Tier 4 Thermal Padding Boots
+-> 4 Tier 4 Thermal Cloth
+-> 1 Compressed Carbon
+1 Tier 4 Thermal Cloth
+-> 5 Thermal Cloth
+-> 1 Compressed Carbon
+1 Tier 5 Rocket
+-> 3 Chest
+-> 1 Tier 5 Nose Cone
+-> 10 Tier 5 Heavy-Duty Plate
+-> 2 Tier 5 Booster
+-> 4 Tier 5 Rocket Fin
+-> 1 Tier 5 Rocket Engine
+1 Tier 5 Nose Cone
+-> 1 Redstone Torch
+-> 3 Tier 5 Heavy-Duty Plate
+1 Tier 5 Rocket Fin
+-> 4 Tier 5 Heavy-Duty Plate
+-> 2 Tier 4 Heavy-Duty Plate
+1 Tier 5 Rocket Engine
+-> 1 Button
+-> 1 Flint and Steel
+-> 4 Tier 5 Heavy-Duty Plate
+-> 1 Tin Canister
+-> 1 Oxygen Vent
+1 Tier 5 Booster
+-> 4 Compressed Palladium
+-> 2 Tier 5 Heavy-Duty Plate
+-> 1 Blue Wool
+-> 1 Filled Fuel Canister
+-> 1 Oxygen Vent
+1 Tier 5 Heavy-Duty Plate
+# Compressor
+-> 5 Compressed Palladium
+-> 1 Tier 4 Heavy-Duty Plate
+1 Compressed Palladium
+# Compressor
+-> 2 Palladium Ingot
+1 Tier 6 Rocket
+-> 1 Tier 6 Nose Cone
+-> 10 Tier 6 Heavy-Duty Plate
+-> 2 Tier 6 Booster
+-> 4 Tier 6 Rocket Fin
+-> 1 Tier 6 Rocket Engine
+-> 3 Chest
+1 Tier 6 Nose Cone
+-> 1 Redstone Torch
+-> 3 Tier 6 Heavy-Duty Plate
+1 Tier 6 Booster
+-> 4 Compressed Magnesium
+-> 1 Green Wool
+-> 1 Filled Fuel Canister
+-> 2 Tier 6 Heavy-Duty Plate
+-> 1 Oxygen Vent
+1 Tier 6 Rocket Fin
+-> 2 Tier 5 Heavy-Duty Plate
+-> 4 Tier 6 Heavy-Duty Plate
+1 Tier 6 Rocket Engine
+-> 1 Flint and Steel
+-> 1 Button
+-> 4 Tier 6 Heavy-Duty Plate
+-> 1 Tin Canister
+-> 1 Oxygen Vent
+1 Tier 6 Heavy-Duty Plate
+# Compressor
+-> 1 Tier 5 Heavy-Duty Plate
+-> 5 Compressed Magnesium
+1 Compressed Magnesium
+# Compressor
+-> 2 Magnesium Ingot
+1 Mars Rover
+-> 3 Chest
+-> 6 Tier 1 Wheel
+-> 13 Tier 2 Heavy-Duty Plate
+-> 1 Buggy Seat
+-> 1 Tier 1 Battery
+1 Tier 1 Wheel
+-> 4 Tier 2 Heavy-Duty Plate
+-> 1 Buggy Wheel
+1 Tier 1 Battery
+-> 4 Tier 2 Heavy-Duty Plate
+-> 5 Lead Ingot
+1 Venus Rover
+-> 4 Tier 2 Wheel
+-> 2 Tier 2 Battery
+-> 1 Buggy Seat
+-> 3 Chest
+-> 14 Tier 4 Heavy-Duty Plate
+1 Tier 2 Wheel
+-> 1 Tier 1 Wheel
+-> 4 Desh Ingot
+1 Tier 2 Battery
+-> 4 Desh Ingot
+-> 5 Lead Ingot
+1 Tier 5 Thermal Suit
+-> 1 Tier 5 Thermal Padding Helm
+-> 1 Tier 5 Thermal Padding Chestpiece
+-> 1 Tier 5 Thermal Padding Leggings
+-> 1 Tier 5 Thermal Padding Boots
+1 Tier 5 Thermal Padding Helm
+-> 5 Tier 5 Thermal Cloth
+-> 1 Compressed Magnesium
+1 Tier 5 Thermal Padding Chestpiece
+-> 8 Tier 5 Thermal Cloth
+-> 1 Compressed Magnesium
+1 Tier 5 Thermal Padding Leggings
+-> 7 Tier 5 Thermal Cloth
+-> 1 Compressed Magnesium
+1 Tier 5 Thermal Padding Boots
+-> 4 Tier 5 Thermal Cloth
+-> 1 Compressed Magnesium
+1 Tier 5 Thermal Cloth
+-> 5 Thermal Cloth
+-> 1 Compressed Magnesium
+1 Tier 4 Space Suit
+-> 1 Tier 4 Space Suit Helmet
+-> 1 Tier 4 Space Suit Chestplate
+-> 1 Tier 4 Space Suit Leggings
+-> 1 Tier 4 Space Suit Boots
+1 Tier 4 Space Suit Helmet
+-> 2 Tier 4 Armor Layer
+-> 1 Tier 4 Radiation Layer
+-> 1 Tier 4 Pressure Layer
+-> 1 Tier 4 Un-Prepared Space Suit Helmet
+1 Tier 4 Space Suit Chestplate
+-> 2 Tier 4 Armor Layer
+-> 1 Tier 4 Radiation Layer
+-> 1 Tier 4 Pressure Layer
+-> 1 Tier 4 Un-Prepared Space Suit Chestplate
+1 Tier 4 Space Suit Leggings
+-> 2 Tier 4 Armor Layer
+-> 1 Tier 4 Radiation Layer
+-> 1 Tier 4 Pressure Layer
+-> 1 Tier 4 Un-Prepared Space Suit Leggings
+1 Tier 4 Space Suit Boots
+-> 2 Tier 4 Armor Layer
+-> 1 Tier 4 Radiation Layer
+-> 1 Tier 4 Pressure Layer
+-> 1 Tier 4 Un-Prepared Space Suit Boots
+1 Tier 4 Armor Layer
+# Compressor
+-> 4 Zinc Ingot
+1 Tier 4 Radiation Layer
+-> 6 Lead Ingot (any)
+-> 2 Wool Cloth
+-> 1 Tier 3 Radiation Layer
+8 Wool Cloth
+-> 4 Wool
+1 Tier 3 Radiation Layer
+-> 6 Lead Ingot (any)
+-> 2 Wool Cloth
+-> 1 Tier 2 Radiation Layer
+1 Tier 2 Radiation Layer
+-> 6 Lead Ingot (any)
+-> 2 Wool Cloth
+-> 1 Tier 1 Radiation Layer
+1 Tier 4 Pressure Layer
+-> 6 Wool Cloth
+-> 2 Oxygen Concentrator
+-> 1 Tier 3 Pressure Layer
+1 Tier 3 Pressure Layer
+-> 6 Wool Cloth
+-> 2 Oxygen Concentrator
+-> 1 Tier 2 Pressure Layer
+1 Tier 2 Pressure Layer
+-> 6 Wool Cloth
+-> 2 Oxygen Concentrator
+-> 1 Tier 1 Pressure Layer
+1 Tier 4 Un-Prepared Space Suit Helmet
+-> 5 Zinc Ingot
+-> 1 Tier 3 Un-Prepared Space Suit Helmet
+1 Tier 3 Un-Prepared Space Suit Helmet
+-> 5 Palladium Ingot
+-> 1 Tier 2 Un-Prepared Space Suit Helmet
+1 Tier 2 Un-Prepared Space Suit Helmet
+-> 5 Titanium Ingot
+-> 1 Tier 1 Un-Prepared Space Suit Helmet
+1 Tier 4 Un-Prepared Space Suit Chestplate
+-> 8 Zinc Ingot
+-> 1 Tier 3 Un-Prepared Space Suit Chestplate
+1 Tier 3 Un-Prepared Space Suit Chestplate
+-> 5 Palladium Ingot
+-> 1 Tier 2 Un-Prepared Space Suit Chestplate
+1 Tier 2 Un-Prepared Space Suit Chestplate
+-> 5 Titanium Ingot
+-> 1 Tier 1 Un-Prepared Space Suit Chestplate
+1 Tier 4 Un-Prepared Space Suit Leggings
+-> 7 Zinc Ingot
+-> 1 Tier 3 Un-Prepared Space Suit Leggings
+1 Tier 3 Un-Prepared Space Suit Leggings
+-> 7 Palladium Ingot
+-> 1 Tier 2 Un-Prepared Space Suit Leggings
+1 Tier 2 Un-Prepared Space Suit Leggings
+-> 7 Titanium Ingot
+-> 1 Tier 1 Un-Prepared Space Suit Leggings
+1 Tier 4 Un-Prepared Space Suit Boots
+-> 4 Zinc Ingot
+-> 1 Tier 3 Un-Prepared Space Suit Boots
+1 Tier 3 Un-Prepared Space Suit Boots
+-> 4 Palladium Ingot
+-> 1 Tier 2 Un-Prepared Space Suit Boots
+1 Tier 2 Un-Prepared Space Suit Boots
+-> 4 Titanium Ingot
+-> 1 Tier 1 Un-Prepared Space Suit Boots
+1 Tier 7 Rocket
+# NASA Workbench
+-> 1 Tier 7 Nose Cone
+-> 3 Chest
+-> 10 Tier 7 Heavy-Duty Plate
+-> 2 Tier 7 Booster
+-> 4 Tier 7 Rocket Fin
+-> 1 Tier 7 Rocket Engine
+1 Tier 7 Nose Cone
+-> 1 Redstone Torch
+-> 3 Tier 7 Heavy-Duty Plate
+1 Tier 7 Booster
+-> 4 Compressed Crystal
+-> 2 Tier 7 Heavy-Duty Plate
+-> 1 Filled Fuel Canister
+-> 1 Oxygen Vent
+1 Tier 7 Rocket Fin
+-> 4 Tier 7 Heavy-Duty Plate
+-> 2 Tier 6 Heavy-Duty Plate
+1 Tier 7 Rocket Engine
+-> 1 Button
+-> 1 Flint & Steel
+-> 1 Tin Canister
+-> 1 Oxygen Vent
+-> 4 Tier 7 Heavy-Duty Plate
+1 Tier 7 Heavy-Duty Plate
+# Compressor
+-> 1 Tier 6 Heavy-Duty Plate
+-> 5 Compressed Reinforced Crystal
+1 Compressed Reinforced Crystal
+# Compressor
+-> 2 Compressed Crystal
+1 Compressed Crystal
+# Compressor
+-> 2 Crystal Ingot
+1 Tier 8 Rocket
+# NASA Workbench
+-> 3 Chest
+-> 1 Tier 8 Nose Cone
+-> 10 Tier 8 Heavy-Duty Plate
+-> 2 Tier 8 Booster
+-> 4 Tier 8 Rocket Fin
+-> 1 Tier 8 Rocket Engine
+1 Tier 8 Heavy-Duty Plate
+# Compressor
+-> 1 Tier 7 Heavy-Duty Plate
+-> 5 Zinc Ingot
+1 Zinc Ingot
+# Energized Smelter
+-> 1 Zinc Dust
+2 Zinc Dust
+# Actually Additions Crusher
+-> 1 Neptune Zinc Ore
+2 Crystal Ingot
+# Arc Furnace
+-> 1 Uranus Crystal Ore
+2 Magnesium Ingot
+# Arc Furnace
+-> 1 Saturn Magnesium Ore
+2 Palladium Ingot
+# Arc Furnace
+-> 1 Jupiter Palladium Ore
+2 Mercury Ingot
+# Arc Furnace
+-> 1 Mercury Ore
+2 Carbon Ingot
+# Arc Furnace
+-> 1 Mercury Carbon Ore
+2 Unrefined Desh
+# Actually Additions Crusher
+-> 1 Mars Desh Ore
+1 Desh Ingot
+# Smelter
+-> 1 Unrefined Desh
+1 Tier 8 Nose Cone
+-> 1 Redstone Torch
+-> 3 Tier 8 Heavy-Duty Plate
+1 Tier 8 Rocket Fin
+-> 4 Tier 8 Heavy-Duty Plate
+-> 2 Tier 7 Heavy-Duty Plate
+1 Tier 8 Rocket Engine
+-> 1 Button
+-> 1 Flint & Steel
+-> 4 Tier 8 Heavy-Duty Plate
+-> 1 Tin Canister
+-> 1 Oxygen Vent
+1 Tier 8 Booster
+-> 4 Zinc Ingot
+-> 1 Red Wool
+-> 1 Filled Fuel Canister
+-> 2 Tier 8 Heavy-Duty Plate
+-> 1 Oxygen Vent
+1 Tier 2 Launch Center
+-> 25 Tier 2 Rocket Launch Pad
+5 Tier 2 Rocket Launch Pad
+-> 3 Titanium Ingot
+-> 3 Compressed Titanium
+1 Titanium Ingot
+# Energized Smelter
+-> 1 Titanium Dust
+2 Titanium Dust
+# IE Crusher
+-> 1 Ilmenite Ore
+4 Compressed Titanium
+# MM Hydraulic Press
+-> 4 Titanium Ingot
+1 Tier 9 Rocket
+# NASA Workbench
+-> 3 Chest
+-> 1 Tier 9 Nose Cone
+-> 10 Tier 9 Heavy-Duty Plate
+-> 2 Tier 9 Booster
+-> 1 Tier 9 Rocket Engine
+-> 4 Tier 9 Rocket Fin
+1 Tier 9 Nose Cone
+-> 1 Redstone Torch
+-> 3 Tier 9 Heavy-Duty Plate
+1 Tier 9 Booster
+-> 1 Light Blue Wool
+-> 4 Compressed Tungsten
+-> 2 Tier 9 Heavy-Duty Plate
+-> 1 Filled Fuel Canister
+-> 1 Oxygen Vent
+1 Tier 9 Rocket Engine
+-> 1 Button
+-> 1 Flint & Steel
+-> 4 Tier 9 Heavy-Duty Plate
+-> 1 Tin Canister
+-> 1 Oxygen Vent
+1 Tier 9 Rocket Fin
+-> 4 Tier 9 Heavy-Duty Plate
+-> 2 Tier 8 Heavy-Duty Plate
+1 Tier 9 Heavy-Duty Plate
+# Compressor
+-> 1 Tier 8 Heavy-Duty Plate
+-> 5 Compressed Tungsten
+1 Compressed Tungsten
+# Compressor
+-> 2 Tungsten Ingot
+2 Tungsten Ingot
+# Arc Furnace
+-> 1 Pluto Tungsten Ore
+1 Tier 10 Rocket
+# NASA Workbench
+-> 3 Chest
+-> 1 Tier 10 Nose Cone
+-> 10 Tier 10 Heavy-Duty Plate
+-> 2 Tier 10 Booster
+-> 1 Tier 10 Rocket Engine
+-> 4 Tier 10 Rocket Fin
+1 Tier 10 Nose Cone
+-> 1 Redstone Torch
+-> 3 Tier 10 Heavy-Duty Plate
+1 Tier 10 Booster
+-> 1 Cyan Wool
+-> 4 Compressed Dark Iron
+-> 2 Tier 10 Heavy-Duty Plate
+-> 1 Filled Fuel Canister
+-> 1 Oxygen Vent
+1 Tier 10 Rocket Engine
+-> 1 Button
+-> 1 Flint & Steel
+-> 4 Tier 10 Heavy-Duty Plate
+-> 1 Tin Canister
+-> 1 Oxygen Vent
+1 Tier 10 Rocket Fin
+-> 4 Tier 10 Heavy-Duty Plate
+-> 2 Tier 9 Heavy-Duty Plate
+1 Tier 10 Heavy-Duty Plate
+# Compressor
+-> 1 Tier 9 Heavy-Duty Plate
+-> 5 Compressed Dark Iron
+1 Compressed Dark Iron
+# Compressor
+-> 2 Dark Iron Ingot
+2 Dark Iron Ingot
+# Arc Furnace
+-> 1 Eris Dark Iron Ore
+1 Tier 10 Electric Rocket
+# NASA Workbench
+-> 3 Chest
+-> 1 Tier 10 Nose Cone
+-> 4 Tier 10 Rocket Fin
+-> 1 Tier 10 Rocket Engine
+-> 2 Tier 10 Rocket
+-> 8 Compressed Space Platinum
+-> 2 Tier 2 Battery
+1 Compressed Space Platinum
+# Compressor
+-> 6 Space Platinum Ingot
+1 Space Platinum Ingot
+# Energized Smelter
+-> 1 Space Platinum Dust
+2 Space Platinum Dust
+# AA or IE Crusher
+-> 1 Kepler 22b Platinum Ore
+1 Final Two Rockets
+-> 1 Tier 10 Rocket
+-> 1 Tier 10 Electric Rocket
+1 Lead Ingot
+# Smelter
+-> 1 Venus Galena Ore
+1 Electric Launch
+-> 1 Electric Launch Pad
+-> 1 Vehicle Charger
+1 Electric Launch Pad
+-> 25 Powered Rocket Launch Pad
+5 Powered Rocket Launch Pad
+-> 3 Compressed Space Platinum
+-> 3 Space Platinum Ingot
+1 Vehicle Charger
+-> 6 Desh Ingot
+-> 3 Battery
+
+
+
+
+
+
+
+
+
+
+

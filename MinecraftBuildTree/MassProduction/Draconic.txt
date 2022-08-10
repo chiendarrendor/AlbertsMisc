@@ -1,0 +1,75 @@
+1 Grind the Gears
+-> 42 Awakened Core
+-> 0 Wyvern Tier Fusion Crafter
+-> 0 Basic Tier Fusion Crafter
+1 Awakened Core
+# Wyvern Tier Fusion Crafter
+-> 1 Nether Star
+-> 4 Wyvern Core
+-> 5 Awakened Draconium Ingot
+-> 9 MegaRF
+9 Awakened Draconium Ingot
+-> 1 Awakened Draconium Block
+4 Awakened Draconium Block
+# Wyvern Tier Fusion Crafter
+-> 4 Draconium Block
+-> 6 Draconic Core
+-> 1 Dragon Heart
+-> 350 MegaRF
+1 Draconium Block
+-> 9 Draconium Ingot
+1 Dragon Heart
+-> 1 Dead Ender Dragon
+1 Wyvern Core
+-> 1 Nether Star
+-> 4 Draconic Core
+-> 4 Draconium Ingot
+1 Draconic Core
+-> 4 Draconium Ingot
+-> 4 Gold Plate
+-> 1 Ultimate Control Circuit
+1 Wyvern Tier Fusion Crafter
+-> 1 Fusion Crafting Core
+-> 10 Wyvern Tier Fusion Crafting Injector
+1 Fusion Crafting Core
+-> 4 Lapis Lazuli Block
+-> 4 Diamond
+-> 1 Draconic Core
+1 Wyvern Tier Fusion Crafting Injector
+# Basic Tier Fusion Crafter
+-> 1 Basic Fusion Crafting Injector
+-> 1 Wyvern Core
+-> 2 Draconic Core
+-> 1 Draconium Block
+-> 4 Diamond
+-> 256 KiloRF
+1 Basic Tier Fusion Crafting Injector
+-> 2 Diamond
+-> 5 Stone
+-> 1 Iron Block
+-> 1 Draconic Core
+1 Basic Tier Fusion Crafter
+-> 1 Fusion Crafting Core
+-> 9 Basic Tier Fusion Crafting Injector
+1 Draconic Quest
+-> 1 Draconic Reactor Core
+-> 1 Chaotic Core
+1 Chaotic Fusion Crafter
+-> 10 Chaotic Fusion Crafting Injector
+1 Chaotic Fusion Crafting Injector
+# Draconic Tier Fusion Crafting
+-> 1 Draconic Fusion Crafting Injector
+-> 4 Diamond
+-> 1 Dragon Egg
+-> 1 Chaotic Core
+1 Chaotic Core
+# Draconic Tier Fusion Crafting
+-> 4 cAwakened Draconium Ingot
+-> 4 cAwakened Core
+-> 1 Chaos Shard
+1 Draconic Reactor Core
+# Chaotic Tier Fusion Crafting
+-> 0 Chaotic Fusion Crafter
+-> 1 Chaos Shard
+-> 4 cAwakened Draconium Ingot
+-> 3 Draconium Ingot

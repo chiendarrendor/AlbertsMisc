@@ -1,0 +1,166 @@
+1 Tier 1 Void Miner
+# Assembler
+-> 24 Structure Frame Tier 1
+-> 20 Structure Panel
+-> 2 Laser Core
+-> 1 Laser Lens
+-> 1 Void Ore Miner Controller Tier 1
+1 Tier 2 Void Miner
+# Assembler
+-> 1 Void Ore Miner Controller Tier 2
+-> 32 Structure Frame Tier 2
+-> 16 Structure Panel (reuse)
+-> 4 Null Modifier
+-> 3 Laser Core
+-> 1 Laser Lens
+1 Assembler
+-> 2 Obsidian
+-> 1 Litherite Crystal
+1 Structure Frame Tier 1
+-> 1 Iron Ingot
+-> 1 Interconnect
+-> 1 Lapis Lazuli
+-> 2 Litherite Crystal
+1 Interconnect
+-> 4 Connector
+-> 1 Black Concrete
+4 Connector
+-> 5 Redstone Dust
+-> 4 Iron Ingot
+8 Black Concrete Powder
+-> 1 Black Dye Powder
+-> 4 Sand
+-> 4 Gravel
+1 Black Concrete
+# Place next to running water
+-> 1 Black Concrete Powder
+1 Structure Panel
+-> 4 Gold Nugget
+-> 4 Iron Bars
+-> 1 Connector
+16 Iron Bars
+-> 6 Iron Bar
+2 Iron Bar
+# Metal Press
+-> 1 Iron Ingot
+1 Laser Lens
+-> 7 Glass Block
+1 Laser Core
+-> 4 Iron Ingot
+-> 3 Glass Block
+-> 2 Connector
+1 Void Ore Miner Controller Tier 1
+-> 1 Block of Diamond
+-> 4 Litherite Block
+-> 2 Interconnect
+-> 1 Diode (ET)
+-> 1 Laser Lens
+1 Block of Diamond
+# Metal Press
+-> 9 Diamond
+1 Litherite Block
+-> 9 Litherite Crystal
+1 Diode (ET)
+-> 7 Glass Block
+-> 1 Redstone Dust
+-> 1 Iron Ingot
+1 Structure Frame Tier 2
+-> 1 Gold Ingot
+-> 1 Structure Frame Tier 1
+-> 2 Erodium Crystal
+-> 1 Lapis Lazuli
+1 Void Ore Miner Controller Tier 2
+-> 1 Block of Diamond
+-> 6 Block of Erodium
+-> 1 Laser Lens
+-> 1 Void Ore Miner Controller Tier 1a
+1 Block of Erodium
+-> 9 Erodium Crystal
+1 Speed Modifier
+-> 4 Block of Redstone
+-> 2 Block of Mica
+-> 1 Null Modifier
+-> 1 Erodium Crystal
+-> 1 Lonsdaleite Crystal
+1 Null Modifier
+-> 4 Iron Ingot
+-> 4 Block of Glass
+-> 1 Interconnect
+1 Solar Array Tier 3
+-> 1 Solar Array Controller Tier 3
+-> 8 Null Modifier
+-> 32 Structure Frame Tier 3
+-> 49 Kyronite Solar Cell
+1 Kyronite Solar Cell
+-> 3 Kyronite Crystal
+-> 2 Photovoltaic Cell
+-> 1 Erodium Solar Cell
+1 Erodium Solar Cell
+-> 3 Erodium Crystal
+-> 2 Photovoltaic Cell
+-> 1 Litherite Solar Cell
+1 Litherite Solar Cell
+-> 3 Litherite Crystal
+-> 3 Photovoltaic Cell
+-> 2 Redstone Dust
+-> 1 Interconnect
+1 Photovoltaic Cell
+-> 4 Lapis Lazuli
+-> 1 Nether Quartz
+1 Solar Array Controller Tier 3
+-> 4 Kyronite
+-> 4 Kyronite Solar Cell
+-> 1 Solar Array Controller Tier 2
+1 Kyronite
+-> 9 Kyronite Crystal
+1 Solar Array Controller Tier 2
+-> 4 Erodium
+-> 4 Erodium Solar Cell
+-> 1 Solar Array Controller Tier 1
+1 Erodium
+-> 9 Erodium Crystal
+1 Solar Array Controller Tier 1
+-> 4 Litherite
+-> 4 Lapis Lazuli Block
+-> 1 Litherite Solar Cell
+1 Litherite
+-> 9 Litherite Crystal
+1 Lapis Lazuli Block
+-> 9 Lapis Lazuli
+1 Structure Frame Tier 3
+-> 1 Diamond
+-> 1 Nether Quartz
+-> 2 Kyronite Crystal
+-> 1 Structure Frame Tier 2
+1 Lightning System Tier 3
+-> 1 Lightning Controller Tier 3
+-> 5 Lightning Rod
+-> 5 Insulating Lightning Rod
+-> 4 Structure Frame Tier 3
+3 Lightning Rod
+-> 3 Block of Iron
+1 Insulating Lightning Rod
+-> 1 Lightning Rod
+-> 4 Block Glass
+1 Lightning Controller Tier 3
+-> 3 Block of Iron
+-> 1 Insulating Lightning Rod
+-> 4 Block of Kyronite
+-> 1 Lightning Controller Tier 2
+1 Lightning Controller Tier 2
+-> 3 Block of Iron
+-> 1 Insulating Lightning Rod
+-> 4 Block of Erodium
+-> 1 Lightning Controller Tier 1
+1 Lightning Controller Tier 1
+-> 2 Interconnect
+-> 4 Litherite Block
+-> 2 Insulating Lightning Rod
+-> 1 Block of Iron
+1 Block of Kyronite
+-> 9 Kyronite Crystal
+
+
+
+
+

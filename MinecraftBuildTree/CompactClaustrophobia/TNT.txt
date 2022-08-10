@@ -1,0 +1,18 @@
+1 TNT
+-> 5 Gunpowder
+-> 4 Sand
+1 Sand
+# Hammer
+-> 1 Gravel
+1 Gunpowder
+-> 4 Niter
+-> 1 Sulfur
+-> 1 Sawdust
+2 Niter
+-> 1 Sewage
+-> 1 Dust
+1 Nitrate Dust
+# IE Crusher
+-> 2 Sandstone
+1 Sandstone
+-> 4 Sand

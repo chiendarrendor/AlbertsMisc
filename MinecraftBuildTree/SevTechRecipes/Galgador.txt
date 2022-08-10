@@ -1,0 +1,101 @@
+1 Enhanced Galgadorian Ingot
+-> 1 Large Lump of Galgador
+1 Galgadorian Metal
+-> 1 Lump of Galgador
+1 Large Lump of Galgador
+-> 9 Lump of Galgador
+2 Lump of Galgador
+# Arc Furnace
+-> 1 Block of Platinum
+-> 3 Glowstone Dust
+-> 2 Stabilized Metal-old
+-> 3 Eye of Galgador -- new
+5 Stabilized Metal-old
+# Arc Furnace
+-> 1 Hardened Mesh
+-> 5 Iron Ingot
+-> 3 Refined Hardener
+2 Stabilized Metal-new
+# Amadron
+-> 5 Kerosene
+1 Hardened Mesh
+-> 5 Iron Bars
+-> 4 Refined Hardener
+1 Reinforced Metal
+# Smelter
+-> 1 Stabilized Metal-new
+1 Refined Hardener
+# Smelter
+-> 1 Raw Hardener
+1 Raw Hardener
+-> 4 Obsidan
+-> 1 Platinum Plate
+1 Eye of Galgador
+-> 4 Magma Cream
+-> 2 Ghast Tear
+-> 2 Fermented Spider Eye
+-> 1 Eye of Ender
+1 Magma Cream
+-> 1 Slime Ball
+1 Fermented Spider Eye
+-> 1 Spider Eye
+-> 1 Mushroom (Brown)
+-> 1 Sugar
+1 Eye of Ender
+-> 1 Ender Pearl
+1 Block of Platinum
+# Metal Press
+-> 9 Platinum Ingot
+1 Ultimate
+-> 1 Enhanced Galgadorian Ingot
+-> 1 Lump of Galgador
+1 Quarry
+-> 2 Iron Gear
+-> 2 Platinum Gear
+-> 2 Gold Gear
+-> 1 MM Machine Controller
+-> 1 Tesla Core Machine Case
+-> 1 Galgadorian Drill
+1 MM Machine Controller
+-> 4 Modularium Plate
+-> 1 LV Wire Coil
+-> 2 Redstone Alloy Gear
+-> 1 IE Circuit Board
+-> 1 MM Machine Casing
+2 MM Machine Casing
+-> 8 Modularium Plate
+1 Tesla Core Machine Case
+# Advanced Crafting
+-> 6 Compressed Iron Plate
+-> 10 IF Plastic
+-> 2 Stabilized Metal-new
+-> 1 PneumaticCraft Printed Circuit Board
+-> 3 Certus Quartz Crystal
+-> 2 Cobalt Plate
+-> 1 Black Iron Frame
+1 Black Iron Frame
+-> 4 Glass Block
+-> 4 Black Iron Ingot
+-> 1 Black Iron Plate
+1 Galgadorian Drill
+-> 2 Galgadorian Metal
+-> 3 Enhanced Galgadorian Ingot
+-> 1 Platinum Plate
+-> 1 Hardened Drill
+1 Hardened Drill
+-> 5 Reinforced Metal
+-> 1 Platinum Plate
+-> 1 Basic Drill
+1 Basic Drill
+-> 6 Steel Plate
+-> 1 Iron Drill
+1 Iron Drill
+-> 6 Iron Plate
+-> 1 Iron Drill Head
+1 Iron Drill Head
+-> 5 Iron Ingot
+-> 2 Iron Block
+1 Final Galgador
+-> 128 Galgadorian Metal
+-> 128 Enhanced Galgadorian Ingot
+

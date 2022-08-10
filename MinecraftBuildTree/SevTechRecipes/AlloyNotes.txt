@@ -1,0 +1,23 @@
+
+
+
+
+64 ingot Copper + 64 ingot Nickel = 128 ingot Constantan
+64 Ingot Constantan + 64 Redstone Dust + 64 Glowstone Dust = 128 ingot Redstone Alloy
+
+i.e.
+
+1 Ingot Copper + 1 Ingot Nickel = 2 Ingot Constantan
+
+1 Gem Redstone Dust + 1 Gem Glowstone Dust + 1 Ingot Constantan = 2 Ingot Redstone Alloy
+2 Gem Redstone Dust + 2 Gem Glowstone Dust + 1 Ingot Copper + 1 Ingot Nickel = 4 Ingot Redstone Alloy
+
+
+
+mb = milliBucket
+1 Gem = 100 mb
+1 Nugget = 16 mb
+1 Ingot = 9 Nugget
+1 Ingot = 144 mb
+9 Ingot = 1 Block
+1 Block = 1296 mb

@@ -1,0 +1,71 @@
+1 Coal Engine
+-> 1 Celestial Altar Array
+-> 2 Anvil
+-> 4 Sticky Piston
+-> 4 Steeleaf Rod
+-> 4 Fiery Gear
+-> 2 Ghast Tear
+-> 1 Carminite Reactor
+-> 1 Seared Furnace Controller
+-> 1 Cauldron
+-> 2 Gold Chest
+1 Celestial Altar Array
+-> 1 Celestial Altar
+-> 1 Celestial Altar Platform
+-> 4 Celestial Altar Arms
+-> 4 Spectral Relay Array
+1 Celestial Altar
+-> 2 Liveroot
+-> 2 Cave Illuminator
+-> 1 Firefly Jar
+-> 1 Rock Crystal
+-> 2 Decorative Mazestone Brick
+-> 2 Mazestone Mosaic
+-> 2 Chiseled Mazestone
+-> 1 Ironwood Ingot
+1 Cave Illuminator
+-> 4 Runed Marble
+-> 2 Illumination Powder
+-> 2 Aquamarine
+1 Seared Furnace Controller
+-> 7 Seared Brick
+-> 1 Furnace
+-> 1 Crimson Middle Gem
+8 Illumination Powder
+-> 4 Glass Shard
+-> 4 Pile of Sand
+-> 1 Aquamarine
+-> 1 Gunpowder
+8 Sooty Marble
+-> 8 Marble
+-> 1 Coal
+1 Spectral Relay Array
+-> 1 Spectral Relay
+-> 1 Glass Lens
+-> 1 Spectral Relay Platform
+1 Spectral Relay
+-> 2 Gold Nugget
+-> 1 Glass Lens
+-> 1 Marble
+-> 2 Planks
+1 Spectral Relay Platform
+-> 4 Chiseled Marble
+-> 4 Marble Arch
+-> 1 Sooty Marble
+1 Celestial Altar Platform
+-> 4 Runed Marble
+-> 40 Marble Bricks
+-> 49 Sooty Marble
+-> 12 Marble
+-> 8 Marble Pillar
+-> 4 Chiseled Marble
+1 Celestial Altar Arms
+-> 9 Marble
+1 Glass Lens
+-> 1 Aquamarine
+-> 4 Glass Pane
+1 Fiery Gear
+-> 4 Fiery Ingot
+1 Fiery Ingot
+-> 1 Iron Ingot
+-> 1 Fiery Blood or Tears

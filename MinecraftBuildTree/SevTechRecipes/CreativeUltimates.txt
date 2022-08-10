@@ -1,0 +1,237 @@
+1 Creative Air Compressor
+-> 4 Compressed Titanium
+-> 8 Compressed Meteoric Iron
+-> 10 Compressed Desh
+-> 2 The Ultimate Catalyst
+-> 4 Pressure Chamber Valve
+-> 4 4x Compressed Obsidian (Overloaded)
+-> 4 Compressed Obsidian (Mekanism)
+-> 8 Empowered Diamatine Crystal
+-> 4 Liquid Compressor
+-> 8 Empowered Emeradic Crystal
+-> 4 Compressed Diamond (Mekanism)
+-> 4 Flux Compressor
+-> 4 Elite Smelting Factory
+-> 4 Advanced Liquid Compressor
+-> 4 Quantum Compressor
+-> 4 Compressed Iron Singularity
+-> 1 8x Compressed Cobblestone (Overloaded)
+1 Creative Modifier
+-> 12 Slime Crystal
+-> 24 Tinkers Cast
+-> 8 Steve's Carts Blank Upgrade
+-> 4 Manyullyn Item Frame
+-> 4 Shard of Oblivion
+-> 4 Mob Masher Upgrade -- Looting
+-> 4 Mob Masher Upgrade -- Beheading
+-> 1 Redstone Singularity
+-> 1 Lapis Lazuli Singularity
+-> 1 Coal Singularity
+-> 1 Glowstone Singularity
+-> 4 Wither Bone
+-> 4 Mending Moss
+-> 4 Silky Jewel
+-> 4 Compressed Desh
+-> 1 Trumpet
+1 Creative Fluid Tank
+-> 4 Black Hole Tank (Industrial Foregoing)
+-> 4 Rune of Augmented Capacity (Blood Magic)
+-> 4 Dynamic Valve (Mekanism)
+-> 8 Insanium Ingot
+-> 4 Glass Singularity
+-> 4 Fuid Reader (Integrated Dynamics)
+-> 4 Sponge
+-> 8 The Ultimate Catalyst
+-> 4 Singularity Tank (mob_grinding_utils)
+-> 4 Enhanced Galgadorian Metal
+-> 4 Solid Lava
+-> 4 Theoretical Infinite Water Source
+-> 4 512k Fluid Storage Disk
+-> 4 Basic Fluid Tank (Mekanism)
+-> 4 Ender Bucket (Ender Utilities)
+-> 4 Infinite Water Source (Overloaded)
+-> 4 XP Drain Singularity Tank (mob_grinding_utils)
+-> 4 Blood Tank Tier 10 (Blood Magic)
+-> 1 Paperclip Singularity
+1 Creative Energy Cube
+-> 4 Dense Energy Cell (Applied Energistics)
+-> 20 Compressed Obsidian (Mekanism)
+-> 4 Hyper Energy Sender (Overloaded)
+-> 4 Advanced PowerCell (RFTools)
+-> 12 Paperclip
+-> 4 Energy Battery (Integrated Dynamics)
+-> 4 Solar Array Controller Tier 6 (Environmental Tech)
+-> 4 Basic Energy Cube (Mekanism)
+-> 4 Extreme Energy Laser Relay (Actually Additions)
+-> 4 Ultimate Furnace (Mystical Agriculture)
+-> 4 Basic Induction Cell (Mekanism)
+-> 4 Ultimate Control Circuit (Mekanism)
+-> 4 The Ultimate Catalyst (Extended Crafting)
+-> 5 Redstone Singularity
+1 Creative Flight Modifier
+-> 18 Mica
+-> 1 Vicio Mantle of Stars (Astral Sorcery)
+-> 1 Ender Dragon Syringe (RFTools)
+-> 1 Shulker Syringe (RFTools)
+-> 2 Elite Ender Pearl
+-> 2 Eagle Feather (Totemic)
+-> 4 Sigil of the Phantom Bridge (Blood Magic)
+-> 8 Ultimate Control Circuit (Mekanism)
+-> 8 Paperclip Singularity
+-> 8 Ink Sac
+-> 4 Cooked Ghast Meat
+-> 4 Air Sigil (Blood Magic)
+-> 2 Player Interface (Actually Additions)
+-> 1 Flight Environmental Module (RFTools)
+-> 2 Dragonfly Wing
+-> 2 Chiromaw Wing
+-> 2 Wireless Receiver (Applied Energistics)
+-> 2 Wing Charm (Cyclic)
+-> 4 Fire Jet (Twilight Forest)
+-> 2 Slime Sling
+-> 2 Slime Boots
+-> 1 Supremium Chestplate
+1 Creative Jetpack
+-> 6 Dragonfly Wing
+-> 2 Dragon Head
+-> 1 Armored Jetpack (Mekanism)
+-> 6 Chiromaw Wing
+-> 4 Carbon Wafer
+-> 1 Platinum Singularity
+-> 2 Elytra
+-> 4 Supremium Chestplate
+-> 2 The Ultimate Catalyst
+-> 1 Steel Singularity
+-> 4 Emerald Jetpack
+-> 1 Tin Singularity
+-> 8 Starmetal Ingot
+-> 1 V1 Airship
+-> 1 V2 Airship
+-> 1 V3 Airship
+-> 1 V4 Airship
+-> 6 Creative Energy Cell
+-> 2 Creative Thruster
+-> 8 Advanced Leaf Blower
+1 4x Compressed Obsidian (Overloaded)
+-> 9 3x Compressed Obsidian (Overloaded)
+1 3x Compressed Obsidian (Overloaded)
+-> 9 2x Compressed Obsidian (Overloaded)
+1 2x Compressed Obsidian (Overloaded)
+-> 9 1x Compressed Obsidian (Overloaded)
+1 1x Compressed Obsidian (Overloaded)
+-> 9 Obsidian
+1 1x Compressed Cobblestone (Overloaded)
+-> 9 Cobblestone
+1 2x Compressed Cobblestone (Overloaded)
+-> 9 1x Compressed Cobblestone (Overloaded)
+1 3x Compressed Cobblestone (Overloaded)
+-> 9 2x Compressed Cobblestone (Overloaded)
+1 4x Compressed Cobblestone (Overloaded)
+-> 9 3x Compressed Cobblestone (Overloaded)
+1 5x Compressed Cobblestone (Overloaded)
+-> 9 4x Compressed Cobblestone (Overloaded)
+1 6x Compressed Cobblestone (Overloaded)
+-> 9 5x Compressed Cobblestone (Overloaded)
+1 7x Compressed Cobblestone (Overloaded)
+-> 9 6x Compressed Cobblestone (Overloaded)
+1 8x Compressed Cobblestone (Overloaded)
+-> 9 7x Compressed Cobblestone (Overloaded)
+1 Rune of Augmented Capacity (Blood Magic)
+-> 4 Obsidian
+-> 1 Demonic Slate
+-> 2 Bucket
+-> 1 Rune of Capacity
+-> 0 Master Blood Orb
+1 Rune of Capacity
+-> 4 Stone
+-> 3 Bucket
+-> 1 Imbued Slate
+-> 1 Blank Rune
+1 Blank Rune
+-> 6 Stone
+-> 2 Blank Slate
+-> 0 Master Blood Orb
+1 Blank Slate
+# Blood Altar I
+-> 1 Stone
+-> 1000 LP
+1 Demonic Slate
+# Blood Altar IV
+-> 1 Imbued Slate
+-> 15000 LP
+1 Imbued Slate
+# Blood Altar III
+-> 1 Reinforced Slate
+-> 5000 LP
+1 Reinforced Slate
+# Blood Altar II
+-> 1 Blank Slate
+-> 2000 LP
+1 Blood Tank Tier 10 (Blood Magic)
+-> 5 Blank Rune
+-> 1 Large Bloodstone Tile
+-> 2 Blood Tank Tier 9
+1 Blood Tank Tier 9
+-> 5 Blank Rune
+-> 1 Large Bloodstone Tile
+-> 2 Blood Tank Tier 8
+1 Blood Tank Tier 8
+-> 5 Blank Rune
+-> 1 Large Bloodstone Tile
+-> 2 Blood Tank Tier 7
+1 Blood Tank Tier 7
+-> 5 Blank Rune
+-> 1 Large Bloodstone Tile
+-> 2 Blood Tank Tier 6
+1 Blood Tank Tier 6
+-> 5 Blank Rune
+-> 1 Large Bloodstone Tile
+-> 2 Blood Tank Tier 5
+1 Blood Tank Tier 5
+-> 5 Blank Rune
+-> 1 Large Bloodstone Tile
+-> 2 Blood Tank Tier 4
+1 Blood Tank Tier 4
+-> 5 Blank Rune
+-> 1 Large Bloodstone Tile
+-> 2 Blood Tank Tier 3
+1 Blood Tank Tier 3
+-> 5 Blank Rune
+-> 1 Large Bloodstone Tile
+-> 2 Blood Tank Tier 2
+1 Blood Tank Tier 2
+-> 5 Blank Rune
+-> 1 Large Bloodstone Tile
+-> 2 Blood Tank Tier 1
+1 Blood Tank Tier 1
+-> 5 Blank Rune
+-> 1 Large Bloodstone Tile
+-> 2 Glass Block
+16 Large Bloodstone Tile
+-> 1 Stone
+-> 1 Weak Blood Shard
+1 Solid Lava
+# Abyssal Transmutator
+-> 0 Transmutator
+-> 1 Lava Bucket
+1 Transmutator
+-> 5 Coralium Brick
+-> 1 Transmutation Gem
+-> 2 Refined Coralium Block
+-> 1 Liquid Coralium Bucket
+1 Coralium Brick
+# Smelter
+-> 1 Coralium Stone
+1 Coralium Stone
+# Smelter
+-> 1 Coralium Cobblestone
+1 Refined Coralium Block
+# Metal Press
+-> 9 Refined Coralium Ingot
+1 Refined Coralium Ingot
+# Energized Smelter
+-> 1 Refined Coralium Dust
+2 Refined Coralium Dust
+# Actually Additions Crusher
+-> 2 Liquified Coralium Ore
+

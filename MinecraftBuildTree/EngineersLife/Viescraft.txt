@@ -1,0 +1,299 @@
+1 Chiens Partial Set
+-> 1 Core Upgrade Tier 1
+-> 1 Core Upgrade Tier 2
+-> 1 Core Upgrade Tier 3
+-> 1 Core Upgrade Tier 4
+-> 1 Core Upgrade Tier 5
+-> 1 Frame Upgrade Tier 1
+-> 1 Frame Upgrade Tier 2
+-> 1 Frame Upgrade Tier 3
+-> 1 Frame Upgrade Tier 4
+-> 1 Frame Upgrade Tier 5
+-> 1 Engine Upgrade Tier 1
+-> 1 Engine Upgrade Tier 2
+-> 1 Engine Upgrade Tier 3
+-> 1 Engine Upgrade Tier 4
+-> 1 Engine Upgrade Tier 5
+-> 1 Balloon Upgrade Tier 2
+-> 1 Balloon Upgrade Tier 3
+-> 1 Balloon Upgrade Tier 4
+-> 1 Balloon Upgrade Tier 5
+-> 1 Lesser Altitude Module
+-> 1 Altitude Module
+-> 1 Greater Altitude Module
+-> 1 Lesser Speed Module
+-> 1 Speed Module
+-> 1 Greater Speed Module
+-> 1 Lesser Fuel Efficiency Module
+-> 1 Fuel Efficiency Module
+-> 1 Greater Fuel Efficiency Module
+1 Whole Set
+-> 1 Airship
+-> 1 Core Upgrade Tier 1
+-> 1 Core Upgrade Tier 2
+-> 1 Core Upgrade Tier 3
+-> 1 Core Upgrade Tier 4
+-> 1 Core Upgrade Tier 5
+-> 1 Frame Upgrade Tier 1
+-> 1 Frame Upgrade Tier 2
+-> 1 Frame Upgrade Tier 3
+-> 1 Frame Upgrade Tier 4
+-> 1 Frame Upgrade Tier 5
+-> 1 Engine Upgrade Tier 1
+-> 1 Engine Upgrade Tier 2
+-> 1 Engine Upgrade Tier 3
+-> 1 Engine Upgrade Tier 4
+-> 1 Engine Upgrade Tier 5
+-> 1 Balloon Upgrade Tier 1
+-> 1 Balloon Upgrade Tier 2
+-> 1 Balloon Upgrade Tier 3
+-> 1 Balloon Upgrade Tier 4
+-> 1 Balloon Upgrade Tier 5
+-> 1 Lesser Altitude Module
+-> 1 Altitude Module
+-> 1 Greater Altitude Module
+-> 1 Lesser Speed Module
+-> 1 Speed Module
+-> 1 Greater Speed Module
+-> 1 Lesser Fuel Efficiency Module
+-> 1 Fuel Efficiency Module
+-> 1 Greater Fuel Efficiency Module
+1 Airship
+-> 4 Lead
+-> 1 Airship Balloon
+-> 2 Airship Engine
+-> 1 Airship Frame
+-> 1 Airship Core
+2 Lead
+-> 4 String
+-> 1 Slimeball
+1 Airship Balloon
+-> 1 Hemp Rope
+-> 8 Tanned Leather
+1 Airship Frame
+-> 4 Iron Ingot
+-> 4 Logic Chip
+-> 1 Minecart
+1 Minecart
+-> 5 Iron Ingot
+1 Logic Chip
+-> 1 Iron Plate
+-> 1 IE Circuit Board
+-> 1 Glue
+1 Eye of Ender
+-> 1 Ender Pearl
+-> 1 Blaze Powder
+1 Airship Core
+-> 4 Iron Ingot
+-> 1 Iron Bars
+-> 2 Diamond
+-> 1 Magma Block
+-> 1 Gold Ingot
+1 Airship Engine
+-> 4 Iron Ingot
+-> 1 Iron Bars
+-> 1 Redstone Block
+-> 2 Piston
+1 Core Upgrade Tier 1
+-> 1 Airship Core
+-> 2 Iron Ingot
+-> 2 Logic Chip
+-> 4 Core Shard
+4 Core Shard
+-> 2 Logic Chip
+-> 1 Iron Ingot
+-> 1 Gold Ingot
+-> 3 Glass Block
+1 Core Upgrade Tier 2
+-> 1 Airship Core
+-> 2 Gold Ingot
+-> 2 Logic Chip
+-> 4 Core Shard
+1 Core Upgrade Tier 3
+-> 1 Airship Core
+-> 2 Diamond
+-> 2 Logic Chip
+-> 4 Core Shard
+1 Core Upgrade Tier 4
+-> 1 Airship Core
+-> 2 Emerald
+-> 2 Logic Chip
+-> 4 Core Shard
+1 Core Upgrade Tier 5
+-> 1 Airship Core
+-> 2 Eye of Ender
+-> 2 Logic Chip
+-> 4 Core Shard
+4 Frame Casing
+-> 3 Iron Bars
+-> 2 Logic Chip
+-> 1 Gold Ingot
+-> 1 Iron Ingot
+1 Frame Upgrade Tier 1
+-> 4 Frame Casing
+-> 2 Iron Ingot
+-> 1 Airship Frame
+-> 2 Logic Chip
+1 Frame Upgrade Tier 2
+-> 4 Frame Casing
+-> 2 Gold Ingot
+-> 1 Airship Frame
+-> 2 Logic Chip
+1 Frame Upgrade Tier 3
+-> 4 Frame Casing
+-> 2 Diamond
+-> 1 Airship Frame
+-> 2 Logic Chip
+1 Frame Upgrade Tier 4
+-> 4 Frame Casing
+-> 2 Emerald
+-> 1 Airship Frame
+-> 2 Logic Chip
+1 Frame Upgrade Tier 5
+-> 4 Frame Casing
+-> 2 Eye of Ender
+-> 1 Airship Frame
+-> 2 Logic Chip
+4 Engine Fragment
+-> 1 Gold Ingot
+-> 1 Blaze Rod
+-> 2 Iron Ingot
+-> 1 Logic Chip
+1 Engine Upgrade Tier 1
+-> 4 Engine Fragment
+-> 2 Iron Ingot
+-> 1 Airship Engine
+-> 2 Logic Chip
+1 Engine Upgrade Tier 2
+-> 4 Engine Fragment
+-> 2 Gold Ingot
+-> 1 Airship Engine
+-> 2 Logic Chip
+1 Engine Upgrade Tier 3
+-> 4 Engine Fragment
+-> 2 Diamond
+-> 1 Airship Engine
+-> 2 Logic Chip
+1 Engine Upgrade Tier 4
+-> 4 Engine Fragment
+-> 2 Emerald
+-> 1 Airship Engine
+-> 2 Logic Chip
+1 Engine Upgrade Tier 5
+-> 4 Engine Fragment
+-> 2 Eye of Ender
+-> 1 Airship Engine
+-> 2 Logic Chip
+1 Balloon Remnant
+-> 5 Tanned Leather
+-> 2 Logic Chip
+-> 1 Gold Ingot
+-> 1 Iron Ingot
+1 Balloon Upgrade Tier 1
+-> 4 Balloon Remnant
+-> 2 Iron Ingot
+-> 1 Airship Balloon
+-> 2 Logic Chip
+1 Balloon Upgrade Tier 2
+-> 4 Balloon Remnant
+-> 2 Gold Ingot
+-> 1 Airship Balloon
+-> 2 Logic Chip
+1 Balloon Upgrade Tier 3
+-> 4 Balloon Remnant
+-> 2 Diamond
+-> 1 Airship Balloon
+-> 2 Logic Chip
+1 Balloon Upgrade Tier 4
+-> 4 Balloon Remnant
+-> 2 Emerald
+-> 1 Airship Balloon
+-> 2 Logic Chip
+1 Balloon Upgrade Tier 5
+-> 4 Balloon Remnant
+-> 2 Eye of Ender
+-> 1 Airship Balloon
+-> 2 Logic Chip
+1 Module Chip
+-> 1 Logic Chip
+-> 1 Emerald
+1 Lesser Altitude Module
+-> 2 Glowstone
+-> 1 Feather
+-> 1 Redstone Torch
+-> 2 Nether Quartz
+-> 2 Module Chip
+-> 1 Weighted Pressure Plate (Heavy)
+1 Altitude Module
+-> 3 Diamond
+-> 1 Lesser Altitude Module
+-> 2 Nether Quartz
+-> 2 Module Chip
+-> 1 Weighted Pressure Plate (Heavy)
+1 Greater Altitude Module
+-> 3 Emerald
+-> 2 Nether Quartz
+-> 1 Altitude Module
+-> 2 Module Chip
+-> 1 Weighted Pressure Plate (Heavy)
+3 Fire Charge
+-> 1 Gunpowder
+-> 1 Blaze Powder
+-> 1 Coal
+1 Lesser Speed Module
+-> 2 Gunpowder
+-> 1 Flint
+-> 2 Nether Quartz
+-> 1 Fire Charge
+-> 2 Module Chip
+-> 1 Weighted Pressure Plate (Heavy)
+1 Speed Module
+-> 3 Diamond
+-> 1 Lesser Speed Module
+-> 2 Nether Quartz
+-> 2 Module Chip
+-> 1 Weighted Pressure Plate (Heavy)
+1 Greater Speed Module
+-> 3 Emerald
+-> 1 Speed Module
+-> 2 Nether Quartz
+-> 2 Module Chip
+-> 1 Weighted Pressure Plate (Heavy)
+1 Lesser Fuel Efficiency Module
+-> 3 Blaze Powder
+-> 1 Stone Pressure Plate
+-> 2 Nether Quartz
+-> 2 Module Chip
+-> 1 Weighted Pressure Plate (Heavy)
+1 Fuel Efficiency Module
+-> 3 Diammond
+-> 1 Lesser Fuel Efficiency Module
+-> 2 Nether Quartz
+-> 2 Module Chip
+-> 1 Weighted Pressure Plate (Heavy)
+1 Greater Fuel Efficiency Module
+-> 3 Emerald
+-> 1 Fuel Efficiency Module
+-> 2 Nether Quartz
+-> 2 Module Chip
+-> 1 Weighted Pressure Plate (Heavy)
+1 IE Circuit Board
+# Thermionic Fabricator
+-> 1 Redstone
+-> 1 Copper Wire
+-> 2 Vacuum Tube
+-> 2 Insulating Glass
+-> 1 Copper Plate
+2 Insulating Glass
+-> 2 Glass Block
+-> 2 Iron Dust
+-> 1 Green Dye
+3 Vacuum Tube
+# Thermionic Fabricator
+-> 3 Redstone
+-> 3 Copper Wire
+-> 3 Nickel Plate
+2 Copper Wire
+# Metal Press
+-> 1 Copper Ingot
+

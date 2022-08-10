@@ -1,0 +1,192 @@
+1 Obsidian Equipment
+-> 1 Flawless Calculator
+-> 1 Atomic Calculator
+-> 1 Calculator
+-> 1 Conductor Mast
+-> 1 Algorithm Separator
+-> 1 Scientific Calculator
+1 Flawless Calculator
+-> 4 Flawless Diamond
+-> 2 Diamond
+-> 1 End Diamond
+-> 1 Flawless Assembly
+-> 1 Calculator Screen
+1 Flawless Diamond
+# 1 Atomic Calculator
+-> 2 Diamond
+-> 1 Atomic Binder
+8 Atomic Binder
+-> 4 Reinforced Stone
+-> 1 Enriched Gold
+4 Reinforced Stone
+# Calculator
+-> 1 Cobblestone
+-> 1 Wood
+4 Enriched Gold
+# Calculator
+-> 1 Gold
+-> 1 Redstone
+1 End Diamond
+# Atomic Calculator
+-> 1 End Stone
+-> 1 Electric Diamond
+-> 1 Obsidian
+1 Electric Diamond
+# Electric Mast
+-> 1 Fire Diamond
+1 Fire Diamond
+# Atomic Calculator
+-> 2 Diamond
+-> 1 Blaze Rod
+1 Calculator Screen
+-> 8 Cobblestone
+-> 1 Redstone
+1 Flawless Assembly
+-> 4 Advanced Assembly
+-> 4 Calculator Assembly
+-> 1 Atomic Assembly
+1 Atomic Assembly
+-> 1 Emerald
+-> 4 Advanced Assembly
+-> 4 Atomic Module
+4 Atomic Module
+-> 4 Tanzanite
+-> 4 Calculator Assembly
+-> 1 Diamond
+8 Calculator Assembly
+-> 5 Cobblestone
+-> 4 Button
+1 Button
+-> 1 Stone
+4 Advanced Assembly
+-> 4 Enriched Gold Ingot
+-> 1 Reinforced Iron Ingot
+-> 4 Calculator Assembly
+1 Enriched Gold Ingot
+# Smelter
+-> 1 Enriched Gold
+1 Reinforced Iron Ingot
+# Calculator
+-> 1 Iron Ingot
+-> 1 Reinforced Stone
+1 Tanzanite
+# Algorithm Separator
+-> 1 Lapis Lazuli
+1 Algorithm Separator
+-> 4 Reinforced Iron Block
+-> 2 Power Cube
+-> 2 Stone Separator
+-> 1 Diamond
+1 Reinforced Iron Block
+-> 9 Reinforced Iron Ingot
+1 Power Cube
+-> 8 Cobblestone
+-> 1 Furnace
+1 Furnace
+-> 8 Cobblestone
+1 Stone Separator
+-> 6 Reinforced Stone
+-> 2 Power Cube
+-> 1 Reinforced Iron Ingot
+1 Conductor Mast
+# Atomic Calculator
+-> 2 Energy Module
+-> 1 Fire Diamond
+1 Energy Module
+# Scientific Calculator
+-> 1 Power Cube
+-> 1 Purified Coal
+1 Purified Coal
+# Scientific Calculator
+-> 1 Enriched Coal
+-> 1 Enriched Gold Ingot
+1 Enriched Coal
+# Calculator
+-> 1 Coal
+-> 1 Redstone
+1 Calculator
+-> 5 Cobblestone
+-> 1 Calculator Screen
+-> 1 Calculator Assembly
+-> 2 Button
+1 Scientific Calculator
+-> 4 Enriched Gold Ingot
+-> 2 Reinforced Stone
+-> 2 Calculator Assembly
+-> 1 Calculator Screen
+1 Atomic Calculator
+-> 4 Reinforced Stone
+-> 3 Diamond
+-> 1 Atomic Assembly
+-> 1 Calculator Screen
+1 Atomic Multiplier
+-> 2 Calculator Plug
+-> 1 Fabrication Chamber
+-> 2 Atomic Module
+-> 1 Atomic Assembly
+-> 1 End Diamond
+-> 2 Stable Stone
+2 Stable Stone
+# Calculator
+-> 2 Reinforced Stone Brick
+2 Reinforced Stone Brick
+-> 2 Reinforced Stone
+1 Calculator Plug
+-> 1 Energy Module
+-> 2 Advanced Assembly
+-> 1 Stable Stone
+-> 3 Redstone Ingot
+2 Redstone Ingot
+# Algorithm Separator
+-> 1 Redstone
+1 Fabrication Chamber
+-> 2 Reinforced Iron Ingot
+-> 2 Reinforced Iron Block
+-> 1 Storage Chamber
+1 Storage Chamber
+# Atomic Calculator
+-> 2 Reinforced Iron Block
+-> 1 Reinforced Chest
+1 Reinforced Chest
+-> 1 Chest
+-> 4 Reinforced Iron Block
+-> 4 Reinforced Stone
+1 Circuit Tools
+-> 1 Storage Chamber
+-> 1 Processing Chamber
+-> 1 Wrench
+-> 1 Analyzing Chamber
+1 Wrench
+# Calculator
+-> 1 Reinforced Sword
+-> 1 Reinforced Pickaxe
+1 Reinforced Sword
+-> 2 Reinforced Stone
+-> 1 Stick
+1 Reinforced Pickaxe
+-> 3 Reinforced Stone
+-> 2 Stick
+1 Processing Chamber
+# Atomic Calculator
+-> 1 Reassembly Chamber
+-> 1 Flawless Diamond
+-> 1 Restoration Chamber
+1 Analyzing Chamber
+-> 4 Reinforced Iron Block
+-> 4 Weakened Diamond
+-> 1 Advanced Assembly
+1 Reassembly Chamber
+-> 4 Enriched Gold
+-> 4 Weakened Diamond
+-> 1 Extraction Chamber
+1 Restoration Chamber
+-> 4 Redstone Ingot
+-> 4 Weakened Diamond
+-> 1 Extraction Chamber
+4 Weakened Diamond
+# Algorithm Separator
+-> 1 Diamond
+1 Extraction Chamber
+-> 4 Weakened Diamond
+-> 4 Reinforced Stone
+-> 1 Power Cube
