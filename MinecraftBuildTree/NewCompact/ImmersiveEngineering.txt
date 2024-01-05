@@ -1,0 +1,27 @@
+1 Coke Oven
+# world
+-> 27 Coke Brick
+3 Coke Brick
+-> 4 Clay Blob
+-> 4 Brick
+-> 1 Sandstone
+4 Clay Blob
+-> 1 Clay
+1 Clay
+# Barrel
+-> 1 Dust
+-> 1 Water
+1 Brick
+# Furnace
+-> 1 Clay Blob
+1 Sandstone
+-> 4 Sand
+1 Dust
+# Hammer
+-> 1 Sand
+1 Sand
+# IE Crusher
+-> 1 Gravel
+1 Gravel
+# IE Crusher
+-> 1 Cobblestone

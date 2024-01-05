@@ -1,0 +1,110 @@
+1 Crafting Grid
+-> 1 Grid
+-> 1 Crafting Table
+-> 1 Advanced Processor
+1 Advanced Processor
+# Furnace
+-> 1 Raw Advanced Processor
+1 Raw Advanced Processor
+-> 1 Diamond Nugget
+-> 1 Redstone
+-> 1 Silicon
+-> 1 Processor Binding
+1 Processor Binding
+-> 2 String
+-> 1 Porcelain Clay
+1 Porcelain Clay
+-> 1 Bone Meal
+-> 1 Clay Blob
+1 Crafting Table
+-> 4 Wood Plank
+1 Grid
+-> 2 Improved Processor
+-> 1 Quartz Enriched Iron Ingot
+-> 1 Construction Core
+-> 1 Destruction Core
+-> 1 Machine Casing
+-> 3 Glass
+1 Construction Core
+-> 1 Basic Processor
+-> 1 Diamond Nugget
+1 Destruction Core
+-> 1 Basic Processor
+-> 1 Nether Quartz
+1 Basic Processor
+# Furnace
+-> 1 Raw Basic Processor
+1 Raw Basic Processor
+-> 1 Processor Binding
+-> 1 Silicon
+-> 1 Redstone
+-> 1 Iron Ingot
+1 Improved Processor
+# Furnace
+-> 1 Raw Improved Processor
+1 Raw Improved Processor
+-> 1 Processor Binding
+-> 1 Silicon
+-> 1 Redstone
+-> 1 Gold Ingot
+1 Machine Casing
+-> 8 Quartz Enriched Iron Ingot
+-> 1 Stone
+4 Quartz Enriched Iron Ingot
+-> 3 Iron Ingot
+-> 1 Nether Quartz
+1 Pattern Grid
+-> 1 Grid
+-> 1 Pattern
+-> 1 Advanced Processor
+1 Pattern
+-> 3 Glass
+-> 3 Redstone
+-> 3 Quartz Enriched Iron Ingot
+1 Minimal Reborn Unit
+# world
+-> 1 Crafting Storage
+-> 1 Crafting CPU
+-> 24 Crafting Frame
+-> 10 Heat Conductor
+6 Crafting Frame
+-> 4 Basic Processor
+-> 4 Machine Casing
+-> 1 Silicon
+1 Heat Conductor
+-> 4 Crafting Frame
+-> 4 Quartz Enriched Iron Ingot
+-> 1 Silicon
+1 Crafting CPU
+-> 4 Crafting Frame
+-> 2 Advanced Processor
+-> 2 Speed Upgrade
+-> 1 Crafting Table
+1 Crafting Storage
+-> 1 Chest
+-> 4 Crafting Frame
+-> 1 Advanced Processor
+-> 3 1k Storage Part
+1 1k Storage Part
+-> 4 Silicon
+-> 1 Quartz Enriched Iron Ingot
+-> 3 Glass
+-> 1 Redstone
+1 Speed Upgrade
+-> 5 Quartz Enriched Iron Ingot
+-> 3 Sugar
+-> 1 Upgrade
+1 Upgrade
+-> 6 Quartz Enriched Iron Ingot
+-> 1 Improved Processor
+-> 2 Glass
+1 Chest
+-> 8 Wood Plank
+1 Glass
+# Furnace
+-> 1 Sand
+4 Clay Blob
+-> 1 Clay Block
+1 Silicon
+# Manufactory
+-> 1 Sand

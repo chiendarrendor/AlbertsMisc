@@ -1,0 +1,6 @@
+-- !help -- shows this help
+-- !copyright -- shows Crowdsource Tarot copyright
+-- !link -- detailed information about all cards in the deck
+-- !reading <question>  -- does a 3-card reading
+-- !reading <number> <question> -- does a reading with the specified number of cards
+

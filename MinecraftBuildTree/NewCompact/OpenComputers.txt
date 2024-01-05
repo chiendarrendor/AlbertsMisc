@@ -1,0 +1,190 @@
+1 One-Time Build
+-> 1 Disk Drive
+-> 1 Floppy Disk
+-> 1 Floppy Disk (OpenOS)
+1 Basic Tier 1 Computer
+# world
+-> 1 Computer Case (Tier 1)
+-> 1 Screen (Tier 1)
+-> 1 Keyboard
+-> 1 CPU (Tier 1)
+-> 2 Memory (Tier 1)
+-> 1 Hard Disk Drive (Tier 1)
+-> 1 Graphics Card (Tier 1)
+-> 1 EEPROM (Lua BIOS)
+1 Computer Case (Tier 1)
+-> 4 Iron Ingot
+-> 2 Iron Bars
+-> 1 Chest
+-> 1 Microchip (Tier 1)
+-> 1 PCB
+16 Iron Bars
+-> 6 Iron Ingot
+8 Microchip (Tier 1)
+-> 6 Iron Nugget
+-> 2 Redstone
+-> 1 Transistor
+8 Transistor
+-> 3 Iron Ingot
+-> 2 Gold Nugget
+-> 1 Redstone
+-> 1 Paper
+9 Iron Nugget
+-> 1 Iron Ingot
+9 Gold Nugget
+-> 1 Gold Ingot
+1 PCB
+# Furnace
+-> 1 Raw Circuit Board
+8 Raw Circuit Board
+-> 1 Gold Ingot
+-> 1 Clay Block
+-> 1 Cactus Green
+1 Screen (Tier 1)
+-> 4 Iron Ingot
+-> 3 Redstone
+-> 1 Microchip (Tier 1)
+-> 1 Glass Block
+1 Keyboard
+-> 4 Button Group
+-> 1 Arrow Keys
+-> 1 Numeric Keypad
+1 Button Group
+-> 6 Button
+1 Arrow Keys
+-> 4 Button
+1 Numeric Keypad
+-> 9 Button
+1 Button
+-> 1 Stone
+1 CPU (Tier 1)
+-> 4 Iron Nugget
+-> 1 Redstone
+-> 2 Microchip (Tier 1)
+-> 1 Control Unit
+-> 1 Arithmetic Logic Unit
+1 Control Unit
+-> 4 Gold Nugget
+-> 1 Redstone
+-> 3 Transistor
+-> 1 Clock
+1 Clock
+-> 4 Gold Ingot
+-> 1 Redstone
+1 Arithmetic Logic Unit
+-> 4 Iron Nugget
+-> 1 Redstone
+-> 3 Transistor
+-> 1 Microchip (Tier 1)
+1 Memory (Tier 1)
+-> 2 Microchip (Tier 1)
+-> 1 Iron Nugget
+-> 1 PCB
+1 Hard Disk Drive (Tier 1)
+-> 2 Microchip (Tier 1)
+-> 1 PCB
+-> 3 Disk Platter
+-> 2 Iron Ingot
+-> 1 Piston
+1 Piston
+-> 3 Wood Planks
+-> 4 Cobblestone
+-> 1 Iron Ingot
+-> 1 Redstone
+1 Disk Platter
+-> 4 Iron Nugget
+1 Graphics Card (Tier 1)
+-> 1 Microchip (Tier 1)
+-> 1 Arithmetic Logic Unit
+-> 1 Memory (Tier 1)
+-> 1 Card Base
+1 Card Base
+-> 3 Iron Nugget
+-> 1 Gold Nugget
+-> 1 PCB
+1 Disk Drive
+-> 4 Iron Ingot
+-> 1 Microchip (Tier 1)
+-> 1 Piston
+-> 1 Stick
+-> 1 PCB
+1 Floppy Disk
+-> 4 Iron Nugget
+-> 3 Paper
+-> 1 Disk Platter
+-> 1 Lever
+1 Lever
+-> 1 Stick
+-> 1 Cobblestone
+1 Stone
+# Furnace
+-> 1 Cobblestone
+1 Chest
+-> 8 Wood Planks
+1 Floppy Disk (OpenOS)
+-> 1 Floppy Disk
+-> 1 OpenComputers Manual
+1 OpenComputers Manual
+-> 1 Book
+-> 1 Microchip (Tier 1)
+1 EEPROM
+-> 4 Gold Nugget
+-> 1 Transistor
+-> 2 Paper
+-> 1 Microchip (Tier 1)
+-> 1 Redstone Torch
+1 Redstone Torch
+-> 1 Redstone
+-> 1 Stick
+1 EEPROM (Lua BIOS)
+-> 1 EEPROM
+-> 1 OpenComputers Manual
+4 Stick
+-> 2 Wood Planks
+1 Book
+-> 3 Paper
+-> 1 Leather
+1 Tier 2 Computer
+# world
+-> 1 Computer Case (Tier 2)
+-> 1 Screen (Tier 2)
+-> 1 Keyboard
+-> 1 CPU (Tier 2)
+-> 2 Memory (Tier 2)
+-> 1 Hard Disk Drive (Tier 1)
+-> 1 Graphics Card (Tier 2)
+-> 1 EEPROM (Lua BIOS)
+1 Computer Case (Tier 2)
+-> 4 Gold Ingot
+-> 2 Iron Bars
+-> 1 Chest
+-> 1 PCB
+-> 1 Microchip (Tier 2)
+4 Microchip (Tier 2)
+-> 6 Gold Nugget
+-> 2 Redstone
+-> 1 Transistor
+1 Screen (Tier 2)
+-> 4 Gold Ingot
+-> 1 Glass Block
+-> 1 Microchip (Tier 2)
+-> 1 Cactus Green
+-> 1 Lapis Lazuli
+-> 1 Rose Red
+1 CPU (Tier 2)
+-> 4 Gold Nugget
+-> 1 Redstone
+-> 2 Microchip (Tier 2)
+-> 1 Control Unit
+-> 1 Arithmetic Logic Unit
+1 Memory (Tier 2)
+-> 2 Microchip (Tier 2)
+-> 1 Iron Nugget
+-> 1 PCB
+1 Graphics Card (Tier 2)
+-> 1 Microchip (Tier 2)
+-> 1 Arithmetic Logic Unit
+-> 1 Memory (Tier 2)
+-> 1 Card Base
+
+

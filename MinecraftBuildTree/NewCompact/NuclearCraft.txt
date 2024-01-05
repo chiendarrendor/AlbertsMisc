@@ -1,0 +1,53 @@
+1 First Fission Reactor
+-> 1 Fission Controller
+-> 8 Fission Reactor Casing
+-> 2 Transparent Fission Reactor Casing
+-> 1 Reactor Cell
+-> 1 Empty Cooler
+1 Fission Controller
+-> 4 Advanced Plating
+-> 2 Magnesium Diboride Solenoid
+-> 2 Nuclear Furnace
+-> 1 Machine Chassis
+4 Fission Reactor Casing
+-> 4 Basic Plating
+-> 1 Tough Alloy Ingot
+1 Transparent Fission Reactor Casing
+-> 1 Fission Reactor Casing
+-> 1 Glass
+1 Reactor Cell
+-> 4 Tough Alloy Ingot
+-> 4 Glass
+2 Empty Cooler
+-> 4 Tough Alloy Ingot
+-> 4 Steel Ingot
+1 Advanced Plating
+-> 4 Redstone
+-> 4 Tough Alloy Ingot
+-> 1 Basic Plating
+2 Basic Plating
+-> 2 Lead Ingot
+-> 2 Graphite Dust
+1 Machine Chassis
+-> 4 Steel Ingot
+-> 4 Lead Ingot
+-> 1 Tough Alloy Ingot
+2 Tough Alloy Ingot
+# Alloy Furnace
+-> 1 Ferroboron Alloy Ingot
+-> 1 Lithium Dust
+2 Ferroboron Alloy Ingot
+# Alloy Furnace
+-> 1 Steel Ingot
+-> 1 Boron Dust
+2 Magnesium Diboride Solenoid
+-> 2 Tough Alloy Ingot
+-> 4 Magnesium Diboride Alloy Ingot
+3 Magnesium Diboride Alloy Ingot
+# Alloy Furnace
+-> 1 Magnesium Dust
+-> 2 Boron Dust
+1 Nuclear Furnace
+-> 4 Basic Plating
+-> 4 Tough Alloy Ingot
+-> 1 Furnace

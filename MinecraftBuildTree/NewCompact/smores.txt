@@ -1,0 +1,70 @@
+1 Smores Set
+-> 100 FourS'more QuadS'mingot
+1 FourS'more QuadS'mingot
+-> 2 MoreS'more DoubleS'mingot
+-> 1 Marshmallow
+-> 1 Milk Chocolate
+1 MoreS'more DoubleS'mingot
+-> 2 S'more S'mingot
+-> 1 Marshmallow
+-> 1 Milk Chocolate
+1 S'more S'mingot
+-> 2 Graham Cracker
+-> 1 Marshmallow
+-> 1 Milk Chocolate
+1 Graham Cracker
+# Pressurizer
+-> 2 Flour
+1 Flour
+# Manufactory
+-> 1 Wheat
+1 Milk Chocolate
+# Ingot Former
+-> 144 Molten Milk Chocolate
+288 Molten Milk Chocolate
+# Salt Mixer
+-> 250 Milk
+-> 144 Molten Dark Chocolate
+144 Molten Dark Chocolate
+# Salt Mixer
+-> 72 Molten Sugar
+-> 144 Molten Unsweetened Chocolate
+288 Molten Unsweetened Chocolate
+# Salt Mixer
+-> 144 Cocoa Butter
+-> 144 Chocolate Liquor
+144 Chocolate Liquor
+# Melter
+-> 1 Ground Cocoa Nibs
+1 Ground Cocoa Nibs
+# Manufactory
+-> 1 Roasted Cocoa Beans
+1 Roasted Cocoa Beans
+# Furnace
+-> 1 Cocoa Beans
+144 Cocoa Butter
+# Fluid Extractor
+-> 1 Ground Cocoa Nibs
+144 Molten Sugar
+# Melter
+-> 1 Sugar
+4 Sugar
+# Mechanical Squeezer
+-> 1 Sugar Cane
+1 Marshmallow
+# Ingot Former
+-> 144 Liquid Marshmallow
+144 Liquid Marshmallow
+# Salt Mixer
+-> 144 Hydrated Gelatin
+-> 72 Molten Sugar
+144 Hydrated Gelatin
+# Salt Mixer
+-> 500 Water
+-> 144 Molten Gelatin
+144 Molten Gelatin
+# Melter
+-> 1 Gelatin
+8 Gelatin
+# Manufactory
+-> 1 Raw Porkchop

@@ -1,0 +1,41 @@
+1 Desh Pickaxe
+-> 3 Desh Ingot
+-> 2 Stick
+1 Desh Ingot
+# Furnace
+-> 1 Unrefined Desh
+1 Unrefined Desh
+# Alloy Furnace
+-> 1 Cubic Boron Nitride
+-> 2 HOP Graphite Dust
+1 Cubic Boron Nitride
+# Pressurizer
+-> 1 Hexagonal Boron Nitride
+1 Hexagonal Boron Nitride
+# Crystallizer
+-> 666 Boron Nitride Solution
+666 Boron Nitride Solution
+# Chemical Reactor (+2000 Water)
+-> 1000 Boric Acid
+-> 1000 Ammonia
+2000 Ammonia
+# Chemical Reactor
+-> 1000 Nitrogen Gas
+-> 3000 Hydrogen Gas
+1000 Boric Acid
+# Chemical Reactor (+3000 Hydrogen Gas)
+-> 500 Diborane
+-> 3000 Water
+1000 Diborane
+# Chemical Reactor
+-> 3000 Hydrogen Gas
+-> 144 Molten Boron
+144 Molten Boron
+# Melter
+-> 1 Boron Dust
+2000 Nitrogen Gas
+# Nitrogen Collector
+-> 0 Air
+950 Hydrogen Gas
+# Electrolyzer
+-> 1000 Water

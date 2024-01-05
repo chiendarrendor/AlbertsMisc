@@ -1,0 +1,604 @@
+{
+  "cards":[
+    {
+      "reversed": "You provide abundantly for others.",
+      "upright": "You are blessed - that which you most fundamentally need is being offered to you.",
+      "desc": "An Indian woman stands behind a steaming pot of rice -- steaming so much that it nearly obscures her. She holds out a bowl of rice, her hand piercing the steam.",
+      "type": "Foods",
+      "name": "Rice (Alpha of Foods)"
+    },
+    {
+      "reversed": "The offer is purely commercial. Enjoy yourself as you think best, but guard your diet, your wallet and your heart.",
+      "upright": "You will soon receive an excellent offer.",
+      "desc": "A pretty waitress presents a halved avocado in both hands, her position hinting at other pleasures.",
+      "type": "Foods",
+      "name": "Avocado"
+    },
+    {
+      "reversed": "You are making the fundamental error of thinking what is best for you is really best for everyone.",
+      "upright": "That which you are happily anticipating is about to be delivered to you.",
+      "desc": "Two perfect strips of bacon sizzle in a cast iron pan. Mmm...bacon.",
+      "type": "Foods",
+      "name": "Bacon"
+    },
+    {
+      "reversed": "The esoteric and exoteric are inextricably combined.",
+      "upright": "You have the power that comes from being skilled. Your cuisine reigns supreme.",
+      "desc": "A cheerful chef, his white toque adorned by mystical symbols, its top flopped into a lemniscate outline, stands at a counter with a measuring cup, a chef's knife, and a plate on it. He holds a whisk triumphantly skyward in one hand.",
+      "type": "Foods",
+      "name": "Chef"
+    },
+    {
+      "reversed": "Beware of pride; it will not serve you well.",
+      "upright": "You may need to take your sustenance where you can find it, even if it is distasteful to you or others.",
+      "desc": "An emaciated lion wearing a jacket and tie considers a dead crow in the middle of the road.",
+      "type": "Foods",
+      "name": "Crow"
+    },
+    {
+      "reversed": "That which is useless to you may still be useful to another. Pass on what you do not need. Check your privilege.",
+      "upright": "There is a lot more to glean from your current situation than you think, if you will take the time to look.",
+      "desc": "A shabbily dressed man rummages through a dumpster behind a fancy restaurant. He has already collected a large bag of salvageable food.",
+      "type": "Foods",
+      "name": "Dumpster"
+    },
+    {
+      "reversed": "Look, don't touch, for now. Don't get burnt by jumping in too fast.",
+      "upright": "Someone is trying to impress you. Enjoy the show, but realize that the thing you really want lies underneath.",
+      "desc": "A waiter in a tuxedo presents a wide-eyed catgirl with a flaming rainbow-scaled fish on a platter, surrounded by parsley.",
+      "type": "Foods",
+      "name": "Flambe"
+    },
+    {
+      "reversed": "Do not delay. A good offer now will lose value the longer you let it sit.",
+      "upright": "Give yourself permission to take pure pleasure out of the good things that come to you.",
+      "desc": "A soda jerk cheerfully puts the cherry on the top of a giant ice-cream sundae dripping with hot fudge, and offers it to the viewer.",
+      "type": "Foods",
+      "name": "Ice cream"
+    },
+    {
+      "reversed": "You cannot stop others from making their own mistakes.",
+      "upright": "You can likely get the thing you think you want, but it will be disappointing once you actually have it.",
+      "desc": "On a crowded city street, a vendor sells dry-looking pretzels from a cart. A teenaged boy looks dubiously at his girlfriend as she buys herself one.",
+      "type": "Foods",
+      "name": "Pretzel"
+    },
+    {
+      "reversed": "Seek out companions who understand you.",
+      "upright": "Seek out companions and surroundings which inspire you.",
+      "desc": "Athena and Albert Einstein are chatting in a tea shop. An oriental-style black dragon refills their cups.",
+      "type": "Foods",
+      "name": "Tea"
+    },
+    {
+      "reversed": "You feel owned by your stuff rather than the other way around.",
+      "upright": "The essentials of life may not be fancy, but they are fresh and abundant.",
+      "desc": "A tired person in wizard's robes leans on a hoe in the middle of a zucchini patch. Glorious green zucchinis and brilliant yellow blossoms surround him.",
+      "type": "Foods",
+      "name": "Zucchini"
+    },
+    {
+      "reversed": "You focus too tightly on things of interest to very few people.",
+      "upright": "You are connected to something very ancient.",
+      "desc": "A coelacanth swims serenely in a beautiful blue-green sea.",
+      "type": "Beasts",
+      "name": "Coelacanth (Alpha of Beasts)"
+    },
+    {
+      "reversed": "The way you are dealing with what matters to you is becoming annoying to everyone else.",
+      "upright": "You should be ready to make noise in order to make sure your needs get met.",
+      "desc": "A tomcat sits on a fence under a full moon, yowling.",
+      "type": "Beasts",
+      "name": "Cat"
+    },
+    {
+      "reversed": "You've been here before. You'll be here again. But you cannot stop doing what your nature tells you to do.",
+      "upright": "You retain your optimism even though a positive outcome is unlikely.",
+      "desc": "Wile E. Coyote sits at the edge of a cliff, trying to put together a complicated contraption out of pieces he removes from a giant box from the ACME Corporation.",
+      "type": "Beasts",
+      "name": "Coyote"
+    },
+    {
+      "reversed": "Shut out the universe and rest, even if someone is stepping on your head.",
+      "upright": "Enjoy what excites you!",
+      "desc": "A pure white ferret scampers and dances, playing with and biting a hackey-sack, stepping on the head of a sleeping and oblivious black-and-white ferret curled into a donut.",
+      "type": "Beasts",
+      "name": "Ferret"
+    },
+    {
+      "reversed": "Don't waste all your energy on an unimportant, lost cause.",
+      "upright": "The things you create are for the people who can appreciate them. Fuck the mainstream.",
+      "desc": "A wide screen television shows the spaceship Serenity floating placidly through space, its tail section lit brightly. A group of fen stare in rapt attention.",
+      "type": "Beasts",
+      "name": "Firefly"
+    },
+    {
+      "reversed": "Sometimes, the most unlikely things can end up biting you in the ass.",
+      "upright": "An orientation toward fear and defensiveness creates problems that did not previously exist.",
+      "desc": "A gazebo stands unused in an open field, bedecked with flowers. A group of adventurers eye it warily, weapons drawn.",
+      "type": "Beasts",
+      "name": "Gazebo"
+    },
+    {
+      "reversed": "Run. Now.",
+      "upright": "It's time to act decisively.",
+      "desc": "A spotted hyena takes down a zebra, crushing its bones with powerful jaws.",
+      "type": "Beasts",
+      "name": "Hyena"
+    },
+    {
+      "reversed": "You have been holding your anger and depression for so long that it is nearly impossible for anyone to get through to you.",
+      "upright": "You will be able to put this problem aside until you are ready to deal with it.",
+      "desc": "A bull-man paces a circle in the middle of of a stone labyrinth. He has worn a track into the ground.",
+      "type": "Beasts",
+      "name": "Minotaur"
+    },
+    {
+      "reversed": "You may not be ready for the next thing, but it's coming anyway.",
+      "upright": "Dawn is coming. The night and its terrors flee before the light. You can have a fresh start.",
+      "desc": "A rooster crows a welcome to the new dawn from the top of a fence, his tail and comb brilliant with firey colors. Goblins and tiny gnarled monsters flee into the shadows.",
+      "type": "Beasts",
+      "name": "Rooster"
+    },
+    {
+      "reversed": "You are about to get fleeced.",
+      "upright": "Take what you will, so long as it can be spared.",
+      "desc": "Seven sheep, their fleece the colors of the rainbow, wait in a line in front of a farmer holding shears.",
+      "type": "Beasts",
+      "name": "Shear"
+    },
+    {
+      "reversed": "Someone is deceiving you.",
+      "upright": "Your methods are unquestionably effective, but perhaps ungracious.",
+      "desc": "A walrus walks along the beach with a collection of oysters, chatting amicably. A carpenter trails behind, with a slice of bread spread thick with butter.",
+      "type": "Beasts",
+      "name": "Walrus"
+    },
+    {
+      "reversed": "You are letting the coarser parts of your nature get the better of you.",
+      "upright": "Honor the bestial and raw within your nature. Do not disdain parts of who you are.",
+      "desc": "A lycanthrope changes form under a full moon.",
+      "type": "Beasts",
+      "name": "Wolf"
+    },
+    {
+      "reversed": "Don't ask a question if you don't want to know the answer.",
+      "upright": "Your future terrifies you more than you are willing to admit.",
+      "desc": "A withered old woman with white hair and a wandering eye offers to lay cards for the viewer.",
+      "type": "Callings",
+      "name": "Beldam (Alpha of Callings)"
+    },
+    {
+      "reversed": "You should seek counsel or expert help.",
+      "upright": "You serve a specific and valued role in your community.",
+      "desc": "This card is divided along the diagonal. In the upper half, a shaman speaks with guides in the spirit world. In the lower half, he sits in trance while the family of a sick man looks on worriedly.",
+      "type": "Callings",
+      "name": "Edgewalker"
+    },
+    {
+      "reversed": "You do not need to take on everyone else's troubles. Don't forget to ground.",
+      "upright": "Your ability to understand others is more valued by those whom you help than they can directly express while they are still in pain.",
+      "desc": "An exhausted-looking woman sitting at her desk at a rape crisis center dabs at her eyes with a tissue as she speaks on the phone.",
+      "type": "Callings",
+      "name": "Empath"
+    },
+    {
+      "reversed": "You are underestimating the complexity of the situation.",
+      "upright": "Make a good plan, but don't be a slave to it.",
+      "desc": "A woman sits with her left hand on a keyboard, her monitor full of pictures of bridges and gears. The pictures spill off the screen into reality; with her right hand, she is using a wrench on a nut in the real half.",
+      "type": "Callings",
+      "name": "Engineer"
+    },
+    {
+      "reversed": "The people who are advising caution aren't trying to spoil your fun. They care for you, and they're pretty smart.",
+      "upright": "Full of joy, flying free, in the moment, you are at the top of your game. Having this experience is worth it, no matter what happens later on.",
+      "desc": "Icarus soars through the sky on a pair of wax wings, his face shining in ecstasy. The sun is visible, but still far away.",
+      "type": "Callings",
+      "name": "Flight"
+    },
+    {
+      "reversed": "Infighting in community about petty details can make us lose track of how much we have in common.",
+      "upright": "Rely on your chosen family for peace, safety, and refuge from the trials of the world.",
+      "desc": "A thriving community of people share a potluck dinner. Children are playing happily nearby, and two friends are hugging.",
+      "type": "Callings",
+      "name": "Frith"
+    },
+    {
+      "reversed": "Your carelessness is your greatest liability.",
+      "upright": "You are trying to do too much at once, or something more ambitious than your skills allow.",
+      "desc": "A harlequin is trying to juggle mystical symbols: a pentacle, an ankh, a crescent moon, a wand. Most of them lie scattered around his feet. He is reaching for one that is outside his grasp, and about to trip on the pentacle.",
+      "type": "Callings",
+      "name": "Klutz"
+    },
+    {
+      "reversed": "There is no shame in using the best tools you have.",
+      "upright": "You don't think you can do this, but you can.",
+      "desc": "Two anime-style mecha duel with overly-adorned swords and energy blasts in front of a pagoda. The one that is facing the viewer has an open cockpit; a terrified androgynous Asian youth is piloting it.",
+      "type": "Callings",
+      "name": "Mecha"
+    },
+    {
+      "reversed": "Do what you need to do, but don't get caught.",
+      "upright": "The reasons for what is happening elude you, but the results are clear.",
+      "desc": "A cruel-looking crowned man lies sprawled on a throne, dying with a sai piercing his throat. Two courtiers look around in shock, but they do not see the black-garbed figure flattened against the ceiling.",
+      "type": "Callings",
+      "name": "Ninja"
+    },
+    {
+      "reversed": "This situation is bad, but you are overreacting, making others respond to your drama as much as to the actual problem.",
+      "upright": "You should focus on taking care of the people who depend on you.",
+      "desc": "A knight in silver armor with a red ankh on the chest, a shield in one hand, and a steaming teapot in the other stands protectively in front of a hysterically screaming person, guarding her from zombies.",
+      "type": "Callings",
+      "name": "Paladin"
+    },
+    {
+      "reversed": "If you want to win the game, you're going to have to play by the rules, even the ridiculous ones.",
+      "upright": "You know you have the skills. The goal is to make sure *they* know you have the skills.",
+      "desc": "A woman in a well-designed business suit and heels checks her hair and lipstick in the office bathroom mirror.",
+      "type": "Callings",
+      "name": "Professional"
+    },
+    {
+      "reversed": "You're not imagining it. What's going on really doesn't make any sense.",
+      "upright": "Go ahead. Give in to your whimsy.",
+      "desc": "A long string of digits streams across the face of the card, against a background of paint splotches.",
+      "type": "Callings",
+      "name": "Random"
+    },
+    {
+      "reversed": "People do not appreciate it when you destroy what they care about just to make a point.",
+      "upright": "The filters you use to see the world help you to make choices, but limit your understanding of the truth.",
+      "desc": "An androgynous young person trails behind an industrious brick layer, surreptitiously taking down the wall and making the bricks into statues instead.",
+      "type": "Callings",
+      "name": "Twilightworker"
+    },
+    {
+      "reversed": "You are becoming burnt out.",
+      "upright": "Your ideas are really good. Go for it!",
+      "desc": "A large, clear lightbulb, filament glowing, is surrounded by blindingly bright light. Inside it, two flies are screwing.",
+      "type": "Devices",
+      "name": "Lightbulb (Alpha of Devices)"
+    },
+    {
+      "reversed": "It might be time to use some of the things you've been holding on to.",
+      "upright": "You should begin collecting the things you will need later.",
+      "desc": "Benjamin Franklin contemplates a Leyden jar being held to him by a hand emerging from a cloud.",
+      "type": "Devices",
+      "name": "Accumulator"
+    },
+    {
+      "upright": "Look inside. Something that disturbs you in others is actually an unacknowledged aspect of yourself.",
+      "desc": "A robotic dog startles itself by looking at its own reflection in a mirror.",
+      "type": "Devices",
+      "name": "Aibohphobia"
+    },
+    {
+      "reversed": "Don't believe everything you read.",
+      "upright": "Do your research so you can make a well thought out decision.",
+      "desc": "A student sits reading one of a stack of books in a carrel at the university library, taking notes.",
+      "type": "Devices",
+      "name": "Books"
+    },
+    {
+      "reversed": "You need to build bridges.",
+      "upright": "You can be flexible, yet strong.",
+      "desc": "A gleaming suspension bridge reaches across a wild river to a castle with shining turrets; a knight and a squire are riding over it.",
+      "type": "Devices",
+      "name": "Cable"
+    },
+    {
+      "reversed": "You are constrained by influences beyond your control.",
+      "upright": "The rules under which you are working give comforting definition and boundaries to your endeavors.",
+      "desc": "A woman holds her breath as her companion laces her into a brocade corset, her waist made impossibly thin.",
+      "type": "Devices",
+      "name": "Corset"
+    },
+    {
+      "reversed": "Do not try to recreate yourself to meet the standards of others.",
+      "upright": "Present yourself in the way in which you want to be seen.",
+      "desc": "An impossibly tall, thin woman wearing a featureless mask struts down a runway in a frilly lingerie ensemble, while camera flashes illuminate her.",
+      "type": "Devices",
+      "name": "Fashion"
+    },
+    {
+      "reversed": "It is easy to get tangled up in distractions, so you should focus tightly on what is important to you.",
+      "upright": "Cast your net wide: if you ask the right person, you will find what you seek.",
+      "desc": "A fisher in a flying boat casts a net forth, trying to catch from a school of flying laptop computers. Mystical symbols show on their screens.",
+      "type": "Devices",
+      "name": "Network"
+    },
+    {
+      "reversed": "The outcome you are expecting may not actually be worth the time and energy you are putting into it.",
+      "upright": "Have patience. The resources you need are available, though the process of getting them is frustrating.",
+      "desc": "A long line of cars snakes around the block outside a gas station, waiting to fill up. The posted price is ridiculously high.",
+      "type": "Devices",
+      "name": "Petrol"
+    },
+    {
+      "reversed": "The current project is about to come to an end. You will have to find something new to engage you.",
+      "upright": "Everything is about to fall into place the way it should.",
+      "desc": "A child places the last piece into a jigsaw puzzle, on which is depicted the classic Rider-Waite image of the World.",
+      "type": "Devices",
+      "name": "Puzzle"
+    },
+    {
+      "reversed": "She is rerolling the scroll: that which you thought was obvious is not, and may not even be true.",
+      "upright": "She is unrolling the scroll: that which was secret will soon be revealed.",
+      "desc": "A robed woman is seated between a black and a white column. Her hands are busy with a half-rolled scroll on which the letters TARO can be seen.",
+      "type": "Devices",
+      "name": "Scroll"
+    },
+    {
+      "reversed": "When it rains, it pours.",
+      "upright": "Be prepared to take on opportunities that are likely to present themselves.",
+      "desc": "As a storm approaches, a street vendor selling incense and water pipes switches over to selling umbrellas.",
+      "type": "Devices",
+      "name": "Umbrella"
+    },
+    {
+      "reversed": "The most important thing is tiny and fragile; you must nurture and protect it.",
+      "upright": "Something wonderful is about to begin!",
+      "desc": "A tiny iridescent dragon hatches from a mottled green egg.",
+      "type": "States",
+      "name": "Emergence (Alpha of States)"
+    },
+    {
+      "reversed": "You got what you wanted. The hard part will be keeping it.",
+      "upright": "Time is of the essence. Act now.",
+      "desc": "A roguish young woman holding a glittering chain that she has just snatched flees from a corpulent, richly-dressed near-human merchant and his gnarled sidekick.",
+      "type": "States",
+      "name": "Alacrity"
+    },
+    {
+      "reversed": "Don't make promises you are not absolutely sure you will be able to keep.",
+      "upright": "You can do it, and you know it. Hold your head high and be awesome.",
+      "desc": "A representative for a drug company strides into a doctor's office, samples and literature in hand. He does not stop at the receptionist.",
+      "type": "States",
+      "name": "Confidence"
+    },
+    {
+      "reversed": "Connections between very different kinds of people can be inherently limited. Accept and enjoy them for the valuable things they are, but do not require them to be everything.",
+      "upright": "You will make a wonderful connection.",
+      "desc": "An anime catgirl and a space-suited seven-limbed alien are floating in a void, with stars and spiky spaceships in the background. They touch muzzles in a surprising moment of concord.",
+      "type": "States",
+      "name": "Connection"
+    },
+    {
+      "reversed": "Ignoring your problems will not make them go away.",
+      "upright": "There are some uncomfortable truths you need to face before you can move forward.",
+      "desc": "An ostrich hides its head in the sand of its backyard, while bill collectors knock at its front door.",
+      "type": "States",
+      "name": "Denial"
+    },
+    {
+      "reversed": "Your weaknesses render you vulnerable to simple attacks; a direct conflict will be disastrous.",
+      "upright": "A surprising, and suprisingly mundane, means will solve your problem.",
+      "desc": "A hideous and wicked green-skinned hag holding a broom is melting into a puddle. A girl with a bucket in her hand watches, alarmed.",
+      "type": "States",
+      "name": "Disintegration"
+    },
+    {
+      "reversed": "You need to begin the work of refilling yourself.",
+      "upright": "You are acutely lacking something that you feel you need.",
+      "desc": "The Tin Woodman is sitting alone in the forest, poking his fingers into a ragged hole in his chest.",
+      "type": "States",
+      "name": "Emptiness"
+    },
+    {
+      "reversed": "Resistance is difficult. You may find yourself more assimilated than you like.",
+      "upright": "The whole is more than the sum of the parts.",
+      "desc": "An uncannily perfect and modern mother in an uncannily perfect and modern home smiles an uncannily perfect and modern smile as she clicks a cable into a socket at the base of her disheveled son's head.",
+      "type": "States",
+      "name": "Integration"
+    },
+    {
+      "reversed": "You have no obligation to get over your sorrows right away, even if your grief makes others uncomfortable.",
+      "upright": "It is lost; it is gone; it is over.",
+      "desc": "Inside a quiet stone church, a woman dressed in black covers her face with her hands and weeps over the coffin of her beloved.",
+      "type": "States",
+      "name": "Loss"
+    },
+    {
+      "reversed": "You continue to collect more information in lieu of making an actual decision.",
+      "upright": "So many things are open to you that you don't know what to do next. But all the options will be fine.",
+      "desc": "A man in filthy clothes stands immobile in front of a supermarket shelf filled with many brands of laundry detergent, looking dazed and stressed. His cart is empty.",
+      "type": "States",
+      "name": "Overload"
+    },
+    {
+      "reversed": "New things always look better, but may not stand the test of time.",
+      "upright": "People are really interested in what you have to offer right now.",
+      "desc": "A gleaming robotic musician steps onto a stage under brilliant lights, fingers ready to pluck a musical instrument that is part of its body.",
+      "type": "States",
+      "name": "Shiny"
+    },
+    {
+      "reversed": "Enjoy the beauty of your surroundings.",
+      "upright": "Go ahead and show off. If you've got it, flaunt it.",
+      "desc": "In a perfect rose garden, a peacock spreads its tail to the fullest, the feathers shining under the noonday sun.",
+      "type": "States",
+      "name": "Splendor"
+    },
+    {
+      "reversed": "The only way to win is not to play.",
+      "upright": "Your choices up to this point have backed you into a corner.",
+      "desc": "An anthropomorphic white chess king is standing on the edge of a cliff. Behind him, the black queen stands with an axe; in the pit, the knights stand with pikes raised; in the tower above him, the bishops aim bows.",
+      "type": "States",
+      "name": "Zugzwang"
+    },
+    {
+      "reversed": "The responsibilities you are taking on are yours to keep, like it or not.",
+      "upright": "Congratulations! Your projects are ready to manifest in the world. But this is only the beginning of something bigger.",
+      "desc": "A woman, assisted by a doula and surrounded by family and friends, pushes her baby out.",
+      "type": "Manifestations",
+      "name": "Birth (Alpha of Manifestations)"
+    },
+    {
+      "reversed": "Apparently, you need the universe to hit you with a clue-by-four. Try to pay attention this time.",
+      "upright": "The people who really ought to help you don't seem to want to do so.",
+      "desc": "An elderly professor is about to be hit by an apple falling from the tree under which he sits reading. Nearby, a group of students tries not to laugh.",
+      "type": "Manifestations",
+      "name": "Gravity"
+    },
+    {
+      "reversed": "What you have prepared for will be awesome but short-lived.",
+      "upright": "Everything is in place. Just a little more action will transform the current situation into something huge.",
+      "desc": "Under the stars on the playa, frenetic nude dancers surround a grinning bearded man as he prepares to light a giant wooden human effigy.",
+      "type": "Manifestations",
+      "name": "Spark"
+    },
+    {
+      "reversed": "You are caught in a situation from which it may be impossible to extricate yourself.",
+      "upright": "You have the ability to make things that are both beautiful and effective, though it takes most of your energy.",
+      "desc": "A large black spider checks her web to find a tiny fairy caught in it.",
+      "type": "Manifestations",
+      "name": "Spiderweb"
+    },
+    {
+      "reversed": "You have grown to rely on the help of others so much that you may no longer be able to be self-sufficient.",
+      "upright": "Your relationships allow you to do many things it would be impossible to do alone.",
+      "desc": "A crocodile opens its mouth wide while a tiny yellow plover picks its dinner out from between the crocodile's sharp teeth.",
+      "type": "Manifestations",
+      "name": "Symbiosis"
+    },
+    {
+      "reversed": "You are making things more complicated than they need to be.",
+      "upright": "The results of proceeding will be worth the trouble, but there will be trouble.",
+      "desc": "Brilliant red raspberries gleam from deep within a knotty tangle of bushes and vines. A butterfly sits on one berry.",
+      "type": "Manifestations",
+      "name": "Tangles"
+    },
+    {
+      "reversed": "You are prickly and defensive, but your defenses are not actually helping you.",
+      "upright": "You are safe.",
+      "desc": "A small craggy island rests in the middle of a fierce lake, and, on its highest crag blooms a beautiful purple thistle, being visited by a bee. The lake is in full battle: a steamboat full of morningstar-armed gnomes fighting trident-wielding nereids.",
+      "type": "Manifestations",
+      "name": "Thistle"
+    },
+    {
+      "reversed": "This trouble is much needed, and you will laugh about it later.",
+      "upright": "Solving your current problems hastily will bring still worse ones.",
+      "desc": "A meadow has been parched lately, for the flowers and grass are wilting, but now the rain and lightning of a sudden thunderstorm are falling towards it. A couple are racing from their picnic blanket for the shelter of an elm tree, but the storm's lightning is also reaching for the elm.",
+      "type": "Manifestations",
+      "name": "Thunderstorm"
+    },
+    {
+      "reversed": "Demand your personal space when you need it.",
+      "upright": "Don't forget to satisfy your senses. Walk barefoot in the grass. Give hugs.",
+      "desc": "A toddler gleefully sits in his mama's lap and squishes play dough between his fingers.",
+      "type": "Manifestations",
+      "name": "Touch"
+    },
+    {
+      "reversed": "You are making things worse for others without actually making them any better for yourself.",
+      "upright": "You are putting too much trust in a single thing.",
+      "desc": "A miserable cyclops is surrounded by his flocks. He is patting the ground, desperately seeking his lost contact lens. In the corner of the picture, a stealthy Greek sailor is sneaking off, carrying a one-chambered contact lens case.",
+      "type": "Manifestations",
+      "name": "The Unfindable"
+    },
+    {
+      "reversed": "You are forgetting something important.",
+      "upright": "Something big has changed in a way which you have not yet noticed.",
+      "desc": "A crowded city scene, with people of several species enjoying themselves in cafes and bookstores. A jagged shape taking about a quarter of the center of the card is erased and blank.",
+      "type": "Manifestations",
+      "name": "The Void"
+    },
+    {
+      "reversed": "An unexpected opportunity is about to change all of your plans.",
+      "upright": "Critical success! Things are about to go much better than you imagined.",
+      "desc": "An RPG player smirks as she rolls a 20 on a 20 sided die.",
+      "type": "Forms",
+      "name": "Icosahedron (Alpha of Forms)"
+    },
+    {
+      "reversed": "You are wasting your natural talents by being afraid to stray too far from the familiar.",
+      "upright": "You can make old things new by taking a look at them from a different angle.",
+      "desc": "The 13th Doctor and River Song share a passionate kiss. In the background, a bespectacled young woman smiles as she takes notes on a netbook.",
+      "type": "Forms",
+      "name": "Fanfiction"
+    },
+    {
+      "reversed": "The rules are arbitrary, but they are the rules. If you violate them, do so with full knowledge of the consequences.",
+      "upright": "Any infraction of the rules will be noted and penalized.",
+      "desc": "A stern teacher sits in front of a classroom of scared students taking exams. The teacher is grading a paper in red pen, harshly.",
+      "type": "Forms",
+      "name": "Grammar"
+    },
+    {
+      "reversed": "You should not try to run other people's lives for them, even if they seem to want to let you.",
+      "upright": "The new thing you are excited about is actually not that different from what you already have.",
+      "desc": "People line up out the door of the McDonald's in Pushkin Square, while a nearby shashlyk stand remains patronless.",
+      "type": "Forms",
+      "name": "Hegemony"
+    },
+    {
+      "reversed": "The people in power have noticed that you are doing things a little too differently.",
+      "upright": "You are walking the right balance between innovation and tradition.",
+      "desc": "A rabbi, a priest, and a mullah walk into a gay bar, laughing together.",
+      "type": "Forms",
+      "name": "Heterodox"
+    },
+    {
+      "reversed": "Why would you expect the same behavior to yield different results?",
+      "upright": "No surprises --your situation will unfold in exactly the way you expect.",
+      "desc": "A long line of identical androids stands waiting to be dressed by robots and packed into shipping boxes.",
+      "type": "Forms",
+      "name": "Homogenous"
+    },
+    {
+      "reversed": "You think the mundane details of your life are more important to others than they really are.",
+      "upright": "You are a trendsetter, and people like your ideas.",
+      "desc": "A college student leaves his books aside to post the results of a 'Which Star Trek character are you?' quiz to his Facebook profile.",
+      "type": "Forms",
+      "name": "Meme"
+    },
+    {
+      "reversed": "You may be an incidental casualty of the results of someone else's agenda.",
+      "upright": "The process of contemplating your problem may be more enlightening than actually seeking the answer.",
+      "desc": "A brightly colored box sits on a table while a philosopher considers it. On the floor, a litter box and a bowl of kibble lay untouched.",
+      "type": "Forms",
+      "name": "Paradox"
+    },
+    {
+      "reversed": "You need to find some way to break this loop.",
+      "upright": "Your big hard problem can be dealt with as a bunch of small easy problems. Take small steps towards solving it.",
+      "desc": "An anthropomorphic turtle holds up a card on which is depicted an anthropomorphic turtle holding up a card, on which is depicted an anthropomorphic turtle holding up a card.",
+      "type": "Forms",
+      "name": "Recursion"
+    },
+    {
+      "reversed": "Some mistakes and misfortunes are greatly to be treasured.",
+      "upright": "Pay attention and ask questions: the wondrous awaits you.",
+      "desc": "A scientist stands at a lab bench, holding up a Petri dish with a few spots of blue-green mold and a few ugly blotches cowering away from the mold. Curiosity is starting to turn to amazement on his face. A loaf of bread with spots of the same mold sits on the bench.",
+      "type": "Forms",
+      "name": "Serendipity"
+    },
+    {
+      "reversed": "The things you are relying on for support are not stable.",
+      "upright": "Things are changing. Wait and see what the new situation is before proceeding.",
+      "desc": "An earthquake shakes a small town street, toppling the people walking by. A large crack appears in the sidewalk.",
+      "type": "Forms",
+      "name": "Shift"
+    },
+    {
+      "reversed": "You just don't get it, and there's no way anyone can explain it to you any better.",
+      "upright": "Radical changes are underway, the details of which cannot even be imagined from here. The future is a mystery by its very nature.",
+      "desc": "A cyborg cockroach giggles as it plays with an old copy of Eliza on an Apple IIE.",
+      "type": "Forms",
+      "name": "Singularity"
+    },
+    {
+      "reversed": "Don't pay so much attention to deep structure that you forget to listen to what is being said.",
+      "upright": "The fundamental order of the universe is visible in all things.",
+      "desc": "A pair of neighbors lean on a fence, chatting, as their children play tag in the garden. Their utterances are diagrammed over their heads.",
+      "type": "Forms",
+      "name": "Syntax"
+    },
+    {
+      "upright": "Yes. Unquestionably. Yes.",
+      "desc": "The word 'Yes' is repeated across the field of the card in many fonts and languages.",
+      "type": "Trump",
+      "name": "Yes (Alpha of Alpha)"
+    }
+  ]
+}

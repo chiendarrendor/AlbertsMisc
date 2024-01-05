@@ -1,0 +1,29 @@
+1 Thermoelectric Generator
+-> 3 Steel Ingot
+-> 5 Constantan Plate
+-> 1 Copper Coil Block
+1 Copper Coil Block
+-> 1 Iron Ingot
+-> 8 LV Wire Coil
+4 LV Wire Coil
+-> 4 Copper Wire
+-> 1 Stick
+2 Copper Wire
+# Metal Press
+-> 1 Copper Ingot
+1 Constantan Plate
+# Metal Press
+-> 1 Constantan Ingot
+1 Constantan Ingot
+# Furnace
+-> 1 Constantan Grit
+2 Constantan Grit
+-> 1 Copper Grit
+-> 1 Nickel Grit
+1 Copper Plate
+# Metal Press
+-> 1 Copper Ingot
+1 Copper Ingot
+# Furnace
+-> 1 Copper Grit
+
