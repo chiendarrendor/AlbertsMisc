@@ -3,4 +3,7 @@
 -- !link -- detailed information about all cards in the deck
 -- !reading <question>  -- does a 3-card reading
 -- !reading <number> <question> -- does a reading with the specified number of cards
+-- !coinhelp -- shows possible responses to !coins/!shells
+-- !coins <question> -- does a 4-coin flip on a yes/no question
+-- !shells <question> -- does a 4-shell reading on a yes/no question
 
