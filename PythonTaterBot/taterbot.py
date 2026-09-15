@@ -159,6 +159,7 @@ class MyClient(discord.Client):
 
 
 intents = discord.Intents.default()
+intents.message_content = True
 logging.info('starting bot server')
 client = MyClient(intents=intents)
 client.run(bot_token)
